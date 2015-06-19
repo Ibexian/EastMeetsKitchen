@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            East Meets Kitchen
+title:            Site Title
 locale:           en_US
-url:              EastMeetsKitchen/
+url:              
 
 
 # Jekyll configuration
@@ -26,7 +26,7 @@ kramdown:
 
 # Site owner
 owner:
-  name: Christina Ng
+  name: Your Name
   avatar: bio-photo.jpg
   bio: "Describe your self."
   email: 
