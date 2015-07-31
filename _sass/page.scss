@@ -18,46 +18,45 @@ body {
 	font-family: $heading-font;
 	font-weight: 700;
 	text-transform: uppercase;
+	margin: 0 auto;
+	width: 100%;
+	padding: 1em;
+	@media #{$large} {
+		width: 80%;
+
+	}
 	@include clearfix;
 }
 
 /* Site name */
 .site-name {
-	@include grid(12,10);
-	@include prefix(12,1);
-	@include suffix(12,1);
-	margin-bottom: 1em;
+	// @include grid(12,10);
+	// @include prefix(12,1);
+	// @include suffix(12,1);
+	margin-bottom: 5px;
 	float: none;
 	display: block;
-	@include font-rem(24);
-	@media #{$small} {
-		@include grid(12,2);
-		@include prefix(12,0.5);
-		@include suffix(12,0.5);
-		@include font-rem(16);
+	width: 100%;
+	font-size: 3em;
+	@media #{$large} {
+		font-size: 5em;
 	}
-	@media #{$x-large} {
-		@include grid(12,1.5);
-		@include prefix(12,2);
+	padding: 0;
+	a:visited{
+		color: #343434;
 	}
 }
 
 /* Top navigation links */
 .top-navigation {
-	@include grid(12,10);
-	@include prefix(12,1);
-	@include suffix(12,1);
+	// @include grid(12,10);
+	// @include prefix(12,1);
+	// @include suffix(12,1);
 	margin-bottom: 1em;
 	float: none;
 	display: block;
-	@media #{$small} {
-		@include grid(12,9);
-		@include prefix(12,0);
-		@include suffix(12,0);
-	}
-	@media #{$x-large} {
-		@include grid(12,8);
-	}
+	width: 100%;
+	padding: 0;
 	ul {
 		margin: 0;
 		padding: 0;
@@ -287,6 +286,13 @@ $button-size: 1.5rem;
 .image-wrap {
 	position: relative;
 	margin-bottom: 2em;
+	width: 80%;
+	margin: 0 auto;
+	width: 100%;
+	@media #{$large} {
+		width: 80%;
+	}
+	border-top: 10px solid #343434;
 	@include clearfix;
 	&:after {
 		content: " ";

@@ -1,7 +1,12 @@
 # Site navigation links
+- title: Recipes by Category
+  url: /posts/
+
+- title: Adventures + Blog
+  url: /blog/
+
+- title: Video Tips
+  url: /video/
 
 - title: About
   url: /about/
-
-- title: Sample Posts
-  url: /posts/
