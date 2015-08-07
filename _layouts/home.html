@@ -18,22 +18,15 @@
 
 {% if page.image.feature %}
   <div id="slider" class="image-wrap">
-  <img src=
+  {% for post in site.posts limit:5 %}   
+    <img src=
     {% if page.image.feature contains 'http' %}
       "{{ page.image.feature }}"
     {% else %}
       "{{ site.url }}/images/{{ page.image.feature }}"
     {% endif %}
-  alt="{{ page.title }} feature image">
-  <img data-src=
-    {% if page.image.feature contains 'http' %}
-      "{{ page.image.feature2 }}"
-    {% else %}
-      "{{ site.url }}/images/{{ page.image.feature2 }}"
-    {% endif %} src="">
-  {% if page.image.credit %}
-    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
-  {% endif %}
+    alt="{{ post.title }}">
+  {% endfor %}
   </div><!-- /.image-wrap -->
 {% endif %}
 
