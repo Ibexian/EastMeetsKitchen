@@ -8,6 +8,7 @@
 <link rel="stylesheet" href="{{ site.url }}/assets/css/ideal-image-slider.css">
 <link rel="stylesheet" href="{{ site.url }}/assets/css/themes/default/default.css">
 <script src="{{ site.url }}/assets/js/plugins/ideal-image-slider.js"></script>
+<script src="{{ site.url }}/assets/js/plugins/iis-captions.js"></script>
 </head>
 
 <body class="home">
@@ -19,21 +20,18 @@
 {% if page.image.feature %}
   <div id="slider" class="image-wrap">
   {% for post in site.posts limit:5 %}   
-    <img src=
-    {% if page.image.feature contains 'http' %}
-      "{{ page.image.feature }}"
+    <a href="{{ post.url }}"> <img src=
+    {% if post.image.feature contains 'http' %}
+      "{{ post.image.feature }}"
     {% else %}
-      "{{ site.url }}/images/{{ page.image.feature }}"
+      "{{ site.url }}/images/{{ post.image.feature }}"
     {% endif %}
-    alt="{{ post.title }}">
+    alt="{{ post.title }}"></a>
   {% endfor %}
   </div><!-- /.image-wrap -->
 {% endif %}
 
 <div id="main" role="main"> 
-  <div class="article-author-side">
-    {% include _author-bio.html %}
-  </div>
   <div id="index">
     <h3><a href="{{ site.url}}/posts/">On Today's Menu...</a></h3>
     {% for post in site.posts limit:5 %}    
@@ -61,6 +59,7 @@
     selector: '#slider',
     interval: 4000,
   });
+  slider.addCaptions();
   slider.start();
 </script>
   
