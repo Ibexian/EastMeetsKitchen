@@ -5,8 +5,11 @@
 - title: Adventures + Blog
   url: /blog/
 
-- title: Video Tips
+- title: Video
   url: /video/
+
+- title: Tips
+  url: /tips/
 
 - title: About
   url: /about/
