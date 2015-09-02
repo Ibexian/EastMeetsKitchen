@@ -1,0 +1,9 @@
+    <h3>Follow Me On...</h3>
+    <ul class="social-grid">
+    {% for link in site.data.social %}
+      <a href="{{ link.url }}" title="{{ link.title }}" target="_blank"> 
+        <li style="background:url('{{ site.url }}/images/{{ link.img }}'); background-size: cover;">
+        </li>
+      </a>
+    {% endfor %}
+    </ul>

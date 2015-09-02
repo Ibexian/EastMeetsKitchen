@@ -1,17 +1,17 @@
 # Site navigation links and tiles on main page
-- title: Recipes by Category
+- title: Instagram
   url: /posts/
   img: 138-1.jpg
 
-- title: Adventures + Blog
+- title: Twitter
   url: /blog/
   img: 138-1.jpg
 
-- title: Video
+- title: Pinterest
   url: /video/
   img: 138-1.jpg
 
-- title: Tips
+- title: Youtube
   url: /tips/
   img: 138-1.jpg
 
