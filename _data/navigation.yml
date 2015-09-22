@@ -2,19 +2,29 @@
 - title: Recipes by Category
   url: /posts/
   img: 138-1.jpg
+  subnav:
+    - title: Example
+      url: this
+
+    - title: Another Example
+      url: that
 
 - title: Adventures + Blog
   url: /blog/
   img: 138-1.jpg
+  subnav:
 
 - title: Video
   url: /video/
   img: 138-1.jpg
+  subnav:
 
 - title: Tips
   url: /tips/
   img: 138-1.jpg
+  subnav:
 
 - title: About
   url: /about/
   img: 138-1.jpg
+  subnav:

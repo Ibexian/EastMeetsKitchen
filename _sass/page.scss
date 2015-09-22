@@ -88,7 +88,34 @@ body {
 				display: inline;
 				padding: 0;
 			}
+			.dropArrow {
+				display: none;
+				font-size: 0.8em;
+				@media #{$small} {
+					display: inline;
+				}
+			}
 		}
+		.subnav {
+			float: left;
+			position: absolute;
+			display: none;
+			background: white;
+			z-index: 99999999;
+			li {
+				display: block !important;
+				padding: 5px;
+				width: 100%;
+				a {
+					display: block;
+				}
+			}
+		}
+
+	    &:focus > .subnav,
+	    &:hover > .subnav {
+	      display: block;
+	    }
 	}
 }
 

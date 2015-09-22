@@ -113,13 +113,12 @@
 	font-weight: bold;
 	line-height: 1.6em;
 	text-align: center;
-	-webkit-text-stroke: 0.5px black;
    	text-shadow:
-       1.5px 1.5px 0 #000,
-     -0.5px -0.5px 0 #000,  
-      0.5px -0.5px 0 #000,
-      -0.5px 0.5px 0 #000,
-       0.5px 0.5px 0 #000;
+       1px 1px 0 #000,
+     -1px -1px 0 #000,  
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+       1px 1px 0 #000;
 	color: #eee;
 }
 .iis-caption .iis-caption-content a,
