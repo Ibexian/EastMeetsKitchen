@@ -562,8 +562,18 @@ $button-size: 1.5rem;
 	display: inline;
 	li {
 		@include grid(12, 3);
-		width:20%;
-		height:150px	
+		width: 20%;
+		height: 85px;
+		text-align: center;			
+		@media #{$medium} {
+			height: 150px;
+		}
+		i {
+			font-size: 4em;
+			@media #{$medium} {
+				font-size: 7em;
+			}
+		}
 	}
 }
 /* Recent grid - not used */
