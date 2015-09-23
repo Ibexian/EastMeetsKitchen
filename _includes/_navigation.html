@@ -22,6 +22,11 @@
 				{% endfor %}
 		    </ul>
 		</nav>
+		<ul class="sideNav">
+			{%  for link in site.data.social %}
+			<li><a href="{{ link.url }}"class="icon-{{ link.title | downcase}}"></a></li>
+			{%  endfor %}
+		</ul>
 	</div><!-- /.top-navigation -->
 	<div class="site-name">
 		<a href="{{ site.url }}/">{{ site.title }}</a>

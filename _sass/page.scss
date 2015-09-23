@@ -117,6 +117,28 @@ body {
 	      display: block;
 	    }
 	}
+
+	.sideNav {
+		display: none;
+		float: right;
+		margin: -1.2em 1em 0 0 !important;
+		li {
+			margin-right: 0;
+			display: inline !important;
+			border-bottom: none;
+			a {
+				display: inline !important;
+				&:hover {
+					color: hsl(0, 0%, 50%);
+				}
+			}
+			
+		}
+		@media #{$medium} {
+			display: inline;
+		}
+
+	}
 }
 
 /* Animated lines for mobile nav button */
