@@ -1,7 +1,7 @@
 # Site navigation links and tiles on main page
 - title: Recipes by Category
-  url: /posts/
-  img: 138-1.jpg
+  url: /recipes/
+  img: recipe.jpg
   subnav:
     - title: Example
       url: this
@@ -11,17 +11,17 @@
 
 - title: Adventures + Blog
   url: /blog/
-  img: 138-1.jpg
+  img: adventure.jpg
   subnav:
 
 - title: Video
-  url: /video/
-  img: 138-1.jpg
+  url: /videos/
+  img: video.jpg
   subnav:
 
 - title: Tips
   url: /tips/
-  img: 138-1.jpg
+  img: tips.jpg
   subnav:
 
 - title: About

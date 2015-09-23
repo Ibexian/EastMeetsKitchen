@@ -1,25 +1,15 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
+title: Christina Ng
+tags: [about]
 modified: 2014-08-08T20:53:07.573882-04:00
-comments: true
+comments: false
 image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: biomain.png
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+Christina Ng is a Boston-based baker and blogger.  She grew up watching Julia Child cooking shows every Saturday morning – time she should have spent preparing for her piano lessons.  Growing up in a massive Chinese family that celebrated anything and everything with a Chinese banquet, Christina got sick of Chinese food early on.
 
-## Minimal Mistakes is all about:
+&nbsp;
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+It wasn’t until after university when she went abroad to Asia to study and work that she developed a true appreciation for Asian food and culture.  She specializes in the local and authentic recipes that she grew up with and those, which she learned through her travel. East Meets Kitchen is her attempt to revive those recipes, which maybe anonymous to the world, but are served on kitchen tables daily.
