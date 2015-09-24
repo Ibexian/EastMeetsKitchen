@@ -22,7 +22,7 @@ body {
 	width: 100%;
 	padding: 1em;
 	@media #{$large} {
-		width: 80%;
+		width: 70%;
 
 	}
 	@include clearfix;
@@ -270,7 +270,7 @@ $button-size: 1.5rem;
 	margin: 0 auto;
 	width: 100%;
 	@media #{$large} {
-		width:80%;
+		width:70%;
 	}
 	@include clearfix;
 	clear: both;
@@ -293,9 +293,6 @@ $button-size: 1.5rem;
 #index {
 	@include container;
 	width:100%;
-	@media #{$large} {
-		width:90%;
-	}
 	margin-bottom: 2em;
 	h3 {
 		margin: 0;
@@ -319,18 +316,23 @@ $button-size: 1.5rem;
 			text-indent: 0;
 		}
 	}
+	.break-text {
+		font-family: "PT Sans Narrow",sans-serif;
+		padding: 1em;
+		margin-top: -2em;
+		background-color: rgba(0,0,0,0.03);
+	}
 }
 
 /* Large feature header image */
 .image-wrap {
 	position: relative;
 	margin-bottom: 2em;
-	width: 80%;
 	margin: 0 auto;
 	width: 100%;
 	height: 400px;
 	@media #{$large} {
-		width: 80%;
+		width: 70%;
 	}
 	border-top: 10px solid #343434;
 	@include clearfix;
@@ -587,7 +589,7 @@ $button-size: 1.5rem;
 		li{
 			width: 100%;
 			height: 100%;
-			background: rgba(0, 0, 0, 0.4);
+			background: rgba(0, 0, 0, 0.5);
 			i {
 				font-size: 4em;
 				@media #{$medium} {
