@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "A Post with Images"
+categories: tips
 excerpt: "Examples and code for displaying images in posts."
-tags: [sample post, images, tip]
+tags: [sample post, images, tips]
 comments: true
 image:
   feature: 138-1.jpg

@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Sample Post
+categories: recipes
 excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
 modified: 2013-05-31
-tags: [recipe, beginner, jekyll, tutorial]
+tags: [recipes, beginner, jekyll, tutorial]
 comments: true
 image:
   feature: sample-image-5.jpg

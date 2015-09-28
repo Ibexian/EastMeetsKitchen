@@ -1,8 +1,9 @@
 ---
 layout: post
+categories: videos
 title: "Testing Readability with a Bunch of Text"
 excerpt: "A ton of text to test readability."
-tags: [sample post, readability, video]
+tags: [sample post, readability, videos]
 comments: true
 image:
   feature: 130-1.jpg

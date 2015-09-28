@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Post with Large Feature Image and Text"
+categories: tips
 excerpt: "Custom written post descriptions are the way to go... if you're not lazy."
 tags: [sample post, readability, tip]
 comments: true
