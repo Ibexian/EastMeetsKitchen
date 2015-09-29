@@ -51,7 +51,8 @@ var reader = function(name, type) {
 		}
 	    fs.readFile('./input/_' + name + '/blog.markdown', 'utf8', function read(err, data) {
 		    if (err) { throw err;}
-		    content += "\r---\r\r" + data.replace(/^[\r\n]+|\.|[\r\n]+$/g, "");
+		    var blogData = data.replace(/^[\r\n]+|\.[\r\n]+$/, ""); //Remove final eol
+		    content += "\r---\r\r" + blogData.replace(/!\[.*]\(\/img\/(\S*).*\)/g, "<figure> <img src='/images/$1'> </figure>");
 			// Write the file
 		    writer(fileName, content);
 		});
@@ -60,7 +61,7 @@ var reader = function(name, type) {
 			fs.readFile('./input/_' + name + '/recipe.markdown', 'utf8', function read(err, data) {
 		    	var newContent = "";
 			    if (err) { throw err;}
-			    newContent += "\r<section class='recipe'>\r" + data + "</section>";
+			    newContent += "\r<section class='recipe'>\r" + data.replace(/!\[.*]\(\/img\/(\S*).*\)/g, "<figure> <img src='/images/$1'> </figure>") + "</section>";
 				// Append to previously created file
 		    	fs.appendFile("./output/" + fileName + ".md", content, function(err) {
 				    if(err) { return console.log(err); }
