@@ -8,7 +8,7 @@ image:
   feature: 131-1.jpg
 ---
 
-I recently did a [video review](http://wwweastmeetskitchencom/videos/stonyfield-oh-my-yog!-reviewhtml) of [Oh My Yog!](http://wwwstonyfieldcom/products/oh-my-yog) - Stonyfield's new line of whole milk, tri-layer yogurt  It's probably one of new my favorite yogurts because it's so creamy and indulgent, but not too sweet at all  Just wanted to share a couple quick highlights  Check out the video for more details
+I recently did a [video review](http://www.eastmeetskitchen.com/videos/stonyfield-oh-my-yog!-review.html) of [Oh My Yog!](http://www.stonyfield.com/products/oh-my-yog) - Stonyfield's new line of whole milk, tri-layer yogurt.  It's probably one of new my favorite yogurts because it's so creamy and indulgent, but not too sweet at all.  Just wanted to share a couple quick highlights.  Check out the video for more details.
 
 __Specs__
 
@@ -16,7 +16,7 @@ __Specs__
 * Flavors: Madagascar Vanilla BEan, Wild Quebec Blueberry, Pacific Coast Strawberrry, Gingered Pear, Apple Cinnamon, Orange Cranberry
 * Contains live active cultures
 * 7 grams of protein per serving
-* Retail Price: $159
+* Retail Price: $1.59
 
 __Nutrition__
 (on average)

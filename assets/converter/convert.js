@@ -3,7 +3,7 @@ var mkdirp = require('mkdirp');
 var tag = "blog";
 
 var writer = function(name, content) {
-	fs.writeFile("./output/" + name + ".md", content, { mode: '0666' }, function(err) {
+	fs.writeFile("./output/" + name + ".md", content, { mode: '666' }, function(err) {
 	    if(err) {
 	        return console.log(err);
 	    }
@@ -31,10 +31,10 @@ var reader = function(name, type) {
 		    if (json.hasOwnProperty(property)) {
 		    	switch (property) {
 		    		case "title":
-		    			content += "\r" + property + ": \"" + json[property].replace(/(\r\n|\n|\r)/gm,"") + "\"";
+		    			content += "\r" + property + ": \"" + json[property].replace(/(\r\n|\n|\r)/gm,"").replace(/:/g, "-") + "\""; //Also need to scrub our ":"
 		    			break;
 		    		case "description":
-		    			content += "\rexcerpt: \"" + json[property].replace(/(\r\n|\n|\r)/gm,"").replace(/"/g, '\'') + "\"";
+		    			content += "\rexcerpt: ";
 		    			break;
 		    		case "pic":
 		    			var value = json[property].split('/')[1];
@@ -46,18 +46,20 @@ var reader = function(name, type) {
 		    	}
 		    }
 		}
-		if (tag === "video"){// There is no blog markdown for video
+		if (tag === "videos"){// There is no blog markdown for video
+			content += "\r---";
+		    writer(fileName, content);
 			return;
 		}
 	    fs.readFile('./input/_' + name + '/blog.markdown', 'utf8', function read(err, data) {
 		    if (err) { throw err;}
-		    var blogData = data.replace(/^[\r\n]+|\.[\r\n]+$/, ""); //Remove final eol
-		    content += "\r---\r\r" + blogData.replace(/!\[.*]\(\/img\/(\S*).*\)/g, "<figure> <img src='/images/$1'> </figure>");
+		    var blogData = data.replace(/!\[.*]\(\..\/img\/(\S*).*\)/g, "<figure> <img src='/images/$1'> </figure>"); //Remove final eol
+		    content += "\r---\r\r" + blogData;
 			// Write the file
 		    writer(fileName, content);
 		});
 
-		if (tag === "recipe"){
+		if (tag === "recipes"){
 			fs.readFile('./input/_' + name + '/recipe.markdown', 'utf8', function read(err, data) {
 		    	var newContent = "";
 			    if (err) { throw err;}
