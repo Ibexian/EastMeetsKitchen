@@ -17,7 +17,6 @@
 
 {% include _navigation.html %}
 
-{% if page.image.feature %}
   <div id="slider" class="image-wrap">
   {% for post in site.posts limit:5 %}   
     <a href="{{ post.url }}"> <img src=
@@ -29,7 +28,6 @@
     alt="{{ post.title }}"></a>
   {% endfor %}
   </div><!-- /.image-wrap -->
-{% endif %}
 
 <div id="main" role="main">
   <div id="index">
