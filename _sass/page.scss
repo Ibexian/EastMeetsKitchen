@@ -293,7 +293,7 @@ $button-size: 1.5rem;
 #index {
 	@include container;
 	width:100%;
-	margin-bottom: 2em;
+	margin-bottom: 5em;
 	h3 {
 		margin: 0;
 		padding-bottom: .5em;
@@ -301,19 +301,44 @@ $button-size: 1.5rem;
 		border-bottom: 1px solid lighten($black,70);
 	}
 	article {
-		h2 {
-			margin-bottom: 4px;
-			@include font-rem(20);
-			&.link-post {
-				margin-bottom: 0px + $doc-line-height;
-				margin-bottom: 0rem + ($doc-line-height / $doc-font-size);
+		@include grid(12, 4);
+		display: inline-block;
+		a {
+			h2 {
+				margin-bottom: 4px;
+				margin-left: 1em;
+				@include font-rem(20);
+				
+					hr {
+						border-top: 1px solid;
+						margin: 4px 0 !important;
+					}
+				span {
+					font-size: 90%;
+				}
+				&.link-post {
+					margin-bottom: 0px + $doc-line-height;
+					margin-bottom: 0rem + ($doc-line-height / $doc-font-size);
+				}
 			}
-		}
-		p {
-			@include font-rem(14);
-		}
-		p+p {
-			text-indent: 0;
+			h4 {
+				font-size: 80%;
+				text-align: right;
+				margin-top: -9px;
+			}
+			.post-image {
+				margin-left: 1em;
+				width:95%;
+				height:150px;
+				content:  " ";
+				display: block;
+			}
+			p {
+				@include font-rem(14);
+			}
+			p+p {
+				text-indent: 0;
+			}
 		}
 	}
 	.break-text {
@@ -687,6 +712,7 @@ $button-size: 1.5rem;
 	@include clearfix;
 	clear: both;
 	padding-bottom: 3em;
+	margin-top:2em;
 	a,
 	a:active,
 	a:visited,
@@ -734,10 +760,28 @@ $button-size: 1.5rem;
 		}
 	}
 	li {
+		@include grid(12,3.5);
+		display: inline-block !important;
+		margin-right: 1em;
 		margin-bottom: 0;
+		list-style-type: none;
+		text-align: center;
 		a {
 			color: white;
+			.post-image {
+				width:100%;
+				height:100px;
+				content:  " ";
+				display: block;
+				background-position: center;
+			}
 		}
+	}
+	hr {
+		display: block;
+		clear: left;
+		padding: 3px;
+		border-top: 0;
 	}
 }
 
