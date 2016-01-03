@@ -3,11 +3,14 @@
   url: /recipes/
   img: recipe.jpg
   subnav:
-    - title: Example
-      url: this
+    - title: Sweet
+      url: /recipes/sweet/
 
-    - title: Another Example
-      url: that
+    - title: Savory
+      url: /recipes/savory/
+
+    - title: Breakfast
+      url: /recipes/breakfast/
 
 - title: Adventures + Blog
   url: /blog/
