@@ -1,6 +1,6 @@
 ---
 layout: tag-index
-title: Savory Recipes
+title: No Meats Recipes
 excerpt: "A List of Posts"
-category: savory
+category: nomeats
 ---

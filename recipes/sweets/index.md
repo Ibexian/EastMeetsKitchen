@@ -1,6 +1,6 @@
 ---
 layout: tag-index
-title: Sweet Recipes
+title: Sweets Recipes
 excerpt: "A List of Posts"
-category: sweet
+category: sweets
 ---

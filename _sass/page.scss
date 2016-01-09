@@ -349,6 +349,41 @@ $button-size: 1.5rem;
 	}
 }
 
+/* Search styles */
+
+form {
+	#q {
+		display: inline-block;
+		width:70%;
+	}
+}
+
+.search-result {
+	min-height: 150px;
+	margin-bottom: 2em;
+	align-items:center;
+	a {
+	img {
+		@include grid(12,3);
+		margin-top: -5em;
+		margin-right: 1em;
+		max-height: 30%;
+		display: inline-block;
+		float: none !important;
+	}
+	}
+	div {
+		@include grid(12,7);
+		display: inline-block;
+		float: none !important;
+		h2 {
+			font-size: 110%;
+			margin-top: -1em;
+			margin-bottom: 0;
+		}
+	}
+}
+
 /* Large feature header image */
 .image-wrap {
 	position: relative;

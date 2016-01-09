@@ -1,6 +1,6 @@
 ---
 layout: tag-index
-title: Breakfast Recipes
+title: Meats Recipes
 excerpt: "A List of Posts"
-category: breakfast
+category: meats
 ---

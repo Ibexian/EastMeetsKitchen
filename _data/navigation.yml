@@ -3,14 +3,24 @@
   url: /recipes/
   img: recipe.jpg
   subnav:
-    - title: Sweet
-      url: /recipes/sweet/
 
-    - title: Savory
-      url: /recipes/savory/
+    - title: Meats
+      url: /recipes/meats/
 
-    - title: Breakfast
-      url: /recipes/breakfast/
+    - title: No-Meats
+      url: /recipes/nomeats/
+
+    - title: Rice and Noodles
+      url: /recipes/riceandnoodles/
+
+    - title: Soups
+      url: /recipes/soups/
+
+    - title: Sweets
+      url: /recipes/Sweets/
+
+    - title: Sauces
+      url: /recipes/sauces/
 
 - title: Adventures + Blog
   url: /blog/
