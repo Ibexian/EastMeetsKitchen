@@ -1,0 +1,14 @@
+Scallion pancakes used to be a favorite treat of mine when I was living in Taiwan.  My mother had taught me to make it early on, but it always took a ton of time, and it was one of those recipes you had to put away a Sunday morning for because you would make them in batches.  Well, I was over in HMart last weekend, and they posted up a really bizarrely simple recipe for scallion pancakes - the Korean version.  (I have to say, I was more drawn to the picture because they left the scallion stalks whole in the pancake - which seems to make it difficult to eat, but wonderful to photograph.)  It was equal parts flour and water, a bit of salt, and scallions.  The pancake is made in batter format, so I wouldn't have to deal with kneading any dough like in the Chinese or Taiwanese versions.  I thought - great! But the flavor nut in me thought I couldn't possibly just make a pancake with flour and water, could I?  I guess maybe...but I opted to add more.  I checked out [Maangchi's Blog](http://www.maangchi.com/), which always has a ton of great Korean recipes on it and adapted her version along with the HMart version.  You'll see that I opted to add a dashi miso to the batter (as opposed to the soybean paste in Maangchi's blog) because it adds a nice rich savory flavor while providing a hint of sweetness to the pancake.  Anyways, the result was a pretty delicious and quick pancake to satisfy my scallion pancake cravings.
+
+So just some notes on this recipe.  If you're not too into the raw flavor of scallions, I would try to cook the scallions for a couple minutes on the pan before adding the batter.  I did that with mine for 2 minutes, but you can do longer.  Second thing I found was the batter took a pretty long time to reach that golden brown crispy color, and when you do reach that, it's very easy to burn the scallions.  Have no fear though.  The scallions get slightly burnt, but it's more of a good caramelization burnt.  Just know that depending on your stove tops, it could take 5 minutes or longer per side.  Also because this pancake is fairly wide, it may pose some issues when you are flipping it. I found some of my pancakes split vertically because of how the scallions were arranged, so if you have a big spatula, it may be useful here.  Other than that, pair it with a great soy sauce mix because it compliments and brings out the flavor of the scallions extremely well.
+
+#### Scallions cut into 5 inch long stalks
+![spices in mortar and pestle](../img/67-2.jpg "")
+#### Flour, Miso, Sesame Oil, and Water Batter
+![Flour, Miso, Sesame Oil, and Water Batter](../img/67-3.jpg "")
+#### Arrange Scallions in Pan
+![scallions arranged into rectangle on pan](../img/67-4.jpg "")
+#### Pour Batter on Top of Scallions
+![batter on top of scallions](../img/67-5.jpg "")
+#### Serve with Soy Sauce
+![scallion pancake with soy sauce](../img/67-6.jpg "")

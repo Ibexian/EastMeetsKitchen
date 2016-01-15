@@ -1,6 +1,6 @@
 var fs = require('fs');
 var mkdirp = require('mkdirp');
-var tag = "blog";
+var tag = "recipes";
 
 var writer = function(name, content) {
 	fs.writeFile("./output/" + name + ".md", content, { mode: '666' }, function(err) {
@@ -15,10 +15,11 @@ var reader = function(name, type) {
 	var content = "";
 	var fileName = "";
 	fs.stat('./input/' + name + '.json', function(err, data){
-		var creationDate = new Date(data.birthtime);
+		var creationDate = new Date(data.mtime);
+		console.log(data.mtime);
 		fileName += creationDate.getFullYear() + "-" + 
-			(creationDate.getMonth() > 9 ? creationDate.getMonth() : "0" + creationDate.getMonth()) + "-" + 
-			(creationDate.getDate() > 9 ? creationDate.getDate() : "0" + creationDate.getDate()) + "-" + name;
+			((creationDate.getMonth() + 1) > 9 ? (creationDate.getMonth() + 1) : "0" + (creationDate.getMonth() + 1) ) + "-" + 
+			(creationDate.getDate() > 9 ? creationDate.getDate() : "0" + creationDate.getDate() ) + "-" + name;
 	});
 	fs.readFile('./input/' + name + '.json', 'utf8', function read(err, data) {
 	    if (err) {
@@ -65,7 +66,7 @@ var reader = function(name, type) {
 			    if (err) { throw err;}
 			    newContent += "\r<section class='recipe'>\r" + data.replace(/!\[.*]\(\/img\/(\S*).*\)/g, "<figure> <img src='/images/$1'> </figure>") + "</section>";
 				// Append to previously created file
-		    	fs.appendFile("./output/" + fileName + ".md", content, function(err) {
+		    	fs.appendFile("./output/" + fileName + ".md", newContent, function(err) {
 				    if(err) { return console.log(err); }
 				    console.log("recipe added");
 				});
@@ -87,9 +88,16 @@ fs.readdir( "./input/", function(err, files){
 		return value.substr(value.length - 4, 4) === 'json';
 	}
 	var filtered = files.filter(isJson);
-	for(var i=0; i <filtered.length; i++ ){
-		reader(filtered[i].slice(0, filtered[i].length - 5), tag);
+	console.log(filtered);
+	var x = 0;
+	var reWrite = function(){
+		if (x < filtered.length) {
+			reader(filtered[x].slice(0, filtered[x].length - 5), tag);
+			x++;
+			setTimeout(reWrite, 4000);
+		}
 	}
+	reWrite();
 });
 
 

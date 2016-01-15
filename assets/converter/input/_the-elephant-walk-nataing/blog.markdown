@@ -1,0 +1,7 @@
+I recently went to the Elephant Walk over in Cambridge, Massachusetts for what the internet deems as pretty authentic Cambodian food.  I was actually in Cambodia several years back, and although that hardly makes me an expert, I was eager to go and see whether the Elephant Walk would offer me some nostalgia.
+
+I had several courses including their curries and I thought they were pretty good (but not as I remembered).  One appetizer that really caught my eye was the Nataing.  It's ground pork simmered in coconut milk with sliced garlic, peanuts and chili pods.  This pork like salsa was served with crispy rice cakes, and let me tell you, they were amazing - both rice cake and pork.
+
+I've tried to make homemade rice cakes by squishing together paddies of rice before, but it ended up dry and hard.  These rice cakes were crunchy and crispy and was the perfect vessel for the sweet and fragrant pork sauce.  I would say at first, it can seem rather strange because the sauce was a little on the sweeter side, but the combination of spices, meat, and coconut milk more that made up for it.
+
+I went home and thought, "I have to find this recipe!"  Luckily, The Elephant Walk actually came up with their cookbook a little while back and I was able to find the recipe.  I'm not sure when I'll get to give this a try, but I definitely recommend all of you do.

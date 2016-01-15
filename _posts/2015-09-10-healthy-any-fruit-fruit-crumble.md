@@ -1,0 +1,10 @@
+---
+layout: post
+categories: videos
+tags: [videos]
+excerpt: 
+title: "Healthy 'Any Fruit' Fruit Crumble"
+feature_video: https://www.youtube.com/embed/LdaFK-Yo8AA
+---
+
+I put this recipe up just at the end of August -- harvest season. You can use any fruit for this crumble - fresh or frozen.  It's vegan, gluten-free and has no refined sugars, so will accommodate most people with special diets.  It's one of those desserts that's good and healthy at the same time.

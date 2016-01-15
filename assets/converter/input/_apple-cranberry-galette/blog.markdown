@@ -1,0 +1,65 @@
+Well, it's that time of the year again where people are going apple picking and then wondering afterwards what to do with all those apples!  I have a ton of apple recipes but one of my favorite things to make is an apple cranberry galette.  I first tried it in a bakery near my town and found the tartness of the cranberries to be utterly refreshing.  If you don't know this about me, I really don't like overly sweet desserts - well, maybe some, but usually if the dessert is so sweet that it masks the actual flavor of what the dessert should be, then I don't like it.  Sugar, like salt, is really meant to bring out or enhance the flavors of the ingredients you are working with.  It should never be overpowering.  A cake should never just taste sweet.  There should be hints of butter or vanilla or whatever the sugar was meant to highlight.
+
+![apple cranberry mix in pie shells](../img/29-2.jpg "")
+
+Anyways, apple galette - it's really meant to be just a rustic apple pie.  Instead of putting on the top layer of dough, apple galette recipes call for the baker to roll out a large piece of dough over the amount of the bottom of the pie pan.  Then you fill the pie with your apple filling and fold over the additional dough on top.  Now I like that rustic-ness, but on the day I made the galettes, I opted for a traditional lattice pattern.  I think it's prettier and looks cuter because I'm using individual 5-inch tart pans as well.
+
+I sort of adapted this recipe from the many apple galette recipes I had seen online, along with the apple galette I tasted at the bakery.  First, I knew I had to use a combination of butter and a slight bit of shortening.  The butter provides great flavor and helps with making the layers of the dough so it tastes flakey, but shortening almost tenderizes each layer of the dough, which makes for a wondering combination.
+
+I also opted to cook the filling for about 5 minutes before putting it into the tart pans.  Now, I used cranberries and did not want them to pop, so I ended up only cooking the apples and then adding the cranberries after.  This basically gets the apples to release some of their juices, so that your pie shells don't get all soggy afterwards.  I found it didn't affect the flavor of the end result at all - and I didn't get a pile of gooey mess on the pans after.  A note with cranberries is depending on how tart you like your pies, you may have to add a bit more sugar to each tart.
+
+Also I added both lemon and orange zest.  I usually do this to a lot of my recipes, but sometimes, lemon zest is too light of an aroma for something as hearty as apple galettes, so by adding the orange zest as well, it not only adds another citrus complexity, but it also gives the galettes a little more depth in flavor.
+
+A tip is to make sure and work with cold dough.  I rolled the dough out between plastic wrap to make cleaning easier.  But this  technique is also good because you don't have to keep on adding additional flour to roll out the dough, which can toughen it.  The dough will still stick, but if it is cold enough, it won't.  This tip is especially useful for when you are cutting out strips to make the lattice.  I show a nice technique for how to line the bottoms of the pie shells too.  Anyways, hope you all enjoy.
+
+Sift all dry ingredients together
+
+![flour in sifter](../img/29-3.jpg "")
+
+Work with Chilled Butter
+
+![butter sticks](../img/29-4.jpg "")
+
+Cutting butter into quarters will make it easier to cut them into small chunks later
+
+![butter quartered into sticks](../img/29-5.jpg "")
+
+Add Egg Yolks for Additional Richness
+
+![eggs](../img/29-6.jpg "")
+
+After cutting butter into dough and adding wet ingredients, add more or less water
+
+![pie dough mix](../img/29-7.jpg "")
+
+Never over mix.  Get dough into a ball and refrigerate
+
+![pie dough ball](../img/29-8.jpg "")
+
+Make apple filling and cook over stove for 5 minutes on medium high heat
+
+![apple cranberry, sugar, zest mixture](../img/29-9.jpg "")
+
+Add fresh cranberries
+
+![apple and cranberry mix](../img/29-10.jpg "")
+
+Line bottom of pan with a dough rope and ball
+
+![rope and ball of dough in pie pan](../img/29-11.jpg "")
+
+Press dough into pan with about 3/8 inch thickness on sides and slightly less on the bottom
+
+![pie shells](../img/29-12.jpg "")
+
+Fill Pie Pans and top with a pad of butter
+
+![apples, cranberries, pad of butter](../img/29-13.jpg "")
+
+Lattice topping (Over and Under, Over and Under). Top with egg wash and sugar.
+
+![unbaked apple galette](../img/29-14.jpg "")
+
+Bake for 40 minutes in a 425 degree oven
+
+![baked apple galette](../img/29-15.jpg "")

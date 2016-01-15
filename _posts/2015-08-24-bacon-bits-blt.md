@@ -1,0 +1,10 @@
+---
+layout: post
+categories: videos
+tags: [videos]
+excerpt: 
+title: "'Bacon Bits' BLT"
+feature_video: https://www.youtube.com/embed/G1dLLbZljsM
+---
+
+Part of my 'back to school' special 5-course meal.  For lunch -- a BLT made with bacon bits.  It's quick, easy and best of all, you don't have to go to the store and get bacon. Recipe: 4 red onion slices, 3-4 slices of tomato, 2 leaves of lettuce, 3-4 slices of avocado, 2 slices of sourdough bread, 2-3 tablespoons of mustard, 3 tablespoons of bacon bits (or as much as you like)
