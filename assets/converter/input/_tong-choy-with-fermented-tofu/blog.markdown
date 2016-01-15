@@ -1,5 +1,0 @@
-Hey All,
-
-I recently did an article for the spring issue of Audrey Magazine that will be coming out in March.  Not to give too much away, but it was on Asian spring foods and I think it will be a very interesting read.  In the wait for spring, I just wanted to give you a snip it of the recipe to one of my favorite Asian vegetables called "tong choy."  It's a crunchy straw-like green that provides excellent crunch - in case you all were worried about cooked greens.  
-
-Most Asian supermarkets carry tong choy and if they carry tong choy, they should carry the fermented tofu that traditionally pairs with this green.  I have to say that the fermented tofu smells sort of like a creamy, spicy, canned fish - if that could happen.  That being said, it gives a wonderful creaminess and spiciness to the greens.
