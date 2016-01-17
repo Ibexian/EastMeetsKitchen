@@ -16,18 +16,13 @@ I remember having one of these prepared for me at a restaurant and me thinking, 
 
 Anyways, when I make this recipe, I make a ton.  Whatever I won't end up eating for the next several days, I put into the freezer - chicken, marinade and all.  It's super easy -  400 degrees for about 45 minutes, and anyway you do it, the chicken comes out tender.  You really can't mess this up.
 <section class='recipe'>
-**Ingredients**
-(serves 4 people)
+<p><strong>Ingredients</strong>
+(serves 4 people)</p>
 
-- 4 chicken thighs (bone-in)
-- 2 tablespoons curry powder
-- 1 tablespoon garlic (minced)
-- 2 tablespoons honey
-- 1-2 teaspoons salt
-- 2 tablespoons olive oil
+<ul><li>4 chicken thighs (bone-in)</li><li>2 tablespoons curry powder</li><li>1 tablespoon garlic (minced)</li><li>2 tablespoons honey</li><li>1-2 teaspoons salt</li><li>2 tablespoons olive oil</li></ul>
 
-**Directions**
+<p><strong>Directions</strong>
 1. Rub thighs with garlic and salt.
 2. Place into plastic ziplock bag.  Add oil to coat and then the rest of the ingredients.
 3. Massage chicken.
-4. Put on sheet pan and roast at 400 degrees Fahrenheit for 40-45 minutes.</section>
+4. Put on sheet pan and roast at 400 degrees Fahrenheit for 40-45 minutes.</p></section>

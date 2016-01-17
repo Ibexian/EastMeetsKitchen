@@ -62,9 +62,9 @@ My technique for this Japanese cheesecake is a little different from the ones I 
 
 
 <section class='recipe'>
-**Ingredients**
+<p><strong>Ingredients</strong></p>
 
-For the green tea cheesecake
+<p>For the green tea cheesecake
 - 16 tbsp mascarpone
 - 4 tbsp butter
 - 6 large eggs, separated
@@ -73,9 +73,9 @@ For the green tea cheesecake
 - 3 tbsp matcha green tea powder, sifted
 - 1/4  cup confectioners sugar
 - 1/2 cup cake flour
-- 3 tbsp cornstarch
+- 3 tbsp cornstarch</p>
 
-For osmanthus cream
+<p>For osmanthus cream
 - 1/2 cup heavy cream
 - 1 tablespoon dried osmanthus flowers
-- honey</section>
+- honey</p></section>

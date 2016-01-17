@@ -44,7 +44,7 @@ Drain on Paper Towels Before Serving
 
 <figure> <img src='/images/32-8.jpg'> </figure>
 <section class='recipe'>
-**Ingredients**
+<p><strong>Ingredients</strong>
 - 10-12 pieces of chicken strips
 - 4-5 cloves garlic
 - 1 teaspoon paprika
@@ -56,10 +56,10 @@ Drain on Paper Towels Before Serving
 - 3 tablespoons olive oil
 - 3/4 cup bread crumbs
 - scallions to garnish
-- oil for frying
+- oil for frying</p>
 
-**Directions**
+<p><strong>Directions</strong>
 1. In a bowl, sprinkle garlic, paprika, garlic powder, onion powder, dill, pepper, salt, and olive oil over chicken strips and toss. 
 2. Put chicken into zip-lock bag and add the bread crumbs.  Shake bag and make sure all strips are coated with the bread crumb.
 3. On medium-medium high heat, heat 1 inch of canola oil in a Dutch oven.  Fry chicken for 2-3 minutes on one side, and 2 minutes on the second side.
-4. Drain chicken on paper towels before serving. Garnish with scallion sliced on the bias.</section>
+4. Drain chicken on paper towels before serving. Garnish with scallion sliced on the bias.</p></section>

@@ -38,27 +38,20 @@ Ingredients are all on the bottom.
 
 
 <section class='recipe'>
-**Ingredients**
+<p><strong>Ingredients</strong></p>
 
-(3-4 people)
+<p>(3-4 people)</p>
 
-Marinating the Pork:
+<p>Marinating the Pork:</p>
 
-- 1/2 lb pork, shredded into strips
-- 2 cloves garlic, minced
-- 1 tsp oyster sauce (can use soy sauce)
-- 1/2 tsp rice wine 
-- 1 tsp corn starch
-- dash of pepper
-- dash of sugar
+<ul><li>1/2 lb pork, shredded into strips</li><li>2 cloves garlic, minced</li><li>1 tsp oyster sauce (can use soy sauce)</li><li>1/2 tsp rice wine </li><li>1 tsp corn starch</li><li>dash of pepper</li><li>dash of sugar</li></ul>
 
-Sauce for Noodles:
+<p>Sauce for Noodles:
 - 2 tbsp  soy sauce
 - 1 tbsp oyster soy sauce
 - 1 tsp sugar
-- 1 tsp garlic powder
+- 1 tsp garlic powder</p>
 
-Cabbage and Noodles:
+<p>Cabbage and Noodles:</p>
 
-- 1-2 ramen-sized packages of udon noodles
-- 2 cups shredded cabbage</section>
+<ul><li>1-2 ramen-sized packages of udon noodles</li><li>2 cups shredded cabbage</li></ul></section>

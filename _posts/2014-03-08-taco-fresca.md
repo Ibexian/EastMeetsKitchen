@@ -20,7 +20,7 @@ Mizuna
 
 <figure> <img src='/images/10-3.jpg'> </figure>
 <section class='recipe'>
-**Ingredients**
+<p><strong>Ingredients</strong>
 (Makes 4 tacos)
 - 1/2 pound ground turkey
 - 2 teaspoons taco mix
@@ -28,9 +28,9 @@ Mizuna
 - 1/4 bunch of mizuna greens
 - 2 teaspoons taco mix
 - 2 tablespoons olive oil
-- 4 taco shells
+- 4 taco shells</p>
 
-**Directions**
+<p><strong>Directions</strong>
 1. Brown ground turkey with taco mix and olive oil.
 2. Halve cherry tomatoes and cut up mizuna.
-3. Assemble tacos with turkey, tomatoes and mizuna</section>
+3. Assemble tacos with turkey, tomatoes and mizuna</p></section>

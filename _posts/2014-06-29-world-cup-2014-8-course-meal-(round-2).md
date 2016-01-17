@@ -109,40 +109,21 @@ For Chilera Vinaigrette
 
 All righty!  Last 5 minutes of the Greece and Costa Rica game.  Looks like I might make this posting before the game ends!
 <section class='recipe'>
-**Ingredients** 
+<p><strong>Ingredients</strong> </p>
 
-For Cilantro and Lime Corn Krokets
+<p>For Cilantro and Lime Corn Krokets</p>
 
-- 2 ears of corn
-- 1 tablespoon butter
-- dash of salt
-- 1 tablespoon cilantro, chopped
-- 1 teaspoon lime juice
-- 2 tablespoons queso fresco
-- 1 egg
-- 1/4 cup masarepa
-- 1 1/2 breadcrumbs
+<ul><li>2 ears of corn</li><li>1 tablespoon butter</li><li>dash of salt</li><li>1 tablespoon cilantro, chopped</li><li>1 teaspoon lime juice</li><li>2 tablespoons queso fresco</li><li>1 egg</li><li>1/4 cup masarepa</li><li>1 1/2 breadcrumbs</li></ul>
 
-For Chilera:
+<p>For Chilera:</p>
 
-- 12 small hot peppers
-- 3 large carrots sliced in thin round pieces
-- 2 large onions sliced in thin pieces
-- half a cauliflower chopped in small pieces
-- 8 ounces of your favorite fruit vinegar
-- 1 cucumber sliced medium
+<ul><li>12 small hot peppers</li><li>3 large carrots sliced in thin round pieces</li><li>2 large onions sliced in thin pieces</li><li>half a cauliflower chopped in small pieces</li><li>8 ounces of your favorite fruit vinegar</li><li>1 cucumber sliced medium</li></ul>
 
-For Greek salad:
-(serves 4)
+<p>For Greek salad:
+(serves 4)</p>
 
-- half head of lettuce
-- half red onion
-- 20-30 Kalamata olives
-- Feta cheese crumble for sprinkling on top
+<ul><li>half head of lettuce</li><li>half red onion</li><li>20-30 Kalamata olives</li><li>Feta cheese crumble for sprinkling on top</li></ul>
 
-For Chilera Vinaigrette
+<p>For Chilera Vinaigrette</p>
 
-- 4 tablespoons vinegar from chilera
-- 1/2 cup olive oil
-- salt to taste
-- pepper to taste</section>
+<ul><li>4 tablespoons vinegar from chilera</li><li>1/2 cup olive oil</li><li>salt to taste</li><li>pepper to taste</li></ul></section>

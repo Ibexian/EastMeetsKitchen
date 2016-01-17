@@ -38,29 +38,18 @@ __Green Tea Ganache:__
 5. When the green tea mousse has set, pour ganache over cake and use a spatula to smooth the ganache over if necessary. 
 6. Refrigerate for about 2 hours or until ganache sets.
 <section class='recipe'>
-__Ingredients__
+<p><strong>Ingredients</strong></p>
 
-(This recipe makes 8-inch cake)
+<p>(This recipe makes 8-inch cake)</p>
 
-Green Tea Mousse
+<p>Green Tea Mousse</p>
 
-* 1/3 cup San Sui Silken Tofu, pureed (use about 1/2 block tofu)
-* 1/4 cup Vitasoy Unsweetened Refrigerated Soymilk
-* 5 tbsp. honey
-* 1 tbsp. gelatin
-* 2 yolks 
-* 2 tbsp. green tea powder 
-* 1 cup whipping cream 
-* 1 tbsp. sugar
+<ul><li>1/3 cup San Sui Silken Tofu, pureed (use about 1/2 block tofu)</li><li>1/4 cup Vitasoy Unsweetened Refrigerated Soymilk</li><li>5 tbsp. honey</li><li>1 tbsp. gelatin</li><li>2 yolks </li><li>2 tbsp. green tea powder </li><li>1 cup whipping cream </li><li>1 tbsp. sugar</li></ul>
 
-Crust
+<p>Crust</p>
 
-* 1 3/4 cup tea biscuits
-* 3 tbsp. butter, melted
+<ul><li>1 3/4 cup tea biscuits</li><li>3 tbsp. butter, melted</li></ul>
 
-Green Tea Ganache
+<p>Green Tea Ganache</p>
 
-* 1/2 cup white chocolate 
-* 1/4 cup + 2 tbsp. Vitasoy Unsweetened Refrigerated Soymilk 
-* 2 tbsp. green tea powder 
-* 1/4 tsp. gelatin</section>
+<ul><li>1/2 cup white chocolate </li><li>1/4 cup + 2 tbsp. Vitasoy Unsweetened Refrigerated Soymilk </li><li>2 tbsp. green tea powder </li><li>1/4 tsp. gelatin</li></ul></section>

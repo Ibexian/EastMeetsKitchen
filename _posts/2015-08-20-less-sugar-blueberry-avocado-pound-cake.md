@@ -62,19 +62,8 @@ __Let cool before serving.__
 <figure> <img src='/images/143-14.jpg'> </figure>
  
 <section class='recipe'>
-__Ingredients__
+<p><strong>Ingredients</strong></p>
 
- (Makes an 8-inch cake)
- 
-- 1 1/2 ripe medium avocados
-- 1 stick butter
-- 3/4 - 1 cups sugar
-- 2 eggs and 1 yolk
-- 1 1/2 cups all-purpose flour
-- 1/2 teaspoon  salt
-- 1/4 teaspoon baking soda
-- 1/2 teaspoon baking powder
-- 1/2 cup milk
-- 1/2 teaspoon vanilla extract
-- 1 teaspoon almond extract
-- 1/4 cup  blueberries</section>
+<p> (Makes an 8-inch cake)</p>
+
+<ul><li>1 1/2 ripe medium avocados</li><li>1 stick butter</li><li>3/4 - 1 cups sugar</li><li>2 eggs and 1 yolk</li><li>1 1/2 cups all-purpose flour</li><li>1/2 teaspoon  salt</li><li>1/4 teaspoon baking soda</li><li>1/2 teaspoon baking powder</li><li>1/2 cup milk</li><li>1/2 teaspoon vanilla extract</li><li>1 teaspoon almond extract</li><li>1/4 cup  blueberries</li></ul></section>

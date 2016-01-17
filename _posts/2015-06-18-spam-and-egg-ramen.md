@@ -47,11 +47,8 @@ __Put everything together and the ramen is ready to serve.__
 <figure> <img src='/images/130-7.jpg'> </figure>
 
 <section class='recipe'>
-__Ingredients__
+<p><strong>Ingredients</strong></p>
 
-(Serves 1)
+<p>(Serves 1)</p>
 
-- 1-2 slices spam
-- 1 package ramen
-- 1 egg
-- scallions (optional, for garnish</section>
+<ul><li>1-2 slices spam</li><li>1 package ramen</li><li>1 egg</li><li>scallions (optional, for garnish</li></ul></section>

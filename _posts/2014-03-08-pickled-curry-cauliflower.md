@@ -44,7 +44,7 @@ Chopped Red Peppers for Color  (Optional)
 
 (Recipe from the Food Network)
 <section class='recipe'>
-**Ingredients**
+<p><strong>Ingredients</strong>
 - 1 tablespoon canola oil
 - 1 teaspoon cumin seed
 - 1 teaspoon coriander seed
@@ -56,10 +56,8 @@ Chopped Red Peppers for Color  (Optional)
 - 1 cup rice wine vinegar
 - 1/2 cup cider vinegar
 - 3 tablespoons sugar
-- 1 teaspoon pickling salt
+- 1 teaspoon pickling salt</p>
 
-**Directions**                                                                     
-1. Heat the canola oil in a heavy skillet over medium heat. Crush the cumin seed with the coriander seed and add to the pan. Add the curry powder, ginger, and garlic to the pan. Cook these spices, stirring until the oil colors and the spices are fragrant. Add the cauliflower florets to the pan and toss to coat.
+<p><strong>Directions</strong>                                                                   <br/>1. Heat the canola oil in a heavy skillet over medium heat. Crush the cumin seed with the coriander seed and add to the pan. Add the curry powder, ginger, and garlic to the pan. Cook these spices, stirring until the oil colors and the spices are fragrant. Add the cauliflower florets to the pan and toss to coat.
 2. In a lidded plastic container, combine the water, rice wine vinegar, cider vinegar, sugar, and pickling salt. Shake to combine.
-3. Once the cauliflower is slightly tender, add it to a glass jar. Pour the pickling liquid over the cauliflower, filling to the top of the jar. Cool, chill, and store the pickles for 1 week to allow the flavors to develop thoroughly.
-</section>
+3. Once the cauliflower is slightly tender, add it to a glass jar. Pour the pickling liquid over the cauliflower, filling to the top of the jar. Cool, chill, and store the pickles for 1 week to allow the flavors to develop thoroughly.</p></section>

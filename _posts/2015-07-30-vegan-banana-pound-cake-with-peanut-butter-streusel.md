@@ -54,27 +54,12 @@ __7.  Cool slightly before serving.__
 <figure> <img src='/images/139-10.jpg'> </figure>
 
 <section class='recipe'>
-__Ingredients__
+<p><strong>Ingredients</strong></p>
 
-(Makes 1 loaf)
+<p>(Makes 1 loaf)</p>
 
-- 2 cups cake flour
-- 2 teaspoons baking powder
-- pinch salt
-- 3 medium bananas
-- 8 oz silken tofu (1/2 package)
-- 3/4 cup coconut oil, softened
-- 1/3 cup butter substitute
-- 1 1/2 cups sugar
-- 1/2 teaspoon almond extract
-- 1 1/2 teaspoons vanilla
-- 1/2 cup walnuts, optional
+<ul><li>2 cups cake flour</li><li>2 teaspoons baking powder</li><li>pinch salt</li><li>3 medium bananas</li><li>8 oz silken tofu (1/2 package)</li><li>3/4 cup coconut oil, softened</li><li>1/3 cup butter substitute</li><li>1 1/2 cups sugar</li><li>1/2 teaspoon almond extract</li><li>1 1/2 teaspoons vanilla</li><li>1/2 cup walnuts, optional</li></ul>
 
-For PB Streusel
+<p>For PB Streusel</p>
 
-- 1/3 cup golden brown sugar
-- 1/3 cup old-fashioned oats
-- 1/3 cup all purpose flour
-- dash of salt
-- 1/3 cup butter substitute, melted
-- 2 tablespoons peanut powder</section>
+<ul><li>1/3 cup golden brown sugar</li><li>1/3 cup old-fashioned oats</li><li>1/3 cup all purpose flour</li><li>dash of salt</li><li>1/3 cup butter substitute, melted</li><li>2 tablespoons peanut powder</li></ul></section>

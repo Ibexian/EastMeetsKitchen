@@ -44,7 +44,7 @@ I somehow was thinking of currywursts as I was making these and thought, hey, wo
 
 I paired the kuldony with a bit of boiled cabbage and that really balanced out the dish.  I was thinking next time to maybe put the cabbage and meat together in the pancake as that would add some bite to the pancakes.  Only I think it would be difficult getting all the water out of the cabbage...Still, I've give that a try next and remember to update this post when I do!  Anyways, if you guys are up for a bit of a challenge, give these pancakes a try. They might not initially turn out pretty, but every pancake turns out way delicious.
 <section class='recipe'>
-**Ingredients**
+<p><strong>Ingredients</strong>
 - 1 ounce ground chicken sausage
 - 1 ounce ground turkey
 - 2 ounces yellow onion, cut in small pieces
@@ -54,9 +54,9 @@ I paired the kuldony with a bit of boiled cabbage and that really balanced out t
 - 14 ounces fresh potato, peeled and cut into small cubes
 - 4 round tablespoons all-purpose flour
 - 1/2 beaten egg
-- 2 ounces vegetable oil
+- 2 ounces vegetable oil</p>
 
-**Directions**
+<p><strong>Directions</strong>
 1. Mix the chicken, turkey, onions, 1/4 teaspoon salt and pepper and 2 tablespoons of curry powder. Form 3 thin patties about 4 1/2 inches in diameter.
 2. Add the potatoes and remaining 1 ounce onions to a grinder and grind everything until the batter is smooth. Pour the batter in a bowl and add the flour, the remaining 1/2 teaspoon salt and the egg. Mix everything thoroughly. Form the batter into round thin pancakes.
-3. Heat the oil in a pan. Place a potato pancake in the pan, topped with a meat patty and covered by more potato batter, covering all the meat. Fry the pancake on one side, about 1 minute. Flip it to the other side with a spatula, holding the top of the not-fried side with the fork. Make the fire smaller and cover the pan. Fry for 5 to 7 minutes, turning the pancakes over from time to time.</section>
+3. Heat the oil in a pan. Place a potato pancake in the pan, topped with a meat patty and covered by more potato batter, covering all the meat. Fry the pancake on one side, about 1 minute. Flip it to the other side with a spatula, holding the top of the not-fried side with the fork. Make the fire smaller and cover the pan. Fry for 5 to 7 minutes, turning the pancakes over from time to time.</p></section>

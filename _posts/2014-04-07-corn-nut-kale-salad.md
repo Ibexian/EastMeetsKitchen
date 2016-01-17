@@ -33,39 +33,29 @@ Still, I think it's a wonderful hearty salad to have in the repertoire, and I pu
 ##### Toss Everything Together and Voila!
 <figure> <img src='/images/63-8.jpg'> </figure>
 <section class='recipe'>
-**Ingredients**
+<p><strong>Ingredients</strong></p>
 
-(6-8 people)
+<p>(6-8 people)</p>
 
-- 1 bunch of kale
-- 1 1/2 cups dried cranberries
-- 1/4 cup orange juice
-- 2 cups corn nuts
+<ul><li>1 bunch of kale</li><li>1 1/2 cups dried cranberries</li><li>1/4 cup orange juice</li><li>2 cups corn nuts</li></ul>
 
-For the Feta-Lemon dressing
+<p>For the Feta-Lemon dressing
 - juice from 1/2 lemon
 - 1/4 cup olive oil
 - 4 tablespoons Greek feta salad dressing
 - salt (to taste)
-- pepper (to taste)
- 
-**Directions**
+- pepper (to taste)</p>
 
-For Salad:
+<p><strong>Directions</strong></p>
 
-1. Carefully wash and dry kale leaves.
-2. Cut center rib off each leave.  Roll several kale leaves together and cut them into thin strips.  Set aside in bowl.
-3. Coarsely chop dried cranberries and soak in orange juice for 20 minutes.  Strain.
-4. Using a rolling pin or pan, crush corn nuts into very coarse pieces.
+<p>For Salad:</p>
 
-For dressing:
+<ol><li>Carefully wash and dry kale leaves.</li><li>Cut center rib off each leave.  Roll several kale leaves together and cut them into thin strips.  Set aside in bowl.</li><li>Coarsely chop dried cranberries and soak in orange juice for 20 minutes.  Strain.</li><li>Using a rolling pin or pan, crush corn nuts into very coarse pieces.</li></ol>
 
-1. In a small pickling jar, put in lemon juice, olive oil, greek dressing, salt, and pepper.
-2. Tightly twist on cover and shake dressing for 30 seconds to 1 minute until emulsified.  
-3. Put aside and pour over salad just prior to serving.
+<p>For dressing:</p>
 
-Assembly:
+<ol><li>In a small pickling jar, put in lemon juice, olive oil, greek dressing, salt, and pepper.</li><li>Tightly twist on cover and shake dressing for 30 seconds to 1 minute until emulsified.  </li><li>Put aside and pour over salad just prior to serving.</li></ol>
 
-1. Toss kale with cranberries and dressing.
-2. Top each salad with 2-3 tablespoons of crushed corn nuts.
-</section>
+<p>Assembly:</p>
+
+<ol><li>Toss kale with cranberries and dressing.</li><li>Top each salad with 2-3 tablespoons of crushed corn nuts.</li></ol></section>

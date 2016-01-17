@@ -55,29 +55,12 @@ For tips on how to deal with quiche dough, check out the [Hard to Work with Doug
 
 
 <section class='recipe'>
-**Ingredients**
+<p><strong>Ingredients</strong></p>
 
-For Shell:
+<p>For Shell:</p>
 
-- 1 1/2 cups all-purpose flour
-- 1/2 tsp salt
-- 4 tbsp unsalted butter, chilled
-- 1/4 cup vegetable shortening
-- 3 to 4 tbsp cold water
-- 4 cups of rice, for blind baking
+<ul><li>1 1/2 cups all-purpose flour</li><li>1/2 tsp salt</li><li>4 tbsp unsalted butter, chilled</li><li>1/4 cup vegetable shortening</li><li>3 to 4 tbsp cold water</li><li>4 cups of rice, for blind baking</li></ul>
 
+<p>For Filling:</p>
 
-For Filling:
-
-- 5 tbsp unsalted butter
-- 1 cup packed light brown sugar
-- 3/4 cup light corn syrup
-- 1/2 tsp salt
-- 2 cups chopped pecans, toasted
-- 1 to 2 tablespoons bourbon
-- 2 tsp pure vanilla extract
-- 1/4 cup coffee
-- 1/4 tsp cayenne
-- 1/2 tsp cinnamon
-- 3 eggs, lightly beaten
-- pinch of sea salt</section>
+<ul><li>5 tbsp unsalted butter</li><li>1 cup packed light brown sugar</li><li>3/4 cup light corn syrup</li><li>1/2 tsp salt</li><li>2 cups chopped pecans, toasted</li><li>1 to 2 tablespoons bourbon</li><li>2 tsp pure vanilla extract</li><li>1/4 cup coffee</li><li>1/4 tsp cayenne</li><li>1/2 tsp cinnamon</li><li>3 eggs, lightly beaten</li><li>pinch of sea salt</li></ul></section>

@@ -16,23 +16,23 @@ Since I cut the pork up into small short strips, it picked up the flavor of the 
 
 (Full recipe Below)
 <section class='recipe'>
-1. Marinade pork with oyster sauce, sugar, garlic, cornstarch, and 1 tablespoon of oil for 5 minutes.
+<ol><li>Marinade pork with oyster sauce, sugar, garlic, cornstarch, and 1 tablespoon of oil for 5 minutes.</li></ol>
 
-![marinated pork](../img/45-2.jpg "")
+<p><img alt="marinated pork" title="" src="../img/45-2.jpg"/></p>
 
-2. While the pork is marinating, cut the mustard greens into a fine dice.
+<ol><li>While the pork is marinating, cut the mustard greens into a fine dice.</li></ol>
 
-![Chinese pickled mustard greens](../img/45-3.JPG "")
+<p><img alt="Chinese pickled mustard greens" title="" src="../img/45-3.JPG"/></p>
 
-3. On medium high to high heat, cook the pork for 4-5 minutes.      While pork is still in the pan, add several tablespoons of        water to deglaze and make a sauce.  Add in chopped mustard        greens and cook for an additional 30 seconds.
+<ol><li>On medium high to high heat, cook the pork for 4-5 minutes.      While pork is still in the pan, add several tablespoons of        water to deglaze and make a sauce.  Add in chopped mustard        greens and cook for an additional 30 seconds.</li></ol>
 
-![Cooked strips of pork](../img/45-4.jpg "")
+<p><img alt="Cooked strips of pork" title="" src="../img/45-4.jpg"/></p>
 
-**Ingredients**
+<p><strong>Ingredients</strong>
 - 1/2 lb  Pork (cut into strips)
 - 1 T     Oyster sauce
 - 1 T     Corn Starch
 - 1 tsp   Minced garlic or garlic powder
 - 1/2 tsp Sugar
 - 1/2     Package suan cai
-- 2 T     Olive oil</section>
+- 2 T     Olive oil</p></section>

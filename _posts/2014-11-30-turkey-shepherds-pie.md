@@ -47,21 +47,8 @@ __Let cool for 5-10 minutes before serving.__
 
 
 <section class='recipe'>
-__Ingredients__
+<p><strong>Ingredients</strong></p>
 
-(Makes one 8-inch pie)
+<p>(Makes one 8-inch pie)</p>
 
-
-- 2 carrots, diced into small chunks
-- 1 cup green beans, cut into threes
-- 1/2 teaspoon dried thyme
-- 1/2 teaspoon salt
-- 1/2 teaspoon black pepper
-- 1/2 cup turkey stock
-- 1 3/4 cups gravy
-- 1 1/2 cups turkey, shredded
-- 1/2 cup corn
-- 1 cup mashed potatoes
-- 1/4 cup milk
-- 1/4 cup parmesan cheese, grated
-</section>
+<ul><li>2 carrots, diced into small chunks</li><li>1 cup green beans, cut into threes</li><li>1/2 teaspoon dried thyme</li><li>1/2 teaspoon salt</li><li>1/2 teaspoon black pepper</li><li>1/2 cup turkey stock</li><li>1 3/4 cups gravy</li><li>1 1/2 cups turkey, shredded</li><li>1/2 cup corn</li><li>1 cup mashed potatoes</li><li>1/4 cup milk</li><li>1/4 cup parmesan cheese, grated</li></ul></section>

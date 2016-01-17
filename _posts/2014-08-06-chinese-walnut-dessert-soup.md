@@ -46,11 +46,6 @@ I decided to change this up a little and add toasted rice, which will give the w
 
 <figure> <img src='/images/96-10.jpg'> </figure>
 <section class='recipe'>
-**Ingredients**
+<p><strong>Ingredients</strong></p>
 
-- 2 cups shelled walnuts
-- 1/4 cup rice
-- 4 cups water
-- 1 1/2 slabs brown candy (3 oz)
-- milk (optional)
-</section>
+<ul><li>2 cups shelled walnuts</li><li>1/4 cup rice</li><li>4 cups water</li><li>1 1/2 slabs brown candy (3 oz)</li><li>milk (optional)</li></ul></section>

@@ -35,18 +35,13 @@ Spoon them into balls and press down with a fork
 <figure> <img src='/images/31-6.jpg'> </figure>
 
 <section class='recipe'>
-**Ingredients**
+<p><strong>Ingredients</strong></p>
 
-(makes 24 cookies)
+<p>(makes 24 cookies)</p>
 
-- 1 cup natural peanut butter
-- 1/2 - 3/4 cup sugar
-- 1 large egg, lightly beaten
-- 1 teaspoon vanilla extract
-- Coarse sea salt
-- Optional: rehydrated cranberries
+<ul><li>1 cup natural peanut butter</li><li>1/2 - 3/4 cup sugar</li><li>1 large egg, lightly beaten</li><li>1 teaspoon vanilla extract</li><li>Coarse sea salt</li><li>Optional: rehydrated cranberries</li></ul>
 
-**Directions**
+<p><strong>Directions</strong>
 1. Preheat the oven to 350 degrees Fahrenheit.  In a bowl, mix the peanut butter, sugar, egg and vanilla until well combined. 
 2. Spoon 1 tablespoon of mixture about 1 inch apart onto ungreased baking sheets. Flatten the dough with the tines of a fork, making a crosshatch pattern on the cookies. 
-3. Sprinkle coarse salt on top of the cookies. Bake for 10 minutes rotating the pans halfway.</section>
+3. Sprinkle coarse salt on top of the cookies. Bake for 10 minutes rotating the pans halfway.</p></section>

@@ -23,25 +23,12 @@ So just some notes on this recipe.  If you're not too into the raw flavor of sca
 #### Serve with Soy Sauce
 <figure> <img src='/images/67-6.jpg'> </figure>
 <section class='recipe'>
-**Ingredients**
+<p><strong>Ingredients</strong></p>
 
-(Serves 2 people)
+<p>(Serves 2 people)</p>
 
-- 1 cup all-purpose flour
-- 1 cup water
-- 2 tsp miso paste
-- 1 tsp sugar
-- 1/2 tsp sesame oil
-- 10 stalks of scallions cut 5 inches long
-- vegetable oil for frying
+<ul><li>1 cup all-purpose flour</li><li>1 cup water</li><li>2 tsp miso paste</li><li>1 tsp sugar</li><li>1/2 tsp sesame oil</li><li>10 stalks of scallions cut 5 inches long</li><li>vegetable oil for frying</li></ul>
 
-**Directions**
+<p><strong>Directions</strong></p>
 
-1. Clean and dry 10 stalks of scallions cut into 5 inch long stalks.  If a stalk happens to be thick, cut in half lengthwise.
-2. In a bowl, combine flour, water, miso paste, and sesame oil into a smooth batter
-3. Add several tablespoons of oil to a frying pan.  Turn heat medium to medium-high.
-4. Place 8-10 stalks of scallions parallel to one another onto the pan forming a rectangle.  Fry for about 2-3 minutes.
-5. Pour half the batter over the scallions.
-6. Fry 4-5 minutes until onions caramelize and the pancake is dark golden brown.
-7. Flip the pancake and cook for an additional 4 minutes or until golden brown.
-8. Transfer to plate and serve with soy sauce. </section>
+<ol><li>Clean and dry 10 stalks of scallions cut into 5 inch long stalks.  If a stalk happens to be thick, cut in half lengthwise.</li><li>In a bowl, combine flour, water, miso paste, and sesame oil into a smooth batter</li><li>Add several tablespoons of oil to a frying pan.  Turn heat medium to medium-high.</li><li>Place 8-10 stalks of scallions parallel to one another onto the pan forming a rectangle.  Fry for about 2-3 minutes.</li><li>Pour half the batter over the scallions.</li><li>Fry 4-5 minutes until onions caramelize and the pancake is dark golden brown.</li><li>Flip the pancake and cook for an additional 4 minutes or until golden brown.</li><li>Transfer to plate and serve with soy sauce. </li></ol></section>

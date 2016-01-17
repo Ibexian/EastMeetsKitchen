@@ -95,20 +95,20 @@ __2. Dust with powdered sugar and decorate with your favorite Halloween candies 
 
 
 <section class='recipe'>
-Ingredients:
+<p>Ingredients:</p>
 
-(Makes 15 puffs)
+<p>(Makes 15 puffs)</p>
 
-Black Sesame Pate a Choux:
+<p>Black Sesame Pate a Choux:
 - 	1/2 cup water
 -	3 tablespoons butter
 -	4 tablespoons + 4 teaspoons all-purpose flour
 -	3 tablespoons black sesame powder
 -	2 tablespoon sugar
 -	pinch of salt
--	2 eggs + 1 egg white
+-	2 eggs + 1 egg white</p>
 
-Pastry Cream:
+<p>Pastry Cream:
 -	1 egg 
 -	3 tablespoons sugar
 -	1/2 teaspoon vanilla extract
@@ -119,4 +119,4 @@ Pastry Cream:
 -	1/2 tablespoon gelatin, bloomed in 2-3 tablespoons water
 -	1 tablespoon unsalted butter
 -	1/4 cup pumpkin puree
--	1/2 cup heavy cream </section>
+-	1/2 cup heavy cream </p></section>

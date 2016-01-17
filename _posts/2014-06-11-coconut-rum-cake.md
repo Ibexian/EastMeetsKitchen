@@ -33,21 +33,12 @@ A comment about this cake is that it may initially be difficult to fold the whit
 
 
 <section class='recipe'>
-**Ingredients**
+<p><strong>Ingredients</strong></p>
 
-Cake:
+<p>Cake:</p>
 
-- ¾ stick of butter
-- 4 egg yolks
-- 1 tablespoon vanilla
-- 2/3 cup flour
-- 2/3 cup sugar
-- 1 2/3 cup shredded, sweetened coconut (reserve 1/3 cup for sprinkling on top of cake)
-- 4 egg whites
+<ul><li>¾ stick of butter</li><li>4 egg yolks</li><li>1 tablespoon vanilla</li><li>2/3 cup flour</li><li>2/3 cup sugar</li><li>1 2/3 cup shredded, sweetened coconut (reserve 1/3 cup for sprinkling on top of cake)</li><li>4 egg whites</li></ul>
 
-Rum Sauce:
+<p>Rum Sauce:</p>
 
-- 1 cup granulated sugar
-- ¼  cup water
-- 1 stick butter
-- ½ cup spiced rum </section>
+<ul><li>1 cup granulated sugar</li><li>¼  cup water</li><li>1 stick butter</li><li>½ cup spiced rum </li></ul></section>

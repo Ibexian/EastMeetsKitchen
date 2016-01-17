@@ -69,7 +69,7 @@ The only tip I will give about this basic dough is you need to knead the dough l
 
 <figure> <img src='/images/98-13.jpg'> </figure>
 <section class='recipe'>
-**Ingredients**
+<p><strong>Ingredients</strong>
 - 8 cups all purpose Flour
 - 1 cup + 2 tbsp granulated sugar
 - 3 eggs
@@ -78,4 +78,4 @@ The only tip I will give about this basic dough is you need to knead the dough l
 - 2 tsp salt
 - 6 1/2 tsp yeast
 - 1 3/4 cup water
-- 2 tbsp bread improver </section>
+- 2 tbsp bread improver </p></section>

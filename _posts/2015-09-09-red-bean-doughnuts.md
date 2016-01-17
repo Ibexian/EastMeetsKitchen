@@ -27,25 +27,12 @@ __Directions__
 9. While donuts are cooling, whisk together red bean paste and enough soymilk so that mixture is smooth and able to be piped. 
 10. Fill piping bag fitted with an eclair attachment. Pipe filling into the side of the donut or pipe a small mound right on top.
 <section class='recipe'>
-__Ingredients__
+<p><strong>Ingredients</strong></p>
 
-(This recipe makes 15 doughnuts)
+<p>(This recipe makes 15 doughnuts)</p>
 
-* 1/4 cup San Sui Silken Tofu, pureed (use about 1/2 block tofu)
-* 2 cup all-purpose flour 
-* 2 tsp. baking powder 
-* 1 tsp. baking soda 
-* 1 tsp. ground cinnamon 
-* 1/2 tsp. ground nutmeg 
-* 1/4 tsp. ground ginger powder 
-* 1/2 tsp. salt 
-* 2 1/2 tbsp. butter, room temperature 
-* 10 tbsp. sugar, reserve 4 tbsp. for coating donuts at the end 
-* 1 egg 
-* 1/4 cup apple cider 
-* oil for frying
+<ul><li>1/4 cup San Sui Silken Tofu, pureed (use about 1/2 block tofu)</li><li>2 cup all-purpose flour </li><li>2 tsp. baking powder </li><li>1 tsp. baking soda </li><li>1 tsp. ground cinnamon </li><li>1/2 tsp. ground nutmeg </li><li>1/4 tsp. ground ginger powder </li><li>1/2 tsp. salt </li><li>2 1/2 tbsp. butter, room temperature </li><li>10 tbsp. sugar, reserve 4 tbsp. for coating donuts at the end </li><li>1 egg </li><li>1/4 cup apple cider </li><li>oil for frying</li></ul>
 
-Red Bean Paste Filling:
+<p>Red Bean Paste Filling:</p>
 
-* 1/4 to 1/2 cup Vitasoy Unsweetened Refrigerated Soymilk
-* 3/4 cup red bean paste, canned</section>
+<ul><li>1/4 to 1/2 cup Vitasoy Unsweetened Refrigerated Soymilk</li><li>3/4 cup red bean paste, canned</li></ul></section>

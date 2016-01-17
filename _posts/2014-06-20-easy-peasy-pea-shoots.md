@@ -30,12 +30,8 @@ Anyways, this is a super simple recipe with just some garlic, oil, and salt, but
 
 
 <section class='recipe'>
-**Ingredients**
+<p><strong>Ingredients</strong></p>
 
-(Serves 2 people)
+<p>(Serves 2 people)</p>
 
-- 1 bunch of pea shoots
-- 1 clove of garlic, cut into thin slices
-- 2 tbs olive oil
-- dash of salt
-</section>
+<ul><li>1 bunch of pea shoots</li><li>1 clove of garlic, cut into thin slices</li><li>2 tbs olive oil</li><li>dash of salt</li></ul></section>

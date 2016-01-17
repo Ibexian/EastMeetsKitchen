@@ -45,10 +45,10 @@ __6. Ready to serve.__
 
 <figure> <img src='/images/136-8.jpg'> </figure>
 <section class='recipe'>
-__Recipe__
+<p><strong>Recipe</strong>
 - 1 bag of ramen (including seasoning packets)
 - 1 slice of spam, cubed
 - 1 cup string beans, par-boiled
 - 1 1/2 stalks spring onions, sliced on the diagonal
 - 1 teaspoon curry powder
-- 2 tablespoons oil</section>
+- 2 tablespoons oil</p></section>

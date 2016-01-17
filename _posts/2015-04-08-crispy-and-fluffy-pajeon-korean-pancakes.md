@@ -48,17 +48,8 @@ __Ready to serve.__
 
 
 <section class='recipe'>
-__Recipe__
+<p><strong>Recipe</strong></p>
 
-(Makes 4-5 pancakes)
+<p>(Makes 4-5 pancakes)</p>
 
-- 4-6 stalks of scallion
-- 2/3 cup rice flour
-- 1/2 cup all-purpose flour
-- 1 teaspoon sugar
-- 1/4 teaspoon salt
-- 1 cup seltzer water
-- 1/3 cup water
-- 1 egg
-- 2 tablespoons soybean paste
-- oil for frying</section>
+<ul><li>4-6 stalks of scallion</li><li>2/3 cup rice flour</li><li>1/2 cup all-purpose flour</li><li>1 teaspoon sugar</li><li>1/4 teaspoon salt</li><li>1 cup seltzer water</li><li>1/3 cup water</li><li>1 egg</li><li>2 tablespoons soybean paste</li><li>oil for frying</li></ul></section>

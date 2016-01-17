@@ -16,10 +16,10 @@ I've tried to make homemade rice cakes by squishing together paddies of rice bef
 
 I went home and thought, "I have to find this recipe!"  Luckily, The Elephant Walk actually came up with their cookbook a little while back and I was able to find the recipe.  I'm not sure when I'll get to give this a try, but I definitely recommend all of you do.
 <section class='recipe'>
-**Ingredients**
-Serves 6 people
+<p><strong>Ingredients</strong>
+Serves 6 people</p>
 
-For the Pork Sauce
+<p>For the Pork Sauce
 - 1/4 cup vegetable oil
 - 1/2 pound ground pork
 - 1 dried new mexico chili ground to powder or 1 tablespoons of paprika
@@ -27,22 +27,19 @@ For the Pork Sauce
 - 1 cup unsweetened coconut milk 
 - 1/4 cup sugar
 - 1/4 cup peanuts, roasted and coarsely ground
-- 1 tablespoon fish sauce  
-- 1/2 teaspoon salt
+- 1 tablespoon fish sauce<br/>- 1/2 teaspoon salt</p>
 
-**Directions**
+<p><strong>Directions</strong>
 1.	Heat oil over medium high heat.  Add pork and chili powder.  Cook for 3 minutes while breaking pork apart.
-2.	Add garlic and shallot.  
-3.	Then stir in coconut milk, sugar, peanuts, fish sauce, and slat.  Cook for an additional 10 minutes or until pork is no longer pink and garlic and shallots have softened and flavors have blended.
-4.	Serve warm with crispy rice or bread.
+2.	Add garlic and shallot.<br/>3.	Then stir in coconut milk, sugar, peanuts, fish sauce, and slat.  Cook for an additional 10 minutes or until pork is no longer pink and garlic and shallots have softened and flavors have blended.
+4.	Serve warm with crispy rice or bread.</p>
 
-
-For the Rice
+<p>For the Rice
 - 4 cups cooked jasmine
-- 4-5 cups vegetable oil
+- 4-5 cups vegetable oil</p>
 
-**Directions**
+<p><strong>Directions</strong>
 1. Cook rice while pressing down into cakes
 2. Dry in oven 45-60 minutes at 200 degrees F
 3. Keep airtight several months.
-4. When ready, fry in oil at least 375</section>
+4. When ready, fry in oil at least 375</p></section>

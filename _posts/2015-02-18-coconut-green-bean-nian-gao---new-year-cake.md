@@ -55,14 +55,8 @@ __6. Cake can be sliced and eaten as is or cut into 1/2-inch slices and pan frie
 <figure> <img src='/images/121-10.jpg'> </figure>
 
 <section class='recipe'>
-__Recipe__
+<p><strong>Recipe</strong></p>
 
-(Serves 6-8 people)
+<p>(Serves 6-8 people)</p>
 
-- 2/3 cup water
-- 2 pieces of slab sugar
-- 1 1/2 cups glutinous rice flour
-- 1/3 cup rice flour
-- 1/3 cup coconut milk
-- oil for coating pan
-- 1/4 cup cooked mung beans</section>
+<ul><li>2/3 cup water</li><li>2 pieces of slab sugar</li><li>1 1/2 cups glutinous rice flour</li><li>1/3 cup rice flour</li><li>1/3 cup coconut milk</li><li>oil for coating pan</li><li>1/4 cup cooked mung beans</li></ul></section>

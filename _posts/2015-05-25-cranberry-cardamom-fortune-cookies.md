@@ -75,17 +75,8 @@ __8. Ready to be eaten or packaged as gifts!!__
 <figure> <img src='/images/126-17.jpg'> </figure>
 
 <section class='recipe'>
-**Ingredients**
+<p><strong>Ingredients</strong></p>
 
-(Makes 12-15 cookies)
+<p>(Makes 12-15 cookies)</p>
 
-- 1/4 cup dried cranberries
-- 8 tablespoons all-purpose flour
-- 1 1/2 teaspoons cornstarch
-- 1/2 teaspoon cardamom
-- 1/4 teaspoon salt
-- 2 large egg whites
-- 8 tablespoons granulated sugar
-- 3 tablespoons vegetable oil or butter
-- 1/2 teaspoon pure vanilla extract
-- 1/2 teaspoon pure almond extract</section>
+<ul><li>1/4 cup dried cranberries</li><li>8 tablespoons all-purpose flour</li><li>1 1/2 teaspoons cornstarch</li><li>1/2 teaspoon cardamom</li><li>1/4 teaspoon salt</li><li>2 large egg whites</li><li>8 tablespoons granulated sugar</li><li>3 tablespoons vegetable oil or butter</li><li>1/2 teaspoon pure vanilla extract</li><li>1/2 teaspoon pure almond extract</li></ul></section>

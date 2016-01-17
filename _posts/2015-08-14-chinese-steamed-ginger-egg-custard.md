@@ -71,11 +71,8 @@ __8.  Take out and let rest at room temperature for 15 minutes before serving.__
 
 
 <section class='recipe'>
- __Ingredients__
+<p> <strong>Ingredients</strong></p>
 
- (Makes 3 small bowls)
- 
- - 1 cup of milk
- - 2 eggs
- - 2-3 tablespoons sugar
- - 1 inch of ginger, peeled</section>
+<p> (Makes 3 small bowls)</p>
+
+<ul><li>1 cup of milk</li><li>2 eggs</li><li>2-3 tablespoons sugar</li><li>1 inch of ginger, peeled</li></ul></section>

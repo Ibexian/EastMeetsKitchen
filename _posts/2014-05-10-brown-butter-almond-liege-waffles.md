@@ -107,24 +107,12 @@ Oh, I forgot.  I tried to freeze my dough and make it the next day to see if you
 ####Brown Butter Almond Sauce (Pour Over Waffles and Enjoy!)
 <figure> <img src='/images/72-21.jpg'> </figure>
 <section class='recipe'>
-**INGREDIENTS**
+<p><strong>INGREDIENTS</strong></p>
 
-(makes 5-10 waffles)
+<p>(makes 5-10 waffles)</p>
 
+<ul><li>1 1/2 tsp. active dry yeast</li><li>1/4 cup scalded whole milk</li><li>2 Tbsp. + 2 tsp. of water </li><li>2 cups King Arthur Bread Flour</li><li>1 large room temperature egg, lightly beaten</li><li>1Tbsp. + 1 tsp. light brown sugar</li><li>3/4 tsp. salt</li><li>8 1/2 Tbsp. soft room temperature unsalted butter</li><li>1 Tbsp. honey</li><li>2 tsp. vanilla</li><li>3/4 cup Belgian Pearl Sugar </li></ul>
 
-- 1 1/2 tsp. active dry yeast
-- 1/4 cup scalded whole milk
-- 2 Tbsp. + 2 tsp. of water 
-- 2 cups King Arthur Bread Flour
-- 1 large room temperature egg, lightly beaten
-- 1Tbsp. + 1 tsp. light brown sugar
-- 3/4 tsp. salt
-- 8 1/2 Tbsp. soft room temperature unsalted butter
-- 1 Tbsp. honey
-- 2 tsp. vanilla
-- 3/4 cup Belgian Pearl Sugar 
+<p>Brown Butter Almond Sauce</p>
 
-Brown Butter Almond Sauce
-
-- 1/4 cup sliced almonds
-- 3 Tbsp salted butter</section>
+<ul><li>1/4 cup sliced almonds</li><li>3 Tbsp salted butter</li></ul></section>

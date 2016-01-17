@@ -59,15 +59,8 @@ __Serve warm__
 <figure> <img src='/images/152-11.jpg'> </figure>
 
 <section class='recipe'>
- __Ingredients__
+<p> <strong>Ingredients</strong></p>
 
-(Makes a 10-inch pie)
+<p>(Makes a 10-inch pie)</p>
 
-- 1 [almond flax crumble topping](http://eastmeetskitchen.com/recipes/high-protein-almond-flax-crumble-topping.html)
-- 1 bag frozen berries
-- 2-3 peaches, sliced
-- 1 pint cherry tomatoes 
-- 2 tablespoons brown rice syrup
-- 1 teaspoon lemon juice
-- 1 tablespoon corn starch
-- butter or oil to grease pan</section>
+<ul><li>1 <a href="http://eastmeetskitchen.com/recipes/high-protein-almond-flax-crumble-topping.html">almond flax crumble topping</a></li><li>1 bag frozen berries</li><li>2-3 peaches, sliced</li><li>1 pint cherry tomatoes </li><li>2 tablespoons brown rice syrup</li><li>1 teaspoon lemon juice</li><li>1 tablespoon corn starch</li><li>butter or oil to grease pan</li></ul></section>

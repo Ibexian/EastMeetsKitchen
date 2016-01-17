@@ -92,26 +92,18 @@ __5. Take out of the oven and let cool.  Once cooled, store in an air-tight cont
 
 
 <section class='recipe'>
-__Recipe__
+<p><strong>Recipe</strong></p>
 
-(Yields 10 small mooncakes)
+<p>(Yields 10 small mooncakes)</p>
 
-The Shell
+<p>The Shell</p>
 
-- 3 tablespoons + 1 teaspoon Lyle’s Golden Syrup
-- 5 ¼ teaspoons vegetable oil
-- ¼ teaspoon lye water
-- 1 cup + 3 tablespoons cake flour
+<ul><li>3 tablespoons + 1 teaspoon Lyle’s Golden Syrup</li><li>5 ¼ teaspoons vegetable oil</li><li>¼ teaspoon lye water</li><li>1 cup + 3 tablespoons cake flour</li></ul>
 
-Filling
+<p>Filling</p>
 
-- 1 can lotus or red bean paste  
-- 5 preserved egg yolks, halved (optional)
-- 1 tablespoon vegetable oil (if using yolks)
+<ul><li>1 can lotus or red bean paste  </li><li>5 preserved egg yolks, halved (optional)</li><li>1 tablespoon vegetable oil (if using yolks)</li></ul>
 
-Mold and Egg Wash
+<p>Mold and Egg Wash</p>
 
-- 2-3 tablespoons corn starch
-- water, in a spritz bottle
-- 1 egg 
-</section>
+<ul><li>2-3 tablespoons corn starch</li><li>water, in a spritz bottle</li><li>1 egg </li></ul></section>

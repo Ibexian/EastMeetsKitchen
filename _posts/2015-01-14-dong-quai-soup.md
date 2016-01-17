@@ -37,12 +37,8 @@ __3.After 2 hours, add in logan fruit.  Turn off heat and wait 5 minutes before 
 <figure> <img src='/images/117-4.jpg'> </figure>
 
 <section class='recipe'>
-__Ingredients__
+<p><strong>Ingredients</strong></p>
 
-(Serves 2-3)
+<p>(Serves 2-3)</p>
 
-- 3 ½ cups water
-- 2 medium angelica roots, pre-soaked in water for 10 minutes, sliced thinly
-- ½ cup dried red jujube, pre-soaked in water for 10 minutes
-- 2 eggs, hard-boiled
-- ¼ cup logan, dried</section>
+<ul><li>3 ½ cups water</li><li>2 medium angelica roots, pre-soaked in water for 10 minutes, sliced thinly</li><li>½ cup dried red jujube, pre-soaked in water for 10 minutes</li><li>2 eggs, hard-boiled</li><li>¼ cup logan, dried</li></ul></section>

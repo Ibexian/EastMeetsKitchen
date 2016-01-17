@@ -82,19 +82,8 @@ __Dust with powdered sugar and enjoy!!__
 
 
 <section class='recipe'>
-__Ingredients__
+<p><strong>Ingredients</strong></p>
 
-(makes 24 cookies)
+<p>(makes 24 cookies)</p>
 
-- 1  stick butter
-- 1 cup cake flour
-- 1/3 cup all-purpose flour
-- 1/2 tsp salt
-- 5 tablespoons almond flour
-- 1/4 cup confectioners sugar
-- 3 egg yolks
-- 1 tablespoon almond extract
-- 1/2 teaspoon vanilla extract
-- 5-6 medium figs
-- 4 slices prosciutto
-</section>
+<ul><li>1  stick butter</li><li>1 cup cake flour</li><li>1/3 cup all-purpose flour</li><li>1/2 tsp salt</li><li>5 tablespoons almond flour</li><li>1/4 cup confectioners sugar</li><li>3 egg yolks</li><li>1 tablespoon almond extract</li><li>1/2 teaspoon vanilla extract</li><li>5-6 medium figs</li><li>4 slices prosciutto</li></ul></section>

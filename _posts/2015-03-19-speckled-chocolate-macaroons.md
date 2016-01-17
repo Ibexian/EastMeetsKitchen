@@ -43,14 +43,8 @@ A note for this recipe is that if you want to save time and put the chocolate in
 #### 5. Bake at 325°F for 20-25 minutes.
 <figure> <img src='/images/69-9.jpg'> </figure>
 <section class='recipe'>
-**Ingredients**
+<p><strong>Ingredients</strong></p>
 
-(Makes 16 mounds)
+<p>(Makes 16 mounds)</p>
 
-- 4 ounces semi-sweet chocolate (cut into very small pieces)
-- 3 large egg whites
-- 1/2 cup sugar
-- dash of salt
-- 1/2 teaspoon vanilla extract
-- 10 ounces sweetened shredded coconut
-</section>
+<ul><li>4 ounces semi-sweet chocolate (cut into very small pieces)</li><li>3 large egg whites</li><li>1/2 cup sugar</li><li>dash of salt</li><li>1/2 teaspoon vanilla extract</li><li>10 ounces sweetened shredded coconut</li></ul></section>

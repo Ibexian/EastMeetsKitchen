@@ -43,14 +43,8 @@ __5. Serve over chicken.__
 
 
 <section class='recipe'>
-__Ingredients__
+<p><strong>Ingredients</strong></p>
 
-(makes 1/3 cup)
+<p>(makes 1/3 cup)</p>
 
-- 2 inches ginger
-- 4 stalks of scallion
-- 1 teaspoon lemon juice
-- 2 teaspoons sugar
-- dash of salt
-- 2 tablespoons soy sauce
-- 1/4 cup oil</section>
+<ul><li>2 inches ginger</li><li>4 stalks of scallion</li><li>1 teaspoon lemon juice</li><li>2 teaspoons sugar</li><li>dash of salt</li><li>2 tablespoons soy sauce</li><li>1/4 cup oil</li></ul></section>

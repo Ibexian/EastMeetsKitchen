@@ -42,17 +42,8 @@ __8. Carefully open parchment to let out steam.  Fish can be served as is or on 
 
 <figure> <img src='/images/111-9.jpg'> </figure>
 <section class='recipe'>
-__Ingredients__
+<p><strong>Ingredients</strong></p>
 
-(Serves 4)
+<p>(Serves 4)</p>
 
-- 4 6-ounce haddock filets
-- 1 tablespoon salt
-- 1 teaspoon ground pepper
-- 4 dried shitake mushrooms
-- 1 cup water
-- 1 orange
-- 8 sprigs cilantro
-- 1/2 cup orange juice
-- 5 tablespoons soy sauce
-</section>
+<ul><li>4 6-ounce haddock filets</li><li>1 tablespoon salt</li><li>1 teaspoon ground pepper</li><li>4 dried shitake mushrooms</li><li>1 cup water</li><li>1 orange</li><li>8 sprigs cilantro</li><li>1/2 cup orange juice</li><li>5 tablespoons soy sauce</li></ul></section>

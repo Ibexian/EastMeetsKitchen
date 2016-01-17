@@ -60,30 +60,14 @@ I'm a New Englander, and nothing gets more New England (dessert-wise) than whoop
 
 
 <section class='recipe'>
-**Ingredients**
+<p><strong>Ingredients</strong></p>
 
-(Makes 6-8 whoopie pies)
+<p>(Makes 6-8 whoopie pies)</p>
 
-For Cake Batter:
+<p>For Cake Batter:</p>
 
-- 1 1/2 cups all-purpose flour 
-- 1/2 teaspoon baking soda 
-- 1 teaspoon baking powder 
-- 1/2 teaspoon salt 
-- 2 teaspoons pumpkin spice
-- 1 1/2 cup pumpkin, pureed 
-- 1/2 cup pumpkin cider beer
-- 1 large egg 
-- 2/3 cup packed light brown sugar
-- 1/2 cup vegetable oil 
-- 1 teaspoon pure vanilla extract 
+<ul><li>1 1/2 cups all-purpose flour </li><li>1/2 teaspoon baking soda </li><li>1 teaspoon baking powder </li><li>1/2 teaspoon salt </li><li>2 teaspoons pumpkin spice</li><li>1 1/2 cup pumpkin, pureed </li><li>1/2 cup pumpkin cider beer</li><li>1 large egg </li><li>2/3 cup packed light brown sugar</li><li>1/2 cup vegetable oil </li><li>1 teaspoon pure vanilla extract </li></ul>
 
+<p>For Cream Cheese Filling:</p>
 
-For Cream Cheese Filling:
-
-- 3/4 cup heavy cream
-- 6 ounce cream cheese, softened
-- 6 tablespoons unsalted butter, softened
-- 1/2 cup powdered sugar
-- Pinch of salt
-</section>
+<ul><li>3/4 cup heavy cream</li><li>6 ounce cream cheese, softened</li><li>6 tablespoons unsalted butter, softened</li><li>1/2 cup powdered sugar</li><li>Pinch of salt</li></ul></section>

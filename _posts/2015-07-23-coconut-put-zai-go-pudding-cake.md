@@ -51,14 +51,8 @@ __8.  Let pudding cakes cool for about 2 hours before serving.__
 <figure> <img src='/images/138-11.jpg'> </figure>
 
 <section class='recipe'>
-__Ingredients__
+<p><strong>Ingredients</strong></p>
 
-(Makes 3 pudding cakes)
+<p>(Makes 3 pudding cakes)</p>
 
-- 2 tablespoons + 1 teaspoon sugar 
-- 1/2 cup water
-- 1/4 cup rice flour
-- 5 teaspoons wheat starch
-- 1/4 cup coconut milk 
-- 3 tablespoons azuki or green beans, cooked
-- oil, for greasing cups</section>
+<ul><li>2 tablespoons + 1 teaspoon sugar </li><li>1/2 cup water</li><li>1/4 cup rice flour</li><li>5 teaspoons wheat starch</li><li>1/4 cup coconut milk </li><li>3 tablespoons azuki or green beans, cooked</li><li>oil, for greasing cups</li></ul></section>

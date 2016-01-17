@@ -41,9 +41,9 @@ The recipe I made today was based out of a recipe from the book called "Fluffy E
 
 <figure> <img src='/images/51-7.jpg'> </figure>
 <section class='recipe'>
-(Makes 2-3 servings)
+<p>(Makes 2-3 servings)</p>
 
-**Ingredients**
+<p><strong>Ingredients</strong>
 - 1/2 pound ground turkey
 - 1 tablespoon sake or rice wine
 - 2 teaspoons soy sauce
@@ -52,5 +52,4 @@ The recipe I made today was based out of a recipe from the book called "Fluffy E
 - 3 eggs
 - 2 tablespoon canola oil
 - 1 cup rice, cooked
-- 1 stalk scallions
-</section>
+- 1 stalk scallions</p></section>

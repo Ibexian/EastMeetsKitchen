@@ -1,5 +1,6 @@
 var fs = require('fs');
 var mkdirp = require('mkdirp');
+var markdown = require( "markdown" ).markdown;
 var tag = "recipes";
 
 var writer = function(name, content) {
@@ -56,22 +57,20 @@ var reader = function(name, type) {
 		    if (err) { throw err;}
 		    var blogData = data.replace(/!\[.*]\(\..\/img\/(\S*).*\)/g, "<figure> <img src='/images/$1'> </figure>"); //Remove final eol
 		    content += "\r---\r\r" + blogData;
-			// Write the file
-		    writer(fileName, content);
-		});
-
-		if (tag === "recipes"){
-			fs.readFile('./input/_' + name + '/recipe.markdown', 'utf8', function read(err, data) {
-		    	var newContent = "";
-			    if (err) { throw err;}
-			    newContent += "\r<section class='recipe'>\r" + data.replace(/!\[.*]\(\/img\/(\S*).*\)/g, "<figure> <img src='/images/$1'> </figure>") + "</section>";
-				// Append to previously created file
-		    	fs.appendFile("./output/" + fileName + ".md", newContent, function(err) {
-				    if(err) { return console.log(err); }
-				    console.log("recipe added");
+			if (tag === "recipes"){
+				fs.readFile('./input/_' + name + '/recipe.markdown', 'utf8', function read(err, data) {
+				    if (err) { throw err;}
+				    var data = data.replace(/!\[.*]\(\/img\/(\S*).*\)/g, "<figure> <img src='/images/$1'> </figure>");
+				    var htmlData = markdown.toHTML(data);
+				    content += "\r<section class='recipe'>\r" + htmlData + "</section>";
+					// Write the file
+		    		writer(fileName, content);
 				});
-			});
-		}
+			} else {
+				// Write the file
+		    	writer(fileName, content);
+			}
+		});
 	});
 };
 

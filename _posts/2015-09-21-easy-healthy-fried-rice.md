@@ -51,17 +51,8 @@ __Enjoy!__
 
 
 <section class='recipe'>
-__Ingredients__
+<p><strong>Ingredients</strong></p>
 
-(makes 3-4 portions)
+<p>(makes 3-4 portions)</p>
 
-- 2 stalks scallions
-- 1-2 tablespoons olive oil
-- 2 eggs
-- dash salt
-- 1/4 teaspoon garlic, crushed
-- 1 cup uncooked rice, cooked
-- 1/2 - 3/4 teaspoon soy sauce
-- 1/2 cup meat, cut into small pieces
-- 1/2 cup string beans, cut into small pieces
-</section>
+<ul><li>2 stalks scallions</li><li>1-2 tablespoons olive oil</li><li>2 eggs</li><li>dash salt</li><li>1/4 teaspoon garlic, crushed</li><li>1 cup uncooked rice, cooked</li><li>1/2 - 3/4 teaspoon soy sauce</li><li>1/2 cup meat, cut into small pieces</li><li>1/2 cup string beans, cut into small pieces</li></ul></section>

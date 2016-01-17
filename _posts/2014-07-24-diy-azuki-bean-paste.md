@@ -30,9 +30,6 @@ The paste is super versatile and honestly, can be used for filling in so many th
 <figure> <img src='/images/90-6.jpg'> </figure>
 
 <section class='recipe'>
-**Ingredients**
+<p><strong>Ingredients</strong></p>
 
-- 1 cup Azuki beans 
-- Water
-- 1 cup granulated sugar
-- Pinch of salt</section>
+<ul><li>1 cup Azuki beans </li><li>Water</li><li>1 cup granulated sugar</li><li>Pinch of salt</li></ul></section>

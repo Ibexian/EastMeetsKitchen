@@ -44,19 +44,19 @@ My trick behind making the cakes was to use muffin tins or even better if you ha
 
 
 <section class='recipe'>
-**Ingredients**
+<p><strong>Ingredients</strong></p>
 
-Batter:
+<p>Batter:
 - 1 1/4 cup cake flour
 - 1/2 cup sugar
 - 1/2 tsp baking powder
 - 1 egg
 - 1/3 cup milk
-- splash of vanilla extract
+- splash of vanilla extract</p>
 
-Filling:
-- 1/2 cup Fluff or marshmallow spread
+<p>Filling:
+- 1/2 cup Fluff or marshmallow spread</p>
 
-Ganache Coating:
+<p>Ganache Coating:
 - 8 oz chocolate chips (1/2 bag)
-- 1 cup heavy cream</section>
+- 1 cup heavy cream</p></section>

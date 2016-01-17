@@ -42,13 +42,8 @@ __5. Put into refrigerator for several hours until agar has set and cooled.__
 
 
 <section class='recipe'>
-__Ingredients__
+<p><strong>Ingredients</strong></p>
 
-(makes 2 jars)
+<p>(makes 2 jars)</p>
 
-- 2 teaspoons agar 
-- 2 cups water
-- 3 tablespoons honey
-- 1 tablespoon dry osmanthus
-- 4 chrysanthemum buds
-</section>
+<ul><li>2 teaspoons agar </li><li>2 cups water</li><li>3 tablespoons honey</li><li>1 tablespoon dry osmanthus</li><li>4 chrysanthemum buds</li></ul></section>

@@ -23,11 +23,11 @@ My recipe was adapted from [Serious Eats Peruvian Style Grilled Chicken](http://
 #### Serve with [Yellow Rice](http://www.eastmeetskitchen.com/recipes/easy-yellow-rice.html)
 <figure> <img src='/images/64-5.jpg'> </figure>
 <section class='recipe'>
-**Ingredients**
+<p><strong>Ingredients</strong></p>
 
-(4-5 people)
+<p>(4-5 people)</p>
 
-For the Chicken:
+<p>For the Chicken:
 - 8-10 chicken thighs
 - 4 teaspoons kosher salt
 - 2 tablespoons ground cumin
@@ -35,11 +35,8 @@ For the Chicken:
 - 1 teaspoon freshly ground black pepper
 - 3 medium cloves garlic, minced (about 1 tablespoon)
 - 2 tablespoons white vinegar
-- 2 tablespoons vegetable or canola oil
- 
-**Directions**
+- 2 tablespoons vegetable or canola oil</p>
 
-1. Grind together salt, cumin, paprika, pepper, and garlic 
-2. Add vinegar and oil to spices and mix until a paste is formed.  
-3. Spread paste over chicken thighs
-4. Bake for 40 minutes in a 400 degree Fahrenheit oven.  Chicken can also be grilled 10-15 minutes per side.</section>
+<p><strong>Directions</strong></p>
+
+<ol><li>Grind together salt, cumin, paprika, pepper, and garlic </li><li>Add vinegar and oil to spices and mix until a paste is formed.  </li><li>Spread paste over chicken thighs</li><li>Bake for 40 minutes in a 400 degree Fahrenheit oven.  Chicken can also be grilled 10-15 minutes per side.</li></ol></section>

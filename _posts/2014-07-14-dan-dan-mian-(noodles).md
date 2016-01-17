@@ -54,16 +54,8 @@ A quick tip about this recipe is to not overcook the fresh wheat noodles.  They 
 <figure> <img src='/images/92-12.jpg'> </figure>
 
 <section class='recipe'>
-**Ingredients**
+<p><strong>Ingredients</strong></p>
 
-(Serves 2-4 people)
+<p>(Serves 2-4 people)</p>
 
-- half pound fresh wheat noodles
-- half pound ground pork
-- dash of salt
-- 2 cups cabbages, diced into small pieces
-- 3 tablespoons dan dan noodle sauce
-- 1/3 cup water
-- 2 tablespoons lemon juice
-- 2 tablespoons cornstarch
-</section>
+<ul><li>half pound fresh wheat noodles</li><li>half pound ground pork</li><li>dash of salt</li><li>2 cups cabbages, diced into small pieces</li><li>3 tablespoons dan dan noodle sauce</li><li>1/3 cup water</li><li>2 tablespoons lemon juice</li><li>2 tablespoons cornstarch</li></ul></section>

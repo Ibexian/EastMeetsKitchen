@@ -58,22 +58,8 @@ Key tips to remember - this is an easy recipe.  The only thing you can mess up o
 
 
 <section class='recipe'>
-**Ingredients**
+<p><strong>Ingredients</strong></p>
 
-(Makes 6 squares)
+<p>(Makes 6 squares)</p>
 
-- 1 sticks unsalted butter, softened
-- 3/8 cup brown sugar, packed
-- 1/4 cup granulated sugar
-- 1/4 cup maple syrup
-- 1 cup + 2 tablespoons all-purpose flour
-- 1/2 teaspoon baking soda
-- Pinch salt
-- 1 packet instant coffee
-- 1 large eggs
-- 1 teaspoons pure vanilla extract
-- 1 cup semisweet chocolate chips
-- 1 teaspoon cinnamon
-- 3/4 cups white chocolate
-- 1/2 cup walnuts, toasted
-- 1/2 cup sweetened coconut</section>
+<ul><li>1 sticks unsalted butter, softened</li><li>3/8 cup brown sugar, packed</li><li>1/4 cup granulated sugar</li><li>1/4 cup maple syrup</li><li>1 cup + 2 tablespoons all-purpose flour</li><li>1/2 teaspoon baking soda</li><li>Pinch salt</li><li>1 packet instant coffee</li><li>1 large eggs</li><li>1 teaspoons pure vanilla extract</li><li>1 cup semisweet chocolate chips</li><li>1 teaspoon cinnamon</li><li>3/4 cups white chocolate</li><li>1/2 cup walnuts, toasted</li><li>1/2 cup sweetened coconut</li></ul></section>

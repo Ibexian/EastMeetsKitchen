@@ -46,16 +46,8 @@ __Serve hot__
 <figure> <img src='/images/144-8.jpg'> </figure>
 
 <section class='recipe'>
- __Ingredients__
+<p> <strong>Ingredients</strong></p>
 
-(Makes a 6-inch omelette)
- 
-- 1/4 red onion, medium
-- 1/2 Roma tomato
-- 8 leaves of spinach
-- 2 eggs
-- 1 pinch salt
-- 2 pinches of pepper
-- 1-2 tablespoons hummus
-- 1/2 leftover pizza
-- oil for pan</section>
+<p>(Makes a 6-inch omelette)</p>
+
+<ul><li>1/4 red onion, medium</li><li>1/2 Roma tomato</li><li>8 leaves of spinach</li><li>2 eggs</li><li>1 pinch salt</li><li>2 pinches of pepper</li><li>1-2 tablespoons hummus</li><li>1/2 leftover pizza</li><li>oil for pan</li></ul></section>

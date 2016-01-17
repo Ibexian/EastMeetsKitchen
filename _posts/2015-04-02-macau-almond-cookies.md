@@ -65,13 +65,8 @@ __7. Let cool before serving.__
 
 
 <section class='recipe'>
-__Recipe__
+<p><strong>Recipe</strong></p>
 
-(Serves 12-15 cookies)
+<p>(Serves 12-15 cookies)</p>
 
-- 1/2 cup almonds
-- 1 cup powdered sugar, add some for dusting wooden molds
-- 2 cups mung bean flour
-- 2/3 cup coconut oil
-- 1 tablespoon almond extract
-- 2-3 tablespoons water</section>
+<ul><li>1/2 cup almonds</li><li>1 cup powdered sugar, add some for dusting wooden molds</li><li>2 cups mung bean flour</li><li>2/3 cup coconut oil</li><li>1 tablespoon almond extract</li><li>2-3 tablespoons water</li></ul></section>

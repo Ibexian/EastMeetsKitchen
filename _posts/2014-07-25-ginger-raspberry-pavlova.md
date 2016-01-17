@@ -63,25 +63,20 @@ Anyways, hope you all enjoy this pavlova.  And if happens to break or fall apart
 <figure> <img src='/images/93-15.jpg'> </figure>
 
 <section class='recipe'>
-**Ingredients**
+<p><strong>Ingredients</strong></p>
 
-For Meringue:
+<p>For Meringue:</p>
 
-- 4 egg whites
-- 1/2 cup powdered sugar
-- 1/2 cup granulated sugar
-- 1 tsp vanilla
-- 1 tsp vinegar
-- 2 tsp cornstarch
+<ul><li>4 egg whites</li><li>1/2 cup powdered sugar</li><li>1/2 cup granulated sugar</li><li>1 tsp vanilla</li><li>1 tsp vinegar</li><li>2 tsp cornstarch</li></ul>
 
-For Ginger Raspberry Sauce:
+<p>For Ginger Raspberry Sauce:
 - half pint of rapberries
 - 3 tbs sugar
 - 1 tbs lemon juice
 - 1 tbs fresh ginger juice
-- 1/2 tsp powdered ginger
+- 1/2 tsp powdered ginger</p>
 
-For Whipped Cream:
+<p>For Whipped Cream:
 - 1 cup heavy cream
 - 1 1/2 tbs sugar
-- splash vanilla</section>
+- splash vanilla</p></section>

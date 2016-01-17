@@ -50,17 +50,8 @@ __5. Place cookies on a cookie sheet and bake for about 20 minutes.  Let cool be
 <figure> <img src='/images/132-14.jpg'> </figure>
 
 <section class='recipe'>
-__Ingredients__
+<p><strong>Ingredients</strong></p>
 
-(makes 40 cookies)
+<p>(makes 40 cookies)</p>
 
-- 1/4 cup dried cranberries, rehydrated
-- 1/4 cup dried blueberries, rehydrated
-- 1 stick unsalted butter, room temperature
-- 1/2 cup + 2 tablespoons sugar
-- 1 egg, separated
-- 1 teaspoon vanilla
-- dash salt
-- 1 1/3 cups all-purpose flour
-- 1/4 cup walnuts, chopped (optional)
-- 3 tablespoons coarse sugar (optional)</section>
+<ul><li>1/4 cup dried cranberries, rehydrated</li><li>1/4 cup dried blueberries, rehydrated</li><li>1 stick unsalted butter, room temperature</li><li>1/2 cup + 2 tablespoons sugar</li><li>1 egg, separated</li><li>1 teaspoon vanilla</li><li>dash salt</li><li>1 1/3 cups all-purpose flour</li><li>1/4 cup walnuts, chopped (optional)</li><li>3 tablespoons coarse sugar (optional)</li></ul></section>

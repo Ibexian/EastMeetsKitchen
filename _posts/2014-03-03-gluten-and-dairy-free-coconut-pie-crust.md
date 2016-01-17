@@ -23,3 +23,9 @@ So what I ended up doing to bring in a little more flavor was to substitute cano
 For Gluten Free Crusts - sprinkle pieces of the dough into the pie pan, then press it in using a piece of plastic wrap.
 
 <figure> <img src='/images/4-2.jpg'> </figure>
+<section class='recipe'>
+<p><strong>Recipe</strong></p>
+
+<p>(Makes 1 9-inch pie crush)</p>
+
+<ul><li>1 1/4 cups rice flour</li><li>1/2 cup sweet rice flour</li><li>1/2 cup tapioca starch</li><li>8 T coconut oil, chilled</li><li>5-8 T water, cold</li><li>5 T sweetened coconut</li></ul></section>

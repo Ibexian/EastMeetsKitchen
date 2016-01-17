@@ -62,12 +62,6 @@ Some tips on making this - well, you'll notice that because of the boiling water
 
 
 <section class='recipe'>
-**INGREDIENTS:**
+<p><strong>INGREDIENTS:</strong></p>
 
-- 3 cups of all-purpose flour
-- 2 teaspoon salt
-- 1 cup hot water
-- ½ cup of cold water
-- 1 tablespoon olive oil
-- 3 tablespoons of lard or vegetable shortening
-- half a bunch of scallions</section>
+<ul><li>3 cups of all-purpose flour</li><li>2 teaspoon salt</li><li>1 cup hot water</li><li>½ cup of cold water</li><li>1 tablespoon olive oil</li><li>3 tablespoons of lard or vegetable shortening</li><li>half a bunch of scallions</li></ul></section>

@@ -26,3 +26,30 @@ Chinese Sugar Slabs
 Eggs
 
 <figure> <img src='/images/49-4.jpg'> </figure>
+<section class='recipe'>
+<p>1.Break apart sheets.  Submerge them in water and bring to a boil.  Simmer for 5-10 minutes depending on how broken apart you want the sheets.</p>
+
+<p><img alt="softened bean curd sheets" title="" src="../img/49-5.jpg"/></p>
+
+<ol><li>Add sugar slabs and continue simmering till fully melted.</li></ol>
+
+<p><img alt="adding cane sugar" title="" src="../img/49-6.jpg"/></p>
+
+<ol><li>Prepare eggs by gently breaking yolks leaving delineation between yolks and whites.</li></ol>
+
+<p><img alt="beaten eggs" title="" src="../img/49-7.jpg"/></p>
+
+<ol><li>Bring soup back to a boil.  Slowly pour in the eggs.  Turn off heat and put on cover.  Wait about 5 minutes.</li></ol>
+
+<p><img alt="egg dropping into soup" title="" src="../img/49-8.jpg"/></p>
+
+<ol><li>Dessert is ready to be served warm or cold.</li></ol>
+
+<p><img alt="bean curd egg drop dessert soup" title="" src="../img/49-9.jpg"/></p>
+
+<p><strong>Ingredients</strong>
+(Makes 4-5 servings)
+- 5 cups water
+- 1/2 bag bean curd sheets
+- 1 1/2 bars Chinese slab sugar
+- 2 eggs (slightly beaten)</p></section>

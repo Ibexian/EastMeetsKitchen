@@ -60,13 +60,8 @@ __Ready to serve.__
 <figure> <img src='/images/134-13.jpg'> </figure>
 
 <section class='recipe'>
-__Ingredients__
+<p><strong>Ingredients</strong></p>
 
-(Serves 3-4)
+<p>(Serves 3-4)</p>
 
-- Oil for frying
-- 1 ball of pizza dough
-- 3-4 tablespoons flour, for rolling
-- 1 8-oz can whole tomatoes, cut into chunks
-- pizza toppings
-- salt, for taste</section>
+<ul><li>Oil for frying</li><li>1 ball of pizza dough</li><li>3-4 tablespoons flour, for rolling</li><li>1 8-oz can whole tomatoes, cut into chunks</li><li>pizza toppings</li><li>salt, for taste</li></ul></section>

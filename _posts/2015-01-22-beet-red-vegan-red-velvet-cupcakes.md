@@ -91,29 +91,13 @@ __Topped with dried beets cut into the shape of hearts__
 
 
 <section class='recipe'>
-__Ingredients__
+<p><strong>Ingredients</strong></p>
 
-Beet Cupcakes 
-(makes 12 mini cupcakes)
+<p>Beet Cupcakes 
+(makes 12 mini cupcakes)</p>
 
+<ul><li>2/3 cups cake flour </li><li>5 teaspoons cocoa powder</li><li>1/3 teaspoon baking powder </li><li>1/3 teaspoon salt </li><li>1/4 tsp cinnamon</li><li>1/4 cup almond milk + 1 teaspoon lemon juice </li><li>1 beet</li><li>1/4 cup silken tofu</li><li>1/4 cup coconut oil, melted</li><li>1/2 cup sugar</li><li>1/2 teaspoons vanilla extract </li><li>2/3 teaspoons white vinegar </li><li>1/4 teaspoon baking soda </li><li>dried beet chips for decoration</li></ul>
 
-- 2/3 cups cake flour 
-- 5 teaspoons cocoa powder
-- 1/3 teaspoon baking powder 
-- 1/3 teaspoon salt 
-- 1/4 tsp cinnamon
-- 1/4 cup almond milk + 1 teaspoon lemon juice 
-- 1 beet
-- 1/4 cup silken tofu
-- 1/4 cup coconut oil, melted
-- 1/2 cup sugar
-- 1/2 teaspoons vanilla extract 
-- 2/3 teaspoons white vinegar 
-- 1/4 teaspoon baking soda 
-- dried beet chips for decoration
+<p>Cream Cheese Frosting:</p>
 
-Cream Cheese Frosting:
-
-- 1 recipe [Vegan Cream Cheese Frosting](http://eastmeetskitchen.com/recipes/vegan-cream-cheese-frosting.html)
-
-</section>
+<ul><li>1 recipe <a href="http://eastmeetskitchen.com/recipes/vegan-cream-cheese-frosting.html">Vegan Cream Cheese Frosting</a></li></ul></section>

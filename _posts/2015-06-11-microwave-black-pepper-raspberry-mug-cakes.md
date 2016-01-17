@@ -63,18 +63,8 @@ __Ready to Serve!__
 <figure> <img src='/images/129-10.jpg'> </figure>
 
 <section class='recipe'>
-__Recipe__
+<p><strong>Recipe</strong></p>
 
-(Makes 3 small mason jar "mug cakes")
+<p>(Makes 3 small mason jar &quot;mug cakes&quot;)</p>
 
-- 2 tablespoons of butter 
-- 2 teaspoons vegetable oil 
-- 2 eggs
-- 5 tablespoons sugar
-- 3 tablespoons ricotta
-- 1 teaspoon vanilla
-- 1 teaspoon lemon zest
-- 10 tablespoons cake flour
-- 1 teaspoon baking powder
-- 1 teaspoon black pepper
-- 12 berries</section>
+<ul><li>2 tablespoons of butter </li><li>2 teaspoons vegetable oil </li><li>2 eggs</li><li>5 tablespoons sugar</li><li>3 tablespoons ricotta</li><li>1 teaspoon vanilla</li><li>1 teaspoon lemon zest</li><li>10 tablespoons cake flour</li><li>1 teaspoon baking powder</li><li>1 teaspoon black pepper</li><li>12 berries</li></ul></section>

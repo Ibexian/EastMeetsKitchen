@@ -80,38 +80,22 @@ __Enjoy!__
 <figure> <img src='/images/156-15.jpg'> </figure>
 
 <section class='recipe'>
-__Ingredients__
+<p><strong>Ingredients</strong></p>
 
-(makes 3 pop tarts)
+<p>(makes 3 pop tarts)</p>
 
-Dough
+<p>Dough</p>
 
-- 1 cup flour
-- 1 1/2 teaspoons sugar
-- 1/2 teaspoon salt
-- 3/4 teaspoon cinnamon
-- 1 stick butter, cold
-- 1 egg yolk
-- 3 tablespoons milk
+<ul><li>1 cup flour</li><li>1 1/2 teaspoons sugar</li><li>1/2 teaspoon salt</li><li>3/4 teaspoon cinnamon</li><li>1 stick butter, cold</li><li>1 egg yolk</li><li>3 tablespoons milk</li></ul>
 
-Filling
+<p>Filling</p>
 
-- 1 large apple
-- 3 tablespoons sugar
-- dash salt
-- 1/2 teaspoon cinnamon
-- 1 teaspoon lemon juice
+<ul><li>1 large apple</li><li>3 tablespoons sugar</li><li>dash salt</li><li>1/2 teaspoon cinnamon</li><li>1 teaspoon lemon juice</li></ul>
 
-Egg Wash
+<p>Egg Wash</p>
 
-- 1 Egg
-- 2 tablespoons milk
+<ul><li>1 Egg</li><li>2 tablespoons milk</li></ul>
 
-Drizzle
+<p>Drizzle</p>
 
-- 1 tablespoon butter
-- 1/4 cup powdered sugar
-- 1/2 teaspoon instant coffee granules
-- 2 tablespoons milk
-- pinch of salt 
-</section>
+<ul><li>1 tablespoon butter</li><li>1/4 cup powdered sugar</li><li>1/2 teaspoon instant coffee granules</li><li>2 tablespoons milk</li><li>pinch of salt </li></ul></section>

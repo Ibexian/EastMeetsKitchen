@@ -138,50 +138,30 @@ Baguette
 
 <figure> <img src='/images/86-16.jpg'> </figure>
 <section class='recipe'>
-**Ingredients** 
+<p><strong>Ingredients</strong> </p>
 
-**For Pork Schnitzel with Couscous**
+<p><strong>For Pork Schnitzel with Couscous</strong></p>
 
-Pork Schnitzel:
+<p>Pork Schnitzel:</p>
 
-- 4 boneless pork chops (pounded thinly)
-- 1 cup all-purpose flour
-- dash of salt and pepper 
-- 2  eggs
+<ul><li>4 boneless pork chops (pounded thinly)</li><li>1 cup all-purpose flour</li><li>dash of salt and pepper </li><li>2  eggs
 1/4 cup milk
 2 cups plain dried bread crumbs
 2 tablespoons olive oil
 2 tablespoons butter
-1 teaspoon thyme
+1 teaspoon thyme</li></ul>
 
-Couscous:
+<p>Couscous:</p>
 
-- 1 1/4 cup chicken stock
-- 2 tablespoon olive oil
-- 2 tablespoons garlic powder
-- 1 cup couscous
-- 1 teaspoon chopped cilantro
+<ul><li>1 1/4 cup chicken stock</li><li>2 tablespoon olive oil</li><li>2 tablespoons garlic powder</li><li>1 cup couscous</li><li>1 teaspoon chopped cilantro</li></ul>
 
-Suya:
+<p>Suya:</p>
 
-- 1 tablespoon garlic powder
-- 1 tablespoon ground ginger
-- 1 tablespoon paprika
-- 1/2 tablespoons cayenne powder
-- 1 tablespoon dried onion flakes
-- 2 tablespoons peanuts, finely minced
-- 1 lb boneless skinless chicken thighs
-- 2 tablespoons peanut oil
+<ul><li>1 tablespoon garlic powder</li><li>1 tablespoon ground ginger</li><li>1 tablespoon paprika</li><li>1/2 tablespoons cayenne powder</li><li>1 tablespoon dried onion flakes</li><li>2 tablespoons peanuts, finely minced</li><li>1 lb boneless skinless chicken thighs</li><li>2 tablespoons peanut oil</li></ul>
 
-Hollandaise
+<p>Hollandaise</p>
 
-- 2 egg yolks
-- 1/2 tablespoon lemon juice
-- 1/4 cup unsalted butter, melted
-- Pinch cayenne
-- Pinch salt
+<ul><li>2 egg yolks</li><li>1/2 tablespoon lemon juice</li><li>1/4 cup unsalted butter, melted</li><li>Pinch cayenne</li><li>Pinch salt</li></ul>
 
-Baguette
-- 1 French baguette
-
-</section>
+<p>Baguette
+- 1 French baguette</p></section>

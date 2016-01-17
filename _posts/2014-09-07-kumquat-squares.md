@@ -59,21 +59,14 @@ Just some tips for this recipe - make sure you don't incorporate too much air in
 
 
 <section class='recipe'>
-**Ingredients**
+<p><strong>Ingredients</strong></p>
 
-(Makes 14 pieces)
+<p>(Makes 14 pieces)</p>
 
-For shortbread crust:
+<p>For shortbread crust:</p>
 
-- 2 cups all-purpose flour
-- 1/2 cup powdered sugar
-- 1 cup butter, cut into cold cubes
- 
-For kumquat filling:
+<ul><li>2 cups all-purpose flour</li><li>1/2 cup powdered sugar</li><li>1 cup butter, cut into cold cubes</li></ul>
 
-- 2 lemons, zested and juiced
-- 6-10 fresh kumquats, juiced (optional)
-- 5-6 kumquats, candied
-- 4 eggs
-- 1 1/2 cups white sugar
-- 1/4 cup all-purpose flour</section>
+<p>For kumquat filling:</p>
+
+<ul><li>2 lemons, zested and juiced</li><li>6-10 fresh kumquats, juiced (optional)</li><li>5-6 kumquats, candied</li><li>4 eggs</li><li>1 1/2 cups white sugar</li><li>1/4 cup all-purpose flour</li></ul></section>

@@ -60,17 +60,8 @@ __9. Cut up and serve.__
 
 
 <section class='recipe'>
-__Recipe__
+<p><strong>Recipe</strong></p>
 
-(Makes an 8-inch cake)
+<p>(Makes an 8-inch cake)</p>
 
-- 1 1/3 cup flour 
-- 1/3 cup + 1 tablespoon corn starch
-- 3 tablespoons custard powder
-- 3 teaspoons baking powder
-- 1 teaspoon baking soda
-- dash of salt
-- 4 eggs
-- 1 cup light brown sugar
-- 1 1/4 cups milk
-- 1/4 cup + 1 teaspoon vegetable oil </section>
+<ul><li>1 1/3 cup flour </li><li>1/3 cup + 1 tablespoon corn starch</li><li>3 tablespoons custard powder</li><li>3 teaspoons baking powder</li><li>1 teaspoon baking soda</li><li>dash of salt</li><li>4 eggs</li><li>1 cup light brown sugar</li><li>1 1/4 cups milk</li><li>1/4 cup + 1 teaspoon vegetable oil </li></ul></section>

@@ -25,15 +25,10 @@ __Directions__
 4. Finish dough by kneading with hands for3-4 minutes until it comes together.
 5. Set aside for 1 hour before use. 
 <section class='recipe'>
-__Ingredients__
+<p><strong>Ingredients</strong></p>
 
-(Makes about 30 medium-sized dumpling wrappers)
+<p>(Makes about 30 medium-sized dumpling wrappers)</p>
 
-__Dough__
+<p><strong>Dough</strong></p>
 
-- 2 cups flour
-- 1 teaspoon salt
-- 2/3 cup boiling water
-- 1/2 cup cold water
-
-</section>
+<ul><li>2 cups flour</li><li>1 teaspoon salt</li><li>2/3 cup boiling water</li><li>1/2 cup cold water</li></ul></section>

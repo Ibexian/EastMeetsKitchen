@@ -75,22 +75,14 @@ Tips - well, you need to be patient because you will be standing next to the ove
 <figure> <img src='/images/105-15.jpg'> </figure>
 
 <section class='recipe'>
-**Ingredients**
+<p><strong>Ingredients</strong></p>
 
-(Serves 8)
+<p>(Serves 8)</p>
 
-Cake Batter:
+<p>Cake Batter:</p>
 
-- 4 whole eggs
-- 1 tbsp vanilla extract
-- 1/4 cup milk
-- 3/4 cup sugar
-- 3/4 cup brown butter
-- 1/2 cup cake flour
+<ul><li>4 whole eggs</li><li>1 tbsp vanilla extract</li><li>1/4 cup milk</li><li>3/4 cup sugar</li><li>3/4 cup brown butter</li><li>1/2 cup cake flour</li></ul>
 
-Green Tea Ganache:
+<p>Green Tea Ganache:</p>
 
-- 1/2 cup heavy cream
-- 5 oz. white chocolate chips
-- 1 tablespoon green tea powder
-</section>
+<ul><li>1/2 cup heavy cream</li><li>5 oz. white chocolate chips</li><li>1 tablespoon green tea powder</li></ul></section>

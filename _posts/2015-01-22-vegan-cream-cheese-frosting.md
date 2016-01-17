@@ -40,12 +40,8 @@ __3. Gently fold whipped coconut milk into cream cheese mixture.__
 
 <figure> <img src='/images/119-6.jpg'> </figure>
 <section class='recipe'>
-__Ingredients__
+<p><strong>Ingredients</strong></p>
 
-(Frosts 12 mini cupcakes)
+<p>(Frosts 12 mini cupcakes)</p>
 
-- 1/4 cup coconut milk, refrigerated overnight and strained
-- 2 ounces Tofutti cream cheese, cold
-- 2 tablespoons vegan butter
-- 2 tablespoons + 2 teaspoons powdered sugar
-- Small pinch of salt</section>
+<ul><li>1/4 cup coconut milk, refrigerated overnight and strained</li><li>2 ounces Tofutti cream cheese, cold</li><li>2 tablespoons vegan butter</li><li>2 tablespoons + 2 teaspoons powdered sugar</li><li>Small pinch of salt</li></ul></section>

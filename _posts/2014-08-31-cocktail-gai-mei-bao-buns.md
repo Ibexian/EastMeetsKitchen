@@ -48,24 +48,21 @@ Ok, phase two.  Cocktail buns.  What are they?  My favorite  item at the Chinese
 
 
 <section class='recipe'>
-**Ingredients**
+<p><strong>Ingredients</strong></p>
 
-(filling for 12 buns)
+<p>(filling for 12 buns)</p>
 
-Filling
+<p>Filling
 - 8 tablespoons butter
 - 1/4 cup granulated sugar 
 - 1/2 cup flour
 - 12 tablespoons milk powder
-- 1/4 cup desicated coconut 
+- 1/4 cup desicated coconut </p>
 
-Egg Wash
+<p>Egg Wash
 - 1 egg
-- 1 tablespoon milk
+- 1 tablespoon milk</p>
 
+<p>Topping</p>
 
-Topping
-
-- 5 tablespoons cake flour
-- 3 tablespoons butter
-- 5 teaspoons sugar</section>
+<ul><li>5 tablespoons cake flour</li><li>3 tablespoons butter</li><li>5 teaspoons sugar</li></ul></section>

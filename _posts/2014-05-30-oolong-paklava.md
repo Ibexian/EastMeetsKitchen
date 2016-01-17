@@ -57,28 +57,18 @@ Other than that, working with phyllo is always tricky and you need to remember t
 ####Oolong Paklava
 <figure> <img src='/images/79-12.jpg'> </figure>
 <section class='recipe'>
-**Ingredients**
+<p><strong>Ingredients</strong></p>
 
-Yield: 30 to 40 pieces
+<p>Yield: 30 to 40 pieces</p>
 
+<p>Filling Ingredients:</p>
 
-Filling Ingredients:
+<ul><li>1 1/2 cups walnuts, chopped</li><li>1/2 cup sliced almonds</li><li>1 ½ tsp ground cinnamon</li><li>1/4 tsp nutmeg</li></ul>
 
-- 1 1/2 cups walnuts, chopped
-- 1/2 cup sliced almonds
-- 1 ½ tsp ground cinnamon
-- 1/4 tsp nutmeg
+<p>Phyllo:</p>
 
-Phyllo:
+<ul><li>2 cups unsalted butter, melted</li><li>1 lb. Phyllo dough</li></ul>
 
-- 2 cups unsalted butter, melted
-- 1 lb. Phyllo dough
+<p>Simple Syrup:</p>
 
-Simple Syrup:
-
-- 2 cups sugar
-- 1 ½ cups water
-- 2 tablespoons of honey
-- 1 strip of lemon peel
-- 1 strip of lime peel
-- 2 tablespoons oolong tea leaves</section>
+<ul><li>2 cups sugar</li><li>1 ½ cups water</li><li>2 tablespoons of honey</li><li>1 strip of lemon peel</li><li>1 strip of lime peel</li><li>2 tablespoons oolong tea leaves</li></ul></section>

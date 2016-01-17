@@ -14,12 +14,12 @@ I recently did an article for the spring issue of Audrey Magazine that will be c
 
 Most Asian supermarkets carry tong choy and if they carry tong choy, they should carry the fermented tofu that traditionally pairs with this green.  I have to say that the fermented tofu smells sort of like a creamy, spicy, canned fish - if that could happen.  That being said, it gives a wonderful creaminess and spiciness to the greens.
 <section class='recipe'>
-**Ingredients**
+<p><strong>Ingredients</strong>
 - 1 bunch tong choy
 - 2 - 3 cubes fermented tofu
-- dried red pepper flakes (optional)
+- dried red pepper flakes (optional)</p>
 
-**Directions**
+<p><strong>Directions</strong>
 1.	Wash stalks thoroughly and cut stalks in half so that the bottom stalks are separated from the top leaves.
 2.	In a pot of boiling water, cook stalks for about 3 minutes.  Then put in leaves and cook for an addition 1-2 minutes.
-3.	Drain and add several cubes of fermented tofu into the greens.  Mix until cubes are creamy and well combined.</section>
+3.	Drain and add several cubes of fermented tofu into the greens.  Mix until cubes are creamy and well combined.</p></section>
