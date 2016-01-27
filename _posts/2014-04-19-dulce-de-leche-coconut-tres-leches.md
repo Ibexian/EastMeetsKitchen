@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, sweets, coconut, dulce de leche, tres leches]
 excerpt: 
 title: "Dulce de Leche Coconut Tres Leches"
 image:

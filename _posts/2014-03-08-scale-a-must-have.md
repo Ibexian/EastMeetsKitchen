@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: tips
-tags: [tips]
+tags: [tips, baking, sweets]
 excerpt: 
 title: "Scale - A Must Have"
 image:

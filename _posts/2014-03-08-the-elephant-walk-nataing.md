@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, meats, nataing]
 excerpt: 
 title: "The Elephant Walk- Nataing"
 image:

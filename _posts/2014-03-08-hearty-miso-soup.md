@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, soups, nomeats, miso soup, no meat]
 excerpt: 
 title: "Hearty Miso Soup"
 image:

@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: tips
-tags: [tips]
+tags: [tips, sweets, baking]
 excerpt: 
 title: "The Dangers of Under-Mixing"
 image:

@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, meats, pork, sour mustard greens]
 excerpt: 
 title: "Chinese Pork with Sour Mustard Greens"
 image:

@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, sweets, coconut, rum cake]
 excerpt: 
 title: "Coconut Rum Cake"
 image:

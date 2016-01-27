@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: tips
-tags: [tips]
+tags: [tips, nomeats, agar, gelatin]
 excerpt: 
 title: "Working with Agar"
 image:

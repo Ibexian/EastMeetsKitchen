@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: blog
-tags: [blog]
+tags: [blog, le chateaubriand, french cuisine]
 excerpt: "I happened to be lucky enough to visit the famed Michelin starred restaurant Le Chateaubriand on my most recent visit to Paris. This restaurant has a different menu everyday, so I think everyone eating there (including the guy who happened to nick a copy of the menu) knew they were a part of something special...."
 title: "Le Chateaubriand"
 image:

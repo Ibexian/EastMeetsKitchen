@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, meats, kolduny, curry]
 excerpt: 
 title: "Curry Kolduny"
 image:

@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: blog
-tags: [blog]
+tags: [blog, sweets, sugar, pearl sugar, belgian sugar]
 excerpt: "Just when I thought I knew all there was to know about sugar, I got hit with a recipe that called for 'Belgian Pearl sugar.'  I'm sure a lot of you have guesses as to what I'll be making (I'll link the recipe to this post when I put it up)."
 title: "Belgian Pearl Sugar"
 image:

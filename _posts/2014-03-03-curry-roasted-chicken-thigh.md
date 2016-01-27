@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, meats, curry, chicken]
 excerpt: 
 title: "Curry Roasted Chicken Thigh"
 image:

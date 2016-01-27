@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: tips
-tags: [tips]
+tags: [tips, sweets, buttercream]
 title: "How To - Pipe Buttercream Flowers"
 excerpt: 
 image:

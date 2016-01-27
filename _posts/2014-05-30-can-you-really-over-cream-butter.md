@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: tips
-tags: [tips]
+tags: [tips, butter, sweets]
 excerpt: 
 title: "Can You Really Over Cream Butter?"
 image:

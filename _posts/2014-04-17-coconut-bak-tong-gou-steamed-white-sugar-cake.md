@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, sweets, steamed cake, Chinese]
 excerpt: 
 title: "Cantonese Steamed White Sugar Cake"
 image:

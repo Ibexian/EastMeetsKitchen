@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, no meats, rice, riceandnoodles]
 excerpt: 
 title: "Easy Yellow Rice"
 image:

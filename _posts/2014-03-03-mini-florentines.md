@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, sweets, florentines, cookies]
 excerpt: 
 title: "Mini Florentines"
 image:

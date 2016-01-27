@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, sweets, chocolate chip cookies, cookies, shortbread]
 excerpt: 
 title: "Valentine's Day Chocolate Chip Shortbread Cookies"
 image:

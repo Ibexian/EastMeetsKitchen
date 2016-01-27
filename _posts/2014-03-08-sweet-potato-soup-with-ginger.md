@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, soups, dessert, sweets, sweet potato, ginger]
 excerpt: 
 title: "Sweet Potato Soup with Ginger"
 image:

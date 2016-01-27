@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: blog
-tags: [blog]
+tags: [blog, sauces, soy sauce]
 excerpt: "I'm not sure if most people are confused about this or whether they are aware that in Chinese cooking, there is a 'light' and a 'dark' soy sauce, but I wanted to demystify this a bit."
 title: "Dark Soy vs. Light Soy"
 image:

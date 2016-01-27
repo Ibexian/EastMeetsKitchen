@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, sweets, cinnamon buns]
 excerpt: 
 title: "'Cinnabon' Cinnamon Buns"
 image:

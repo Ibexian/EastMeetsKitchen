@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, nomeats, healthyrecipes, riceandnoodles]
 excerpt: 
 title: "Rice 'Bread' Buns"
 image:

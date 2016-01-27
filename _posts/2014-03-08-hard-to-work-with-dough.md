@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: tips
-tags: [tips]
+tags: [tips, nomeats, no meat]
 excerpt: 
 title: "Hard to Work With Dough"
 image:

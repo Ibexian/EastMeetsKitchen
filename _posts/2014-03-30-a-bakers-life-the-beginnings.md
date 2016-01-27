@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: blog
-tags: [blog]
+tags: [blog, sweets, baker's life]
 excerpt: "Sorry I've been missing for a couple days.  I've been wanting to write this posting for several weeks now but have been too exhausted.  From doing what you ask?  Well, for those of you who don't know me, I've been toying with the idea of going into culinary arts - professionally, for quite some time."
 title: "A Baker's Life: The Beginnings"
 image:

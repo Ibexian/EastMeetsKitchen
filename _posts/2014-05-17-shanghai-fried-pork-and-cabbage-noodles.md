@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, meats, riceandnoodles, pork and cabbage]
 excerpt: 
 title: "Shanghai Fried Pork and Cabbage Noodles"
 image:

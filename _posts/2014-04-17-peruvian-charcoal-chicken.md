@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, meats, Peru, Pervian, charcoal, chicken]
 excerpt: 
 title: "Peruvian Charcoal Chicken"
 image:

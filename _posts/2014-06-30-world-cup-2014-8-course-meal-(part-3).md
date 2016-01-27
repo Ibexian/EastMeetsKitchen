@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, worldly, meats, world cup]
 excerpt: 
 title: "World Cup 2014 8-Course Meal (Part 3)"
 image:

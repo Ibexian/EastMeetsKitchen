@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, meats, riceandnoodles]
 excerpt: 
 title: "Japanese Fluffy Egg and Meat with Rice"
 image:

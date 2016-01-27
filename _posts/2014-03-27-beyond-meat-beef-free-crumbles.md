@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: blog
-tags: [blog]
+tags: [blog, vegetarian, nomeats, beyond meat, vegan]
 excerpt: "I'm sure a lot of you saw Beyond Meat on NBC's Today's Show last Friday.  Beyond meat is a California-based company whose mission is 'to create mass-market solutions that perfectly replace animal protein with plant protein.'"
 title: "Beyond Meat: Beef-Free Crumbles"
 image:

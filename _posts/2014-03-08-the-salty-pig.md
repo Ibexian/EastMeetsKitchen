@@ -2,7 +2,7 @@
 layout: post
 categories: 
   - blog
-tags: [blog]
+tags: [blog, meats, charcuterie, salty pig]
 excerpt: "This was actually my second time at the Salty Pig located in the Backbay area of Boston.  I would say, usually, the thing that impresses me the most at this place would be their charcuterie menu."
 title: "The Salty Pig"
 image:

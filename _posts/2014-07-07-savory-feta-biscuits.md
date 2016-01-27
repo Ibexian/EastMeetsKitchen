@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, nomeats, biscuits, feta]
 excerpt: 
 title: "Feta Buttermilk Biscuits"
 image:

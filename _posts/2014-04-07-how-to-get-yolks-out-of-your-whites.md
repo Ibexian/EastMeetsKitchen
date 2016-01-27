@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: tips
-tags: [tips]
+tags: [tips, sweets]
 excerpt: 
 title: "How to Get Yolks Out of Your Whites"
 image:

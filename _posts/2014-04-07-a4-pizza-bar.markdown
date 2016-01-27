@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: blog
-tags: [blog]
+tags: [blog, pizza, meats, nomeats]
 excerpt: "I first heard of A4 - Area 4 Pizza - from Urban Daddy. They said the beer and pizza testing workshop 'pretty much sums up one version of heaven...' "
 title: "A4 Pizza"
 image:
