@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, meats, root beer, pork belly]
 excerpt: 
 title: "Root Beer Pork Belly"
 image:

@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, nomeats, no meat, fried rice, kimchi, easy, riceandnoodles]
 excerpt: 
 title: "Easy Kimchi Fried Rice"
 image:

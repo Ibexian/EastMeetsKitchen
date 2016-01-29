@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, meats, tacos]
 excerpt: 
 title: "Taco Fresca"
 image:

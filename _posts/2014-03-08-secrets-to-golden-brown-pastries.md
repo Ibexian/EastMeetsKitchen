@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: tips
-tags: [tips]
+tags: [tips, sweets, pastries]
 excerpt: 
 title: "Secrets to Golden Brown Pastries"
 image:

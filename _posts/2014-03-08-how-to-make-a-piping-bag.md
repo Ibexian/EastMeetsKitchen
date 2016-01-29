@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: tips
-tags: [tips]
+tags: [tips, sweets, piping bag]
 excerpt: 
 title: "How to Make a Piping Bag"
 image:

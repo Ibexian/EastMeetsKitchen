@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, sweets, waffles, liege waffles]
 excerpt: 
 title: "Brown Butter Liege Waffles"
 image:

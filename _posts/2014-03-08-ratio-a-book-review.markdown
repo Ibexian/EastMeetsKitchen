@@ -3,7 +3,7 @@ layout: post
 title: "Ratio - A Book Review"
 categories: blog
 excerpt: "I don't recommend many 'cookbooks' because they are sort of all the same to me.  Some have way pretty photography.  Some have interesting recipes that a recipe developer somewhere has made up.  Still they are sort of all the same - little tidbits of difference here and there, but ultimately the same."
-tags: [blog]
+tags: [blog, sweets, book review]
 image:
   feature:  39-1.jpg
 ---

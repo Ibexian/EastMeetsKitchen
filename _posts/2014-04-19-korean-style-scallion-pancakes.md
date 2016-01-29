@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, nomeats, snacks, korean scallion pancakes]
 title: "Korean Style Scallion Pancakes"
 excerpt: 
 image:

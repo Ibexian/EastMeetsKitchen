@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, sweets, healthy recipes, coconut, gluten-free, dairy-free, pie crust]
 excerpt: 
 title: "Gluten & Dairy-Free Coconut Pie Crust"
 image:

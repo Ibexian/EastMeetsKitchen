@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, meats, pork belly, momofuku]
 excerpt: 
 title: "Momofuku Pork Belly"
 image:

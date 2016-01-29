@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: blog
-tags: [blog]
+tags: [blog, sweets, pie, crack pie]
 excerpt: "I thought I would blog about my most recent holiday pie purchase - Momofuku Milk Bar's Crack Pie.  They do next day UPS air shipping, so the pie gets to you pretty quickly.  The box comes with a cool ice pack, so it stays nice and cool while shipping."
 title: "Momofuku - Crack Pie"
 image:

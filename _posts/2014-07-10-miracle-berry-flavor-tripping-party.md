@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: blog
-tags: [blog]
+tags: [blog, miracle berry, sweets]
 excerpt: "I had heard of 'miracle berry' - the fruit that turns sour foods sweet - several years back.  The idea seemed pretty neat, but I never got around to ordering it.  Then recently, I saw on some online forum that people were talking about having these 'flavor tripping' parties with miracle berries (I know, seems a little out there, but I think this 'tripping' is a good trip), so I ordered a packet from Amazon."
 title: "Miracle Berry Flavor Tripping Party"
 image:

@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, nomeats, baos, bread]
 excerpt: 
 title: "Light and Fluffy Baos"
 image:

@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, nomeats, pea shoots, vegetables]
 excerpt: 
 title: "Easy Peasy Pea Shoots"
 image:

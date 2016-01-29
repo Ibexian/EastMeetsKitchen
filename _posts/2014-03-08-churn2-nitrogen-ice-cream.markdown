@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: blog
-tags: [blog]
+tags: [blog, nitrogen ice cream, sweets]
 excerpt: "Churn2 - well, it's really Churn 'subscript 2.'  The 2 goes with the 'N' for nitrogen...(something about gases needing to be in pairs to be stable) - which is how Churn freezes their ice cream.  "
 title: "Churn2 - Nitrogen Ice Cream"
 image:

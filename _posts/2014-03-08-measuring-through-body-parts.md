@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: tips
-tags: [tips]
+tags: [tips, measuring]
 excerpt: 
 title: "Measuring Through Body Parts"
 image:

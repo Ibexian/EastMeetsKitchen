@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, sweets, chocolate chip, cookies, brown butter]
 excerpt: 
 title: "Brown Butter Chocolate Chip Cookies"
 image:

@@ -5,6 +5,8 @@ tags: [videos]
 excerpt: 
 title: "General Tso's Chicken Recipe"
 feature_video: https://www.youtube.com/embed/bMhVpj87fM4
+image:
+    feature: 177-1.jpg
 
 ---
 

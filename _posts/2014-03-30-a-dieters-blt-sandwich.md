@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, healthy recipes, meats]
 excerpt: 
 title: "A 'Dieter's' BLT Sandwich"
 image:

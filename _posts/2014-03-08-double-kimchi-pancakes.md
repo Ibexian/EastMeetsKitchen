@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, nomeats, no-meat, kimchi, pancakes]
 excerpt: 
 title: "Double Kimchi Pancakes"
 image:

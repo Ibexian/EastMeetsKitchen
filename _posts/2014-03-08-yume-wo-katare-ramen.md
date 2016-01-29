@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: blog
-tags: [blog]
+tags: [blog, meats, riceandnoodles, ramen, noodles]
 excerpt: "I don't know why I haven't written about this place before, especially because I was there during their opening back in 2012, but it's about time.  Well ok - Yume Wo Katare...some say it's the best ramen place in Boston."
 title: "Yume Wo Katare Ramen"
 image:

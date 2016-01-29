@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, sweets, soups, mung beans]
 excerpt: 
 title: "Chinese Green Bean Soup"
 image:

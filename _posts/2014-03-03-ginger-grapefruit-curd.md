@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, sweets, grapefruit, ginger, curd]
 excerpt: 
 title: "Ginger Grapefruit Curd"
 image:

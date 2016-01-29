@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: blog
-tags: [blog]
+tags: [blog, farmers' markets, nomeats]
 excerpt: "Farmer's markets aren't just a summer thing anymore.  Last week, I went to the Somerville Winter's Farmer Market on Highland Avenue and found hidden treasures that I would have otherwise not known to exist - especially during winter time.  What's neat is that the market located in an old armory and there's a cafe for market goers just outside of the hall."
 title: "Somerville Winter's Farmer's Market"
 image:

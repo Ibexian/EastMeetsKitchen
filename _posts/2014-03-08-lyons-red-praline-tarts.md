@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, sweets, nomeats, tarts]
 excerpt: 
 title: "Praline Tarts, Vieux Lyon"
 image:

@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: blog
-tags: [blog]
+tags: [blog, food trucks, sowa market, meats, riceandnoodles]
 excerpt: "I was at the SOWA Markets again this weekend doing some antiques shopping, but had to stop by the rows of food trucks first to get my grub fix.  I decided to try a food truck I hadn't tried before - Momogoose."
 title: "Momogoose Food Truck"
 image:

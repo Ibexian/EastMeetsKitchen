@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, meats, chicken]
 excerpt: 
 title: "Gourmet Shake n' Bake Chicken"
 image:

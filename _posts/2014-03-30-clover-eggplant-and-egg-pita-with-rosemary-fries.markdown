@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: blog
-tags: [blog]
+tags: [blog, nomeats, vegetarian, vegan, clover, egg and eggplant]
 excerpt: "So I stopped at Clover for a quick bite this weekend.  I don't know if any of you have heard of it, but I knew Clover as a food truck place in Boston and now it's opening up stores at various locations in Massachusetts."
 title: Clover | Eggplant and Egg Pita with Rosemary Fries
 image:

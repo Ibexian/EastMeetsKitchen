@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, sweets, soups]
 excerpt: 
 title: "Bean Curd Egg-Drop Dessert Soup"
 image:

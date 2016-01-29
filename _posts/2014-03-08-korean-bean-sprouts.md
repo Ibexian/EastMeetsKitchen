@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, nomeats, no meat, bean sprouts]
 excerpt: 
 title: "Korean Bean Sprouts"
 image:

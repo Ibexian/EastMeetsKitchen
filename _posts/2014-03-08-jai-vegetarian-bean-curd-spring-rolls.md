@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, nomeats, vegetarian, no meats, spring rolls, jai]
 excerpt: 
 title: "Jai - Vegetarian Bean Curd Spring Rolls"
 image:

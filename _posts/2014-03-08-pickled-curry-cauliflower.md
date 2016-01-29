@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, nomeats, vegetables, pickled, cauliflower]
 excerpt: 
 title: "Pickled Curry Cauliflower"
 image:

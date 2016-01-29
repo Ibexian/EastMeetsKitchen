@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, nomeats, vegetables, brussels sprouts]
 excerpt: 
 title: "Perfect Brussels Sprouts"
 image:

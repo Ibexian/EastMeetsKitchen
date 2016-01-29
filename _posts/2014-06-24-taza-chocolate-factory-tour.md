@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: blog
-tags: [blog]
+tags: [blog, chocolate, sweets, tour]
 excerpt: "I don't know how many of you have heard of Taza Chocolate, but up in Cambridge, they've become a pretty big deal among the contemporary chocolate crowd."
 title: "Taza Chocolate Factory Tour"
 image:

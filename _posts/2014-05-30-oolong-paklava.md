@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, sweets, international, worldly, baklava, paklava]
 excerpt: 
 title: "Oolong Paklava"
 image:

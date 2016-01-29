@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, snacks, nomeats, scallion pancakes, taiwan, taiwanese]
 excerpt: 
 title: "Flakey Taiwanese Scallion Pancakes"
 image:

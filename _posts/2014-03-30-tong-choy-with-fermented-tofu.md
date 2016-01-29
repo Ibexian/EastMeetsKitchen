@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, nomeats, vegetables, tofu, fermented]
 excerpt: 
 title: "Tong Choy with Fermented Tofu"
 image:

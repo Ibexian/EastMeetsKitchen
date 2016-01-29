@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, sweets, galette]
 excerpt: 
 title: "Apple Cranberry Galette"
 image:

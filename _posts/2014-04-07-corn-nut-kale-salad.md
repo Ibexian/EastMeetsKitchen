@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, nomeats, salad, kale, corn nuts, vegetarian, healthy recipes]
 excerpt: 
 title: "Corn Nut Kale Salad"
 image:

@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, sweets, peanut butter cookies, cookies]
 excerpt: 
 title: "3 Minute Peanut Butter Cookies"
 image:
