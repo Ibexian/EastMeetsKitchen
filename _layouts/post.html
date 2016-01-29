@@ -28,6 +28,9 @@
 
 <div id="main" role="main">
   <article class="post">
+    {% if page.feature_video %}
+    <div class="youtube"><iframe class="youtube-player" type="text/html" width="640" height="385" src="{{page.feature_video}}" allowfullscreen frameborder="0"></iframe></div><br>
+    {% else %}
     <div class="headline-wrap">
       {% if page.link %}
         <h1><a href="{{ page.link }}">{{ page.title }}</a></h1>
@@ -35,8 +38,6 @@
         <h1><a href="{{ site.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a></h1>
       {% endif %}
     </div><!--/ .headline-wrap -->
-    {% if page.feature_video %}
-    <div class="youtube"><iframe class="youtube-player" type="text/html" width="640" height="385" src="{{page.feature_video}}" allowfullscreen frameborder="0"></iframe></div><br>
     {% endif %}
     <div class="article-wrap">
       {{ content }}
