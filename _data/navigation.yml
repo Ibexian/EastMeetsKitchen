@@ -22,6 +22,9 @@
     - title: Sauces
       url: /recipes/sauces/
 
+    - title: Healthy
+      url: /recipes/healthy/
+
 - title: Adventures + Blog
   url: /blog/
   img: adventure.jpg
