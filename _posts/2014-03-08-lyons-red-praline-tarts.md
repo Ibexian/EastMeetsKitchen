@@ -5,7 +5,7 @@ tags: [recipes, sweets, nomeats, tarts]
 excerpt: 
 title: "Praline Tarts, Vieux Lyon"
 image:
-  feature: 19-1.jpg
+  feature: 19-1.JPG
 ---
 
 So as you all know, I was recently on a trip to France and stopped by Lyon, which is a sort of the gastronomic capital of France.  Every restaurant I went to, I would see "praline tarts" in the dessert portion of the menu, so I decided to give it a try.  To my surprise, this looked nothing like the pralines I was used to and in fact, the tart came bright red to the table.
