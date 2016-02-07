@@ -1,11 +1,11 @@
 # Site navigation links and tiles on main page
 - title: Instagram
-  url: https://instagram.com/eastmeetskitchen/
+  url: https://instagram.com/eastmeetskitchn/
   img: instagram.jpg
   color: 3F51B5
 
 - title: Twitter
-  url: https://twitter.com/EMeetsKitchen
+  url: https://twitter.com/EastMeetsKitchn
   img: twitter.jpg
   color: 03A9F4
 
