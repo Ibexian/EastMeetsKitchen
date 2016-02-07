@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: videos
-tags: [videos]
+tags: [videos, ramen, Japan]
 excerpt: 
 title: "Momofuku Ando Instant Ramen Museum- CupNoodles Factory"
 feature_video: https://www.youtube.com/embed/y3-WjPaxUU0

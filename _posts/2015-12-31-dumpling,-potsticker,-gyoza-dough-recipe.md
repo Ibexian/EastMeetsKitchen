@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, nomeats, dumplings, potsticker, dough]
 excerpt: 
 title: "Dumpling, Potsticker, Gyoza Dough Recipe"
 image:

@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, cheesecake, sweets, pumpkin, coconut]
 excerpt: 
 title: "Low-Fat Pumpkin Coconut Cheesecake"
 image:

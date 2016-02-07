@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: videos
-tags: [videos]
+tags: [videos, sweets,banana nut bread, muffins]
 excerpt: 
 title: "Healthy 'Date Sweetened' Banana Nut Bread and Muffins Recipe"
 feature_video: https://www.youtube.com/embed/qrxuWbZkCic

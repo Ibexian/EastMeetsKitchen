@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: videos
-tags: [videos]
+tags: [videos, meats, chicken, soy sauce]
 excerpt: 
 title: "Easy Soy Sauce Chicken Recipe"
 feature_video: https://www.youtube.com/embed/KE-xcUGRBgI
