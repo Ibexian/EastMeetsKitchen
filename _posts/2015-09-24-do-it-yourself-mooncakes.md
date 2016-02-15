@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, mooncakes, sweets, Chinese, mid-Autumn festival]
 excerpt: 
 title: "Do-It-Yourself Mooncakes"
 image:

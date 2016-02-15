@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, riceandnoodles, healthy, fried rice]
 excerpt: 
 title: "Easy, Healthy Fried Rice"
 image:

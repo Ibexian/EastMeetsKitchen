@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, sweets, lemon squares, lemon bars, kumquat]
 excerpt: 
 title: "Kumquat Squares"
 image:

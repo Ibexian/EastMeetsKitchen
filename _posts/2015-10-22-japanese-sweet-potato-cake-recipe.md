@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: videos
-tags: [videos]
+tags: [videos, sweet potato cake, sweets]
 excerpt: 
 title: "Japanese Sweet Potato Cake Recipe"
 feature_video: https://www.youtube.com/embed/Lw43NE3dzFg

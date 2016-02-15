@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, whoopie pie, sweets]
 excerpt: 
 title: "Pumpkin Cider Whoopie Pie"
 image:

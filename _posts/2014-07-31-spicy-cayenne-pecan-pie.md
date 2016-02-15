@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, pecan pie, sweets]
 excerpt: 
 title: "Spicy Cayenne Pecan Pie"
 image:

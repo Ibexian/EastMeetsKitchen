@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: tips
-tags: [tips]
+tags: [tips, gluten free, flour, DIY]
 excerpt: 
 title: "DIY Gluten-Free Flour Recipe"
 image:

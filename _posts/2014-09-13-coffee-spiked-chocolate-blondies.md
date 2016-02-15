@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, sweets, blondies, chocolate]
 excerpt: 
 title: "Coffee-Spiked Chocolate Blondies"
 image:

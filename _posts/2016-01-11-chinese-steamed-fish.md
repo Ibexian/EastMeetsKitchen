@@ -6,7 +6,7 @@ excerpt:
 title: "Chinese Steamed Fish"
 feature_video: https://www.youtube.com/embed/_Cp9ZN0z_ws
 image:
-    feature: 176-1.jpg
+    feature: 176-2.jpg
 ---
 
 Chinese Steamed Fish Recipe

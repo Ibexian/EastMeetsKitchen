@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, sweets, apples, pop tarts, brown butter]
 excerpt: 
 title: "Apple Pop Tarts with Brown Butter Coffee Drizzle"
 image:

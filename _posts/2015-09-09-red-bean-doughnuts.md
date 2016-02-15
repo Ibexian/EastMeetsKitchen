@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, sweets, red bean, donuts, doughnuts]
 excerpt: 
 title: "Red Bean Doughnuts"
 image:

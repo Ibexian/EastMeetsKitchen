@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: videos
-tags: [videos]
+tags: [videos, sweets, Portuguese, egg tarts]
 excerpt: 
 title: "Portuguese Egg Tart Recipe"
 feature_video: https://www.youtube.com/embed/Sq8wjCPirQ0

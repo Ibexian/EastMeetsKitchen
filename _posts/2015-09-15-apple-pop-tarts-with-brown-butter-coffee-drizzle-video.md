@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: videos
-tags: [videos]
+tags: [videos, sweets, apples, pop tarts, brown butter]
 excerpt: 
 title: "Apple Pop Tarts With Brown Butter Coffee Drizzle"
 feature_video: https://www.youtube.com/embed/T3s6lhNpIZg

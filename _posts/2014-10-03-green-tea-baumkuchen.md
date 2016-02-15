@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, sweets, green tea, baumkuchen, German]
 excerpt: 
 title: "Green Tea Baumkuchen"
 image:

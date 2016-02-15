@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: videos
-tags: [videos]
+tags: [videos, healthy, fried rice, riceandnoodles]
 excerpt: 
 title: "Easy and Healthy Fried Rice"
 feature_video: https://www.youtube.com/embed/kXJEDpQ4u5c

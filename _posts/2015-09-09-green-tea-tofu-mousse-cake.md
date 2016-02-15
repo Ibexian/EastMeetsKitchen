@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, sweets, green tea, matcha, mousse, cake]
 excerpt: 
 title: "Green Tea Tofu Mousse Cake"
 image:

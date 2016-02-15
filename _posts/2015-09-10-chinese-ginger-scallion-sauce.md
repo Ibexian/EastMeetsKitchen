@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes, sauces]
+tags: [recipes, sauces, ginger, scallion]
 excerpt: 
 title: "Chinese Ginger Scallion Sauce"
 image:
