@@ -5,7 +5,7 @@ tags: [recipes, sweets, egg custard, ginger]
 excerpt: 
 title: "Chinese Steamed Ginger Egg Custard"
 image:
-  feature: 141-11.jpg
+  feature: 141-1.jpg
 ---
 
 This is one of the earliest desserts I remember having as a kid.  My mom was a skilled cook, but she  definitely made more savory foods than cakes and desserts.  Occasionally though, she would make this super quick, but amazingly tasty custard.
