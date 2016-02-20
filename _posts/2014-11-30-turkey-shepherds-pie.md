@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, meats, Thanksgiving, leftover, shepherds pie]
 excerpt: 
 title: "Turkey Shepherd's Pie"
 image:

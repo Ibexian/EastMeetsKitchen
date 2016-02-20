@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes, pate a choux]
+tags: [recipes, pate a choux, sweets]
 excerpt: 
 title: "Halloween Pate a Choux"
 image:

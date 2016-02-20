@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, riceandnoodles, meats, ramen, spam, eggs]
 excerpt: 
 title: "Spam and Egg Ramen"
 image:

@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, sweets, steamed cake, cake]
 excerpt: 
 title: "Ma Lai Go - Chinese Steamed Sponge Cake"
 image:

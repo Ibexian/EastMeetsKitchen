@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, sweets, macaroons, coconut]
 excerpt: 
 title: "Speckled Chocolate Macaroons"
 image:

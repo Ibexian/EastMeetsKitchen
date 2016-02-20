@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: videos
-tags: [videos]
+tags: [videos, lunch, meats, quick, blt]
 excerpt: 
 title: "'Bacon Bits' BLT"
 feature_video: https://www.youtube.com/embed/G1dLLbZljsM

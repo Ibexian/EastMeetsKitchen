@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, sweets, vegan, beets, cupcakes]
 excerpt: 
 title: "Beet-Red Vegan Red Velvet Cupcakes"
 image:

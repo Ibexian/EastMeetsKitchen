@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, riceandnoodles, ramen, curry, stir-fry]
 excerpt: 
 title: "Stir-fry Curry Ramen"
 image:

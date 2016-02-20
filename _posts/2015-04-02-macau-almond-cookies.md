@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, sweets, almond cookies]
 excerpt: 
 title: "Macau Almond Cookies"
 image:

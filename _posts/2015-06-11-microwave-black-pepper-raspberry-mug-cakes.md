@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, sweets, mug cakes]
 excerpt: 
 title: "Microwave Black Pepper Raspberry Mug Cakes"
 image:

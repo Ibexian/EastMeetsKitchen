@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, sweets, agar, jelly, Chrysanthemum, Osmanthus]
 excerpt: 
 title: "Osmanthus Chrysanthemum Jelly"
 image:

@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, sweets, fortune cookies, cardamom, cranberry]
 excerpt: 
 title: "Cranberry Cardamom Fortune Cookies"
 image:

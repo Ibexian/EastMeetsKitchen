@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, nomeats, pizza, dough, fried dough]
 excerpt: 
 title: "Fried Dough Pizza"
 image:

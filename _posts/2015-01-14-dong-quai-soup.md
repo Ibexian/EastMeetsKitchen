@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, soups, medicinal]
 excerpt: 
 title: "Dong Quai Soup"
 image:

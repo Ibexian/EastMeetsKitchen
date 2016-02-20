@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, meats, haddock, fish, shitake, citrus]
 excerpt: 
 title: "Shitake Citrus Haddock"
 image:

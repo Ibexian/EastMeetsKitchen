@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, cookies, july fourth, sweets, shortbread]
 excerpt: 
 title: "Red, White and Blue Cookies"
 image:

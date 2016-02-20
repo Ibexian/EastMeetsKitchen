@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, sweets, coconut]
 excerpt: 
 title: "Coconut Put Zai Go Pudding Cake"
 image:

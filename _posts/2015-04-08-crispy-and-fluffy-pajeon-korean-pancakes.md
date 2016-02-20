@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, nomeats, pancakes, korean, panjeon, scallion]
 excerpt: 
 title: "Crispy and Fluffy Pajeon Korean Pancakes"
 image:

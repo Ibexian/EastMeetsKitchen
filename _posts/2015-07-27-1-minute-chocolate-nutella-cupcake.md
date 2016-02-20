@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: videos
-tags: [videos]
+tags: [videos, sweets, chocolate, nutella]
 excerpt: 
 title: "'1 Minute' Chocolate Nutella Cupcake"
 feature_video: https://www.youtube.com/embed/5aYwiB4GlsI

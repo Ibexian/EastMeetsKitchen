@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, sweets, vegan, cream cheese, frosting]
 excerpt: 
 title: "Vegan Cream Cheese Frosting"
 image:

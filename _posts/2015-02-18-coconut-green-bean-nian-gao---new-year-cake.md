@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes]
+tags: [recipes, sweets, nian gao, mung beans]
 excerpt: 
 title: "Coconut Green Bean Nian Gao - New Year Cake"
 image:
