@@ -13,7 +13,7 @@ I've been incorporating a lot more vegetables to my recipes these days.  Strange
 
 And then I began thinking about how much fruits and vegetables I have in my diet.  Doctors recommend at least 6 fistfuls of fruits and vegetables (though they are erring towards veggies because fruits also have a fair amount of sugar content) per day.  I think about having a banana in the morning, an orange for lunch and maybe a palmful or two of veggies at night and that doesn't tally up.
 
-An of course there are all these studies about about vegetables, especially green ones, in the fight against cancer and in general, living a healthier life, so for me, as an avid cook and baker, I don't see why I can't start stuffing the foods I love to eat with ingredients that are better for my body.
+And of course there are many studies about about vegetables, especially green ones, in the fight against cancer and in general, living a healthier life, so for me as an avid cook and baker, I don't see why I can't start stuffing the foods I love with ingredients that are better for my body.
 
 This broccoli bread recipe is from one of my favorite vegetarian blogs called Green Kitchen Stories.  They make the prettiest, most colorful, vegetarian dishes and the videos they do are magnificent.  I somewhat "chef-ed up" this recipe, adding more of my own flavorings and a little extra virgin olive oil for texture and flavor.  But really, how strong you want your bread to taste is up to you.  Some people just want broccoli bread as the backdrop to the rest of your sandwich.  Others want to highlight the flavor and so you adjust accordingly by adding various flavorings including a little pesto, which I have tried.
 
