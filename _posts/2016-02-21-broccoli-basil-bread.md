@@ -23,22 +23,22 @@ The recipe works with garbanzo flour or almond meal depending on your diet. It c
     <img src="/images/184-2.jpg">
     <img src="/images/184-3.jpg">
     <img src="/images/184-4.jpg">
-
-
+</figure>
+</br>
 </figure>
 <figure class="third">
     <img src="/images/184-5.jpg">
     <img src="/images/184-6.jpg">
     <img src="/images/184-7.jpg">
-
-
 </figure>
+</br>
 <figure class="third">
     <img src="/images/184-8.jpg">
     <img src="/images/184-9.jpg">
     <img src="/images/184-10.jpg">
 
 </figure>
+</br>
 
 
 
