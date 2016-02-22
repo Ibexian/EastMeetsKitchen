@@ -41,7 +41,7 @@ The recipe works with garbanzo flour or almond meal depending on your diet. It c
 
 
 
-__Broccoli Basil Bread Recipe__
+###Broccoli Basil Bread Recipe###
 
 (Makes 9 pieces of bread)
 
@@ -54,7 +54,7 @@ __Broccoli Basil Bread Recipe__
 - sea salt
 - black pepper 
 
-__Directions__
+###Directions###
 
 1. Preheat oven to 400 degrees Fahrenheit.  
 2. Rinse broccoli thoroughly.
