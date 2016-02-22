@@ -166,3 +166,20 @@ svg:not(:root) {
 	@include rounded(4px);
 	@include box-shadow(inset 0 1px 1px rgba(0, 0, 0, 0.05));
 }
+
+/*
+  Recipes and Directions
+  ======================================================*/
+.ingredients {
+  @media #{$micro} {
+    @include grid(12,4);
+    padding:3px;
+    background: rgb(245, 242, 240);
+  }
+}
+.directions {
+  @media #{$micro} {
+    @include grid(12,8);
+    padding:3px;
+  }
+}
