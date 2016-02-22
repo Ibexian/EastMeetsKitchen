@@ -25,15 +25,14 @@ The recipe works with garbanzo flour or almond meal depending on your diet. It c
     <img src="/images/184-4.jpg">
 </figure>
 
-<figure class="third">
+<figure class="half">
     <img src="/images/184-5.jpg">
     <img src="/images/184-6.jpg">
-    <img src="/images/184-7.jpg">
 </figure>
 
 <figure class="third">
+   <img src="/images/184-7.jpg">
     <img src="/images/184-8.jpg">
-    <img src="/images/184-9.jpg">
     <img src="/images/184-10.jpg">
 
 </figure>
