@@ -11,7 +11,7 @@ image:
 
 I've been incorporating a lot more vegetables to my recipes these days.  Strangely, due to a family health scare, I actually spent several hours in the waiting room of the gastrointestinal wing at a hospital and probably 90 percent of the people there were in for their colonoscopies.  No, I won't go into too much detail, but long story short, person after person, I kept hearing doctors and nurses say to the patients, "You don't have enough fiber in your diet."  
 
-And then I began thinking about how much fruits and vegetables I have in my diet.  Doctors recommend at least 6 fistfuls of fruits and vegetables (though they are erring towards veggies because fruits also have a fair amount of sugar content) per day.  I think about having a banana in the morning, an orange for lunch and maybe a palmful or two of veggies at night and that doesn't tally up.
+And then I began thinking about how much fruits and vegetables I have in my diet.  Doctors recommend at least six fistfuls of fruits and vegetables (though they are erring towards veggies because fruits also have a fair amount of sugar content) per day.  I think about having a banana in the morning, an orange for lunch and maybe a palmful or two of veggies at night and that doesn't tally up.
 
 And of course there are many studies about about vegetables, especially green ones, in the fight against cancer and in general, living a healthier life, so for me as an avid cook and baker, I don't see why I can't start stuffing the foods I love with ingredients that are better for my body.
 
