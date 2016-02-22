@@ -24,11 +24,13 @@ The recipe works with garbanzo flour or almond meal depending on your diet. It c
     <img src="/images/184-3.jpg">
     <img src="/images/184-4.jpg">
 
+
 </figure>
 <figure class="third">
     <img src="/images/184-5.jpg">
     <img src="/images/184-6.jpg">
     <img src="/images/184-7.jpg">
+
 
 </figure>
 <figure class="third">
@@ -37,6 +39,8 @@ The recipe works with garbanzo flour or almond meal depending on your diet. It c
     <img src="/images/184-10.jpg">
 
 </figure>
+
+
 
 __Broccoli Basil Bread Recipe__
 
