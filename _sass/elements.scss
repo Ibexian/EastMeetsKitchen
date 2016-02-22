@@ -17,7 +17,7 @@ hr {
    ========================================================================== */
 
 figure {
-	margin-bottom: $indent-var;
+	margin-bottom: 1em !important;
 }
 
 article img {
@@ -40,6 +40,7 @@ svg:not(:root) {
 	@media #{$micro} {
 		img {
 			@include grid(12,6);
+      padding: 0 3px;
 		}
 		figcaption {
 			@include grid(12,12);
@@ -55,6 +56,7 @@ svg:not(:root) {
 	@media #{$micro} {
 		img {
 			@include grid(12,4);
+      padding: 0 3px;
 		}
 		figcaption {
 			@include grid(12,12);

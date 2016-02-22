@@ -41,7 +41,11 @@ The recipe works with garbanzo flour or almond meal depending on your diet. It c
 
 
 
+<<<<<<< Updated upstream
 ### Broccoli Basil Bread Recipe
+=======
+###Broccoli Basil Bread Recipe
+>>>>>>> Stashed changes
 
 (Makes 9 pieces of bread)
 
@@ -54,7 +58,11 @@ The recipe works with garbanzo flour or almond meal depending on your diet. It c
 - sea salt
 - black pepper 
 
+<<<<<<< Updated upstream
 ### Directions
+=======
+###Directions
+>>>>>>> Stashed changes
 
 1. Preheat oven to 400 degrees Fahrenheit.  
 2. Rinse broccoli thoroughly.
