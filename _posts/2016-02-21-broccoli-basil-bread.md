@@ -41,9 +41,8 @@ The recipe works with garbanzo flour or almond meal depending on your diet. It c
 
 
 
-<figure class="ingredients">
+<figure class="ingredients" markdown="1">
 
-{% markdown %}
 ### Broccoli Basil Bread Recipe
 (Makes 9 pieces of bread)
 
@@ -56,14 +55,11 @@ The recipe works with garbanzo flour or almond meal depending on your diet. It c
 - sea salt
 - black pepper
 
-{% endmarkdown %}
+
 
 </figure>
+<figure class="directions" markdown="1">
 
-
-<figure class="directions">
-
-{% markdown %}
 ### Directions
 
 1. Preheat oven to 400 degrees Fahrenheit.  
@@ -75,5 +71,4 @@ The recipe works with garbanzo flour or almond meal depending on your diet. It c
 7. Bake for 20-25 minutes until the edges turn golden brown and the center is firm.
 8. Let cool and cut into slices.
 
-{% endmarkdown %}
 </figure>
