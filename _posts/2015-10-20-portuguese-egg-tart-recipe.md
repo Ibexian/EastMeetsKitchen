@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: videos
+categories: [videos, recipes]
 tags: [videos, sweets, Portuguese, egg tarts]
 excerpt: 
 title: "Portuguese Egg Tart Recipe"

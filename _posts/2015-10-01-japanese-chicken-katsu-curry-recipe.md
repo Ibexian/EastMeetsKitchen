@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: videos
+categories: [videos, recipes]
 tags: [videos, katsu curry, curry, Japanese, meats]
 excerpt: 
 title: "Japanese Chicken Katsu Curry Recipe"

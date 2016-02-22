@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: videos
+categories: [videos, recipes]
 tags: [videos, meats, curry, stew, Japanese, beef and potato]
 excerpt: 
 title: "Japanese Beef and Potato Stew Recipe"

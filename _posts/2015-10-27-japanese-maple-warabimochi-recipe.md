@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: videos
+categories: [videos, recipes]
 tags: [videos, mochi, sweets, Japan]
 excerpt: 
 title: "Japanese Maple Warabimochi Recipe"

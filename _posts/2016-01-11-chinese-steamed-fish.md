@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: videos
+categories: [videos, recipes]
 tags: [videos, steamed fish, meats]
 excerpt: 
 title: "Chinese Steamed Fish"

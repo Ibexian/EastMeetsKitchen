@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: videos
+categories: [recipes, videos]
 tags: [videos, meats, riceandnoodles, rice, claypot rice]
 excerpt: 
 title: "Chinese Chicken and Mushroom Claypot Rice"

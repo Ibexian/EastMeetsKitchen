@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: videos
+categories: [videos, recipes]
 tags: [videos, meats, dumplings, chives]
 excerpt: 
 title: "Chinese Chive Dumpling/Pockets Recipe 韭菜盒子"
