@@ -11,9 +11,12 @@ image:
 
 You know how sometimes when you ask a cook or chef what they put in the dish because it was the best thing you ever had and you find out all that it was was salt and pepper?  Well, that is this dish, only it's just salt.
 
+
 That's how amazing mackerel is.  I liken it to steak for steak-lovers where all the piece of meat needs is a little salt because it has enough flavor on its own to carry a meal.  Even though some people may feel mackerel is too strong or oily of a fish, I feel it is packed with flavor not to mention good oils and minerals.
 
+
 I prepared both classic Korean preparations - broiled and pan-seared - because they were both so quick.  I have to say pan-seared is my favorite of the two because the crispiness of the skin adds additional texture.  I mixed cornstarch and rice flour as I feel the rice flour adds additional crispiness, while the cornstarch makes sure the crust of the fish is nice and light.
+
 
 Be careful with the parchment as it may burn in the oven.
 
@@ -28,11 +31,6 @@ Be careful with the parchment as it may burn in the oven.
     <img src="/images/185-5.jpg">
     <img src="/images/185-6.jpg">
 </figure>
-
-
-
-
-
 
 
 <figure class="ingredients" markdown="1">
