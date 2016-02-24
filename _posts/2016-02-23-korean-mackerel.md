@@ -18,7 +18,7 @@ That's how amazing mackerel is.  I liken it to steak for steak-lovers where all 
 I prepared both classic Korean preparations - broiled and pan-seared - because they were both so quick.  I have to say pan-seared is my favorite of the two because the crispiness of the skin adds additional texture.  I mixed cornstarch and rice flour as I feel the rice flour adds additional crispiness, while the cornstarch makes sure the crust of the fish is nice and light.
 
 
-Be careful with the parchment as it may burn in the oven.
+For the broiling method, the parchment may burn in the oven, but the fish will be fine.  For the pan-seared method, do not worry about the tiny mackerel bones.  Take out any obviously large ones with tweezers, but once it is pan-fried, the bones will soften some more and is usually eaten all together with the fish.
 
 
 <figure class="third">
