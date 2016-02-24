@@ -65,12 +65,12 @@ Pan-Seared Mackerel:
 1. Preheat oven to broil.  
 2. Generously salt the insides and outsides of both the mackerels.  Leave in refrigerator for 15-30 minutes.
 
-For broiled mackerel:
+### For broiled mackerel:
 
 1. Brush both sides of the mackerel with vegetable oil.
 2. Place into oven for about 8 minutes, until fish is flakey but still tender.
 
-For pan-seared mackerel: 
+### For pan-seared mackerel: 
 
 1. Open up the mackerel, so that the filets are side-by-side.
 2. Dredge into cornstarch and rice flour mixture.
