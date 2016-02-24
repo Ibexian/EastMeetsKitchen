@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: videos
+categories: [videos, recipes]
 tags: [videos, healthy, nomeats, broccoli, bread]
 excerpt: 
 title: "Broccoli Basil Bread"
