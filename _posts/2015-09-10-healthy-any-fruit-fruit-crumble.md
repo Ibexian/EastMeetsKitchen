@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: videos
+categories: [videos, recipes]
 tags: [videos, sweets, healthy, fruit crumble]
 excerpt: 
 title: "Healthy 'Any Fruit' Fruit Crumble"

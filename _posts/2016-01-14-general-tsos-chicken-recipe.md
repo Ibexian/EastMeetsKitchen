@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: videos
+categories: [videos, recipes]
 tags: [videos, meats, General Tso's, chicken]
 excerpt: 
 title: "General Tso's Chicken Recipe"

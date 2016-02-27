@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: videos
+categories: [videos, recipes]
 tags: [videos, pretzels, nomeats, beer garden]
 excerpt: 
 title: "German Beer Garden Pretzel Recipe"

@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: videos
+categories: [videos, recipes]
 tags: [videos, meats, Hong Kong, pork chops]
 excerpt: 
 title: "Hong Kong Baked Porkchops with Rice Recipe"

@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: videos
+categories: [videos, recipes]
 tags: [videos, sweets, chocolate, nutella]
 excerpt: 
 title: "'1 Minute' Chocolate Nutella Cupcake"

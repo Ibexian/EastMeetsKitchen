@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: recipes
+categories: [videos, recipes]
 tags: [recipes, sweets, red bean, donuts, doughnuts]
 excerpt: 
 title: "Red Bean Doughnuts"

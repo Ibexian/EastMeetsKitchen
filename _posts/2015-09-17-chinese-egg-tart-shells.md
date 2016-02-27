@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: videos
+categories: [videos, recipes]
 tags: [videos, sweets, egg tarts, shells]
 excerpt: 
 title: "Chinese Egg Tart 'Shells'"

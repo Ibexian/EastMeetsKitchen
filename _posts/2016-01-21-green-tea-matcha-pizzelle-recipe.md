@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: videos
+categories: [videos, recipes]
 tags: [videos, green tea, matcha, pizzelle, sweets]
 excerpt: 
 title: "Green Tea Matcha Pizzelle Recipe"

@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: videos
+categories: [videos, recipes]
 tags: [videos, meats, lunch, quick, pasta, riceandnoodles]
 excerpt: 
 title: "Tuna Pesto Pasta"

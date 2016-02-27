@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: videos
+categories: [recipes, videos]
 tags: [videos, egg tarts, sweets, pastries]
 excerpt: 
 title: "Hong Kong Egg Tarts Recipe 蛋撻"

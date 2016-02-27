@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: videos
+categories: [videos, recipes]
 tags: [videos, kimchi, quinoa, healthy, breakfast]
 excerpt: 
 title: "High Protein Quinoa Kimchi Breakfast Omelette Recipe"

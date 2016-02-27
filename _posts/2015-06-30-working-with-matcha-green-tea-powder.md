@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: videos
-tags: [videos, matcha, tea]
+tags: [videos, matcha, tea, tips]
 excerpt: 
 title: "Working with Matcha Green Tea Powder"
 feature_video: https://www.youtube.com/embed/MpHv2WTPAsw

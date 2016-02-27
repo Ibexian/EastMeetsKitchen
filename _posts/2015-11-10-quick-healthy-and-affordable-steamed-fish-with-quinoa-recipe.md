@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: videos
+categories: [videos, recipes]
 tags: [videos, quinoa, healthy, steamed fish]
 excerpt: 
 title: "Quick, Healthy and Affordable Steamed Fish with Quinoa Recipe"
