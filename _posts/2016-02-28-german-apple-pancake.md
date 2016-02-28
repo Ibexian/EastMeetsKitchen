@@ -3,7 +3,7 @@ layout: post
 categories: recipes
 tags: [recipes, sweets, pancakes, apple, German]
 excerpt: 
-title: "Apple German Pancakes"
+title: "German Apple Pancakes"
 image:
   feature: 186-1.jpg
 ---
