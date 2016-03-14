@@ -19,6 +19,6 @@ image:
 - 2 sticks butter
 - 6 tablespoons cold water
 
-Special thanks to Chef Dodge (Baking with Chef Jim Dodge)for showing this awesome technique and recipe!
+Special thanks to Chef Dodge (Baking with Chef Jim Dodge) for showing this awesome technique and recipe!
 
 
