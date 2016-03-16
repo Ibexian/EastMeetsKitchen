@@ -1,21 +1,24 @@
 ---
 layout: post
 categories: [videos, recipes]
-tags: [videos, meats, bao]
+tags: [videos, sweets, pie, crust]
 excerpt: 
-title: "St. Patrick's Day Corned Beef Bao Recipe"
-feature_video: https://www.youtube.com/embed/1_hrot4N6y0
+title: "The Ultimate Flakey Pie Crust"
+feature_video: https://www.youtube.com/embed/5O69wLdvXoc
 image:
-    feature: 191-1.jpg
+    feature: 190-1.jpg
 ---
 
-### Corned Beef Bao Recipe
+### Ultimate Flakey Pie Crust Recipe
 
-(Makes 8-10 Baos)
+(makes 1 pie crust, top and bottom)
 
-- 1 lb corned beef
-- 1/2 head cabbage
-- 1 medium carrot
-- 1 package bao mix
-- 1 tablespoon oil
+- 2 1/4 cups all-purpose flour, unbleached
+- 1 teaspoon sugar
+- 1/4 teaspoon salt
+- 2 sticks butter
+- 6 tablespoons cold water
+
+Special thanks to Chef Dodge (Baking with Chef Jim Dodge) for showing this awesome technique and recipe!
+
 
