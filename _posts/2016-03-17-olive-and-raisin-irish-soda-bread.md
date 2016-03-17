@@ -8,7 +8,7 @@ image:
   feature: 192-1.jpg
 ---
 
-I love Irish soda bread, whether it be St. Patrick's Day or not.  I think it's great in place of bread or dinner rolls served before supper. I love the slight taste of baking soda with the sweetness from the currants. However, I'm also a huge fan olive bread and having the saltiness and brininess of the olives in conjuction with olive oil or butter.  So naturally, I put them together.
+I love Irish soda bread whether it be St. Patrick's Day or not.  I think it's great in place of bread or dinner rolls served before supper. I love the slight taste of baking soda with the sweetness from the currants. However, I'm also a huge fan olive bread and having the saltiness and brininess of the olives in conjuction with olive oil or butter.  So naturally, I put them together.
 
 You get the classic taste of rise of soda bread with this recipe, adapted from Ms. Ina Garten along with the sweet and salty juxtaposition of the currants (in this case - raisins) and the briny kalamata olives.
 
