@@ -3,7 +3,7 @@ layout: post
 categories: recipes
 tags: [recipes, sweets, soda bread, olive, raisin]
 excerpt: 
-title: "Olive and Raisin Irish Soda Bread"
+title: "Olive Raisin Irish Soda Bread"
 image:
   feature: 192-1.jpg
 ---
