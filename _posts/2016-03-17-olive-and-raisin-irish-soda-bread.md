@@ -12,7 +12,9 @@ I love Irish soda bread whether it be St. Patrick's Day or not.  I think it's gr
 
 You get the classic taste of rise of soda bread with this recipe, adapted from Ms. Ina Garten along with the sweet and salty juxtaposition of the currants (in this case - raisins) and the briny kalamata olives.
 
+<figure class=
     <img src="/images/192-2.jpg">
+</figure>
 
 <figure class="ingredients" markdown="1">
 
