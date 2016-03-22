@@ -18,7 +18,7 @@ The roasting only takes about an hour, but it bears a true likeness to a proper 
 
 
 <figure class="half">
-   <img src="/images/193-4.jpg">
+    <img src="/images/193-4.jpg">
     <img src="/images/193-3.jpg">
 </figure>
 
@@ -28,7 +28,7 @@ The roasting only takes about an hour, but it bears a true likeness to a proper 
 
 <figure class="ingredients" markdown="1">
 
-###Chinese BBQ Cha Siu Recipe
+### Chinese BBQ Cha Siu Recipe
 
 (Makes 1-1.5-lbs cha siu)
 
@@ -49,7 +49,6 @@ Marinade:
 - 1 teaspoon sesame oil
 - 1 tablespoon chu hou sauce
 
-
 Basting Mixture:
 
 - 2 tablespoons ketchup
@@ -63,17 +62,11 @@ Basting Mixture:
 ###Directions
 
 1. Mix together the marinade ingredients until smooth. 
-
 2. In a ziplock bag, place pork and marinade together.  Refrigerate for 4 hours or up a day.
-
 3. Preheat oven to 350 degrees Fahrenheit.
-
 4. Place pork on a sheet pan lined with aluminum foil. Bake for 30 minutes.
-
 5. With a brush, baste pork on both sides.  Bake for an additional 20 minutes and baste again.
-
 6. Turn oven to broil.  Broil meat for an additional 6-7 minutes, until crust browns slightly.
-
 7. Cool and slice to serve.
 
 </figure>
