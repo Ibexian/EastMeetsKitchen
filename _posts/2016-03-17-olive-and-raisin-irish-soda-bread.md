@@ -29,7 +29,7 @@ You get the classic taste of rise of soda bread with this recipe, adapted from M
 - 1/2 cup dried raisins, diced
 - 1/2 cup kalamata olives, diced
 - 2 teaspoon grated orange zest
-- - 1 3/4 cups cold buttermilk
+- 1 3/4 cups cold buttermilk
 - 1 extra-large egg, lightly beaten
 
 
