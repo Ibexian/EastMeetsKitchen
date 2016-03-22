@@ -58,7 +58,7 @@ Basting Mixture:
 </figure>
 <figure class="directions" markdown="1">
 
-###Directions
+### Directions
 
 1. Mix together the marinade ingredients until smooth. 
 2. In a ziplock bag, place pork and marinade together.  Refrigerate for 4 hours or up a day.
