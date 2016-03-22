@@ -9,7 +9,7 @@ image:
     feature: 193-1.jpg
 ---
 
-This cha siu recipe is near and dear to my heart.  It was my mom's recipe and over the years, she had pretty much perfected it to a perfect piece of barbequed meat.
+This cha siu recipe is near and dear to my heart.  It was my mom's recipe and over the years, she had pretty much perfected it to the perfect barbequed meat.
 
 You'll see from the photos that it is not your typical cha siu you get at a Chinese fast food restaurant.  Those are colored with red food coloring to mimic the effects of long roasting with fragrant flavorings like soy sauce, brown sugar and chu hou paste.
 
