@@ -13,7 +13,7 @@ This cha siu recipe is near and dear to my heart.  It was my mom's recipe and ov
 
 You'll see from the photos that it is not your typical cha siu you get at a Chinese fast food restaurant.  Those are colored with red food coloring to mimic the effects of long roasting with fragrant flavorings like soy sauce, brown sugar and chu hou paste.
 
-The roasting only takes about an hour, but it bears a true likeness to a proper piece of barbequed meat - Chinese style.
+The roasting only takes about an hour, but it bears a true likeness to a proper piece of barbequed meat - Chinese style.  Two ingredients you should look out for is rose wine and chu hou paste, both essential in making cha siu. Rose wine is distilled from sorghum along with rose petals, and it really adds to the flavor.  Chu hou paste is made from fermented soybeans and spices, and it's a major contributor to the cha siu's flavor and color.
 
 
 
