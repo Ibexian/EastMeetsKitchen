@@ -15,7 +15,7 @@ The technique includes layering a 'water dough layer' with an 'oil dough layer' 
 
 <figure class="ingredients" markdown="1">
 
-### Chinese Egg Tart Shells Recipe
+### Chinese Egg Tart Shells 
 (Makes 12  2 1/2-inch shells) 
 
 Oil Layer Dough
