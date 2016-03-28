@@ -11,7 +11,7 @@ image:
 
 No one ever shows you how to make the shells of Chinese egg tarts.  This is because it's one of the harder recipes to make - similar to puff pastry, only the result comes out more tender and less dry.  Most recipes you get are an iteration of a shortbread dough, which is yummy and quick to make, but tastes nothing like the actual Chinese egg tart crust.
 
-The technique includes layering a 'water dough layer' with an 'oil dough layer' - again, similar to puff pastry, but each layer has some flour in addition to fat content. Didn't mention in the video that these are freeze-able as well. 
+The technique includes layering a 'water dough layer' with an 'oil dough layer' and folding - again, similar to puff pastry, but each layer has some flour added in addition to the fat content. I didn't mention this in the video, but these are shells are freeze-able as well. 
 
 <figure class="third">
     <img src="/images/157-2.JPG">
