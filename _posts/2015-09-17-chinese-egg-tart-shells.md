@@ -25,7 +25,7 @@ The technique includes layering a 'water dough layer' with an 'oil dough layer' 
 </figure>
 
 <figure>
-    <img src="/images/1157-7.jpg">
+    <img src="/images/157-7.jpg">
 </figure>
 
 
