@@ -9,4 +9,40 @@ image:
     feature: 157-1.jpg
 ---
 
-No one ever shows how to make the shells of the Chinese egg tarts.  It's similar to puff pastry, but more tender and less dry.  It includes layering a 'water dough layer' with an 'oil dough layer' similar to puff pastry, but each layer has some flour in addition to fat content. Didn't mention in the video that these are freeze-able as well. Recipe:(Makes 12  2 1/2-inch shells) Oil Dough: 7 tablespoons lard or shortening, 1/3 teaspoon salt, 2 drops butter flavoring, 2/3 cup cake flour; Water Dough: 1 tablespoon lard or shortening, 1 teaspoon vegetable oil, 3 tablespoons water, 2/3 cup cake flour, 1 tablespoon sugar
+No one ever shows you how to make the shells of Chinese egg tarts.  It's because it's one of the harder recipes to make - similar to puff pastry, but more tender and less dry.  Most recipes you get are an iteration of a shortbread dough, which is yummy and quick to make, but tastes nothing like the actual Chinese egg tart crust.
+
+The technique includes layering a 'water dough layer' with an 'oil dough layer' similar to puff pastry, but each layer has some flour in addition to fat content. Didn't mention in the video that these are freeze-able as well. 
+
+<figure class="ingredients" markdown="1">
+
+### Chinese Egg Tart Shells Recipe
+(Makes 12  2 1/2-inch shells) 
+
+Oil Layer Dough
+
+- 7 tablespoons lard or shortening
+- 1/3 teaspoon salt
+- 2 drops butter flavoring
+- 2/3 cup cake flour
+
+Water Layer Dough 
+
+- 1 tablespoon lard or shortening
+- 1 teaspoon vegetable oil
+- 3 tablespoons water
+- 2/3 cup cake flour
+- 1 tablespoon sugar
+
+</figure>
+<figure class="directions" markdown="1">
+
+### Directions
+
+1. Mix together the ingredients of the oil layer dough.  Form into a square, wrap and chill till firm.
+2. Mix together the ingredients of the water layer dough.  Form into a square, wrap and chill till firm.
+3. Dust working surface with plenty of cake flour.  Place water layer dough on top of the oil layer dough.  Roll out into a rectangle.  Divide dough into 3 parts and fold.  Rotate 90 degrees.  Roll out and divide into 3 parts and fold again.  Repeat 4-5 times.
+4. Roll out dough to 1/4-inch.  Cut with round cookie cutter slightly larger than the diameter of the tart shell tin.
+5. Press dough into tins.  Shells can be frozen.
+
+</figure>
+
