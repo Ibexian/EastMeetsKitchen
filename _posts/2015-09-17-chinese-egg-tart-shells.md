@@ -38,8 +38,8 @@ Water Layer Dough
 
 ### Directions
 
-1. Mix together the ingredients of the oil layer dough.  Form into a square, wrap and chill till firm.
-2. Mix together the ingredients of the water layer dough.  Form into a square, wrap and chill till firm.
+1. Mix together the ingredients of the oil layer dough.  Form into a square, wrap and chill until firm.
+2. Mix together the ingredients of the water layer dough.  Form into a square, wrap and chill until firm.
 3. Dust working surface with plenty of cake flour.  Place water layer dough on top of the oil layer dough.  Roll out into a rectangle.  Divide dough into 3 parts and fold.  Rotate 90 degrees.  Roll out and divide into 3 parts and fold again.  Repeat 4-5 times.
 4. Roll out dough to 1/4-inch.  Cut with round cookie cutter slightly larger than the diameter of the tart shell tin.
 5. Press dough into tins.  Shells can be frozen.
