@@ -14,18 +14,18 @@ No one ever shows you how to make the shells of Chinese egg tarts.  This is beca
 The technique includes layering a 'water dough layer' with an 'oil dough layer' - again, similar to puff pastry, but each layer has some flour in addition to fat content. Didn't mention in the video that these are freeze-able as well. 
 
 <figure class="third">
-    <img src="/images/157-2.jpg">
-    <img src="/images/157-3.jpg">
-    <img src="/images/157-4.jpg">
+    <img src="/images/157-2.JPG">
+    <img src="/images/157-3.JPG">
+    <img src="/images/157-4.JPG">
 </figure>
 
 <figure class="half">
-    <img src="/images/157-5.jpg">
-    <img src="/images/157-6.jpg">
+    <img src="/images/157-5.JPG">
+    <img src="/images/157-6.JPG">
 </figure>
 
 <figure>
-    <img src="/images/157-7.jpg">
+    <img src="/images/157-7.JPG">
 </figure>
 
 
