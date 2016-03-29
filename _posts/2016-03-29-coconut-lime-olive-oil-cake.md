@@ -9,6 +9,7 @@ image:
     feature: 194-1.jpg
 ---
 
+<figure class="ingredients" markdown="1">
 
 ### Coconut Lime Olive Oil Cake (Gluten-Free) 
 
@@ -47,9 +48,7 @@ Glaze
 
 </figure>
 
-We recently had Spain Day in culinary school and the chef shared with us an olive citrus cake.  I've actually never baked with olive oil before, but was amazed at how moist the cake was.  Of course, extra virgin olive oil, which we used, is super healthy and there's definitely more evidence of its health benefits than say coconut oil.  And if you think chiffon cakes, which are lighter because it uses oil as opposed to butter, this cake employs the same idea.  Yes, it is very olive oil-y, so if you're worried about the flavor, I would say to switch to using olive oil instead.  
 
-I also made it gluten-free and used almond flour instead of all-purpose flour, which can make the cake a bit more gritty, but I feel gives it a nice texture.  Certainly, normal all-purpose flour can be substituted back in.
 
 <figure class="third">
     <img src="/images/194-3.jpg">
@@ -62,5 +61,8 @@ I also made it gluten-free and used almond flour instead of all-purpose flour, w
     <img src="/images/194-7.jpg">
 </figure>
 
-<figure class="ingredients" markdown="1">
+
+We recently had Spain Day in culinary school and the chef shared with us an olive citrus cake.  I've actually never baked with olive oil before, but was amazed at how moist the cake was.  Of course, extra virgin olive oil, which we used, is super healthy and there's definitely more evidence of its health benefits than say coconut oil.  And if you think chiffon cakes, which are lighter because it uses oil as opposed to butter, this cake employs the same idea.  Yes, it is very olive oil-y, so if you're worried about the flavor, I would say to switch to using olive oil instead.  
+
+I also made it gluten-free and used almond flour instead of all-purpose flour, which can make the cake a bit more gritty, but I feel gives it a nice texture.  Certainly, normal all-purpose flour can be substituted back in.
 
