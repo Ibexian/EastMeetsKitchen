@@ -16,7 +16,7 @@ image:
 - 2 1/4 cups all-purpose flour, unbleached
 - 1 teaspoon sugar
 - 1/4 teaspoon salt
-- 2 sticks butter
+- 2 sticks butter, cold 
 - 6 tablespoons cold water
 
 Special thanks to Chef Dodge (Baking with Chef Jim Dodge) for showing this awesome technique and recipe!
