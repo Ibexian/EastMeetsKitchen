@@ -15,9 +15,6 @@ image:
     <img src="/images/191-4.jpg">
 </figure>
 
-<figure>
-    <img src="/images/191-5.jpg">
-</figure>
 
 ### Corned Beef Bao Recipe
 
