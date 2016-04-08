@@ -28,7 +28,7 @@ I decided to change this up a little and add toasted rice, which will give the w
 
 <figure> <img src='/images/96-3.jpg'> </figure>
 
-####2. In a saucepan, bring 1 quart water to a boil over high heat. Add the walnuts and rice.  Boil for 1 minute uncovered and drain. 
+####2. In a saucepan, bring 2-3 cups of water to a boil over high heat. Add the walnuts and rice.  Boil for 1-2 minute uncovered and let cool. 
 
 <figure> <img src='/images/96-5.jpg'> </figure>
 
@@ -48,4 +48,4 @@ I decided to change this up a little and add toasted rice, which will give the w
 <section class='recipe'>
 <p><strong>Ingredients</strong></p>
 
-<ul><li>2 cups shelled walnuts</li><li>1/4 cup rice</li><li>4 cups water</li><li>1 1/2 slabs brown candy (3 oz)</li><li>milk (optional)</li></ul></section>
+<ul><li>2 cups shelled walnuts</li><li>1/4 cup rice</li><li>6 cups water</li><li>1 1/2 slabs brown candy (3 oz)</li><li>milk (optional)</li></ul></section>
