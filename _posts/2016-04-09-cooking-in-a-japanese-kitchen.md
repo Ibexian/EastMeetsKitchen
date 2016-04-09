@@ -57,5 +57,11 @@ Just seeing the insides of the kitchen and all the equipment was fascinating.  K
     <img src="/images/196-11.jpg">
 </figure> 
 
+Thank you so much to Keiko and Naomi for having me!  It was such a pleasure meeting and cooking with you both.
+
+<figure>
+    <img src="/images/196-12.jpg">
+</figure>
+
 
 
