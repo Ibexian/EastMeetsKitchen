@@ -1,9 +1,10 @@
 ---
 layout: post
-categories: recipes
-tags: [recipes]
+categories: [videos, recipes]
+tags: [recipes, sweets, dessert, walnut soup]
 excerpt: 
 title: "Chinese Walnut Dessert Soup"
+feature_video: https://www.youtube.com/embed/mmTUBPwYthQ"
 image:
   feature: 96-1.jpg
 ---
