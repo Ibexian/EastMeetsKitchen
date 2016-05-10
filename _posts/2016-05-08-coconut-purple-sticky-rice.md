@@ -31,7 +31,7 @@ Because purple rice is a harder grain, it is important to soak it prior to makin
 
 <figure class="ingredients" markdown="1">
 
-###Coconut Purple Sticky Rice Recipe###
+###Coconut Purple Sticky Rice Recipe
 
 (Serves 3-4)
  
