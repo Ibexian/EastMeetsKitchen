@@ -22,11 +22,11 @@ Because purple rice is a harder grain, it is important to soak it prior to makin
 
 <figure class="half">
     <img src="/images/198-5.jpg">
-    <img src="/images/198-6.jpg">
+    <img src="/images/198-7.jpg">
 </figure>
 
 <figure>
-    <img src="/images/198-7.jpg">
+    <img src="/images/198-8.jpg">
 </figure>
 
 <figure class="ingredients" markdown="1">
