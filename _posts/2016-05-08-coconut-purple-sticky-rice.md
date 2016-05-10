@@ -1,9 +1,9 @@
 ---
 layout: post
 categories: [videos, recipes]
-tags: [videos, sweets, cake, coconut, lime, gluten-free]
+tags: [videos, sweets, coconut, purple rice, sticky rice]
 excerpt: 
-title: "Coconut Lime Olive Oil Cake (Gluten-Free) "
+title: "Coconut Purple Sticky Rice"
 feature_video: https://www.youtube.com/embed/I_kRfjgj8fI
 image:
     feature: 198-1.jpg
