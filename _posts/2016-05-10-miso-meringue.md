@@ -30,11 +30,11 @@ Lastly on storage - depending on how humid of an environment you are in, usually
 
 ### Miso Meringue
 
-2 large egg whites, at room temperature
-1/8 teaspoon cream of tartar
-1/4 cup + 2 tablespoons sugar
-2 tablespoons confectioners' sugar
-2 teaspoons yellow miso powder, freeze-dried
+- 2 large egg whites, at room temperature
+- 1/8 teaspoon cream of tartar
+- 1/4 cup + 2 tablespoons sugar
+- 2 tablespoons confectioners' sugar
+- 2 teaspoons yellow miso powder, freeze-dried
 
 <figure class="directions" markdown="1">
 
@@ -47,3 +47,5 @@ Lastly on storage - depending on how humid of an environment you are in, usually
 5. Place parchment onto a wire rack and bake for 1 1/2 - 3 hours or until meringues are dry. Turn oven off and leave meringues in for another hour. Meringues can be stored in an airtight container for several days.
 
 </figure>
+
+photo attribution: (main photo) veganbaking.net
