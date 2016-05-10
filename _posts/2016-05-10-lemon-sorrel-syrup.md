@@ -20,11 +20,6 @@ Here's what you need to know.  Don't blanch sorrel before blending it because so
 
 During my presentation, I was going to strain the sauce so that it would not taste so chlorophyll-y, but I actually ended up losing a lot of sorrel flavor straining out the leaves, so I kept them in and it was absolutely delicious.  Everything tasted fresh and bright and I would definitely recommend it for any dessert needing a little pop of brightness. 
 
-<figure>
-    <img src="/images/192-2.jpg">
-</figure>
-
-<figure class="ingredients" markdown="1">
 
 ### Lemon Sorrel Syrup
 
