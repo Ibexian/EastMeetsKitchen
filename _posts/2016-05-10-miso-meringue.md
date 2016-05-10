@@ -49,4 +49,4 @@ Lastly on storage - depending on how humid of an environment you are in, usually
 
 </figure>
 
-photo attribution: (main photo) veganbaking.net
+photo attribution: (main photo) creative commons - veganbaking.net
