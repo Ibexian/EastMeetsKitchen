@@ -36,6 +36,7 @@ Lastly on storage - depending on how humid of an environment you are in, usually
 - 2 tablespoons confectioners' sugar
 - 2 teaspoons yellow miso powder, freeze-dried
 
+</figure>
 <figure class="directions" markdown="1">
 
 ### Directions
