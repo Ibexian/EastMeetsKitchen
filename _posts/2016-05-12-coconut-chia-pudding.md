@@ -13,7 +13,7 @@ When it comes to an easy, vegan, homemade dessert it doesn't get any simpler tha
 
 There's obviously great benefits with chia seeds, which are high in omega fatty acids, fiber and protein.  I guess some people might find it weird at first.  It's essentially eating somewhat of a slimy seed - ok, I'm not helping the cause, but it's more jelly than slimy.  Once you get used to it though, it's the easiest (just mix everything together and refrigerate) and most fun dessert to eat.
 
-I used half coconut milk and almond milk in mine, but you can add any liquid in there that suits your liking, even fruit juices.  I also used stevia in the video, but because there is that slight bitter undertone, I would maybe do a half-half with sugar or another sweetener.
+I used half coconut milk and almond milk in mine, but you can add any liquid in there that suits your liking, even fruit juices.  I also used stevia in the video, but because there is that slight bitter aftertaste, I would maybe do a half-half with sugar or another sweetener.
 
 
 <figure class="third">
