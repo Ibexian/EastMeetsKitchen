@@ -27,9 +27,7 @@ I used half coconut milk and almond milk in mine, but you can add any liquid in 
     <img src="/images/202-6.jpg">
 </figure>
 
-<figure class="third">
-    <img src="/images/202-8.jpg">
-    <img src="/images/202-9.jpg">
+<figure>
     <img src="/images/202-10.jpg">
 </figure>
 
