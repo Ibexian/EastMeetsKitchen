@@ -51,6 +51,6 @@ I used half coconut milk and almond milk in mine, but you can add any liquid in 
 
 1. In a container with a spout, mix together the chia seeds, coconut milk, almond milk, coconut extract, salt and stevia.
 2. Whisk together and pour into individual containers.
-3. Refrigerate for 3-4 hours.  Serve alone or with fruit.
+3. Refrigerate for 3-4 hours.  Serve as is or top with fruit.
 
 </figure>
