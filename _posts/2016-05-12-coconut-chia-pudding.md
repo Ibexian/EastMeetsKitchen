@@ -9,7 +9,7 @@ image:
     feature: 202-9.jpg
 ---
 
-When it comes to an easy vegan, homemade dessert, it doesn't get any more simple than this chia seed pudding.  Chia seeds naturally form this gel around them once it comes into contact with a liquid, making the whole mixture a pudding consistency.  
+When it comes to an easy, vegan, homemade dessert it doesn't get any simpler than this chia seed pudding.  Chia seeds naturally form this gel around them once it comes into contact with a liquid, making the whole mixture a pudding consistency.  
 
 There's obviously great benefits with chia seeds, which are high in omega fatty acids, fiber and protein.  I guess some people might find it weird at first.  It's essentially eating somewhat of a slimy seed - ok, I'm not helping the cause, but it's more jelly than slimy.  Once you get used to it though, it's the easiest (just mix everything together and refrigerate) and most fun dessert to eat.
 
