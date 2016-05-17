@@ -4,7 +4,7 @@ categories: [videos, recipes]
 tags: [videos, healthy, nomeats, Japanese, fried rice]
 excerpt: 
 title: "Trader Joe's 'Japanese Fried Rice'" 
-feature_video: https://youtu.be/aCGaJ9HLX84
+feature_video: https://www.youtube.com/embed/aCGaJ9HLX84
 image:
     feature: 201-7.jpg
 ---
