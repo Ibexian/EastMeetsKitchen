@@ -9,20 +9,20 @@ image:
     feature: 201-7.jpg
 ---
 
-Several weeks back, my cousin's two kids prepared for me this amazing fried rice that I was quite shocked by.  Come to find out it was actually Trader Joe's Japanese Style Fried Rice and it comes totally made in their frozen food aisle.
+Several weeks back, my cousin's two kids prepared for me this amazing fried rice that I was quite wowed by.  Come to find out it was actually Trader Joe's Japanese Style Fried Rice, and it comes totally made in their frozen foods aisle.
 
-The flavors were awesome and distinctly Japanese-y.  You could taste that classic sweetened rice wine and soy sauce combination.  There were these crunchy bits of hijiki seaweed, which provided texture, but also a ton of flavor as seaweed contains a lot of naturally occurring MSG (that's why it's so good).  Then there were julienned bits of carrots and edamame - soybeans - which have a much heartier and meatier texture that your normal green peas.
+The flavors were awesome and distinctly Japanese-y.  You could taste that classic sweetened rice wine and soy sauce combination.  There were these crunchy bits of hijiki seaweed, which provided texture, but also a ton of flavor as seaweed contains a lot of naturally occurring MSG (that's why it's so good).  Then there were julienned bits of carrots and whole edamame - soybeans - which have a much heartier and meatier texture that your normal green peas.
 
 <figure>
     <img src="/images/201-8.jpg">
 
 </figure>
 
-I had to find out how to make it, and I happened to stumble upon a vegan site called Veganmiam.  It is a gorgeous site dedicated to vegan recipes that two bloggers Rika and Doni make from food inspired by their travels.  Anyways, this is an amazing recipe from their site.  I made a couple easy substitutions - wakame seaweed instead of hijiki because of the arsenic content, Braggs liquid aminos instead of soy sauce and olive oil instead of vegetable oil - easy substitutions.  I also took out the sesame oil in one version because my dad is allergic, and the recipe still was super delicious.
+I had to find out how to make it, and I happened to stumble upon a vegan site called Veganmiam.  It is a gorgeous site dedicated to vegan recipes that two bloggers Rika and Doni make from food inspired by their travels.  Anyways, this is an amazing recipe from their site.  I made a couple easy substitutions - wakame seaweed instead of hijiki because of the arsenic content, Braggs Liquid Aminos instead of soy sauce and olive oil instead of vegetable oil - easy substitutions.  I also took out the sesame oil in one version because my dad is allergic, and the recipe still was super delicious.
 
 Like any fried rice recipe, you want to just make sure all your ingredients are prepared (chicken is diced, beans are thawed, seaweed is strained) and ready to be put into the wok or pan to be stir-fried.  Everything cooks up really quickly, so that's why it's important to have all the ingredients ready to go.  
 
-One more thing is that the Trader Joe's version was vegetarian, but this dish works well with meat as well.  Trader Joe's took the inspiration from a Japanese dish called Takikomi Gohan, which means "vegetable rice," where the Japanese might use fish or chicken as the protein.
+One more thing is that the Trader Joe's version was vegetarian, but this dish works well with meat as well.  Trader Joe's took the inspiration from a Japanese dish called Takikomi Gohan, which means "vegetable rice," but in some recipes, the Japanese use fish or chicken as the protein.
 
 <figure class="third">
     <img src="/images/201-2.jpg">
