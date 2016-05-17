@@ -30,10 +30,12 @@ One more thing is that the Trader Joe's version was vegetarian, but this dish wo
     <img src="/images/201-4.jpg">
 </figure>
 
-<figure class="third">
+<figure class="half">
     <img src="/images/201-5.jpg">
-    <img src="/images/201-6.jpg">
     <img src="/images/201-7.jpg">
+</figure>
+<figure>
+    <img src="/images/201-6.jpg">
 </figure>
 
 <figure class="ingredients" markdown="1">
