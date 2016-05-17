@@ -3,7 +3,7 @@ layout: post
 categories: [videos, recipes]
 tags: [videos, healthy, nomeats, Japanese, fried rice]
 excerpt: 
-title: "Trader Joe's Japanese Fried Rice" 
+title: "Trader Joe's 'Japanese Fried Rice'" 
 feature_video: https://youtu.be/aCGaJ9HLX84
 image:
     feature: 201-7.jpg
@@ -15,6 +15,7 @@ The flavors were awesome and distinctly Japanese-y.  You could taste that classi
 
 <figure>
     <img src="/images/201-8.jpg">
+
 </figure>
 
 I had to find out how to make it, and I happened to stumble upon a vegan site called Veganmiam.  It is a gorgeous site dedicated to vegan recipes that two bloggers Rika and Doni make from food inspired by their travels.  Anyways, this is an amazing recipe from their site.  I made a couple easy substitutions - wakame seaweed instead of hijiki because of the arsenic content, Braggs liquid aminos instead of soy sauce and olive oil instead of vegetable oil - easy substitutions.  I also took out the sesame oil in one version because my dad is allergic, and the recipe still was super delicious.
