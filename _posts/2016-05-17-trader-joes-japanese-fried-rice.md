@@ -65,6 +65,6 @@ One more thing is that the Trader Joe's version was vegetarian, but this dish wo
 1. In a large pan, heat olive oil on medium-high heat.
 2. Add in shredded carrots and chicken and sauté for 1-2 minutes.
 3. Add in the seaweed and edamame and sauté again for 2 minutes.  Add in a little water for steam.
-4. Add in the rice, sesame oil, soy sauce, mirin and white pepper.  Fry for another 2-3 minutes, or until the rice absorbs all the sauce and the ingredients are incorporated. 
+4. Add in the rice, sesame oil, soy sauce, mirin and white pepper.  Fry for another 2-3 minutes, or until the rice absorbs all the flavorings and the ingredients are incorporated. 
 
 </figure>
