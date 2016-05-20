@@ -16,16 +16,14 @@
 {% include _browser-upgrade.html %}
 
 {% include _navigation.html %}
+{% assign total = 5 | minus: site.data.featured.size %}
 
   <div id="slider" class="image-wrap">
-  {% for post in site.posts limit:5 %}   
-    <a href="{{ post.url }}"> <img src=
-    {% if post.image.feature contains 'http' %}
-      "{{ post.image.feature }}"
-    {% else %}
-      "{{ site.url }}/images/{{ post.image.feature }}"
-    {% endif %}
-    alt="{{ post.title }}"></a>
+  {% for post in site.data.featured %}
+    <a href="{{ post.url }}"> <img src="{{ site.url }}/images/{{ post.image.feature }}" alt="{{ post.title }}"></a>
+  {% endfor %}
+  {% for post in site.posts limit:total %}   
+    <a href="{{ post.url }}"> <img src="{{ site.url }}/images/{{ post.image.feature }}" alt="{{ post.title }}"></a>
   {% endfor %}
   </div><!-- /.image-wrap -->
 
