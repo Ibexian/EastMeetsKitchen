@@ -4,7 +4,7 @@ categories: [videos, recipes]
 tags: [videos, turkey, tofu]
 excerpt: 
 title: "Chinese Turkey and Tofu"
-feature_video: https://www.youtube.com/embed/y5xiRmJPKrQ
+feature_video: https://www.youtube.com/embed/y5xiRmJPKrQ?rel=0
 image:
     feature: 188-1.jpg
 ---

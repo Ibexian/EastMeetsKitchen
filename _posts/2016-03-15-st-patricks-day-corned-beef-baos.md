@@ -4,7 +4,7 @@ categories: [videos, recipes]
 tags: [videos, meats, bao]
 excerpt: 
 title: "St. Patrick's Day Corned Beef Bao Recipe"
-feature_video: https://www.youtube.com/embed/1_hrot4N6y0
+feature_video: https://www.youtube.com/embed/1_hrot4N6y0?rel=0
 image:
     feature: 191-1.jpg
 ---

@@ -4,7 +4,7 @@ categories: [recipes, videos]
 tags: [videos, meats, riceandnoodles, rice, claypot rice]
 excerpt: 
 title: "Chinese Chicken and Mushroom Claypot Rice"
-feature_video: https://www.youtube.com/embed/TJ8sEeBnba4
+feature_video: https://www.youtube.com/embed/TJ8sEeBnba4?rel=0
 image:
     feature: 183-1.jpg
 ---

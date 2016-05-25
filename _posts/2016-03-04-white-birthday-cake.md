@@ -4,7 +4,7 @@ categories: [videos, recipes]
 tags: [videos, sweets, cake, birthday cake]
 excerpt: 
 title: "White Birthday Cake"
-feature_video: https://www.youtube.com/embed/th0p4tFSmZY
+feature_video: https://www.youtube.com/embed/th0p4tFSmZY?rel=0
 image:
     feature: 189-1.jpg
 ---

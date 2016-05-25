@@ -4,7 +4,7 @@ categories: [videos, recipes]
 tags: [videos, mackerel, korean, meats, fish, broiled, pan-seared]
 excerpt: 
 title: "Korean Mackerel"
-feature_video: https://www.youtube.com/embed/qWrGOpAY6_s
+feature_video: https://www.youtube.com/embed/qWrGOpAY6_s?rel=0
 image:
     feature: 185-1.jpg
 ---

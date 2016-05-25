@@ -4,7 +4,7 @@ categories: [videos, recipes]
 tags: [videos, sweets, pie, crust]
 excerpt: 
 title: "The Ultimate Flakey Pie Crust"
-feature_video: https://www.youtube.com/embed/5O69wLdvXoc
+feature_video: https://www.youtube.com/embed/5O69wLdvXoc?rel=0
 image:
     feature: 190-1.jpg
 ---
