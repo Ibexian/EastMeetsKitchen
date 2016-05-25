@@ -5,7 +5,7 @@ tags: [videos, healthy, sweets, vegan, chocolate chip cookies]
 excerpt: 
 title: "The Best Vegan Chocolate Chip Cookies'" 
 feature_video: https://www.youtube.com/embed/8OSFGl3wp4U
-imgage:   
+image:   
     feature: 203-1.jpg
 ---
 
