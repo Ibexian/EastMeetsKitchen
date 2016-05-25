@@ -32,12 +32,7 @@ The other thing to keep in mind for this recipe is that the cookie dough is very
 
 <figure class="half">
 <img src="/images/203-5.jpg">
-<img src="/images/203-6.jpg">
-</figure>
-
-<figure>
     <img src="/images/203-9.jpg">
-
 </figure>
 
 <figure class="half">
