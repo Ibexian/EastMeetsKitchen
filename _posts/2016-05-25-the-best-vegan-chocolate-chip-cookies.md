@@ -46,7 +46,7 @@ The other thing to keep in mind for this recipe is that the cookie dough is very
 </figure>
 
 <figure>
-    <img src="/images/203-14.jpg">
+    <img src="/images/203-14.JPG">
 </figure>
 
 <figure class="ingredients" markdown="1">
