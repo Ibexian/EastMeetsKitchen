@@ -11,7 +11,7 @@ image:
 
 I would say that the chocolate chip cookie is the quintessential snack or treat for most Americans and no matter what diet you’re on, it gives you comfort to know that maybe sometime during the day you can look forward to a cookie or two as a pick-me-up.
 
-I’m still on my two week vegan regime and although I actually don’t miss meat all that much (I mean, I’m a bit sick of beans), I certainly cannot go without sweets for that amount of time – though I think I should try.  But that got me into thinking of finding a vegan chocolate chip recipe that was maybe even better for you than just confirming that all ingredients were vegan-friendly.
+I’m still on my two week vegan regime and although I actually don’t miss meat all that much (I mean, I’m a bit sick of beans), I certainly cannot go without sweets for that amount of time – though I think I should try.  But that got me into thinking of finding a vegan chocolate chip recipe that was maybe even better for you than just having all ingredients were vegan-friendly.
 
 <figure class="half">
     <img src="/images/203-2.jpg">
