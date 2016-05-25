@@ -18,7 +18,7 @@ I’m still on my two week vegan regime and although I actually don’t miss mea
     <img src="/images/203-3.jpg">
 </figure>
 
-So I did what I loved best and tested the heck out of different ingredients to make sure you were getting a cookie that although you should still eat in moderation, contained whole foods – grains, dates and less added sweeteners than the ones in grocery aisles.  I kept the recipe very basic.  You could certainly go ahead and add chia seeds, flax or nuts to it and it would be perfectly delicious.
+So I did what I do best and tested the heck out of different ingredients to make sure you were getting a cookie, which although you should still eat in moderation, contained whole foods – grains, dates and less added sweeteners than the ones in grocery aisles.  I kept the recipe very basic.  You could certainly go ahead and add chia seeds, flax or nuts to it, and it would be perfectly delicious.
 
 <figure>
     <img src="/images/203-4.jpg">
