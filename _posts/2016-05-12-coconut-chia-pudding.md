@@ -4,7 +4,7 @@ categories: [videos, recipes]
 tags: [videos, sweets, healthy, coconut, chia seed, vegan]
 excerpt: 
 title: "Coconut Chia Pudding"
-feature_video: https://www.youtube.com/embed/zPRUrKr82DM
+feature_video: https://www.youtube.com/embed/zPRUrKr82DM?rel=0
 image:
     feature: 202-9.jpg
 ---

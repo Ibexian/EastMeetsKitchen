@@ -4,7 +4,7 @@ categories: [videos, blog]
 tags: [videos, kyoto, Japanese kitchen, blog, vlog]
 excerpt: 
 title: "Cooking in a Japanese Kitchen"
-feature_video: https://www.youtube.com/embed/hNY1oSs5fzE
+feature_video: https://www.youtube.com/embed/hNY1oSs5fzE?rel=0
 image:
     feature: 196-1.jpg
 ---

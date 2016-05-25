@@ -4,7 +4,7 @@ categories: [videos, recipes]
 tags: [videos, sweets, sake, jelly]
 excerpt: 
 title: "Sake-Infused Jelly"
-feature_video: https://www.youtube.com/embed/RZtNSO4ztx0
+feature_video: https://www.youtube.com/embed/RZtNSO4ztx0?rel=0
 image:
     feature: 197-1.jpg
 ---

@@ -4,7 +4,7 @@ categories: [videos, recipes]
 tags: [videos, sweets, coconut, purple rice, sticky rice]
 excerpt: 
 title: "Coconut Purple Sticky Rice"
-feature_video: https://www.youtube.com/embed/BqVZs8vi3FY
+feature_video: https://www.youtube.com/embed/BqVZs8vi3FY?rel=0
 image:
     feature: 198-1.jpg
 ---

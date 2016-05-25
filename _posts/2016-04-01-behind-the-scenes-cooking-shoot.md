@@ -4,7 +4,7 @@ categories: [videos, blog]
 tags: [videos, behind the scenes]
 excerpt: 
 title: "Behind the Scenes Cooking Shoot"
-feature_video: https://www.youtube.com/embed/3ZMI7tVFkZc"
+feature_video: https://www.youtube.com/embed/3ZMI7tVFkZc?rel=0
 image:
     feature: 195-5.jpg
 ---
