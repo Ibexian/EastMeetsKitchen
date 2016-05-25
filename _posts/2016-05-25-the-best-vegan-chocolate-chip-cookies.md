@@ -13,21 +13,18 @@ I would say that the chocolate chip cookie is the quintessential snack or treat 
 
 I’m still on my two week vegan regime and although I actually don’t miss meat all that much (I mean, I’m a bit sick of beans), I certainly can not go without sweets for that amount of time – though I think I should try.  But that got me into thinking of finding a vegan chocolate chip recipe that was maybe even better for you than just confirming that all ingredients were vegan-friendly.
 
-So I did what I loved best and tested the heck out of different ingredients to make sure you were getting a cookie that although you should still eat in moderation, contained whole foods – grains, dates and less added sweeteners than the ones in grocery aisles.  I kept the recipe very basic.  You could certainly go ahead and add chia seeds, flax or nuts to it and it would be perfectly delicious.
-
 <figure class="half">
     <img src="/images/203-2.jpg">
     <img src="/images/203-3.jpg">
 </figure>
 
-As I mentioned in the video, the one big thing that could be a little strange tasting is the inclusion of whole-wheat flour entirely.  I found that the wheat flavor subsided the second day and also could be masked with maybe a bit more sweetener, but if you’re not sure, I would go half-half first and mix it with some all-purpose flour or maybe even oat flour.
+So I did what I loved best and tested the heck out of different ingredients to make sure you were getting a cookie that although you should still eat in moderation, contained whole foods – grains, dates and less added sweeteners than the ones in grocery aisles.  I kept the recipe very basic.  You could certainly go ahead and add chia seeds, flax or nuts to it and it would be perfectly delicious.
 
 <figure>
     <img src="/images/203-4.jpg">
 </figure>
 
-The other thing to keep in mind for this recipe is that the cookie dough is very dry, and you need to form and press the cookies into the shape you want prior to baking it.  It did not spread when I baked it.  Because the dough is so crumbly, towards the end before you scoop it, feel free to add a bit more coconut milk or oil just until the whole thing comes together.  Don’t be afraid to use your hands and press the cookies.  If there are cracks prior to baking, there will be cracks after baking, so smooth over what you can with your hands and pack the cookie dough into tight disks.
-
+As I mentioned in the video, the one big thing that could be a little strange tasting is the inclusion of whole-wheat flour entirely.  I found that the wheat flavor subsided the second day and also could be masked with maybe a bit more sweetener, but if you’re not sure, I would go half-half first and mix it with some all-purpose flour or maybe even oat flour.
 
 
 <figure class="half">
@@ -39,6 +36,8 @@ The other thing to keep in mind for this recipe is that the cookie dough is very
     <img src="/images/203-10.jpg">
     <img src="/images/203-12.jpg">
 </figure>
+
+The other thing to keep in mind for this recipe is that the cookie dough is very dry, and you need to form and press the cookies into the shape you want prior to baking it.  It did not spread when I baked it.  Because the dough is so crumbly, towards the end before you scoop it, feel free to add a bit more coconut milk or oil just until the whole thing comes together.  Don’t be afraid to use your hands and press the cookies.  If there are cracks prior to baking, there will be cracks after baking, so smooth over what you can with your hands and pack the cookie dough into tight disks.
 
 <figure>
     <img src="/images/203-14.JPG">
