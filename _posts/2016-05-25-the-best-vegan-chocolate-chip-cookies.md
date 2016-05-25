@@ -22,9 +22,8 @@ So I did what I loved best and tested the heck out of different ingredients to m
 
 As I mentioned in the video, the one big thing that could be a little strange tasting is the inclusion of whole-wheat flour entirely.  I found that the wheat flavor subsided the second day and also could be masked with maybe a bit more sweetener, but if you’re not sure, I would go half-half first and mix it with some all-purpose flour or maybe even oat flour.
 
-<figure class="half">
+<figure>
     <img src="/images/203-4.jpg">
-    <img src="/images/203-5.jpg">
 </figure>
 
 The other thing to keep in mind for this recipe is that the cookie dough is very dry, and you need to form and press the cookies into the shape you want prior to baking it.  It did not spread when I baked it.  Because the dough is so crumbly, towards the end before you scoop it, feel free to add a bit more coconut milk or oil just until the whole thing comes together.  Don’t be afraid to use your hands and press the cookies.  If there are cracks prior to baking, there will be cracks after baking, so smooth over what you can with your hands and pack the cookie dough into tight disks.
@@ -32,8 +31,8 @@ The other thing to keep in mind for this recipe is that the cookie dough is very
 
 
 <figure class="half">
-    <img src="/images/203-6.jpg">
-    <img src="/images/203-7.jpg">
+<img src="/images/203-5.jpg">
+<img src="/images/203-6.jpg">
 </figure>
 
 <figure>
