@@ -3,7 +3,7 @@ layout: post
 categories: [videos, recipes]
 tags: [videos, healthy, vegan, green pea, hummus]
 excerpt: 
-title: "Green Pea Hummus" 
+title: "Tahini-Free Green Pea Hummus" 
 feature_video: https://www.youtube.com/embed/ZUMf28bdaiE?rel=0
 image:   
     feature: 204-1.jpg
@@ -30,7 +30,7 @@ So, I've come across a lot of vegan recipes lately, and there have only been a h
 
 <figure class="ingredients" markdown="1">
 
-### Green Pea Hummus
+### Tahini-Free Green Pea Hummus
 
 (Makes 2 tubs)
 
