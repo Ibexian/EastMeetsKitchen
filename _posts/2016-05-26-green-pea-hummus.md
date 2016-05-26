@@ -9,7 +9,7 @@ image:
     feature: 204-1.jpg
 ---
 
-Because many people have an allergy to sesame, I wanted to find a hummus recipe that did not contain tahini.  I also wanted to use something that tasted fresher and more spring-like than chickpeas, so green peas really seemed to fit the bill.  In addition, this recipe has no cheese, which may worry some people because of flavor, but along with the basil and lemon juice, it is packed with goodness and you would not be able tell that it's missing anything. 
+Because many people have an allergy to sesame, I wanted to find a hummus recipe that did not contain tahini.  I also wanted to use something that tasted fresher and more spring-like than chickpeas, so green peas really seemed to fit the bill.  In addition, this recipe has no cheese, which may worry some people, but along with the basil and lemon juice, it is packed with flavor goodness and you would not be able tell that it's missing anything. 
 
 <figure>
     <img src="/images/204-3.jpg">
