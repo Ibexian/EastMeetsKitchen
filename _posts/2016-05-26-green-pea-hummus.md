@@ -15,7 +15,7 @@ Because many people have an allergy to sesame, I wanted to find a hummus recipe 
     <img src="/images/204-3.jpg">
 </figure>
 
-So, I've come across a lot of vegan recipes lately, and there have only been a handful that have hit it out the park for me.  This is one of those recipes.  I can use it as a hummus or cheese substitute because the beans and lemon juice make this dip taste sort of cheesy.  You don't really get stuffed after it, and the ingredients it uses makes the whole dip really refreshing.
+So, I've come across a lot of vegan recipes lately, and there have only been a handful that have hit it out the park for me.  This is one of those recipes.  I can use it as a hummus or cheese substitute because the beans and lemon juice make this dip taste sort of cheesy.  You don't really get stuffed after, and the ingredients it uses makes the whole dip really refreshing.
 
 
 <figure class="half">
