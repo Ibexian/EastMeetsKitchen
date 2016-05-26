@@ -23,7 +23,7 @@ So, I've come across a lot of vegan recipes lately, and there have only been a h
     <img src="/images/204-6.jpg">
 </figure>
 
-<figure class="half">
+<figure>
     <img src="/images/204-7.jpg">
 </figure>
 
