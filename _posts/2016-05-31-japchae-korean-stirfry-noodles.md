@@ -11,12 +11,12 @@ image:
 
 When it comes to Korean food, nothing beats a good bowl of japchae.  It's  a stir-fry of vegetables, mushrooms and glass noodles made from sweet potato starch, which gives it a nice bite.  The signature to japchae, however, has to be its flavor, which is a mix of sweet rice wine with soy sauce and sesame oil, which are classic Korean flavors.  I packed my noodles full of vegetables, which makes the dish look healthy and appetizing.  
 
-For those who want to add some protein, feel free to add in some minced pork and just flavor it with a bit of soy sauce.  The dish is naturally vegetarian and vegan-friendly and to be honest, the shitake mushrooms give the dish a nice meaty bite already, but additional protein can certainly be added and would be delicious as well.
+For those who want to add some protein, feel free to add in some minced pork and just flavor it with a bit of soy sauce.  The dish is naturally vegetarian and vegan, but to be honest, the shitake mushrooms give the dish a nice meaty bite already, but additional protein can certainly be added and would be delicious as well.
 <figure>
     <img src="/images/205-5.jpg">
 </figure>
 
-This is a very simple stir-fry recipe once you have all the ingredients prepared, which may be the hard part.  The dish comes together very quickly once you start cooking.  I think the key to make sure all the vegetables are cut around the same size so everything cooks evenly. For my tastes, I found my japchae needed a tad more soy sauce and sugar at the end, but season to your liking.
+This is a very simple stir-fry recipe once you have all the ingredients prepared, which may be the hard part.  The dish comes together very quickly once you start cooking.  I think the key is to make sure all the vegetables are cut around the same size so everything cooks evenly. For taste, I found my japchae needed a tad more soy sauce and sugar at the end, so make sure to season to your liking.
 
 <figure class="half">
 <img src="/images/205-4.jpg">
