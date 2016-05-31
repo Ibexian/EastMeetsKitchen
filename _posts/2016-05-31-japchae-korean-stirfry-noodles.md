@@ -23,13 +23,10 @@ This is a very simple stir-fry recipe once you have all the ingredients prepared
     <img src="/images/205-6.jpg">
 </figure>
 
-<figure>
-    <img src="/images/205-8.jpg">
-</figure>
 
 <figure class="half">
+ <img src="/images/205-8.jpg">
 <img src="/images/205-9.jpg">
-    <img src="/images/205-11.jpg">
 </figure>
 
 <figure>
