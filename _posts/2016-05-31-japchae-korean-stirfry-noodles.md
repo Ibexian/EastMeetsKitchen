@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: [videos, recipes]
-tags: [videos, healthy, vegan, no-meats, japchae, stirfry, noodles, korean]
+tags: [videos, healthy, vegan, no-meats, japchae, stirfry, riceandnoodles, korean]
 excerpt: 
 title: "Japchae Korean Stir-Fry Noodles" 
 feature_video: https://www.youtube.com/embed/uhgJF4eI5fU?rel=0
