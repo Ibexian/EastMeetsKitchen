@@ -32,6 +32,9 @@ This is a very simple stir-fry recipe once you have all the ingredients prepared
     <img src="/images/205-11.jpg">
 </figure>
 
+<figure>
+    <img src="/images/205-10.jpg">
+</figure>
 <figure class="ingredients" markdown="1">
 
 ### Japchae Recipe
