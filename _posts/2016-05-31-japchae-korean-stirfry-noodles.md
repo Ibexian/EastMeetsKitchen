@@ -48,7 +48,7 @@ This is a very simple stir-fry recipe once you have all the ingredients prepared
 - 1-2 cloves garlic
 - 2 tablespoons vegetable oil
 - 1/4 cup mirin
--`1/4 cup soy sauce
+- 1/4 cup soy sauce
 - 1 teaspoon sugar
 - 1 teaspoon sesame oil
  
