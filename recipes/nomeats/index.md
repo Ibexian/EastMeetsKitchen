@@ -1,6 +1,6 @@
 ---
 layout: tag-index
-title: No Meat Recipes
+title: Meatless Recipes
 excerpt: "A List of Posts"
 category: nomeats
 ---
