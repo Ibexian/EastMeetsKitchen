@@ -30,6 +30,7 @@ During my presentation, I was going to strain the sauce so that it would not tas
 - ½ cup sorrel leaves
 - 1 teaspoon lemon juice
 
+</figure>
 <figure class="directions" markdown="1">
 
 ### Directions
