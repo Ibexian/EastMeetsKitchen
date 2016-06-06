@@ -11,7 +11,7 @@ image:
 
 I love mac and cheese.  I love it in the box; I love the ones the Food Network makes with four different kinds of cheeses.  What I'm not so sure about are vegan mac and cheeses because in my experience with vegan recipes, anytime you try to make a vegan food taste like a food that is not not normally vegan (and in the case of mac and cheese, this is definitely the case), the results are usually not so great.
 
-So imagine my surprise when I found Tasting Table's recipe for (mac and cheese)[http://www.tastingtable.com/entry_detail/chefs_recipes/15806/Bare_Bones_Mac_N_Cheese_Recipe.htm], and it tasted pretty darn good.  Because of the spices that were added, it tasted more like a spicy, barbeque cheese sauce.  The initial savory-ness caught me off guard, and I'm not sure I liked it at first.  But very quickly, I found the meatiness of the flavor to be quite addictive.  
+So imagine my surprise when I found Tasting Table's recipe for [mac and cheese](http://www.tastingtable.com/entry_detail/chefs_recipes/15806/Bare_Bones_Mac_N_Cheese_Recipe.htm), and it tasted pretty darn good.  Because of the spices that were added, it tasted more like a spicy, barbeque cheese sauce.  The initial savory-ness caught me off guard, and I'm not sure I liked it at first.  But very quickly, I found the meatiness of the flavor to be quite addictive.  
 
 <figure>
     <img src="/images/206-5.jpg">
