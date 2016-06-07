@@ -29,6 +29,7 @@ This is a very simple stir-fry recipe once you have all the ingredients prepared
 <img src="/images/205-9.jpg">
 </figure>
 
+This holds for a couple days, so if you end up having too much for dinner, it makes for a really nice lunch as well!  It's sort of like take-out, but not.
 <figure>
     <img src="/images/205-10.jpg">
 </figure>
