@@ -176,10 +176,16 @@ svg:not(:root) {
     padding:3px;
     background: rgb(245, 242, 240);
   }
+  h3 , p {
+    padding: 0 0.5em;
+  }
 }
 .directions {
   @media #{$micro} {
     @include grid(12,8);
     padding:3px;
+  }
+  #directions {
+    padding-left: 1em;
   }
 }
