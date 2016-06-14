@@ -20,18 +20,18 @@ Surprisingly, although there are all these complex flavors - star anise, cinnamo
 
 <figure class="half">
 <img src="/images/207-6.jpg">
-    <img src="/images/207-9.jpg">
+<img src="/images/207-7.jpg">
 </figure>
 
 Pho is really one of those rare instances where neither the protein nor the noodles are the star; it's really the background broth surrounding the whole thing that gives this Vietnamese noodle dish its distinctive and uttering delicious characteristic.
 
 <figure class="half">
 <img src="/images/207-4.jpg">
-    <img src="/images/207-5.jpg">
+ <img src="/images/207-5.jpg">
 </figure>
-<figure class="half">
-<img src="/images/207-7.jpg">
-    <img src="/images/207-8.jpg">
+
+<figure>
+    <img src="/images/207-9.jpg">
 </figure>
 
 <figure class="ingredients" markdown="1">
