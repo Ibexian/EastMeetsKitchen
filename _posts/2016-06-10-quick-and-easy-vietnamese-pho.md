@@ -18,16 +18,16 @@ I was reading this Lucky Peach Pho [article](http://luckypeach.com/the-history-o
 
 Surprisingly, although there are all these complex flavors - star anise, cinnamon, corriander and cloves, the soup comes together really well even after just 30 minutes.  To save time, I cooked my proteins in the broth and also my rice noodles, which I soaked in cold water first (big tip!).  This broth is definitely one you can freeze and the next time you get a craving or want to make a quick dinner, just melt the broth and add some cooked chicken and rice noodles.
 
-<figure>
+<figure class="half">
 <img src="/images/207-6.jpg">
+<img src="/images/207-7.jpg">
 </figure>
 
 Pho is really one of those rare instances where neither the protein nor the noodles are the star; it's really the background broth surrounding the whole thing that gives this Vietnamese noodle dish its distinctive and uttering delicious characteristic.
 
-<figure class="third">
+<figure class="half">
 <img src="/images/207-4.jpg">
  <img src="/images/207-5.jpg">
-<img src="/images/207-7.jpg">
 </figure>
 
 <figure>
