@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: [videos, recipes]
-tags: [videos, healthy, riceandnoodles]
+tags: [videos, healthy, riceandnoodles, pho, vietnamese]
 excerpt: 
 title: "Quick and Easy Vietnamese Pho" 
 feature_video: https://www.youtube.com/embed/sLildfWrYlc?rel=0
@@ -57,9 +57,6 @@ Pho is really one of those rare instances where neither the protein nor the nood
 - 1 stalk scallion
 - cilantro, for garnish
 - 2 wedges lime
-
-
- 
 
 </figure>
 <figure class="directions" markdown="1">
