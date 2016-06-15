@@ -23,7 +23,7 @@ Surprisingly, although there are all these complex flavors - star anise, cinnamo
 <img src="/images/207-7.jpg">
 </figure>
 
-Pho is really one of those rare instances where neither the protein nor the noodles are the star; it's really the background broth surrounding the whole thing that gives this Vietnamese noodle dish its distinctive and uttering delicious characteristic.
+Really though, pho is  one of those rare instances where neither the protein nor the noodles are the star of the dish; it's the background broth surrounding the whole thing that gives this Vietnamese noodle dish its distinctive and uttering delicious characteristic.  Hope you all enjoy!
 
 <figure class="half">
 <img src="/images/207-4.jpg">
