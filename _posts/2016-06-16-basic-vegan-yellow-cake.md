@@ -19,9 +19,10 @@ I think if there's one big issue I have with vegan cakes is that they are way to
 
 Because a basic vegan cake is more or less almond milk and flour, it's good to flavor it with different extracts or even better, fruit.  I will regularly throw in a couple blueberries or raspberries and bake it that way.
 
-<figure class="half">
+<figure class="third">
 <img src="/images/209-2.jpg">
 <img src="/images/209-4.jpg">
+<img src="/images/128-6.jpg">
 </figure>
 
 <figure>
