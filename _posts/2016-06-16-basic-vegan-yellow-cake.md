@@ -6,7 +6,7 @@ excerpt:
 title: "Basic Vegan Yellow Cake" 
 feature_video: https://www.youtube.com/embed/q_s-28vn65E?rel=0
 image:   
-    feature: 208-1.jpg
+    feature: 209-1.jpg
 ---
 
 If you're vegan or have friends and family with dietary restrictions, knowing how to make a basic vegan yellow cake can be mighty handy when it comes to dessert time.  You can turn this recipe into cupcakes or serve the actual cake alongside some non-dairy whipped cream and fruit and you've got yourself a really nice and simple dessert.  Still a basic yellow cake becomes very useful when you're talking about birthdays, weddings and all the other various holidays when you want to bring something sweet to the party.
