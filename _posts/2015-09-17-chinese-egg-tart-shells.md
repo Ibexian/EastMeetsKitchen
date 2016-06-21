@@ -11,7 +11,7 @@ image:
 
 No one ever shows you how to make the shells of Chinese egg tarts.  This is because it's one of the harder recipes to make.  Chinese egg tart shells are similar to puff pastry and making a good and proper crust can be quite laborious.  But as laborious as it is, it is actually the crust that is the "make it" or "break it" part of an egg tart recipe because anyone can make the custard portion.  It is in the shell that you know whether someone is a true egg tart fanatic.  
 
-Most of the egg tart shell recipes you get are an iteration of a shortbread dough, which is yummy and quick to make, but tastes nothing like the actual tart shell or you're asked to substitute the shell for a ready-made puff pastry dough, which is a little closer to the actual crust in texture, but is far more crunchy and dry.
+Most of the egg tart shell recipes you get are an iteration of a shortbread dough, which is yummy and quick to make, but tastes nothing like the actual tart shell.  Even more often, you're asked to substitute the shell for a ready-made puff pastry dough, which is a little closer to the actual crust in texture, but is far more crunchy and dry.
 
 <figure>
     <img src="/images/157-2.JPG">
