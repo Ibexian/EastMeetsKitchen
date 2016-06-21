@@ -24,7 +24,7 @@ The technique includes layering a 'water dough layer' with an 'oil dough layer' 
 
 <figure class="half">
     <img src="/images/157-5.JPG">
-    <img src="/images/157-8.JPG">
+    <img src="/images/157-8.jpg">
 </figure>
 
 <figure>
