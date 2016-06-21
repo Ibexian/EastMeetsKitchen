@@ -6,7 +6,7 @@ excerpt:
 title: "Chinese Egg Tart 'Shells'"
 feature_video: https://www.youtube.com/embed/uWjWNvUQRTU
 image:
-    feature: 157-1.jpg
+    feature: 157-8.jpg
 ---
 
 No one ever shows you how to make the shells of Chinese egg tarts.  This is because it's one of the harder recipes to make - similar to puff pastry, only the result comes out more tender and less dry.  Most recipes you get are an iteration of a shortbread dough, which is yummy and quick to make, but tastes nothing like the actual Chinese egg tart crust.
