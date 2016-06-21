@@ -9,13 +9,15 @@ image:
     feature: 157-8.jpg
 ---
 
-No one ever shows you how to make the shells of Chinese egg tarts.  This is because it's one of the harder recipes to make - similar to puff pastry, only the result comes out more tender and less dry.  Most recipes you get are an iteration of a shortbread dough, which is yummy and quick to make, but tastes nothing like the actual Chinese egg tart crust.
+No one ever shows you how to make the shells of Chinese egg tarts.  This is because it's one of the harder recipes to make.  Chinese egg tart shells are similar to puff pastry and making a good and proper crust can be quite laborious.  But as laborious as it is, it is actually the crust that is the "make it" or "break it" part of an egg tart recipe because anyone can make the custard portion.  It is in the shell that you know whether someone is a true egg tart fanatic.  
+
+Most of the egg tart shell recipes you get are an iteration of a shortbread dough, which is yummy and quick to make, but tastes nothing like the actual tart shell or you're asked to substitute the shell for a ready-made puff pastry dough, which is a little closer to the actual crust in texture, but is far more crunchy and dry.
 
 <figure>
     <img src="/images/157-2.JPG">
 </figure>
 
-The technique includes layering a 'water dough layer' with an 'oil dough layer' and folding - again, similar to puff pastry, but each layer has some flour added in addition to the fat content. I didn't mention this in the video, but these are shells are freeze-able as well. 
+A proper Chinese egg tart shell technique includes layering a 'water dough layer' with an 'oil dough layer' and folding, which is similar to puff pastry, but each layer has a certain proportion of fat, flour and moisture added to it.  The result is that although you get a puff pastry-like dough, each layer is cripsy and tender at the same time.  
 
 <figure class="half">
     <img src="/images/157-3.JPG">
@@ -26,6 +28,8 @@ The technique includes layering a 'water dough layer' with an 'oil dough layer' 
     <img src="/images/157-5.JPG">
     <img src="/images/157-8.jpg">
 </figure>
+
+I didn't mention this in the video, but these are shells are freezeable as well.  Since it does take a fair amount of time to make, you can stockpile these and take out five or six shells for every custard recipe you make.
 
 <figure>
     <img src="/images/157-6.JPG">
