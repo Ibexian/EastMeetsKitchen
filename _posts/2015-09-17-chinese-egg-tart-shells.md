@@ -17,7 +17,7 @@ Most of the egg tart shell recipes you get are an iteration of a shortbread doug
     <img src="/images/157-2.JPG">
 </figure>
 
-A proper Chinese egg tart shell technique includes layering a 'water dough layer' with an 'oil dough layer' and folding, which is similar to puff pastry, but each layer has a certain proportion of fat, flour and moisture added to it.  The result is that although you get a puff pastry-like dough, each layer is cripsy and tender at the same time.  
+A proper Chinese egg tart shell technique includes layering a "water dough layer" with an "oil dough layer" and folding, which is similar to puff pastry, but each layer has a certain proportion of fat, flour and moisture added to it.  The result is that although you get a puff pastry-like dough, each layer is cripsy and tender at the same time.  
 
 <figure class="half">
     <img src="/images/157-3.JPG">
@@ -29,7 +29,7 @@ A proper Chinese egg tart shell technique includes layering a 'water dough layer
     <img src="/images/157-8.jpg">
 </figure>
 
-I didn't mention this in the video, but these are shells are freezeable as well.  Since it does take a fair amount of time to make, you can stockpile these and take out five or six shells for every custard recipe you make.
+I didn't mention this in the video, but these shells are freezeable as well.  Since it does take a fair amount of time to make, you can stockpile these and take out five or six shells for every custard recipe you make.
 
 <figure>
     <img src="/images/157-6.JPG">
