@@ -1,8 +1,3 @@
-- title: "Homemade Veggie Burgers"
-  url: http://eastmeetskitchen.com/recipes/homemade-veggie-burgers/
-  image:
-    feature: 208-1.jpg
-
 - title: "Quick and Easy Vietnamese Pho"
   url: http://eastmeetskitchen.com/videos/recipes/quick-and-easy-vietnamese-pho/
   image:
@@ -22,3 +17,8 @@
   url: http://eastmeetskitchen.com/videos/recipes/the-best-vegan-chocolate-chip-cookies/
   image:
     feature: 203-1.jpg
+
+- title: "Cooking in a Japanese Kitchen"
+  url: http://eastmeetskitchen.com/videos/blog/cooking-in-a-japanese-kitchen/
+  image:
+    feature: 196-1.jpg
