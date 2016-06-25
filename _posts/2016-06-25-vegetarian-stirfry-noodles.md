@@ -55,7 +55,7 @@ As with any stir-fry, preparation is key as the dish cooks up quite quickly.  It
 - 1/2 cup zucchini, julienned
 - 4-5 dried shitake mushrooms, rehydrated
 - 1 shallot, julienned
-- 2 stlaks scallons, julienned
+- 2 stalks scallions, julienned
 - 1 clove garlic, chopped
 - 2 tablespoons soy sauce
 - 1 tablespoon mirin
