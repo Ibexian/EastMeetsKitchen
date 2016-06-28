@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [videos, recipes]
+categories: [videos, blog]
 tags: [blog]
 excerpt: 
 title: "What is Aquafaba?"
