@@ -15,11 +15,11 @@ If you pay attention to food news, aquafaba (or “bean water”) has sort becom
     <img src="/images/212-2.jpg">
 </figure>
 
-What is aquafaba?
+**What is aquafaba?**
 
 It is the leftover water from soaking or cooking beans like chickpeas and other types of legumes.  
 
-What is it made from?
+**What is it made from?**
 
 As you can probably guess from the leftover liquid of cooking beans, it is a mix of starches, proteins (about 1%) and other plant solids or “vegetable gums,” which have released from the bean to the water during cooking or soaking.  
 
@@ -28,11 +28,11 @@ As you can probably guess from the leftover liquid of cooking beans, it is a mix
 <img src="/images/212-4.jpg">
 </figure>
 
-Why is it important?
+**Why is it important?**
 
 The components of aquafaba give it emulsifying, foaming, gelatinizing, binding and thickening properties.  Depending on how long it is whipped, aquafaba can get as soft as the foam topping a cappuccino or when whipped for a longer period, can get nearly as stiff as meringue.  This means aquafaba can be applied to a range of baked goods, foamed drinks and even mayonnaise.  
 
-Additional Commentary 
+**Additional Commentary** 
 
 I’ve had a lot of friends tell me how weird it is to be making or consuming things made out of leftover chickpea liquid.  But I guess my thing is, it’s probably more weird to be consuming the albumen secretions from a chicken.  I’m not against it.  Heck I was a baker for crying out loud, but if chickpea liquid does the trick, it’s a heck of a lot cleaner and less weird than eggs.  That being said, what I was able to whip using aquafaba was still less stable than whipping eggs, but it came pretty close and I think substitutions can definitely be made.
 
