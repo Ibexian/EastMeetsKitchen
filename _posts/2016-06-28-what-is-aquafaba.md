@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: [videos, recipes]
-tags: [videos, blog]
+tags: [blog]
 excerpt: 
 title: "What is Aquafaba?"
 feature_video: https://www.youtube.com/embed/DIdREy7TBdY?rel=0
