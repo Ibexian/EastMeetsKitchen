@@ -32,6 +32,10 @@ As you can probably guess from the leftover liquid of cooked beans, it is a mix 
 
 The components of aquafaba give it emulsifying, foaming, gelatinizing, binding and thickening properties.  Depending on how long it is whipped, aquafaba can be as soft as the foam topping a cappuccino or when whipped for a longer period,  get nearly as stiff as a meringue.  This means aquafaba can be applied to a range of applications including baked goods, foamed drinks and even mayonnaise.  
 
+**Substitutions** 
+
+3 tablespoons of aquafaba equals one egg and 2 tablespoons of it is equivalent to an egg white.  While you might not get the exact color you get from using eggs (I'd say using aquafaba yields slightly lighter results), you get the same fluffy texture, which is probably the harder quality to mimic.
+
 **Additional Commentary** 
 
 I’ve had a lot of friends tell me how weird it is to be making or consuming things made out of leftover chickpea liquid.  But I guess my thing is, it’s probably more weird to be consuming the albumen secretions from a chicken.  I’m not against it.  Heck I was a baker for crying out loud, but if chickpea liquid does the trick, it’s a heck of a lot cleaner and less weird than eggs.  That being said, what I was able to whip using aquafaba was still less stable than whipping eggs, but it came pretty close, and I think substitutions can definitely be made.
