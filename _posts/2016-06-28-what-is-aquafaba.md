@@ -1,9 +1,10 @@
 ---
 layout: post
-categories: blog
+categories: [videos, recipes]
 tags: [blog]
 excerpt: 
 title: "What is Aquafaba?"
+feature_video: https://www.youtube.com/embed/DIdREy7TBdY?rel=0
 image:
   feature: 212-1.jpg
 ---
