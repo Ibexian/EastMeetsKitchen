@@ -9,7 +9,7 @@ image:
 ---
 
 
-If you pay attention to food news, aquafaba (or “bean water”) has sort become the game changer for vegans or people who have allergies to eggs, but still want to enjoy treats like meringues and cakes or cocktails like flips, which have a layer of egg white foam on top to add creaminess to the drink.  This goal of this post is to give a little 411 to this “new” ingredient and hopefully to get people to start experimenting and using it.
+If you pay attention to food news, aquafaba (or “bean water”) has sort become the game changer for vegans or people who have allergies to eggs, but still want to enjoy treats like meringues and cakes or cocktails like flips, which require egg whites to add on a top layer of foam.  The goal of this post is to give a little 411 to this “new” ingredient and hopefully to get people to start experimenting and using it.
 
 <figure>
     <img src="/images/212-2.jpg">
