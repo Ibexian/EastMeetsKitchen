@@ -50,6 +50,7 @@ And I guess the idea of whipping a goopy liquid into something fluffy isn’t so
 The last thing before I show you an actually recipe is a tip I read from the many blog sites covering aquafaba.  It’s that if you do want to beat aquafaba into a stiff foam or even if you want to have an easier time beating air into the liquid, reduce it first.  In my upcoming recipes, I reduced the liquid about 33% and then cooled it before whipping it up.  The results were great compared to if you were just whipping thin aquafaba straight from the can.
 
 Here's a little bit of what's to come!
+
 <figure>
     <img src="/images/212-7.jpg">
 </figure>
