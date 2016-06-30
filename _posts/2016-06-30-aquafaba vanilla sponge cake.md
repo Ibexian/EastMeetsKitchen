@@ -49,6 +49,8 @@ In terms of flavor and texture, I didn't notice much of a difference between the
 <img src="/images/213-13.jpg">
 </figure>
 
+Look how pretty this looks!
+
 <figure>
     <img src="/images/213-14.jpg">
 </figure>
