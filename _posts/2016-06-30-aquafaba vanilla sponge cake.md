@@ -45,7 +45,7 @@ In terms of flavor and texture, I didn't notice much of a difference between the
 </figure>
 
 <figure class="half">
-<img src="/images/213-10.jpg">
+<img src="/images/213-8.jpg">
 <img src="/images/213-13.jpg">
 </figure>
 
