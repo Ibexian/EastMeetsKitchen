@@ -10,7 +10,7 @@ image:
 ---
 
 
-This is the much awaited aquafaba vanilla sponge cake.  I'm so excited by this recipe because it's a real game changer for vegan cakes, which tend to be very dry and dense due to the lack of eggs used.  In addition, it was my first time working with aquafaba and just like the amazement I got watching egg whites being whipped into meringues when I was six, I got that same feeling watching chickpea liquid being whipped into foamy, marshmallow cream now.
+This is the much awaited aquafaba vanilla sponge cake.  I'm so excited by this recipe because it's a real game changer for vegan cakes, which tend to be overly dry and dense due to the lack of eggs.  Another reason I'm excited is because this was my first time working with aquafaba and just like the amazement I got watching egg whites being whipped into meringues when I was six, I got that same feeling watching chickpea liquid being whipped into foamy, marshmallow cream now.
 
 <figure class="half">
 <img src="/images/213-3.jpg">
