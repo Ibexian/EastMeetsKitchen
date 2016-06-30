@@ -17,7 +17,7 @@ This is the much awaited aquafaba vanilla sponge cake.  I'm so excited by this r
 <img src="/images/213-7.jpg">
 </figure>
 
-You just don't think it can happen, but it actually whips up. I mentioned this in my [What is Aquafaba?](http://eastmeetskitchen.com/videos/blog/what-is-aquafaba/) post, but when you do want to whip aquafaba, especially to stiffer peaks, you want to boil down and reduce the liquid by about one-third and then cooling it before you whip it. You end up with a thicker liquid from the get-go, which will ensure that it holds the air you beat into it better.
+You just don't think it can happen, but it actually whips up. I mentioned this in my [What is Aquafaba?](http://eastmeetskitchen.com/videos/blog/what-is-aquafaba/) post, but when you do want to whip aquafaba, especially to stiffer peaks, you want to boil down and reduce the liquid by about one-third and then cool it before you whip it. You end up with a thicker liquid from the get-go, which will ensure that it holds the air you beat into it better.
 
 
 <figure>
