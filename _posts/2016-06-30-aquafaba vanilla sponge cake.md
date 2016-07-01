@@ -26,7 +26,7 @@ You just don't think it can happen, but it actually whips up. I mentioned this i
 
 You'll see in the recipe that I used a combination of sugar and powdered sugar and the reason is because the starch in the powdered sugar helps to stabilize foam better.  The aquafaba whipped up nice and stiff, although still not as stiff as egg whites, but everything was stable and airy and fluffy.
 
-After beating the aquafaba, just treat the mixture as you would beaten egg whites.  That means to be gentle and fold in ingredients so that the bubbles don't pop.  This will ensure that your cake stays airy and light.
+After beating the aquafaba, just treat the mixture as you would beaten egg whites.  This means to be gentle and fold in ingredients so that the bubbles don't pop.  This will ensure that your cake stays airy and light.
 
 <figure class="half">
 <img src="/images/213-11.jpg">
