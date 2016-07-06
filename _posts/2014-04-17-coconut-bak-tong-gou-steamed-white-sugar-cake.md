@@ -12,6 +12,12 @@ Steamed "white sugar" cake or "bak tong gou" is a pretty well-known item in Chin
 
 I've never tried making bak tong gou before, but was always curious about how the whole "steaming a cake" would work.   To my surprise, the process of making the cake itself was something I had never seen before.  First, you cook the wet and dry ingredients together in a pot before letting the mixture cool and adding in the yeast.  What's interesting is I had never used yeast with rice flour before, so for sure the results be different.  Then you wait for the yeast to ferment and the cake is ready for steaming.     
 
+<figure class="half">
+<img src="/images/65-2.jpg">
+<img src="/images/65-12.jpg">
+ <figcaption> Batter after 6-hour fermentation </figcaption>
+</figure>
+
 I think the novelty alone should make people want to try the recipe.  But as it turns out, the cake is also super simple to make - requiring only about 3 or 4 ingredients.  The technique isn't too hard either, but there are certain things to make note of if you're aiming for that perfect gelatinous, pillowy sponge cake consistency with just the right amount of sweetness and tartness.
 
 First, let the cake ferment.  The longer the fermentation, the more tangy the cake will be and because the cake is only flavored by sugar, you want there to be some tartness to the flavor.  I found that five to six hours was the perfect amount of time.  Second, make sure there are no lumps to the batter before you start cooking it.  That means making sure that you are using cool water with the rice flour and whisking until there are no lumps before you begin.  
@@ -26,8 +32,7 @@ Lastly, if you have a bamboo steamer or one of those steamer attachments with yo
 
 Lastly, I actually researched quite a bit of recipes for this cake and settled on a recipe by a blogger, Wantanmien.  For those interested in authentic Cantonese recipes, check her out on YouTube. While the videos aren't too flashy (she speaks in Cantonese, but provides subtitles), they are delicious and very authentic.  
 
-#### Measure Out Your Rice Flour
-<figure> <img src='/images/65-2.jpg'> </figure>
+
 #### Water and Sugar
 <figure> <img src='/images/65-3.jpg'> </figure>
 #### Warm Coconut Milk or Water in Microwave for 15 Seconds Before Adding Yeast
@@ -46,8 +51,7 @@ Lastly, I actually researched quite a bit of recipes for this cake and settled o
 <figure> <img src='/images/65-10.jpg'> </figure>
 #### Line Steamer with Parchment Paper and Brush with Oil
 <figure> <img src='/images/65-11.jpg'> </figure>
-#### Batter After 6 Hours
-<figure> <img src='/images/65-12.jpg'> </figure>
+
 #### Pour Fermented Batter into Pan
 <figure> <img src='/images/65-13.jpg'> </figure>
 #### Cake After Steaming for 20 Minutes
