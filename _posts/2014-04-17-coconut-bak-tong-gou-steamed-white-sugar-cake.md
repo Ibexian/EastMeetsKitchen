@@ -15,7 +15,7 @@ I've never tried making bak tong gou before, but was always curious about how th
 <figure class="half">
 <img src="/images/65-2.jpg">
 <img src="/images/65-12.jpg">
- <figcaption> Batter after 6-hour fermentation </figcaption>
+<figcaption> Batter after 6-hour fermentation </figcaption>
 </figure>
 
 I think the novelty alone should make people want to try the recipe.  But as it turns out, the cake is also super simple to make - requiring only about 3 or 4 ingredients.  The technique isn't too hard either, but there are certain things to make note of if you're aiming for that perfect gelatinous, pillowy sponge cake consistency with just the right amount of sweetness and tartness.
@@ -24,7 +24,7 @@ First, let the cake ferment.  The longer the fermentation, the more tangy the ca
 
 <figure class="half">
 <img src="/images/65-6.jpg">
- <figcaption> Whisk out lumps </figcaption>
+<figcaption> Whisk out lumps </figcaption>
 <img src="/images/65-7.jpg">
 </figure>
 
