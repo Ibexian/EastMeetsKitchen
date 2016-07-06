@@ -11,7 +11,7 @@ image:
 
 Steamed "white sugar" cake or "bak tong gou" is a pretty well-known item in Chinese bakeries.  It's what I would always request as a kid when my parents would go to Chinatown for groceries on Saturday mornings.  We would always stop by the Chinese bakery to pick up bak tong gou and a host of other breads and pastries before heading home.  Texturally, it's sort of this "jello meets sponge cake" cake that is slightly sweet and also slightly tangy. It's not overly sugary and has this nice, delicate balance of flavors that is really quite enjoyable.
 
-I've never tried making bak tong gou before, but was always curious about how the whole "steaming a cake" would work.   To my surprise, the process of making the cake itself was something I had never seen before.  First, you cook the wet and dry ingredients together in a pot before letting the mixture cool and adding in the yeast.  What's interesting is I had never used yeast with rice flour before, so for sure the results be different.  Then you wait for the yeast to ferment and the cake is ready for steaming.     
+I've never tried making bak tong gou before, but was always curious about how the whole "steaming a cake" would work.   To my surprise, the process of making the cake itself was something I had never seen before.  First, you cook the ingredients together in a pot before letting the mixture cool and adding in the yeast.  What's interesting is I had never used yeast with rice flour before, so for sure the results would be different.  Then you wait for the yeast to ferment and the cake is ready for steaming.     
 
 <figure class="half">
 <img src="/images/65-2.jpg">
