@@ -14,8 +14,7 @@ I've never tried making bak tong gou before, but was always curious about how th
 
 <figure class="half">
 <img src="/images/65-2.jpg">
-<figcaption> Batter after 6-hour fermentation </figcaption>
-
+    <figcaption> Batter after 6-hour fermentation </figcaption>
 <img src="/images/65-12.jpg">
 </figure>
 
@@ -25,7 +24,7 @@ First, let the cake ferment.  The longer the fermentation, the more tangy the ca
 
 <figure class="half">
 <img src="/images/65-6.jpg">
-<figcaption> Whisk out lumps </figcaption>
+    <figcaption> Whisk out lumps </figcaption>
 <img src="/images/65-7.jpg">
 </figure>
 
