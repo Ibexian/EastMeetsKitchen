@@ -68,7 +68,7 @@ Lastly, I actually researched quite a bit of recipes for this cake and settled o
 (4-6 servings)
 
 - 1/2 cup rice flour
-- 1/3 cup white sugar (adjust according to taste)
+- 1/3 cup white sugar (can sub 4 teaspoons with 2 packets stevia)
 - 1 cup water
 - 3/4 teaspoon dry active yeast
 - 2 tablespoons of warm water (or coconut milk) 
