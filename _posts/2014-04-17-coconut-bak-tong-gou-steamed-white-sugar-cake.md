@@ -45,6 +45,11 @@ Lastly, if you have a bamboo steamer or one of those steamer attachments with yo
 Lastly, I actually researched quite a bit of recipes for this cake and settled on a recipe by a blogger, Wantanmien.  For those interested in authentic Cantonese recipes, check her out on YouTube. While the videos aren't too flashy (she speaks in Cantonese, but provides subtitles), they are delicious and very authentic.  
 
 <figure class="half">
+<img src="/images/65-4.jpg">
+<img src="/images/65-6.jpg">
+</figure>
+
+<figure class="half">
 <img src="/images/65-13.jpg">
 <img src="/images/65-14.jpg">
 </figure>
