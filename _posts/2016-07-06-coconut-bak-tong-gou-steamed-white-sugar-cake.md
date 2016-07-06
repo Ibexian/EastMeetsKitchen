@@ -40,6 +40,7 @@ The technique of pulling the pot off the stove if you see the mixture thicken to
 
 <figure>
     <img src="/images/65-11.jpg">
+     <figcaption> Line steamer basket with parchment </figcaption>
 </figure>
 
 Lastly, if you have a bamboo steamer or one of those steamer attachments with your rice cooker, line it with parchment and use it. Because this batter is thicker, you want to make sure heat and steam come in direct contact with the batter, so that it will bubble up and create a fluffier product. Some of the uncooked batter recipes steam the cake in cake pans, which works as well, but you are not going to get nearly as many air pockets in your cake.
