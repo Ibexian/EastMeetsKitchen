@@ -14,7 +14,6 @@ I've never tried making bak tong gou before, but was always curious about how th
 
 <figure class="half">
 <img src="/images/65-2.jpg">
- <figcaption> Rice flour </figcaption>
 <img src="/images/65-12.jpg">
  <figcaption> Batter after 6-hour fermentation </figcaption>
 </figure>
