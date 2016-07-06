@@ -14,6 +14,7 @@ I've never tried making bak tong gou before, but was always curious about how th
 
 <figure class="half">
 <img src="/images/65-2.jpg">
+ <figcaption> Rice flour </figcaption>
 <img src="/images/65-12.jpg">
  <figcaption> Batter after 6-hour fermentation </figcaption>
 </figure>
@@ -21,6 +22,12 @@ I've never tried making bak tong gou before, but was always curious about how th
 I think the novelty alone should make people want to try the recipe.  But as it turns out, the cake is also super simple to make - requiring only about 3 or 4 ingredients.  The technique isn't too hard either, but there are certain things to make note of if you're aiming for that perfect gelatinous, pillowy sponge cake consistency with just the right amount of sweetness and tartness.
 
 First, let the cake ferment.  The longer the fermentation, the more tangy the cake will be and because the cake is only flavored by sugar, you want there to be some tartness to the flavor.  I found that five to six hours was the perfect amount of time.  Second, make sure there are no lumps to the batter before you start cooking it.  That means making sure that you are using cool water with the rice flour and whisking until there are no lumps before you begin.  
+
+<figure class="half">
+<img src="/images/65-6.jpg">
+ <figcaption> Whisk out lumps </figcaption>
+<img src="/images/65-7.jpg">
+</figure>
 
 When it comes to cooking the batter, I want to note that there are some recipes that don't call for this.  Uncooked batter is much thinner, and I find that sometimes, the cake does not look as airy because it may be easier for the bubbles to escape while cooking. 
 
