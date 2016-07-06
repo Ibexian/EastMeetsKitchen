@@ -58,32 +58,6 @@ Lastly, I actually researched quite a bit of recipes for this cake and settled o
     <img src="/images/65-15.jpg">
 </figure>
 
-#### Water and Sugar
-<figure> <img src='/images/65-3.jpg'> </figure>
-#### Warm Coconut Milk or Water in Microwave for 15 Seconds Before Adding Yeast
-<figure> <img src='/images/65-4.jpg'> </figure>
-#### Mix Flour, Water, and Sugar into Pot
-<figure> <img src='/images/65-5.jpg'> </figure>
-#### Make Sure There Are No Lumps Before Starting
-<figure> <img src='/images/65-6.jpg'> </figure>
-#### Cooked Mixture Should Have A Thick Consistency
-<figure> <img src='/images/65-7.jpg'> </figure>
-#### Strain Mixture
-<figure> <img src='/images/65-8.jpg'> </figure>
-#### Mix in Yeast
-<figure> <img src='/images/65-9.jpg'> </figure>
-#### Cover Mixture and Let Ferment in Warm Area
-<figure> <img src='/images/65-10.jpg'> </figure>
-#### Line Steamer with Parchment Paper and Brush with Oil
-<figure> <img src='/images/65-11.jpg'> </figure>
-
-#### Pour Fermented Batter into Pan
-<figure> <img src='/images/65-13.jpg'> </figure>
-#### Cake After Steaming for 20 Minutes
-<figure> <img src='/images/65-14.jpg'> </figure>
-#### Ready to Serve!
-<figure> <img src='/images/65-15.jpg'> </figure>
-
 
 <figure class="ingredients" markdown="1">
 ### Bak Tong Gou
