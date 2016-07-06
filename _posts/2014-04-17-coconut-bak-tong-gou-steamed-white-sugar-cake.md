@@ -75,16 +75,16 @@ Lastly, I actually researched quite a bit of recipes for this cake and settled o
 
 ### Directions
 
-1. In a pot, whisk together water, sugar, and rice flour until there are no lumps. 
-2. Whisky constantly, cook batter over medium heat for 2 minutes.  
-3. Turn heat down about half way, and cook batter for an additional 4 minutes, still whisking constantly.
-4. Turn heat to lowest setting, and cook for 1 minute.
-5. Finally, turn the heat off, and whisk for 4 minutes.
-6. Strain batter into a bowl
-7. Mix yeast with warm water or coconut milk if desired, and let sit for 10 minutes.
-8. Pour yeast mixture into batter and stir still combined.
-9. Cover batter and let sit in a warm are for at least 6 hours till mixture bubbles.
-10. After 6 hours, pour mixture into a steaming pan lined with greased parchment.
-11. Steam for 20 minutes and cut into 6 pieces for serving.
+1. Mix yeast with warm water or coconut milk if desired, and let sit for 10 minutes.
+2. In a pot, whisk together water, sugar and rice flour until there are no lumps. 
+3. Whisking constantly, cook batter over medium heat for 2 minutes.  
+4. Turn heat down about half way, and cook batter for an additional 4 minutes, still whisking constantly.
+5. Turn heat to lowest setting, and cook for 1 minute.
+6. Finally, turn the heat off, and whisk for 4 minutes.
+7. Strain batter into a bowl.
+8. Pour yeast mixture into batter and stir until combined.
+9. Cover batter and let sit in a warm area for at least 6 hours until mixture bubbles.
+10. After 6 hours, pour mixture into a steamer lined with greased parchment.
+11. Steam on high for 20 minutes.  Let cool and cut into 6 pieces for serving.
 
 </figure>
