@@ -15,7 +15,7 @@ I've never tried making bak tong gou before, but was always curious about how th
 <figure class="half">
 <img src="/images/65-2.jpg">
 <img src="/images/65-12.jpg">
- <figcaption> On left: rice flour | On right: fermentation after 6 hours </figcaption>
+ <figcaption> On left: rice flour |                      On right: fermentation after 6 hours </figcaption>
 </figure>
 
 I think the novelty alone should make people want to try the recipe.  But as it turns out, the cake is also super simple to make - requiring only about 3 or 4 ingredients.  The technique isn't too hard either, but there are certain things to make note of if you're aiming for that perfect gelatinous, pillow-y sponge cake consistency with just the right amount of sweetness and tartness.
