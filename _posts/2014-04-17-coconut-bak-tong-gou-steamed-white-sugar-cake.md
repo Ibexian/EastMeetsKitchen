@@ -84,7 +84,7 @@ Lastly, I actually researched quite a bit of recipes for this cake and settled o
 7. Strain batter into a bowl.
 8. Pour yeast mixture into batter and stir until combined.
 9. Cover batter and let sit in a warm area for at least 6 hours until mixture bubbles.
-10. After 6 hours, pour mixture into a steamer lined with greased parchment.
+10. After 6 hours, pour mixture into a steamer basket lined with greased parchment.
 11. Steam on high for 20 minutes.  Let cool and cut into 6 pieces for serving.
 
 </figure>
