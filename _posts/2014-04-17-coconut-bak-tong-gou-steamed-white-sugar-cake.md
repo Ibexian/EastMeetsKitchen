@@ -30,12 +30,28 @@ When it comes to cooking the batter, I want to note that there are some recipes 
 
 That being said, for a cooked batter, it can clump up very quickly if you aren't constantly whisking and making note of the edges of the pot.  You are never putting the batter over more than medium heat, so it should never boil.  Rather, you are cooking it on a gentle, low heat so that the mixture will slightly thicken.  I don't want to overcomplicate this because it's not like cooking pastry cream where a whole slew of problems can show up.  You just want this batter to thicken ever so slightly.
 
+<figure>
+    <img src="/images/65-7.jpg">
+</figure>
+
 The technique of pulling the pot off the stove if you see the mixture thicken too quickly, whisking quickly to cool it down and then putting it back on the stove is invaluable.  If you have a powerful stove, I would say to err on the side of having your heat be too low.  Like I said before, some recipes don't even require cooking the batter, so if your batter is slightly thicker than when you started, mission is accomplished. 
+
+<figure>
+    <img src="/images/65-11.jpg">
+</figure>
 
 Lastly, if you have a bamboo steamer or one of those steamer attachments with your rice cooker, line it with parchment and use it. Because this batter is thicker, you want to make sure heat and steam come in direct contact with the batter, so that it will bubble up and create a fluffier product. Some of the uncooked batter recipes steam the cake in cake pans, which works as well, but you are not going to get nearly as many air pockets in your cake.
 
 Lastly, I actually researched quite a bit of recipes for this cake and settled on a recipe by a blogger, Wantanmien.  For those interested in authentic Cantonese recipes, check her out on YouTube. While the videos aren't too flashy (she speaks in Cantonese, but provides subtitles), they are delicious and very authentic.  
 
+<figure class="half">
+<img src="/images/65-13.jpg">
+<img src="/images/65-14.jpg">
+</figure>
+
+<figure>
+    <img src="/images/65-15.jpg">
+</figure>
 
 #### Water and Sugar
 <figure> <img src='/images/65-3.jpg'> </figure>
