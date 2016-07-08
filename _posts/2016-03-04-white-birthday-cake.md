@@ -9,6 +9,9 @@ image:
     feature: 189-1.jpg
 ---
 
+Throughout my time as a baker, it was an extremely versatile and valuable tool to have a winning, white cake recipe.  You can use white cakes for weddings, birthdays and other social events.  This is my go-to cake when I want a good foundational base that's not too sweet and is the perfect base for frostings, buttercreams and other embellishments.
+
+
 <figure class="ingredients" markdown="1">
 ### White Birthday Cake Recipe
 
