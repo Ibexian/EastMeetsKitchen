@@ -9,7 +9,7 @@ image:
   feature: 215-1.jpg
 ---
 
-I first saw charcoal being used in food when I was visiting Japan in 2015.  I was visiting a farmers' market (surprise, surprise) by United Nations University and saw charcoal as an option in smoothies.  I saw them in breads and cookies and was intrigued by the color more than anything.  I guess I was a bit curious at whether consuming charcoal was a good idea or not, but I assumed it was ok since it was in so many products.    
+I first saw charcoal being used in food when I was visiting Japan in 2015.  I was going to a farmers' market (surprise, surprise) by United Nations University and saw charcoal as a flavor option in many products sold there.  I saw it in cookies and smoothies and was intrigued by the color more than anything.  I guess I was a bit curious at whether consuming charcoal was a good idea or not, but I assumed it was ok since it was in so many products.    
 
 <figure class="half">
 <img src="/images/215-14.jpg">
@@ -17,8 +17,7 @@ I first saw charcoal being used in food when I was visiting Japan in 2015.  I wa
  <figcaption> Japan 2015 </figcaption>
 </figure>
 
-So cut to 2016 when I'm seeing charcoal ice cream all over Instagram, I decide I wanted to do a recipe on it that would both be vegan and refined sugar-free.  It's a big feat, but I knew the ice cream would taste good.  But first, let's go back to what exactly is activated charcoal and is it actually safe to eat?
-
+So cut to 2016 when I'm seeing charcoal ice cream all over the internet, I decide I wanted to do a recipe on it that would both be vegan and refined sugar-free.  It's a big feat, but I knew the ice cream would taste good.  Firstly though, let's go back to what exactly is activated charcoal and is it actually safe to eat?
 
 <figure>
     <img src="/images/215-2.jpg">
