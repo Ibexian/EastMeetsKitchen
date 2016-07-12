@@ -24,7 +24,7 @@ So cut to 2016 when I'm seeing charcoal ice cream all over Instagram, I decide I
     <img src="/images/215-2.jpg">
 </figure>
 
-###What is Activated Charcoal?
+### What is Activated Charcoal?
 
 So, from my research, ingestible activated charcoal is made from either hardwood or coconut shells.  What makes it "activated" is the charcoal gets exposed to some gases at high temperatures and this results in many tiny pores being formed on the charcoal particles.  This means these tiny particles with its tiny pores can absorb a lot of things very well, and it is a reason why hospitals use activated charcoal on someone who may have just consumed something poisonous.
 
@@ -38,7 +38,7 @@ So I guess I'm not sure how much each of these claims have been tested, so I'm g
     <img src="/images/215-4.jpg">
 </figure>
 
-###Working with Activated Charcoal Powder
+### Working with Activated Charcoal Powder
 
 Be careful of it clumping up.  Like most finely-milled powders, it dissolves very well in fat and thicker substances versus liquids, so make sure it is all dissolved before additional liquid is added in.  It's a good idea to strain the entire mixture at the end because there could still be lumps of charcoal.
 
@@ -48,7 +48,7 @@ I find that for 2 cans of liquid, a quarter cup of charcoal is perfect for that 
     <img src="/images/215-4.jpg">
 </figure>
 
-###Making Vegan Ice Cream
+### Making Vegan Ice Cream
 
 The biggest problem with "healthy" ice creams are that they lack the fat to become properly creamy after they have been frozen.  To prevent that granita like texture, it is important to work with an ice cream base that is both thicker and contains fat.  That is why additional coconut oil was added to this mix.  It is also the reason I chose the Trader Joe's coconut milk, which contains some stabilizers in it, which makes the milk homogeneously thick throughout, versus normal coconut milk where you have a layer of fat up top and very thin liquid on the bottom.  If you are using the thinner kind of coconut milk, I've seen some recipes where people thicken up the cream with a little cornstarch over heat before working with it. 
 
