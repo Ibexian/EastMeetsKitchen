@@ -45,7 +45,7 @@ Be careful of it clumping up.  Like most finely-milled powders, it dissolves ver
 I find that for 2 cans of liquid, a quarter cup of charcoal is perfect for that dark black color.  
 
 <figure>
-    <img src="/images/215-4.jpg">
+    <img src="/images/215-7.jpg">
 </figure>
 
 ### Making Vegan Ice Cream
