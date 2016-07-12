@@ -94,8 +94,9 @@ The biggest problem with "healthy" ice creams are that they lack the fat to beco
 - 2 14-ounce (414 ml) cans full fat coconut milk
 - 1/4 cup coconut oil
 - 1/2 cup dried dates
-- 1-2 tablespoons maple syrup
 - pinch salt
+- 1-2 tablespoons maple syrup (optional)
+
 
 </figure>
 <figure class="directions" markdown="1">
