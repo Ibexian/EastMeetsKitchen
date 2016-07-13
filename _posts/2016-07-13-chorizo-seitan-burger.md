@@ -17,7 +17,7 @@ I had the most amazing burger at this small vegan spot called Taco Party in Some
  <figcaption> Inside Taco Party </figcaption>
 </figure>
 
-I don't know how much vegetable was ground up in the seitan burger, but my thoughts on being vegan or being on any kind of diet is that about half of what you eat at all times should be vegetable.  When you deviate from that and mix in fried foods or over sugary foods, that's when it really doesn't matter what kind of diet you're on.  
+I don't know how much vegetable was ground up in the seitan burger, but my thoughts on being vegan or being on any kind of diet is that about half of what you eat at all times should be vegetable.  When you deviate from that and mix in fried foods or over sugary foods, that's when it doesn't matter what kind of diet you're on.  
 
 <figure>
     <img src="/images/216-9.jpg">
