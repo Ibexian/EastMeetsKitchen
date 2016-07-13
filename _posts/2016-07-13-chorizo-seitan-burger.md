@@ -23,7 +23,7 @@ I don't know how much vegetable was ground up in the seitan burger, but my thoug
     <img src="/images/216-9.jpg">
 </figure>
 
-So for my burger, I mixed in a ton of veggies like carrots and zucchini, which soften as they cook.  I was say my burger is a little more chunky than Taco Party's, but if you want a softer textured burger, just puree the vegetables more than I did.
+So for my burger, I mixed in a ton of veggies like carrots and zucchini, which soften as they cook.  I would say my burger is a little more chunky than Taco Party's, but if you want a softer textured burger, just puree the vegetables more than I did.
 
 <figure class="half">
 <img src="/images/216-4.jpg">
