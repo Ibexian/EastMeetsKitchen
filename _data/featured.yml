@@ -1,3 +1,8 @@
+- title: "Chorizo Seitan Burger"
+  url: http://eastmeetskitchen.com/videos/recipes/chorizo-seitan-burger/
+  image:
+    feature: 216-2.jpg 
+
 - title: "Charcoal Ice Cream"
   url: http://eastmeetskitchen.com/videos/recipes/charcoal-ice-cream/
   image:
@@ -6,12 +11,7 @@
 - title: "Quick and Easy Vietnamese Pho"
   url: http://eastmeetskitchen.com/videos/recipes/quick-and-easy-vietnamese-pho/
   image:
-    feature: 207-10.jpg
-
-- title: "Aquafaba Vanilla Sponge Cake"
-  url: http://eastmeetskitchen.com/videos/recipes/aquafaba-vanilla-sponge-cake/
-  image:
-    feature: 213-1.jpg    
+    feature: 207-10.jpg   
 
 - title: "Japchae Korean Stir-Fry Noodles"
   url: http://eastmeetskitchen.com/videos/recipes/japchae-korean-stirfry-noodles/
