@@ -36,7 +36,7 @@ So for my burger, I mixed in a ton of veggies like carrots and zucchini, which s
 </figure>
 
 <figure>
-    <img src="/images/216-9.jpg">
+    <img src="/images/216-10.jpg">
 </figure>
 
 <figure class="half">
