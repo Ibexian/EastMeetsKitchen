@@ -43,11 +43,6 @@ Also, the stevia or sugar amounts are just guidelines.  One packet of stevia equ
 <img src="/images/217-8.jpg">
 </figure>
 
-<figure class="half">
-<img src="/images/216-7.jpg">
-<img src="/images/216-8.jpg">
-</figure>
-
 <figure>
     <img src="/images/217-9.jpg">
 </figure>
