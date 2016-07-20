@@ -9,13 +9,13 @@ image:
   feature: 217-1.jpg
 ---
 
-Watermelons are synonomous with summer.  For me, watermelons conjure up memories of cookouts and barbeques, of pool parties and the summer heat.  There is nothing more refreshing than sinking your teeth into a big slab of watermelon in the peak of summer heat.  
+Watermelons are synonymous with summer.  For me, watermelons conjure up memories of cookouts and barbeques, of pool parties and the summer heat.  There is nothing more refreshing than sinking your teeth into a big slab of watermelon in the peak of summer heat.  
 
 <figure>
     <img src="/images/217-2.jpg">
 </figure>
 
-This popsicle recipe is meant to capture the essence of summer in not only the taste, but sight as well.  The little frozen pops can be amazing, showstopping pieces at any summer party.  The sweetness from the watermelon is ever so slightly offset by the tartness from the kiwis.  The small layer of sweetened coconut milk in the middle mellows and enriches the flavors above and below it.  The fruits and coconut complement each other perfectly making for the perfect summer treat.
+This popsicle recipe is meant to capture the essence of summer in not only the taste, but sight as well.  The little frozen pops can be amazing, show stopping pieces at any summer party.  The sweetness from the watermelon is ever so slightly offset by the tartness from the kiwis.  The small layer of sweetened coconut milk in the middle mellows and enriches the flavors above and below it.  The fruits and coconut complement each other perfectly making for the perfect summer treat.
 
 <figure>
     <img src="/images/217-8.jpg">
