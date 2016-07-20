@@ -1,3 +1,8 @@
+- title: "Watermelon Popsicles"
+  url:  http://eastmeetskitchen.com/videos/recipes/watermelon-popsicles/
+  image: 
+    feature: 217-1.jpg
+
 - title: "Chorizo Seitan Burger"
   url: http://eastmeetskitchen.com/videos/recipes/chorizo-seitan-burger/
   image:
@@ -13,12 +18,9 @@
   image:
     feature: 207-10.jpg   
 
-- title: "Japchae Korean Stir-Fry Noodles"
-  url: http://eastmeetskitchen.com/videos/recipes/japchae-korean-stirfry-noodles/
-  image: 
-    feature: 205-1.jpg
-
 - title: "Cooking in a Japanese Kitchen"
   url: http://eastmeetskitchen.com/videos/blog/cooking-in-a-japanese-kitchen/
   image:
     feature: 196-1.jpg
+
+
