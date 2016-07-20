@@ -50,9 +50,12 @@ Cut up seaweed prior to serving
 
 <figure class="ingredients" markdown="1">
 
+### Chinese Green Bean Soup Recipe
+(Makes 8-10 servings)
+
 - 6 ounces green mung beans (half bag)
 - 3 tablespoons long grain white rice
-- 5-6 cups water
+- 8 cups water
 - 2 sticks cane sugar (2-3 ounces according to taste)
 - 2 pieces dried tangerine peel
 - 2 sheets kombu seaweed (4x6 inches)
