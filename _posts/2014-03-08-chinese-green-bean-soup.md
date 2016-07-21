@@ -20,33 +20,27 @@ Substitutes - if you  don't have cane sugar, which I say has a similar flavor to
 
 It is a super easy dessert to make - basically throw everything into one pot.  And it is one of those desserts that is truly authentic and traditional, so I would recommend giving it a try.
 
-Mung Beans 
+<figure class="half">
+<img src="/images/30-3.jpg">
+<img src="/images/30-4.jpg">
+</figure>
 
-<figure> <img src='/images/30-3.jpg'> </figure>
-
-Long grain rice
-
-<figure> <img src='/images/30-4.jpg'> </figure>
-
-Seaweed
-
-<figure> <img src='/images/30-5.jpg'> </figure>
-
-Cane Sugar
+<figure class="half">
+<img src="/images/30-5.jpg">
+<img src="/images/30-9.jpg">
+</figure>
 
 <figure> <img src='/images/30-6.jpg'> </figure>
 
-Simmer together for 30 minutes
+<figure class="half">
+<img src="/images/30-7.jpg">
+<img src="/images/30-8.jpg">
+</figure>
 
-<figure> <img src='/images/30-7.jpg'> </figure>
+<figure> <img src='/images/30-1b.jpg'> </figure>
 
-Add sugar and cook for an additional 10 minutes.
 
-<figure> <img src='/images/30-8.jpg'> </figure>
 
-Cut up seaweed prior to serving 
-
-<figure> <img src='/images/30-9.jpg'> </figure>
 
 <figure class="ingredients" markdown="1">
 
