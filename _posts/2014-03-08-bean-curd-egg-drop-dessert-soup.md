@@ -54,8 +54,11 @@ Eggs
 ### Directions
 
 1.Break apart sheets. Submerge them in water and bring to a boil. Simmer for 5-10 minutes depending on how broken apart you want the sheets.
+
 2. Prepare eggs by gently breaking yolks leaving a delineation between yolks and whites.
+
 3. Bring soup back to a boil. Slowly pour in the eggs. Turn off heat and put on cover. Wait about 5 minutes.
+
 4. Dessert is ready to be served warm or cold.
 
 </figure>
