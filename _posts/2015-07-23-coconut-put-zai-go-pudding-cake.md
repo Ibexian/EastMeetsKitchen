@@ -12,7 +12,9 @@ So, it's definitely not pudding. Put zai go is sort of like if I could make you 
 
 That's not the best description, I know.  But I think it's worth trying just because it's such a different recipe. Put zai go (more like "boot jai go") is a very popular Cantonese treat, which used to be sold from carts. For convenience, vendors would stick wooden skewers into them, so that they could be carried around easily.
 
-This is a pretty simple recipe, but the proportions have to be pretty exact, so make sure you measure.  I tried a ton of recipes using various rice flours and starches and what I found was this recipe could easily get too gummy or too hard from an overabundance of starches or rice flour if the portions are off.  It's obviously personal preference how exactly you like your put zai go and if you choose to make this recipe again, the amounts of flour and starches can be tinkered with to get the deserved stretch and bite.
+This is a pretty simple recipe, but the proportions have to be pretty exact, so make sure you measure.  The big thing to note is rice flour gives your pudding structure, but it's what can make your pudding too hard if too much is used.  Starches give your pudding that nice stretch and softness, but too much of it makes the pudding gummy. 
+
+It's obviously personal preference how exactly you like your put zai go and if you choose to make this recipe again, the amounts of flour and starches can be tinkered to get the deserved stretch and bite.
 
 
 __Directions__
