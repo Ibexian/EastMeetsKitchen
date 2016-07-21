@@ -21,30 +21,19 @@ Dried Bean Curd Sheets
 
 Chinese Sugar Slabs
 
-<figure> <img src='/images/49-6.jpg'> </figure>
+<figure> <img src='/images/49-3.jpg'> </figure>
 
 Eggs
 
 <figure> <img src='/images/49-4.jpg'> </figure>
 
-<section class='recipe'>
-<p>1.Break apart sheets.  Submerge them in water and bring to a boil.  Simmer for 5-10 minutes depending on how broken apart you want the sheets.</p>
-
 <figure> <img src='/images/49-5.jpg'> </figure>
 
-
-<figure> <img src='/images/49-5.jpg'> </figure>
-
+<figure> <img src='/images/49-6.jpg'> </figure>
 
 <figure> <img src='/images/49-7.jpg'> </figure>
 
-<ol><li>Bring soup back to a boil.  Slowly pour in the eggs.  Turn off heat and put on cover.  Wait about 5 minutes.</li></ol>
-
 <figure> <img src='/images/49-8.jpg'> </figure>
-
-<ol><li>Dessert is ready to be served warm or cold.</li></ol>
-
-<p><img alt="bean curd egg drop dessert soup" title="" 
 
 <figure> <img src='/images/49-9.jpg'> </figure>
 
@@ -57,5 +46,14 @@ Eggs
 - 1/2 bag bean curd sheets
 - 1 1/2 bars Chinese slab sugar
 - 2 eggs (slightly beaten)
+
+</figure>
+
+### Directions
+
+1.Break apart sheets. Submerge them in water and bring to a boil. Simmer for 5-10 minutes depending on how broken apart you want the sheets.
+2. Prepare eggs by gently breaking yolks leaving a delineation between yolks and whites.
+3. Bring soup back to a boil. Slowly pour in the eggs. Turn off heat and put on cover. Wait about 5 minutes.
+4. Dessert is ready to be served warm or cold.
 
 </figure>
