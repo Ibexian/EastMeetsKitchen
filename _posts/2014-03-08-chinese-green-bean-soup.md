@@ -16,6 +16,8 @@ Green bean is my favorite when there is seaweed involved.  It just adds a nice c
 
 Now my mom adds something that many restaurants don't add to their green bean soup and that's dried tangerine peel.  Let me tell you, it makes a world of difference.  I once made it without and the soup sort of tasted bland and just boring and earthy, which beans have a tendency to taste like. Even with sugar and the seaweed for an added bite, the soup was still missing something.  When you add the dried tangerine peel, it adds a bright yet mellow citrus essence to the mung bean soup, and it just brings out all the flavors even more.  That pop of citrus wakes up the soup.  If you don't have the traditional Chinese "guo pi" - skin of tangerine - then I'd say to try drying some yourself in the oven.  In the Chinese styled peels, they dry more than just the zest- it's rind and everything, which should make the process a bit easier.  She also adds a bit of rice to her soup.  This thickens up the soup a bit more and adds a nice and soft contrasting texture to the primarily all bean soup.  Long grain is used as opposed to the softer more glutinous short grain because it holds its shape better and doesn't make the soup too gummy.
 
+<figure> <img src='/images/30-6.jpg'> </figure>
+
 Substitutes - if you  don't have cane sugar, which I say has a similar flavor to brown sugar - only it's a bit more fragrant and mellow, feel free to substitute for a little brown sugar and a little white sugar. All brown would make the soup too dark.
 
 It is a super easy dessert to make - basically throw everything into one pot.  And it is one of those desserts that is truly authentic and traditional, so I would recommend giving it a try.
@@ -29,8 +31,6 @@ It is a super easy dessert to make - basically throw everything into one pot.  A
 <img src="/images/30-5.jpg">
 <img src="/images/30-9.jpg">
 </figure>
-
-<figure> <img src='/images/30-6.jpg'> </figure>
 
 <figure class="half">
 <img src="/images/30-7.jpg">
