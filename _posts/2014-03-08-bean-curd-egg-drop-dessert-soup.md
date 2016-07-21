@@ -49,6 +49,7 @@ Eggs
 - 2 eggs (slightly beaten)
 
 </figure>
+<figure class="directions" markdown="1">
 
 ### Directions
 
