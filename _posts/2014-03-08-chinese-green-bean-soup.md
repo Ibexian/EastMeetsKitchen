@@ -4,6 +4,8 @@ categories: recipes
 tags: [recipes, sweets, soups, mung beans]
 excerpt: 
 title: "Chinese Green Bean Soup"
+feature_video: https://www.youtube.com/embed/PFdtbyMdlZ0?rel=0
+image:
 image:
   feature: 30-1a.jpg
 ---
