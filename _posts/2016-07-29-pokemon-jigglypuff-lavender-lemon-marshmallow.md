@@ -6,7 +6,7 @@ excerpt:
 title: "Pokémon Jigglypuff Marshmallow"
 feature_video: https://www.youtube.com/embed/X-e7jEwdTwU?rel=0
 image:
-  feature: 218-1.jpg
+  feature: 218-19.jpg
 ---
 
 It is amazing how popular Pokémon Go has gotten.  I'm hearing names and terms I haven't heard since I was in middle school.  Now, I'm not the biggest gamer, but I remember watching Pokémon when I was young and Jigglypuff was one of my favorite characters.
