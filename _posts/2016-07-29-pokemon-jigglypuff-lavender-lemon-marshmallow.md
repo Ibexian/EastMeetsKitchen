@@ -15,7 +15,7 @@ It is amazing how popular Pokémon Go has gotten.  I'm hearing names and terms I
     <img src="/images/218-18.jpg">
 </figure>
 
-Naturally, Jigglypuff reminded me of a giant marshmallow, and so when I was thinking of a recipe to do with Pokémon I wanted to do a big, giant, pink gourmet marshmallow.  I happen to have some silicone whiskey ice makers lying around and thought they would be perfect for the job.
+Naturally, the pink fluffy character reminded me of a giant marshmallow, and so when I was thinking of a recipe to do with Pokémon I wanted to do a big, giant Jigglypuff.  I happen to have some silicone whiskey ice makers lying around and thought they would be perfect for the job.
 
 <figure class="half">
     <img src="/images/218-20.jpg">
