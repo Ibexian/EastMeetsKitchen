@@ -67,19 +67,19 @@ Besides the giant puff ball, I piped the hair piece for Jigglypuff and also two 
 
 ### Pokémon Jigglypuff Marshmallow
 
-2 packages unflavored gelatin
-1  cups granulated sugar
-1/2 cup light corn syrup
-1/8 teaspoon kosher salt
-1 teaspoon lavender lemon flavoring
-1/3 cup cornstarch
-1/3 cup powdered sugar
-red food coloring
-blue food coloring
+- 2 packages unflavored gelatin
+- 1  cups granulated sugar
+- 1/2 cup light corn syrup
+- 1/8 teaspoon kosher salt
+- 1 teaspoon lavender lemon flavoring
+- 1/3 cup cornstarch
+- 1/3 cup powdered sugar
+- red food coloring
+- blue food coloring
 
 Decorations
--White chocolate
--Dark Chocolate
+- White chocolate
+- Dark Chocolate
 - Red and blue food coloring
 
 </figure>
