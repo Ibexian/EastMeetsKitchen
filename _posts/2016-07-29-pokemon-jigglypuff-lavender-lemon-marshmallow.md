@@ -88,7 +88,7 @@ Decorations
 ### Directions
 
 1. Bloom gelatin with 1/3 cup of water.  Set aside for 10 minutes.
-2. Meanwhile, bring 1/3 cup of water, the sugar, salt and corn syrup to 240 degrees.
+2. Meanwhile, bring 1/3 cup of water, the sugar, salt and corn syrup to 240 degrees Fahrenheit.
 3. Put bloomed gelatin into the microwave for 10 seconds.  Pour gelatin into a mixing bowl.  With the balloon attachment, start mixing on low speed while slowly pouring in the sugar syrup.  Once the mixture is cool enough, whip on high speed for about 10 minutes.
 4. Two minutes before the mixing is done, add in the flavoring and food coloring.
 5. In a separate bowl, mix together the cornstarch and powdered sugar.  When marshmallow mixture is finished mixing, pipe shapes onto a sheet of parchments generously dusted with the cornstarch mixture.
