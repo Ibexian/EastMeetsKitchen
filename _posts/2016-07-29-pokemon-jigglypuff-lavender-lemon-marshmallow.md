@@ -19,7 +19,7 @@ Naturally, the pink fluffy character reminded me of a giant marshmallow, and so 
 
 <figure class="half">
     <img src="/images/218-20.jpg">
-     <img src="/images/218-20.jpg">
+     <img src="/images/218-18.jpg">
 </figure>
 
 This is an easy recipe, but not an easy project because marshmallows are really sticky and hard to work with.  If you don't plan on setting your marshmallows in a big pan and then cutting them up, it becomes exponentially more difficult and messy to try and pipe the mixture into the shapes you want.  Still, it's a fun project and if you put some creativity into it, you can make whatever character you want.
