@@ -27,7 +27,7 @@ With shou zhua bing, you roll out a long piece of dough into a 2-inch wide ribbo
 
 <figure class="half">
     <img src="/images/219-19.jpg">
-     <img src="/images/219-120.jpg">
+     <img src="/images/219-20.jpg">
 </figure>
 
 Upon thought though, both kinds scallion pancakes should be light and fluffy and indeed both are, but the shou zhua bing is far lighter and fluffier and that has a lot to do with the roux and how the pancakes are cooked.
