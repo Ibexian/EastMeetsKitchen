@@ -4,7 +4,7 @@ categories: [videos, recipes]
 tags: [videos, nomeats, scallion pancake]
 excerpt: 
 title: "Fluffy Scallion Pancakes - Shou Zhua Bing"
-feature_video: https://www.youtube.com/embed/X-e7jEwdTwU?rel=0
+feature_video: https://www.youtube.com/embed/g69FzTPvjos?rel=0
 image:
   feature: 219-1.jpg
 ---
