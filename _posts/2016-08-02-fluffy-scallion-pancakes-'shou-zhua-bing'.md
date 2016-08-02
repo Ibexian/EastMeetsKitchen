@@ -60,6 +60,7 @@ With shou zhua bing, you don't simply pan-fry the pancakes.  After both sides ar
 <figure>
     <img src="/images/219-16.jpg">
 </figure>
+
 <figure>
     <img src="/images/219-18.jpg">
 </figure>
@@ -124,6 +125,7 @@ For the Dough:
 2. On a flour surface, need the dough for about 5 minutes, until it is less sticky and a ball can be formed.  Set aside for 30 minutes to one hour.
 
 For the Roux:
+
 1. Cut scallions into four 2-inch stalks.  Score the sides.  
 2. Heat olive oil over medium heat and add in the scallions, star anise and five spice powder.  Cook for 3-4 minutes, or until fragrant.
 3. Take out the scallions and star anise.  Pour hot oil into the flour and stir until there are no lumps.  Set aside.
