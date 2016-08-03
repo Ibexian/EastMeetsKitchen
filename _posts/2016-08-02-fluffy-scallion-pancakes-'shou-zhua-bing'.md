@@ -9,7 +9,7 @@ image:
   feature: 219-1.jpg
 ---
 
-This shou zhua bing or "hand fluffed pancake" recipe is the amazing spinoff to my more traditional [Chinese Scallion Pancake](http://eastmeetskitchen.com/recipes/flakey-taiwanese-scallion-pancakes/) recipe.  It has more crispy layers and is lighter and fluffier.  The shou zhua bing are seasoned with star anise, Szechuan peppercorns and five spice powder, which provides a sweet spiciness to the background in addition to the scallions and sesame.
+This shou zhua bing or "hand fluffed pancake" recipe is the amazing spinoff to the more traditional [Chinese Scallion Pancake](http://eastmeetskitchen.com/recipes/flakey-taiwanese-scallion-pancakes/) recipe.  It has more crispy layers and is lighter and fluffier.  The shou zhua bing are seasoned with star anise, Szechuan peppercorns and five spice powder, which provides a sweet spiciness to the background in addition to the scallions and sesame.
 
 <figure>
     <img src="/images/219-10.jpg">
@@ -21,9 +21,11 @@ A reader actually brought shou zhua bing to my attention.  She was natively from
     <img src="/images/219-26.jpg">
 </figure>
 
-What's really unique about the recipe besides the difference in flavor is the method for forming the layers.  We've all seen the traditional way of forming layers for scallion pancakes, which includes rolling up a rectangle into a long log and then rolling that log in to form a spiral.  
+What's really unique about the recipe besides the difference in flavor is the method for forming the layers.  We've all seen the traditional way of forming layers for scallion pancakes, which includes rolling up a rectangle into a long log and then rolling that log inwards to form a spiral.  
 
-With shou zhua bing, you roll out a long piece of dough into a 2-inch wide ribbon.  You brush the dough with the seasoned roux, which sort of functions like the butter in puff pastry.  This roux will be what keeps the layers from sticking to itself and then puffing up afterwards.  Then as you roll this long ribbon, you pull out and stretch the dough making it almost paper thing. This results in super thin layers as your roll and frankly, more layers since the dough is being stretched out.  What allows this stretch is the oil in the dough.  The gluten is more relaxed letting the stretch happen.
+With shou zhua bing, you roll out a long piece of dough into log - sort of like a pretzel.  You then flatten that log into a 2-inch wide ribbon.  You brush the dough with the seasoned roux, which sort of functions like the butter in puff pastry.  This roux will be what keeps the layers from sticking to itself and will help the dough puff up afterwards.  
+
+Then as you roll this long ribbon, you pull out and stretch the dough making it almost paper thin. This results in super thin layers and more layers as you roll since the dough is being stretched out.  What allows this stretch is the oil in the dough.  The gluten is more relaxed letting the stretch happen.
 
 <figure class="half">
     <img src="/images/219-19.jpg">
@@ -36,7 +38,7 @@ Upon thought though, both kinds scallion pancakes should be light and fluffy and
     <img src="/images/219-23.jpg">
 </figure>
 
-With shou zhua bing, you don't simply pan-fry the pancakes.  After both sides are cooked, you take tongs or a chopstick and tear up layers of the pancake exposing the insides.  You then scrunch up the pancake, which exposes even more layers and makes the entire pancake fluffier.
+With shou zhua bing, you don't simply pan-fry the pancakes.  After both sides are cooked, you take tongs or chopsticks and tear up layers of the pancake exposing the insides.  You then scrunch up the pancake, which exposes even more layers and makes the entire pancake fluffier.
 
 
 
