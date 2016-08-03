@@ -21,7 +21,7 @@ A reader actually brought shou zhua bing to my attention.  She was natively from
     <img src="/images/219-26.jpg">
 </figure>
 
-What's really unique about the recipe besides the difference in flavor is the method for forming the layers.  We've all seen the traditional way of forming layers for scallion pancakes, which includes rolling up a rectangle into a long log and then rolling that log in to form a sprial.  
+What's really unique about the recipe besides the difference in flavor is the method for forming the layers.  We've all seen the traditional way of forming layers for scallion pancakes, which includes rolling up a rectangle into a long log and then rolling that log in to form a spiral.  
 
 With shou zhua bing, you roll out a long piece of dough into a 2-inch wide ribbon.  You brush the dough with the seasoned roux, which sort of functions like the butter in puff pastry.  This roux will be what keeps the layers from sticking to itself and then puffing up afterwards.  Then as you roll this long ribbon, you pull out and stretch the dough making it almost paper thing. This results in super thin layers as your roll and frankly, more layers since the dough is being stretched out.  What allows this stretch is the oil in the dough.  The gluten is more relaxed letting the stretch happen.
 
@@ -51,6 +51,8 @@ With shou zhua bing, you don't simply pan-fry the pancakes.  After both sides ar
      <img src="/images/219-11.jpg">
      <img src="/images/219-12.jpg">
 </figure>
+
+Preparing for assembly.
 
 <figure class="half">
 <img src="/images/219-13.jpg">
@@ -121,7 +123,7 @@ To assemble:
 
 For the Dough:
 
-1. Mix togther the flour and salt.  Add in the boiling water and mix until combined.  Add in the cold water and mix until the flour has absorbed all the water.
+1. Mix together the flour and salt.  Add in the boiling water and mix until combined.  Add in the cold water and mix until the flour has absorbed all the water.
 2. On a flour surface, need the dough for about 5 minutes, until it is less sticky and a ball can be formed.  Set aside for 30 minutes to one hour.
 
 For the Roux:
@@ -133,7 +135,7 @@ For the Roux:
 Assembly:
 
 1. Cut the dough into 6 pieces.  Roll each piece into logs about 1-inch in diameter. Using a rolling pin, roll out the logs into 2-inch wide pieces.
-2. Brush on a layer of the roux.  Sprink over salt, scallions, pepper and sesame.
+2. Brush on a layer of the roux.  Sprinkle over salt, scallions, pepper and sesame.
 3. Starting from one end, start rolling up the dough being sure to stretch the dough as it is rolled.
 4. Stand the dough right side up and press down into a circle with the palm of your hand.
 5. Using a rolling pin, roll out into 1/8-inch disks.
