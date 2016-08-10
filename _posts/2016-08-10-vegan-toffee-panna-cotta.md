@@ -11,7 +11,7 @@ image:
 
 I love the technique of using gelatin in place a recipe that usually employs eggs as a thickener.  That's because eggs are quite fickle.  They break when the temperature is too high.  They don't thicken enough if the temperature is too low.  
 
-I first learned of this technique when I was working as a pastry cook.  A pastry chef friend told me that you should try to take one or two recipes from every place you work at and create a repertoire.  The gelatin panna cotta recipe was one of these recipes because it is ridiculously easy and fail-proof, but the results are amazing.
+I first learned of this technique when I was working as a pastry cook.  A pastry chef friend told me that you should try to take one or two recipes from every place you work at and create a repertoire, sort of speak.  The gelatin panna cotta recipe was one of these recipes because it is ridiculously easy and fail-proof, but the results are amazing.
 
 <figure>
     <img src="/images/221-4.jpg">
@@ -25,7 +25,7 @@ I was worried about the results, at first, because I knew agar would not be as s
     <img src="/images/221-10.jpg">
 </figure> 
 
-To add to the vegan substitute, I partnered up with [SweetLeaf](http://sweetleaf.com/), a stevia brand company to do the recipe.  It's sort of a pet-peeve I have with various diets that no one really addresses the issue of sugar .  I see vegans and vegetarians go to diary and egg-free bakeshops and eat whatever they want.  That's because for most diets, sugar doesn't violate any of the restrictions.  Even if you opt to go with maple syrup or honey or whole dates, those ingredients are still comprised of sugars and having too much of it puts huge strains on the body leading to serious illnesses.
+In addition to the vegan substitute, I partnered up with [SweetLeaf](http://sweetleaf.com/), a stevia brand company to do the recipe.  It's sort of a pet-peeve I have with various diets that no one really addresses the issue of sugar .  I see vegans and vegetarians go to diary and egg-free bakeshops and eat whatever they want.  That's because for most diets, sugar doesn't violate any of the restrictions.  Even if you opt to go with maple syrup or honey or whole dates, those ingredients are still comprised of sugars and having too much of it puts huge strains on the body leading to serious illnesses.
 
 I opted to go with SweetLeaf's toffee flavored drops because I think the flavor of burnt caramel pairs wonderfully with creamy panna cotta.  I mentioned in the video that the brilliance of this recipe is that you can substitute toffee for any of the other flavors SweetLeaf has and you have a newly flavored panna cotta. 
 
