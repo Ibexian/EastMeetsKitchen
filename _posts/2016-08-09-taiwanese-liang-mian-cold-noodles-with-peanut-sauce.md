@@ -3,7 +3,7 @@ layout: post
 categories: [videos, recipes]
 tags: [videos, riceandnoodles, noodles]
 excerpt: 
-title: "Taiwanese Liang Mian Cold Noodles with Peanut Sauce"
+title: "Taiwanese 'Liang Mian' Cold Noodles with Peanut Sauce"
 feature_video: https://www.youtube.com/embed/5CBJ9rvG8jo?rel=0
 image:
   feature: 220-1.jpg
