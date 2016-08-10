@@ -57,6 +57,7 @@ I personally prefer toffee or chocolate because stevia does leave a bit of a bit
     <img src="/images/221-19.jpg">
 </figure>
 
+<figure class="ingredients" markdown="1">
 
 ### Toffee Panna Cotta
 
