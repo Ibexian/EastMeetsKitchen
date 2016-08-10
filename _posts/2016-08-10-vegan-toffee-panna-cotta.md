@@ -33,7 +33,7 @@ I opted to go with SweetLeaf's toffee flavored "Sweet Drops" because I think the
     <img src="/images/221-8.jpg">
 </figure> 
 
-I personally prefer toffee or chocolate because stevia does leave a bit of a bitter aftertaste.  Because toffee and chocolate naturally have bitter undertones, the result of the stevia aftertaste is mitigated.  My recommendation for people new to stevia is still to opt for half stevia and half your typical sweetener.  I can hardly tell there is a substitute when I do this. 
+I personally prefer toffee or chocolate because stevia does leave a bit of a bitter aftertaste.  Because toffee and chocolate naturally have bitter undertones, the result of the stevia aftertaste is mitigated.  My recommendation for people new to stevia is still to opt for half stevia and half your usual sweetener.  I can hardly tell there is a substitute when I do this. 
 
 
 
@@ -69,6 +69,7 @@ I personally prefer toffee or chocolate because stevia does leave a bit of a bit
 - 1 cup non-dairy yogurt, unsweetened
 - 1/4 cup coconut milk
 - 3/4 - 1 teaspoon Toffee SweetLeaf Sweet Drops
+
 </figure>
 
 <figure class="directions" markdown="1">
