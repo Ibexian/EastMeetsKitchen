@@ -25,7 +25,7 @@ I was worried about the results, at first, because I knew agar would not be as s
     <img src="/images/221-10.jpg">
 </figure> 
 
-In addition to the vegan substitute, I partnered up with [SweetLeaf](http://sweetleaf.com/), a stevia brand company to do the recipe.  It's sort of an annoyance I have with various diets that no one really addresses the issue of sugar .  I see vegans and vegetarians go to diary and egg-free bakeshops and eat whatever they want.  That's because for most diets, sugar doesn't violate any of the restrictions.  Even if you opt to go with maple syrup or honey or whole dates, those ingredients are still comprised of sugars and having too much of it puts huge strains on the body leading to serious illnesses.
+In addition to the vegan substitute, I partnered up with [SweetLeaf](http://sweetleaf.com/), a stevia brand company to do the recipe.  It's sort of an annoyance I have with various diets that no one really addresses the issue of sugar .  I see vegans and vegetarians go to diary and egg-free bakeshops and eat whatever they want.  That's because for most diets, sugar doesn't violate any of the restrictions.  Even if you opt to go with maple syrup or honey or whole dates, those ingredients  still comprise of sugars and having too much of it puts huge strains on the body leading to various illnesses.
 
 I opted to go with SweetLeaf's toffee flavored drops because I think the flavor of burnt caramel pairs wonderfully with creamy panna cotta.  I mentioned in the video that the brilliance of this recipe is that you can substitute toffee for any of the other flavors SweetLeaf has and you have a newly flavored panna cotta. 
 
