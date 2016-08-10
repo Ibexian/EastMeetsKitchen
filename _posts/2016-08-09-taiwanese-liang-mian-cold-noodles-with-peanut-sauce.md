@@ -14,8 +14,8 @@ Back in 2011 when I went to live in Taiwan for a year, "liang mian" or "cold noo
 The dish is sort of like a salad.  You prepare all of the ingredients - the noodles, vegetables and eggs separately.  Then you make the dressing or rather the sauce and pour it over everything.  I made the sauce with peanut butter, but a lot of the liang mian I had in Taiwan used tahini, which was a lot more mellow in flavor, but it's so your choice as to which you prefer.
 
 <figure class="half">
-<img src="/images/220-03.jpg">
-<img src="/images/220-05.jpg">
+    <img src="/images/220-03.jpg">
+    <img src="/images/220-05.jpg">
 </figure>
 
 <figure class="half">
