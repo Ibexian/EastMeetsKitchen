@@ -17,7 +17,7 @@ Then of course, there is the issue of making the pies and tarts, in general, a t
     <img src="/images/223-2.jpg">
 </figure> 
 
-I paired up with SweetLeaf again for this recipe, whose products I've been using quite often because I actually feel when you mix the stevia with other products that are sweet - i.e. apples, dates, bananas or even a little bit of additional sugar, you don't notice the bitter aftertaste of stevia all that much.
+I paired up with [SweetLeaf](http://sweetleaf.com/) again for this recipe, whose products I've been using quite often because I actually feel when you mix the stevia with other products that are sweet - i.e. apples, dates, bananas or even a little bit of additional sugar, you don't notice the bitter aftertaste of stevia all that much.
 
 Using the toffee-flavored stevia drop along with some instant coffee granules was the perfect combination.  Both contribute to sort of that "burnt caramel" flavor you get from toffee.  And because stevia has that little bit of a bitter after flavor, you don't mind it all that much because burnt caramel is sort of bitter as well.  And that's the sort of taste profile you are looking for when you want to substitue stevia in for a recipe.  Choose recipes that are naturally affable to an ingredient like stevia.  If you choose correctly, your guests will hardly know.
 
