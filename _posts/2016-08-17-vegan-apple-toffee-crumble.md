@@ -61,25 +61,25 @@ I personally love a good crumble to apple ratio.  Because I added chopped almond
 
 Topping:
 
-1 1/4 cups rolled oats
-1 cup all-purpose flour
-4 teaspoons SugarLeaf sweetener (stevia sweetener)
-1/2 teaspoon instant coffee
-3/4 - 1 teaspoon SweetLeaf Toffee Sweet Drops
-1/4 teaspoon salt
-8 tablespoons Earth Balance butter
-1/4 cup roughly chopped almonds
+- 1 1/4 cups rolled oats
+- 1 cup all-purpose flour
+- 4 teaspoons SugarLeaf sweetener (stevia sweetener)
+- 1/2 teaspoon instant coffee
+- 3/4 - 1 teaspoon SweetLeaf Toffee Sweet Drops
+- 1/4 teaspoon salt
+- 8 tablespoons Earth Balance butter
+- 1/4 cup roughly chopped almonds
 
 
 
 Filling: 
 
-4 large Granny Smith apples 
-1 lemon,  juiced
-4 teaspoons SugarLeaf Sweetener (stevia sweetener)
-1/2 teaspoon cinnamon
-pinch nutmeg
-2 tablespoons tapioca starch
+- 4 large Granny Smith apples 
+- 1 lemon,  juiced
+- 4 teaspoons SugarLeaf Sweetener (stevia sweetener)
+- 1/2 teaspoon cinnamon
+- pinch nutmeg
+- 2 tablespoons tapioca starch
 
 
 </figure>
@@ -91,5 +91,7 @@ pinch nutmeg
 1. For the crumble, mix all the ingredients together, except for the butter.  With a fork, cut butter into the dry ingredients.  Set aside and chill in the freezer.
 3. Peel and core apples.  Cut into 1/4-inch slices.
 4. In a mixing bowl, toss apples with lemon juice, SugarLeaf sweetner, cinnamon, nutmeg and tapioca starch.
+5. Put apple mixture in a 9-inch pie plate.  Top with crumble topping.
+6. Bake at 350 degrees Fahrenheit for 40-45 minutes or until the top is golden brown and the apples are soft.
 
 </figure>
