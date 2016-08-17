@@ -9,23 +9,23 @@ image:
   feature: 223-1.jpg
 ---
 
-A couple weeks ago, when I went raspberry picking, all the pies, which were available at the farm's bakery was of course was not vegan.  I thought, especially with a crumble recipe, turning it vegan would be a cinch.  Really, the only thing I'm replacing was the butter, and I knew I could easily do that with a butter substitute or plain old coconut oil.
+A couple weeks ago, when I went raspberry picking, all the pies, which were available at the farm's bakery was of course not vegan.  I thought, especially with a crumble recipe, turning it vegan would be a cinch.  Really, the only thing I would be replacing was the butter, and I knew I could easily do that with a butter substitute or plain old coconut oil.
 
-Then of course, there is the issue of making the pies and tarts, in general, a tad healthier and of course, that comes from having it made with less sugar.  Because crumble recipes don't really depend on using sugar as a "textural" ingredient (i.e. for the crunch or moisture it helps retain), using a substitute would again be quite easy and not affect the taste all that much.
+Then of course, there is the issue of making the pies and tarts, in general, a tad healthier and of course, that comes from making it with less sugar.  Because crumble recipes don't really depend on using sugar as a "textural" ingredient (i.e. for the crunch or moisture it helps retain), using a sugar substitute would again be quite easy and not affect the taste all that much.
 
 <figure>
     <img src="/images/223-2.jpg">
 </figure> 
 
-I paired up with SweetLeaf again for this recipe, whose products I've been using quite often because I actually feel when you mix the stevia with other products that are sweet - i.e. apples, dates, bananas or even a little bit of additional sugar, you don't notice the bitter after flavor of stevia all that much.
+I paired up with SweetLeaf again for this recipe, whose products I've been using quite often because I actually feel when you mix the stevia with other products that are sweet - i.e. apples, dates, bananas or even a little bit of additional sugar, you don't notice the bitter aftertaste of stevia all that much.
 
-Using the toffee-flavored stevia drop along with some instant coffee granules were the perfect combination.  Both contribute to sort of that "burnt caramel" flavor you get from toffee.  And because stevia has that little bit of a bitter after flavor, you don't mind it all that much because, well, burnt caramel is sort of bitter.  And that's the sort of recipes and flavors you are looking for when you want to add stevia to something.  Choose recipes that are naturally affable to an ingredient like stevia.  If you choose correctly, your guests will hardly know.
+Using the toffee-flavored stevia drop along with some instant coffee granules was the perfect combination.  Both contribute to sort of that "burnt caramel" flavor you get from toffee.  And because stevia has that little bit of a bitter after flavor, you don't mind it all that much because burnt caramel is sort of bitter as well.  And that's the sort of taste profile you are looking for when you want to substitue stevia in for a recipe.  Choose recipes that are naturally affable to an ingredient like stevia.  If you choose correctly, your guests will hardly know.
 
 <figure>
     <img src="/images/223-8.jpg">
 </figure> 
 
-I personally love a good crumble to apple ratio.  Because I added chopped almonds to the crumble, they are even more crunchy and stand up well with the softened apples.  When you mix in the Earth Balance butter or the chilled coconut oil with your hands, make sure to keep the crumble chunky, so that as it bakes up, you get nice crunchy clusters.
+I personally love a good crumble to apple ratio.  Because I added chopped almonds to the crumble, they are even more crunchy and stand up well with the softened apples.  When you mix in the Earth Balance butter or the chilled coconut oil with your hands, make sure to keep the crumble chunky, so that as it bakes up, you get nice, crunchy clusters.
 
 
 
