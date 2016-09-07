@@ -9,14 +9,14 @@ image:
   feature: 224-13.jpg
 ---
 
-I just came back from a nine day road trip to the South.  My friends and I drove from Boston down to Nashville with stops in Pennsylvania, West Virginia and Kentucky. It was such amazing landscape and gorgeous farms.  I ate like a pig and probably went through a week's worth of detox, eating fruits and vegetables the week I returned.
+I just came back from a nine day road trip to the South.  My friends and I drove from Boston down to Nashville with stops in Pennsylvania, West Virginia and Kentucky. There were such amazing landscapes and the most gorgeous farms.  I ate like a pig and probably went through a week's worth of detox, eating mainly fruits and vegetables the week I returned.
 
 <figure class="half">
 <img src="/images/224-18.jpg">
 <img src="/images/224-19.jpg">
 </figure>
 
-That being said, the food that stayed most on my mind even though I had amazing chicken and waffles, shrimp and grits and hot chicken in Tennessee  were simple biscuits I had throughout the various restaurants of the South.  They all had an amazing crust on top and the most fluffy and soft center.
+That being said, the food that stayed most on my mind, even though I had the most amazing of chicken and waffles, shrimp and grits and hot chicken in Tennessee were the simple biscuits I had throughout the various restaurants of the South.  They all had an amazing crust on top and the most fluffy and soft center.
 
 <figure>
     <img src="/images/224-16.jpg">
