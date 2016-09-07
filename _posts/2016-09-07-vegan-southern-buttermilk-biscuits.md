@@ -6,7 +6,7 @@ excerpt:
 title: "Vegan Southern Biscuits"
 feature_video: https://www.youtube.com/embed/a5ca6AFKmFI?rel=0
 image:
-  feature: 224-1.jpg
+  feature: 224-13.jpg
 ---
 
 I just came back from a nine day road trip to the South.  My friends and I drove from Boston down to Nashville with stops in Pennsylvania, West Virginia and Kentucky. It was such amazing landscape and gorgeous farms.  I ate like a pig and probably went through a week's worth of detox, eating fruits and vegetables the week I returned.
@@ -54,7 +54,7 @@ These are amazing biscuits and I hesitate to call them vegan because I would put
 </figure>
 
 <figure>
-    <img src="/images/224-13.jpg">
+    <img src="/images/224-1.jpg">
 </figure>
 
 <figure>
