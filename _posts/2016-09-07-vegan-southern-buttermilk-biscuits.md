@@ -16,17 +16,17 @@ I just came back from a nine day road trip to the South.  My friends and I drove
 <img src="/images/224-19.jpg">
 </figure>
 
-That being said, the food that stayed most on my mind even though I had amazing chicken and waffles, shrimp and grits and hot chicken in Tennesee were simple biscuits I had throughout the various restaurants of the South.  They all had an amazing crust on top and the most fluffy and soft center.
+That being said, the food that stayed most on my mind even though I had amazing chicken and waffles, shrimp and grits and hot chicken in Tennessee  were simple biscuits I had throughout the various restaurants of the South.  They all had an amazing crust on top and the most fluffy and soft center.
 
 <figure>
     <img src="/images/224-16.jpg">
 </figure> 
 
-I write about Loveless Cafe because I have plenty of pictures from them, but they were all so good.  Something I did catch at the Lovelss Cafe was that the flour used for the biscuits were soft winter wheat.  An instructor in culinary school had told us his secret for great southern biscuits was soft wheat flour as well.  It has less protein and therefore yields a lighter and softer biscuit.
+I write about Loveless Cafe because I have plenty of pictures from them, but they were all so good.  Something I did catch at the Loveless Cafe was that the flour used for the biscuits were soft winter wheat.  An instructor in culinary school had told us his secret for great southern biscuits was soft wheat flour as well.  It has less protein and therefore yields a lighter and softer biscuit.
 
 Another technique I saw at the Loveless Cafe was that the biscuit maker actually folded up her dough like puffed pastry to create layers in the biscuit.  This will help with the rise and the flakiness of the biscuit.  This is a technique I used in the bakery often and is really the secret to any dough you want to be extra flakey.  Basically you roll out the dough and fold it into three.  Rotate, roll out again and repeat.  I did this about four times to the biscuits.
 
-Because this was a vegan recipes (but oh my gosh, it tastes pretty darn close to the real thing and is just amazing) I made a couple subsitutions.  I substituted butter for coconut oil, which still provided amazing richness.  I mixed a soy creamer with lemon juice for the buttermilk.  I also brushed the tops of the biscuits with Earth Balance to get the butter color and flavor.
+Because this was a vegan recipes (but oh my gosh, it tastes pretty darn close to the real thing and is just amazing) I made a couple substitutions.  I substituted butter for coconut oil, which still provided amazing richness.  I mixed a soy creamer with lemon juice for the buttermilk.  I also brushed the tops of the biscuits with Earth Balance to get the butter color and flavor.
 
 These are amazing biscuits and I hesitate to call them vegan because I would put them up against some of the best biscuits I've had.  Give them a try!
 
