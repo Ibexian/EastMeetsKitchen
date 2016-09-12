@@ -24,6 +24,8 @@ If you don't have an open-flame stove, then roast your red pepper in a 500 degre
 
 I was able to find Aleppo pepper online and since this dip is from the Aleppo region, I would suggest trying to get your hand on this mild pepper.  If not though, you can substitute for chili powder.  Just be sure to taste so that it's at the level of spiciness you want.  
 
+Also, don't go too crazy with the pomengranate syrup.  It's quite a novel product, and so I did get excited using it.  However, it does get quite sweet, so make sure to taste as you go.  If you're looking for more of a savory dip, I would start off adding a little less syrup than called for.
+
 <figure class="half">
 <img src="/images/225-6.jpg">
 <img src="/images/225-8.jpg">
