@@ -61,3 +61,4 @@ Cheese
 6. For the fried rice, turn pan on to medium high heat.  Add in the cooked rice. Make a well in the middle and add in the eggs.  Add in the salt.  Cook and mix together.
 7. For assembly, place egg fried rice on the bottom.  Pour on tomato sauce reserving some for the top.  Put in the porkchops and top with the rest of the tomato sauce. Add in mozzerella cheese.
 8. Bake at 425 degrees Fahrenheit for 20-25 minutes or until top is browned.
+</figure>
