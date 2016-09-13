@@ -32,6 +32,7 @@ The recipe is super easy.  You put everything into a food processor and puree.  
 ### Vegan Avocado Pesto
 
 Avocado Pesto Recipe
+
 (Serves 6-8)
 
 1 avocado
