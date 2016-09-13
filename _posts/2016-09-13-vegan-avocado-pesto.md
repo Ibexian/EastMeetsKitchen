@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: [videos, recipes]
-tags: [videos, sauce, vegan, pesto, avocado pesto, basil]
+tags: [videos, sauces, vegan, pesto, avocado pesto, basil]
 excerpt: 
 title: "Vegan Avocado Pesto"
 feature_video: https://www.youtube.com/embed/lIQJ2r-QDzc?rel=0
