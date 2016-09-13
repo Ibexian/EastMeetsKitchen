@@ -35,14 +35,14 @@ Avocado Pesto Recipe
 
 (Serves 6-8)
 
-1 avocado
-1 lemon, juiced
-1 cup fresh basil leaves 
-¼ cup pumpkin seeds
-1 clove garlic
-1/2 teaspoon salt, more if needed
-1/4 cup water
-olive oil to top
+- 1 avocado
+- 1 lemon, juiced
+- 1 cup fresh basil leaves 
+- ¼ cup pumpkin seeds
+- 1 clove garlic
+- 1/2 teaspoon salt, more if needed
+- 1/4 cup water
+- olive oil to top
 
 
 </figure>
