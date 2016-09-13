@@ -9,6 +9,8 @@ image:
     feature: 165-1.jpg
 ---
 
+<figure class="ingredients" markdown="1">
+
 ### Hong Kong Baked Pork Chops Recipe
 
 (Serves 2-4)
