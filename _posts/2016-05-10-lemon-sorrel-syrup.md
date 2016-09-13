@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: recipes
-tags: [recipes, sweets, sorrel, lemon, syrup]
+tags: [recipes, sauces, sweets, sorrel, lemon, syrup]
 excerpt: 
 title: "Lemon Sorrel Syrup"
 image:
