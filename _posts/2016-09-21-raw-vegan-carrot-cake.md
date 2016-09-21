@@ -14,6 +14,10 @@ Carrot cake is one of my favorite cakes, and I don't care how heavy it is, it's 
 I'm also looking for healthier desserts these days, and I don't want one leaving me overly stuffed and guilty because it has way more sugar than it needs.  So when I watched [Jenny Mustard's vegan inspo video](http://jennymustard.com/vegan-inspo-an-unrefined-vegan-raw-carrot-cream-cheese-squares/) on raw vegan carrot cake via [An Unrefined Vegan](http://anunrefinedvegan.com/2014/02/06/raw-carrot-cake-cream-cheese-hearts-sugar-and-gluten-free/), I couldn't wait to try the recipe.  (My secret hopes of being a minimalist - Jenny's blog focuses on simple living - is a whole other issue. It may never happen.  I've got way too many plates I just can't throw away, but a girl can try.)
 
 <figure>
+    <img src="/images/228-15.jpg">
+</figure>
+
+<figure>
     <img src="/images/228-17.jpg">
 </figure>
 
@@ -37,18 +41,15 @@ Anyways, this is a dessert I'm proud to eat.  It's filled with nuts, fruits and 
     <img src="/images/228-10.jpg">
 </figure>
 
-<figure class="half">
-<img src="/images/228-11.jpg">
-<img src="/images/228-16.jpg">
+<figure>
+    <img src="/images/228-16.jpg">
 </figure>
 
 <figure>
     <img src="/images/228-14.jpg">
 </figure>
 
-<figure>
-    <img src="/images/228-15.jpg">
-</figure>
+
 
 <figure class="ingredients" markdown="1">
 
