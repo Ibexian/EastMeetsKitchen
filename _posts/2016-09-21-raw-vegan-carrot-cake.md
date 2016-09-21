@@ -6,7 +6,7 @@ excerpt:
 title: "Raw Vegan Carrot Cake"
 feature_video: https://www.youtube.com/embed/b9Hdkf58MCE?rel=0
 image:
-  feature: 228-15.jpg
+  feature: 228-17.jpg
 ---
 
 Carrot cake is one of my favorite cakes, and I don't care how heavy it is, it's going to be my wedding cake when I get married.  I have a feeling though that a lot of it has to do with that cream cheese frosting and after deciding to go mostly vegan (like 95% of the time except for when I travel and special occasions, et cetera et cetera), it's been hard to abandon this slice of my life.
