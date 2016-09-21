@@ -9,7 +9,7 @@ image:
   feature: 228-15.jpg
 ---
 
-Carrot cake is one of my favorite cakes, and I don't care how heavy it is, it's going to be my wedding cake when I get married.  I have a feeling though that a lot of it has to do with that cream cheese frosting and after deciding to go mostly vegan (like 95% of the time except for when I travel and special occassions, et cetera et cetera), it's been hard to abandon this slice of my life.
+Carrot cake is one of my favorite cakes, and I don't care how heavy it is, it's going to be my wedding cake when I get married.  I have a feeling though that a lot of it has to do with that cream cheese frosting and after deciding to go mostly vegan (like 95% of the time except for when I travel and special occasions, et cetera et cetera), it's been hard to abandon this slice of my life.
 
 I'm also looking for healthier desserts these days, and I don't want one leaving me overly stuffed and guilty because it has way more sugar than it needs.  So when I watched [Jenny Mustard's vegan inspo video](http://jennymustard.com/vegan-inspo-an-unrefined-vegan-raw-carrot-cream-cheese-squares/) on raw vegan carrot cake via [An Unrefined Vegan](http://anunrefinedvegan.com/2014/02/06/raw-carrot-cake-cream-cheese-hearts-sugar-and-gluten-free/), I couldn't wait to try the recipe.  (My secret hopes of being a minimalist - Jenny's blog focuses on simple living - is a whole other issue. It may never happen.  I've got way too many plates I just can't throw away, but a girl can try.)
 
