@@ -9,14 +9,14 @@ image:
   feature: 229-1.jpg
 ---
 
-You know Fall is here when it's time to go apple picking.  And you know you've arrived at the orchards when you can smell apple cider donuts in the air - at least that was in my case.  I visited Russell Farms in Gloucester, Massachusetts, which is not usually where you would think apple orchards are, but I had an ice factory to visit up there and so I decided on Russell Farms.
+You know Fall is here when it's time to go apple picking.  And you know you've arrived at the orchards when you can smell apple cider donuts in the air - at least that was in my case.  I visited Russell Farms in Gloucester, Massachusetts, which is not usually where you would think apple orchards are, but I had an ice factory to visit up there, so that was that.
 
 <figure class="half">
 <img src="/images/229-9.jpg">
 <img src="/images/229-10.jpg">
 </figure>
 
-There were the cutest animals - all of which were nibbling on apples.  I arrived a bit early, so had time to look into the store.  There were the usuals - artisan breads, honeys, jams and of course - apple cider donuts.  I made an exception on eating vegan that day - well maybe that minute because I LOVE fresh donuts, and I don't eat apple cider donuts all that often.
+There were the cutest animals at the farm - all of which were nibbling on apples.  I arrived a bit early, so had time to look into the store.  There were the usuals - artisan breads, honeys, jams and of course - apple cider donuts.  I made an exception on eating vegan that day - well maybe that minute because I LOVE the smell of fresh donuts, and I don't eat apple cider donuts all that often.
 
 <figure class="half">
 <img src="/images/229-11.jpg">
@@ -29,7 +29,7 @@ But I knew when I got home that I wanted to make a vegan version of these guys. 
     <img src="/images/229-15.jpg">
 </figure>
 
-So here's my take on fluffy apple cider donuts.  Moisture was key because I knew since these were baked that it would have a hard time competing against fried donuts, so I wanted to concentrate on the light and fluffy airiness that are in fried donuts.
+So here's my take on fluffy apple cider donuts.  Moisture and air was key because I knew since these were baked that it would have a hard time competing against fried donuts, so I wanted to concentrate on the light and fluffy airiness that are in fried donuts.
 
 <figure>
     <img src="/images/229-2.jpg">
