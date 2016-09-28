@@ -42,14 +42,12 @@ With shou zhua bing, you don't simply pan-fry the pancakes.  After both sides ar
 
 
 
-<figure class="third">
-    <img src="/images/219-4.jpg">
+<figure class="half">
      <img src="/images/219-5.jpg">
      <img src="/images/219-6.jpg">
 </figure>
 
-<figure class="third">
-    <img src="/images/219-9.jpg">
+<figure class="half">
      <img src="/images/219-11.jpg">
      <img src="/images/219-12.jpg">
 </figure>
