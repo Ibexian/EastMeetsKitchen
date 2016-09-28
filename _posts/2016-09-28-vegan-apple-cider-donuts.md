@@ -23,13 +23,13 @@ There were the cutest animals - all of which were nibbling on apples.  I arrived
 <img src="/images/229-12.jpg">
 </figure>
 
-But I knew when I got home that I wanted to make a vegan version of these guys.  Because the store also had an ice cream parlour on the side, I saw them turn the apple cider donuts into apple cider donut ice cream sandwiches.  Ingenious!
+But I knew when I got home that I wanted to make a vegan version of these guys.  Because the store also had an ice cream parlor on the side, I saw them turn the apple cider donuts into apple cider donut ice cream sandwiches.  Ingenious!
 
 <figure>
     <img src="/images/229-15.jpg">
 </figure>
 
-So here's my take on fluffly apple cider donuts.  Moisture was key because I knew since these were baked that it would have a hard time competing against fried donuts, so I wanted to concentrate on the light and fluffy airiness that are in fried donuts.
+So here's my take on fluffy apple cider donuts.  Moisture was key because I knew since these were baked that it would have a hard time competing against fried donuts, so I wanted to concentrate on the light and fluffy airiness that are in fried donuts.
 
 <figure>
     <img src="/images/229-2.jpg">
