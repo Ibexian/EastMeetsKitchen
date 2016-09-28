@@ -1,10 +1,10 @@
 ---
 layout: post
 categories: [videos, recipes]
-tags: [videos, nomeats, sweets, raw, vegan, carrot cake]
+tags: [videos, nomeats, sweets, vegan, apple cider donuts, doughnuts]
 excerpt: 
-title: "Raw Vegan Carrot Cake"
-feature_video: https://www.youtube.com/embed/b9Hdkf58MCE?rel=0
+title: "Vegan Apple Cider Donuts"
+feature_video: https://www.youtube.com/embed/ZPm0iU4Snpg?rel=0
 image:
   feature: 229-1.jpg
 ---
