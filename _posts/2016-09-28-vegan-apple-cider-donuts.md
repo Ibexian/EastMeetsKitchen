@@ -29,7 +29,7 @@ But I knew when I got home that I wanted to make a vegan version of these guys. 
     <img src="/images/229-15.jpg">
 </figure>
 
-So here's my take on fluffy apple cider donuts.  Moisture and air was key because I knew since these were baked that it would have a hard time competing against fried donuts, so I wanted to concentrate on the light and fluffy airiness that are in fried donuts.
+So here's my take on fluffy apple cider donuts.  Moisture and air was key because I knew since these were baked that it would have a hard time competing against fried donuts, so I wanted to concentrate on the light and fluffy airiness that are in fried donuts.  The fat in the coocnut milk and oil helped with moisture and the baking soda with cider vinegar really made this batter nice and airy.
 
 <figure>
     <img src="/images/229-2.jpg">
