@@ -4,6 +4,7 @@ categories: [videos, recipes]
 tags: [recipes, sweets, green tea, matcha, mousse, cake]
 excerpt: 
 title: "Green Tea Tofu Mousse Cake"
+feature_video: https://www.youtube.com/embed/FNg3GK4brcM?rel=0
 image:
   feature: 116-16.jpg
 ---
