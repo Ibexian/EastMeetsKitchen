@@ -9,13 +9,13 @@ image:
   feature: 230-1.jpg
 ---
 
-I love putting tempeh bacon into sandwiches.  It can be a simple BLT or dress up something like an egg and cheese sandwich.  The one thing I hate about tempeh bacon is the price.  Whereas I can usually find a package of tempeh for $2- $3 at the grocery store, tempeh bacon runs upwards from about $4.50 to almost $5.50 a package.
+I love putting tempeh bacon onto sandwiches.  It can be a simple BLT or dress up something like an egg and cheese sandwich.  The one thing I hate about tempeh bacon is the price.  Whereas I can usually find a package of tempeh for $2- $3 at the grocery store, tempeh bacon runs upwards from about $4.50 to almost $5.50 a package.
 
 <figure>
     <img src="/images/230-7.jpg">
 </figure>
 
-Like many items at a grocery store, you can usually save a lot of money if you make it yourself.  True, sometimes getting it prepared is a time saver, but this recipe is so easy that making your own tempeh bacon is definitely very worth it.   You can make it in big batches and tempeh bacon stores very well and can be frozen.
+Like many items at a grocery store, you can usually save a lot of money if you make it yourself.  True, sometimes getting it prepared is a time-saver, but this recipe is so easy that making your own tempeh bacon is definitely very worth it.   You can make it in big batches and tempeh bacon stores very well and can be frozen.
 
 
 <figure class="half">
@@ -60,7 +60,7 @@ Like many items at a grocery store, you can usually save a lot of money if you m
 ### Directions
 
 1. In a pot over medium heat, combine all the ingredients except the tempeh.  Bring to a boil and shut off heat.  Let cool.
-2. Meanwhile cut the temeph into 1/4-inch slices.
+2. Meanwhile cut the tempeh into 1/4-inch slices.
 3. Lay tempeh flat onto a baking dish.  Cover with cooled liquid and refrigerate for at least 4 hours.
 4. Take out tempeh and place onto a sheetpan with parchment paper.
 5. Bake at 300 degrees Fahrenheit for 20 minutes, flipping in between.
