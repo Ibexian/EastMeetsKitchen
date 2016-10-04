@@ -11,7 +11,8 @@ image:
 
 
 GREEN TEA TOFU MOUSSE CAKE
-Light yet creamy mousse cake with a strong hit of aromatic green tea flavor 
+
+Light, yet creamy mousse cake with a strong hit of aromatic green tea flavor. 
 
 <figure class="ingredients" markdown="1">
 
@@ -26,9 +27,9 @@ Light yet creamy mousse cake with a strong hit of aromatic green tea flavor
 - 5 tablespoons honey
 - 1 tablespoon gelatin
 - 2 yolks
-- 2 tbsp. green tea powder 
+- 2 tablespoons green tea powder 
 - 1 cup whipping cream
-- 1 tbsp. sugar
+- 1 tablespoon sugar
 
 ### Crust: 
 
