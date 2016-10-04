@@ -9,15 +9,44 @@ image:
   feature: 116-16.jpg
 ---
 
-This is the green tea mousse cake I did for Vitasoy for their baking with tofu campaign.  Recipe and direction follows. Video of the recipe can be found [here](https://www.youtube.com/watch?v=FNg3GK4brcM).
 
 GREEN TEA TOFU MOUSSE CAKE
 Light yet creamy mousse cake with a strong hit of aromatic green tea flavor 
 
+<figure class="ingredients" markdown="1">
 
-__Directions__
+### Green Tea Tofu Mousse Cake
 
-__Green Tea Crust and Mousse:__
+(This recipe makes 8-inch cake)
+
+### Green Tea Mousse:
+
+- 1/3 cup San Sui Silken Tofu, pureed (use about 1/2 block tofu)
+- 1/4 cup Vitasoy Unsweetened Refrigerated Soymilk
+- 5 tablespoons honey
+- 1 tablespoon gelatin
+- 2 yolks
+- 2 tbsp. green tea powder 
+- 1 cup whipping cream
+- 1 tbsp. sugar
+
+### Crust: 
+
+- 1 3/4 cup tea biscuits
+- 3 tablespoons butter, melted
+
+### Green Tea Ganache
+
+- 1/2 cup white chocolate
+- 1/4 cup + 2 tablespoons Vitasoy Unsweetened Refrigerated Soymilk 
+- 2 tablespoons green tea powder 
+- 1/4 teaspoon gelatin
+
+</figure>
+
+<figure class="directions" markdown="1">
+
+### Directions
 
 1. Line the sides of an 8-inch spring form pan with acetate. (Note: Acetate may be omitted.)
 2. Put biscuits in a zip lock bag and crush cookies into coarse pieces. 
@@ -38,19 +67,6 @@ __Green Tea Ganache:__
 4. Pour hot soymilk mixture over melted white chocolate and whisk till smooth and combined. If there are lumps, a strainer may be used. 
 5. When the green tea mousse has set, pour ganache over cake and use a spatula to smooth the ganache over if necessary. 
 6. Refrigerate for about 2 hours or until ganache sets.
-<section class='recipe'>
-<p><strong>Ingredients</strong></p>
 
-<p>(This recipe makes 8-inch cake)</p>
+</figure>
 
-<p>Green Tea Mousse</p>
-
-<ul><li>1/3 cup San Sui Silken Tofu, pureed (use about 1/2 block tofu)</li><li>1/4 cup Vitasoy Unsweetened Refrigerated Soymilk</li><li>5 tbsp. honey</li><li>1 tbsp. gelatin</li><li>2 yolks </li><li>2 tbsp. green tea powder </li><li>1 cup whipping cream </li><li>1 tbsp. sugar</li></ul>
-
-<p>Crust</p>
-
-<ul><li>1 3/4 cup tea biscuits</li><li>3 tbsp. butter, melted</li></ul>
-
-<p>Green Tea Ganache</p>
-
-<ul><li>1/2 cup white chocolate </li><li>1/4 cup + 2 tbsp. Vitasoy Unsweetened Refrigerated Soymilk </li><li>2 tbsp. green tea powder </li><li>1/4 tsp. gelatin</li></ul></section>
