@@ -5,9 +5,46 @@ tags: [videos, nomeats, pork ragu, sichuan, lucky peach, vegan]
 excerpt: 
 title: "Vegan Sichuan 'Pork' Ragu"
 feature_video: https://www.youtube.com/embed/tNBobkcbNzc?rel=0
-image
+image:
   feature: 231-1.jpg
 ---
+
+Pork ragu is a classic Chinese dish.  When I saw it in Lucky Peach's Asian recipes cookbook, I knew I had to try it.  The recipe is quite good, but there may have been one sichuan peppercorn too many, and so there was a licorice-y flavor that kind of pervaded through the noodles.  I would maybe reduce the recipe to half as many peppercorns, but other than that I loved it.
+
+<figure>
+    <img src="/images/231-4.jpg">
+</figure>
+
+
+Still though, I thought about how the recipe would taste if I substituted textured vegetable protein (TVP) in for the pork.  I personally feel that minced meat really doesn't have much flavor anyways and so if the texture of TVP matched ground up meat, which it does very well, then I'm pretty much set. Just make sure the sauce turns out well and I'll have myself an amazing bowl of spicy "pork" noodles.
+
+<figure>
+    <img src="/images/231-2.jpg">
+</figure>
+
+
+<figure class="half">
+<img src="/images/231-3.jpg">
+<img src="/images/231-5.jpg">
+</figure>
+
+<figure class="half">
+<img src="/images/231-6.jpg">
+<img src="/images/231-7.jpg">
+</figure>
+
+<figure>
+    <img src="/images/231-8.jpg">
+</figure>
+
+<figure>
+    <img src="/images/231-2.jpg">
+</figure>
+
+<figure>
+    <img src="/images/231-1.jpg">
+</figure>
+
 
 
 <figure class="ingredients" markdown="1">
