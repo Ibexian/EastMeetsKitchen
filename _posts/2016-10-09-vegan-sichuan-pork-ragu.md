@@ -16,7 +16,9 @@ Pork ragu is a classic Chinese dish.  When I saw it in Lucky Peach's Asian recip
 </figure>
 
 
-Still though, I thought about how the recipe would taste if I substituted textured vegetable protein (TVP) in for the pork.  I personally feel that minced meat really doesn't have much flavor anyways and so if the texture of TVP matched ground up meat, which it does very well, then I'm pretty much set. Just make sure the sauce turns out well and I'll have myself an amazing bowl of spicy "pork" noodles.
+Still though, I thought about how the recipe would taste if I substituted textured vegetable protein (TVP) in for the pork.  I personally feel that minced meat really doesn't have much flavor anyways, and so if the texture of TVP matched that of ground meat, which it actually does, then I'm pretty much set. Just make sure the sauce turns out well and I'll have myself an amazing bowl of spicy "pork" noodles.
+
+A word of caution regarding the Sichuan peppercorns is if you are buying them whole, it is probably wise to use a sieve to make sure you are not getting any big bits into your sauce.  The texture of the husks are very gritty and sandy, so best to get just the fine grinds.
 
 <figure>
     <img src="/images/231-2.jpg">
