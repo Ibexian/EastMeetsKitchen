@@ -60,8 +60,8 @@ Still though, I thought about how the recipe would taste if I substituted textur
 - 1 teaspoon garlic powder
 - 1 tablespoon soy sauce
 - 1 tablespoon garlic, chopped
-- 1 tablespoons gochujang, red chili bean paste
-- 1 ssamjang bean paste
+- 1 tablespoon gochujang, red chili bean paste
+- 1 tablespoon ssamjang bean paste
 - 2 teaspoons Sichuan peppercorns (original recipe calls for 1 tablespoon)
 - 1/4 teaspoon Korean chili flakes, more to taste
 - 1 tablespoon soy sauce
