@@ -56,7 +56,7 @@ Still though, I thought about how the recipe would taste if I substituted textur
 - 4-6 servings Chinese wheat noodles
 - 2 tablespoons vegetable oil
 - 1 large yellow onion
-- 2 cups textured vegetable protein, rehydraged with 1 1/2 cups water
+- 2 cups textured vegetable protein, rehydrated with 1 1/2 cups water
 - 1 teaspoon garlic powder
 - 1 tablespoon soy sauce
 - 1 tablespoon garlic, chopped
