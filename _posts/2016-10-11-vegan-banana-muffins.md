@@ -9,9 +9,9 @@ image:
   feature: 232-1.jpg
 ---
 
-This banana muffin recipe is one of the recipes I've tested the most, probably because my family is such banana nut bread fans.  But because they were such big fans and ate banana nut bread so often, the pressure was really there to make them as healthy as possible.  It would be silly to continue feeding your family something they ate all the time, but was bad for them.
+This one-bowl, blend and done banana muffin recipe is one of the recipes I've tested the most, probably because my family is such banana nut bread fans.  But because they are such big fans and eat banana nut bread so often, the pressure was really there to make them as healthy as possible because it would be silly to continue feeding your family something they ate all the time, but was bad for them.
 
-I wanted this morning item to be something to carry them throughout the day.  I wanted it to be something they didn't need to worry about eating. In fact, I wanted the muffin to actually be good for them when they ate it.
+I wanted this morning item to be something to carry them throughout the day.  I wanted it to be something they didn't need to worry about eating. In fact, I wanted the muffin to actually be good for them when they ate it.  
 
 <figure>
     <img src="/images/232-5.jpg">
@@ -57,13 +57,13 @@ I wanted to highlight a couple of ingredients that were substituted, which is wo
 
 - 3 bananas, very ripe
 - 1/2 - 3/4 cup dates
-- 2/3 cup + 2 tablespoons cup garbanzo flour
-- 1/3 cup gluten-free flour
-- 1 teaspoon salt
-- 1 teaspoon baking soda
 - 1/2 cup olive oil
 - 1/2 cup almond milk
 - 1 teaspoon vanilla
+- 2/3 cup + 2 tablespoons garbanzo flour
+- 1/3 cup gluten-free flour
+- 1/2 teaspoon salt
+- 1 teaspoon baking soda
 - 2 tablespoons flaxseeds, ground
 - 1/2 cup walnuts (optional, can substitute blueberries, pumpkin seeds, etc.)
 
