@@ -76,7 +76,7 @@ I wanted to highlight a couple of ingredients that were substituted, which is wo
 ### Directions
 
 1. Preheat oven to 350 degrees Fahrenheit.
-2. Blend bananas, dates, olive oil, almond milk and vanilla until smooth.
+2. In a food processor, blend bananas, dates, olive oil, almond milk and vanilla until smooth.
 3. Add in the garbanzo flour, gluten-free flour, salt, baking soda and ground flax seeds.  Blend until smooth.  Let batter rest for about 5 minutes.
 4. Fold in toppings.
 5. Pour batter into greased muffin tins.
