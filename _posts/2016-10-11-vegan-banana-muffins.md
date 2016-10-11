@@ -14,7 +14,7 @@ This banana muffin recipe is one of the recipes I've tested the most, probably b
 I wanted this morning item to be something to carry them throughout the day.  I wanted it to be something they didn't need to worry about eating. In fact, I wanted the muffin to actually be good for them when they ate it.
 
 <figure>
-    <img src="/images/232-5.jpg">
+    <img src="/images/232-3.jpg">
 </figure>
 
 
