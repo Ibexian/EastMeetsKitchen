@@ -29,11 +29,11 @@ It helps that banana muffins are naturally dense and heavy in banana flavor.  An
 
 I wanted to highlight a couple of ingredients that were substituted, which is worth noting.  
 
-1. Dates for sugar - It's been a belief of mine that if you want to add sweetness from let's say apples or prunes or dates that you should use the whole fruit because that's accompanied with the fiber naturally found in it.  True, it can make the baked good more dense, but because we are dealing with a naturally dense baking good, the substitution works.
+1. Dates for sugar - It's been a belief of mine that if you want to add sweetness, specifically from that of fruits, that you should use the whole fruit because it is accompanied with the natural fibers and nutrients from the plant.  True, it can make the baked good more dense, but because we are dealing with a naturally dense product, the substitution works.
 
-2. Olive oil for butter - So make sure to use a light olive oil for this because many times olive oil is too strong in flavor.  That being said, one of the only oils truly proven to be good for you is olive.  When you substitute an oil for a butter in a cake, the end product is actually lighter, which in our case works because we are adding some ingredients which can make our product more dense and this balances it off.
+2. Olive oil for butter - You have to make sure to use a light olive oil for this because many times olive oil is too strong in flavor.  That being said, one of the only oils truly proven to be good for you is olive.  When you substitute an oil for a butter - like in a cake, the end product is usually lighter, which in our case works because we are adding some ingredients, which can make our product more dense and this balances it off.
 
-3. Garbanzo flour for all-purpose flour - I really advocate using flours that add value to health and because all-purpose flour is stripped of a lot of it's nutrients and fiber, using it results in empty calories for the eater.  Garbanzo flour is obviously packed with protein and fiber.  Because it can add a stronger flavor to the muffins and also a slight denseness, I advocate cutting it with a lighter gluten-free flour.
+3. Garbanzo flour for all-purpose flour - I really advocate using flours that add value to health and because all-purpose flour is stripped of a lot of it's nutrients and fiber, using it results in empty calories for the eater.  Garbanzo flour is obviously packed with protein and fiber.  Because it can add a stronger flavor to the muffins and also a slight denseness, I advocate cutting it with a lighter, gluten-free flour.
 
 
 <figure>
