@@ -61,7 +61,7 @@ I wanted to highlight a couple of ingredients that were substituted, which is wo
 - 1/2 cup almond milk
 - 1 teaspoon vanilla
 - 2 tablespoons flaxseeds, ground
-- 1/2 cup walnuts (optional)
+- 1/2 cup walnuts (optional, can substitute blueberries, pumpkin seeds, etc.)
 
 
 
