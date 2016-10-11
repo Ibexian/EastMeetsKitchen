@@ -9,7 +9,7 @@ image:
   feature: 232-1.jpg
 ---
 
-This banana muffin recipe is one of the recipes I've tested the most, probably because my family is such big fans of banana nut bread.  But because they were such big fans and ate banana nut bread so often, the pressure was really there to make them as healthy as possible.  It would be silly to continue feeding your family something they ate all the time, but was bad for them.
+This banana muffin recipe is one of the recipes I've tested the most, probably because my family is such banana nut bread fans.  But because they were such big fans and ate banana nut bread so often, the pressure was really there to make them as healthy as possible.  It would be silly to continue feeding your family something they ate all the time, but was bad for them.
 
 I wanted this morning item to be something to carry them throughout the day.  I wanted it to be something they didn't need to worry about eating. In fact, I wanted the muffin to actually be good for them when they ate it.
 
