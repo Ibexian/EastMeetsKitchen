@@ -36,7 +36,13 @@ I wanted to highlight a couple of ingredients that were substituted, which is wo
 3. Garbanzo flour for all-purpose flour - I really advocate using flours that add value to health and because all-purpose flour is stripped of a lot of it's nutrients and fiber, using it results in empty calories for the eater.  Garbanzo flour is obviously packed with protein and fiber.  Because it can add a stronger flavor to the muffins and also a slight denseness, I advocate cutting it with a lighter gluten-free flour.
 
 
+<figure>
+    <img src="/images/232-8.jpg">
+</figure>
 
+<figure>
+    <img src="/images/232-10.jpg">
+</figure>
 
 
 <figure class="ingredients" markdown="1">
