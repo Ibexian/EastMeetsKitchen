@@ -53,7 +53,7 @@ I wanted to highlight a couple of ingredients that were substituted, which is wo
 
 - 3 bananas, very ripe
 - 1/2 - 3/4 cup dates
-- 2/3 + 2 tablespoons cup garbanzo flour
+- 2/3 cup + 2 tablespoons cup garbanzo flour
 - 1/3 cup gluten-free flour
 - 1 teaspoon salt
 - 1 teaspoon baking soda
