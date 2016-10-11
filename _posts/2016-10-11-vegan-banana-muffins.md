@@ -44,6 +44,10 @@ I wanted to highlight a couple of ingredients that were substituted, which is wo
     <img src="/images/232-10.jpg">
 </figure>
 
+<figure>
+    <img src="/images/232-2.jpg">
+</figure>
+
 
 <figure class="ingredients" markdown="1">
 
