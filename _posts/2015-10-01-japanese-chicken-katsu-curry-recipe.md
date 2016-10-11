@@ -16,6 +16,7 @@ image:
 (Serves 4-6 people) 
 
 For chicken: 
+
 - 8 chicken tenders
 - 2 teaspoon salt
 - 1 teaspoon pepper
