@@ -4,7 +4,7 @@ categories: [videos, recipes]
 tags: [videos, nomeats, banana muffins, muffins, vegan]
 excerpt: 
 title: "Vegan Banana Muffins"
-feature_video: 
+feature_video: https://www.youtube.com/embed/ufLvi7epuwI?rel=0 
 image:
   feature: 232-1.jpg
 ---
