@@ -62,7 +62,7 @@ I wanted to highlight a couple of ingredients that were substituted, which is wo
 - 1 teaspoon vanilla
 - 2/3 cup + 2 tablespoons garbanzo flour
 - 1/3 cup gluten-free flour
-- 1/2 teaspoon salt
+- 1/4 teaspoon salt
 - 1 teaspoon baking soda
 - 2 tablespoons flaxseeds, ground
 - 1/2 cup walnuts (optional, can substitute blueberries, pumpkin seeds, etc.)
