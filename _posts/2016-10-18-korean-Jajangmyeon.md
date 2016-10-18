@@ -30,6 +30,11 @@ The fermented bean paste, which flavors the noodles have both molasses in it in 
     <img src="/images/234-4.jpg">
 </figure>
 
+<figure class="half">
+<img src="/images/234-5.jpg">
+<img src="/images/234-6.jpg">
+</figure>
+
 <figure>
     <img src="/images/234-1.jpg">
 </figure>
