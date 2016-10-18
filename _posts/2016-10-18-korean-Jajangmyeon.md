@@ -18,7 +18,7 @@ I love Korean jajangmyeon.  I first had it in Korean when my friend made me a pa
 
 Fast forward to a couple years down the road when I had jajangmyeon - not from a package, but at a restaurant for the first time.  I fell in love all over again, though I have to admit, nothing rivals the taste of packaged jajangmyeon.
 
-When I prepared this recipe myself, which was adapted from the great Maangchi's jajangmyeon recipe, I was surprised to find out how much vegetables actually went in.  See, when you look at jajangmyeon, it just looks like noodles covered in brown sauce, but what you don't see are the chunky bits of vegetables and meat (or in our case TVP) mixed throughout.
+When I prepared this recipe myself, which was adapted from the great Maangchi's [jajangmyeon recipe](http://www.maangchi.com/recipe/jjajangmyun), I was surprised to find out how much vegetables actually went in.  See, when you look at jajangmyeon, it just looks like noodles covered in brown sauce, but what you don't see are the chunky bits of vegetables and meat (or in our case TVP) mixed throughout.
 
 <figure>
     <img src="/images/234-2.jpg">
