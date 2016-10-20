@@ -9,6 +9,21 @@ image:
     feature: 162-1.jpg
 ---
 
+
+<figure class="half">
+<img src="/images/162-2.jpg">
+<img src="/images/162-3.jpg">
+</figure>
+
+<figure>
+    <img src="/images/162-4.jpg">
+</figure>
+<figure>
+    <img src="/images/162-5.jpg">
+</figure><figure>
+    <img src="/images/162-6.jpg">
+</figure>
+
 <figure class="ingredients" markdown="1">
 
 ### Japanese Chicken Katsu Curry Recipe: 
