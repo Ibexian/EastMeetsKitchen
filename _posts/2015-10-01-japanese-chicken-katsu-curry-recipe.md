@@ -9,6 +9,9 @@ image:
     feature: 162-1.jpg
 ---
 
+When I went to Japan last year, one of the best meals I had (well, that's not fair because I had many) was chicken katsu curry.  I tried the curry in more upscale restaurants and I tried curries in hole-in-the-walls.  It was delicious each and every time.
+
+I knew when I came back that I wanted to recreate this meal, so that I could have it whenever I wanted.
 
 <figure class="half">
 <img src="/images/162-2.jpg">
