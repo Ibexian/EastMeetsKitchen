@@ -50,7 +50,7 @@ This is a "throw everything into one pot"- type of recipe.  It takes me about 15
 ### Directions
 
 1. In a pan over medium high heat, mix together the curry and coconut milk.
-2. Add in the potatoes, onions, tofu and bell peppers.  Cover with a lid and bring mixture to a boil.  Turn down heat and simmer for 5 minutes.
+2. Add in the potatoes, onions, tofu and bell peppers.  Cover with a lid and bring mixture to a boil.  Turn down heat and simmer for 10 minutes.
 3. After mixture has simmered, add in the chopped pineapples and mix together until combined.
 4. Turn off heat and serve over rice.
 </figure>
