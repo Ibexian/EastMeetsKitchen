@@ -43,7 +43,7 @@ A lot of the recipe is creating the sauces and preparing the toppings.  It is mo
 
 <figure class="ingredients" markdown="1">
 
-### Quick and Easy Vegan Thai Yellow Curry
+### Cheung Fun Noodle Roll with Peanut Butter and Hoisin Sauce
 
 (makes 4 servings)
 
