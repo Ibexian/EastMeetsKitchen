@@ -38,10 +38,6 @@ A lot of the recipe is creating the sauces and preparing the toppings.  It is mo
 </figure>
 
 <figure>
-    <img src="/images/236-9.jpg">
-</figure>
-
-<figure>
     <img src="/images/236-10.jpg">
 </figure>
 
