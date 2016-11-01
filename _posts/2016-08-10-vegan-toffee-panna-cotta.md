@@ -30,7 +30,7 @@ In addition to the vegan substitute, I partnered up with [SweetLeaf](http://swee
 I opted to go with SweetLeaf's toffee flavored "Sweet Drops" because I think the flavor of burnt caramel pairs wonderfully with creamy panna cotta.  I mentioned in the video that the brilliance of this recipe is that you can substitute toffee for any of the other flavors SweetLeaf has and you have a completely new panna cotta. 
 
 <figure>
-    <img src="/images/221-8.jpg">
+    <img src="/images/221-11.jpg">
 </figure> 
 
 I personally prefer toffee or chocolate because stevia does leave a bit of a bitter aftertaste.  Because toffee and chocolate naturally have bitter undertones, the result of the stevia aftertaste is mitigated.  My recommendation for people new to stevia is still to opt for half stevia and half your usual sweetener.  I can hardly tell there is a substitute when I do this. 
