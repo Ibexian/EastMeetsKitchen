@@ -83,7 +83,7 @@ For the palak paneer:
 1. Cut tofu into 3/4-inch cubes and place on paper towels between two weighted sheet pans. Leave for at least 4 hours. 
 2. Combine the lemon juice, water, nutritional yeast and salt in a bowl.  Add in the tofu and mix until tofu is coated.  Let marinate in the refrigerator for 6 hours or overnight.
 3. Place marinated tofu on a sheet pan with parchment paper.  Bake at 400 degrees Fahrenheit for about 20-25 minutes, flipping the tofu in between.
-4. Prepare the palak by cooking the onion over medium heat for about 10 minutes.  Add in the ginger, garlic and chili.  Cook for 2-3 minutes.
+4. Prepare the palak by cooking the onions over medium heat for about 10 minutes, until soft and translucent.  Add in the ginger, garlic and chili.  Cook for 2-3 minutes.
 5. Add in the garam masala, cumin, salt and corriander.  Cook for 4-5 minutes until the spices are fragrant.
 6. Meanwhile, in a blender puree spinach with about 1/3 cup of water until desired consistency.
 7. Turn heat on the spice mixture up to high.  Add tomatoes, lime juice, chili flakes and cashew cream.  Then add in the spinach mixture and tofu cubes. Mix until combined.  Bring mixture to a boil and then lower to a simmer for 2-3 minutes.
