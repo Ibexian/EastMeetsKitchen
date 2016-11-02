@@ -9,7 +9,7 @@ image:
   feature: 238-1.jpg
 ---
 
-I'm a big fan of Indian dishes and now that I've been eating vegan, I find I can pretty easily turn many of the dishes vegan by easily making a couple substitutions.  
+I'm a big fan of Indian food and now that I've been eating vegan, I find I can pretty easily turn many of the dishes vegan by making a couple substitutions.  
 
 <figure>
     <img src="/images/238-2.jpg">
