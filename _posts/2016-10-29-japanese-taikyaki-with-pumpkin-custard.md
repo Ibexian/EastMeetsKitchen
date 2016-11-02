@@ -6,7 +6,7 @@ excerpt:
 title: "Japanese Taiyaki with Pumpkin Custard "
 feature_video: https://www.youtube.com/embed/wMq8Rm4kmKs?rel=0
 image:
-  feature: 237-11.jpg
+  feature: 237-3.jpg
 ---
 
 Japanese taiyaki are filled pancakes cooked in the shape of a fish.  I imagine the fish is a symbol for luck, but at its most simple form, it's a pancake with filling.  I've seen different variations of it around Asia.  In Hong Kong and Taiwan, it comes in a circular shape and the texture is somewhere between a pancake and a waffle.
@@ -33,7 +33,7 @@ If you're nit-picky like I am, use a skewer to lift up the pancake to check whet
 </figure>
 
 <figure>
-    <img src="/images/237-12.jpg">
+    <img src="/images/237-11.jpg">
 </figure>
 
 <figure class="half">
