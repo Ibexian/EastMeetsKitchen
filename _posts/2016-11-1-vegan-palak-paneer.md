@@ -17,7 +17,7 @@ I'm a big fan of Indian food and now that I've been eating vegan, I find I can p
 
 Most of the dairy products can be substituted for a coconut or nut milk.  Most meats can be substituted using tofu and palak paneer is a great dish for that.  For me, the cubes of paneer cheese have always tasted somewhat like tofu.  It's not the perfect substitute, but after the tofu has been soaked in the nutritional yeast (tastes like parmesan cheese) and a lemon mixture, it takes up a lot of the cheese flavor.
 
-The recipe I tested out was from Food52.  I would say the recipe has more tomato than I'm used to.  If you're unsure about how tangy you want your palak paneer, I would start off with about half the amount and maybe taste before you add more.
+The recipe I tested out was from [Food52](https://food52.com/recipes/37464-vegan-palak-paneer).  I would say the recipe has more tomato than I'm used to.  If you're unsure about how tangy you want your palak paneer, I would start off with about half the amount and maybe taste before you add more.
 
 Otherwise, the recipe is great with rice and pieces of naan for dip.
 
