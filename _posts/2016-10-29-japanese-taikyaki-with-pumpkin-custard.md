@@ -4,7 +4,7 @@ categories: [videos, recipes]
 tags: [videos, sweets, vegan, taiyaki, custard, pumpkin, japanese, pancake]
 excerpt: 
 title: "Japanese Taiyaki with Pumpkin Custard "
-feature_video: https://www.youtube.com/embed/Qggicyxe-sQ?rel=0
+feature_video: https://www.youtube.com/embed/wMq8Rm4kmKs?rel=0
 image:
   feature: 237-11.jpg
 ---
