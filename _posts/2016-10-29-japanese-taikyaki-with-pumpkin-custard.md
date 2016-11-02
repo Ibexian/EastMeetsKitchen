@@ -9,36 +9,36 @@ image:
   feature: 237-11.jpg
 ---
 
-Cheung fun or rice noodle rolls with peanut butter and hoisin sauce is one of my favorite street foods I have to pick up whenever I'm in Chinatown.  It has the perfect blend of sweet and savory hoisin sauce and creamy peanut butter.  Usually the soft rice noodles rolls, made from rolling up sheets of steamed rice batter, are mixed with fragrant bits of scallion and crunchy dried shrimp. If you are vegetarian or vegan, the shrimp can be omitted.
+Japanese taiyaki are filled pancakes cooked in the shape of a fish.  I imagine the fish is a symbol for luck, but at its most simple form, it's a pancake with filling.  I've seen different variations of it around Asia.  In Hong Kong and Taiwan, it comes in a circular shape and the texture is somewhere between a pancake and a waffle.
 
 <figure>
-    <img src="/images/236-4.jpg">
+    <img src="/images/237-3.jpg">
 </figure>
 
 
-A lot of the recipe is creating the sauces and preparing the toppings.  It is more of an assembly type of dish, which is good because you don't have to do too much to enjoy this amazing street food, which you can find all over Hong Kong.
+The taiyaki are served warm, right off the griddle, while the filling is still warm.  Usually, it will be filled with popular Asian fillings such as mashed red bean, custard, green tea custard, sesame or as I had seen last year in Japan, pumpkin cream.
 
 
 <figure>
-    <img src="/images/236-5.jpg">
+    <img src="/images/237-7.jpg">
+</figure>
+
+You can order an at-home taiyaki griddle or just use a muffin pan and make a top and bottom, putting filling in on one the halves.  A word to the wise about these taiyaki griddles is that it is very hard to evenly heat them.  Especially if you have an open gas stove, be prepared for patchy fish that may be more burnt in some areas than others.  Know that the final product will taste good even though the fish may not be evenly colored.
+
+If you're nit-picky like I am, use a skewer to lift up the pancake to check whether it is the color you want before flipping it.  In general, it takes about 3 minutes on medium heat, but it really depends on your stove and your batter.
+
+<figure class="half">
+<img src="/images/237-8.jpg">
+<img src="/images/237-9.jpg">
+</figure>
+
+<figure>
+    <img src="/images/237-12.jpg">
 </figure>
 
 <figure class="half">
-<img src="/images/236-2.jpg">
-<img src="/images/236-3.jpg">
-</figure>
-
-<figure class="half">
-<img src="/images/236-6.jpg">
-<img src="/images/236-7.jpg">
-</figure>
-
-<figure>
-    <img src="/images/236-8.jpg">
-</figure>
-
-<figure>
-    <img src="/images/236-10.jpg">
+<img src="/images/237-2.jpg">
+<img src="/images/237-10.jpg">
 </figure>
 
 <figure class="ingredients" markdown="1">
