@@ -9,7 +9,7 @@ image:
   feature: 239-2.jpg
 ---
 
-I'm somewhat embarassed to say that I only discovered pandan a little earlier this year.  I think I had tried it as a cake flavor somewhere along the way, but I didn't really look into what the flavor actually was until a Thai friend of mine brought back a pandan extract from Thailand.  I would later try pandan jelly made from fresh pandan leaves and the flavor was transformational.
+I'm somewhat embarrassed to say that I only discovered pandan a little earlier this year.  I think I had tried it as a cake flavor somewhere along the way, but I didn't really look into what the flavor actually was until a Thai friend of mine brought back a pandan extract from Thailand.  I would later try pandan jelly made from fresh pandan leaves and the flavor was transformational.
 
 <figure>
     <img src="/images/239-4.jpg">
