@@ -18,13 +18,19 @@ I'm somewhat embarrassed to say that I only discovered pandan a little earlier t
 I say transformational because as a cook or culinary person, you don't really get to taste a truly unique flavor all that often (unless I guess you travel a ton).  First off, pandan is leaves of a tropical plant.  It is often described as South East Asia's equivalent to vanilla, so pandan is often used as a base flavor in cakes, puddings and various other desserts just like vanilla is in the west. 
 
 If I were to describe pandan's flavor, I would say it is a sweet and milky flavor with undertones of a nutty, slightly smoky and herbally flavor.  I would say to try and get your hands on pandan extract and if possible, pandan leaves immediately because it will definitely add to your arsenal of ingredients, especially if you work with desserts.  Pandan leaves are desirable just because the flavor is more well-rounded.  You will taste all the flavors and notes I mentioned more clearly as compared to just the extract.  
+<figure>
+    <img src="/images/239-1.jpg">
+</figure>
+
+__Tips:__ If you've ever worked with agar, you know it can be difficult to melt.  Sometimes after you bring the mixture to a boil, you need to put a lid on the the pot and simmer it for a couple minutes before everything gets melted.  I would maybe even strain the mixture if you have problems with it melting.
+
+There are a lot of forms of agar - the powder, the flakes and agar sticks.  I listed a standard agar powder in the recipe, but I actually used the flakes in the video.  They are the same, but the amounts you use change.  For example, 1 tablespoon of agar flakes is about 1 teaspoon of agar powder.
+
+I haven't had this problem happen, but if the pandan liquid starts to solidify before you pour it onto the coconut layer, just gently heat the mixture again and cool it a tad before pouring it onto the coconut layer.
+
 
 <figure>
     <img src="/images/239-3.jpg">
-</figure>
-
-<figure>
-    <img src="/images/239-1.jpg">
 </figure>
 
 
