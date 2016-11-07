@@ -22,7 +22,7 @@ If I were to describe pandan's flavor, I would say it is a sweet and milky flavo
     <img src="/images/239-1.jpg">
 </figure>
 
-__Tips:__ If you've ever worked with agar, you know it can be difficult to melt.  Sometimes after you bring the mixture to a boil, you need to put a lid on the the pot and simmer it for a couple minutes before everything gets melted.  I would maybe even strain the mixture if you have problems with it melting.
+__Tips:__ If you've ever worked with agar, you know it can be difficult to melt.  Sometimes after you bring the mixture to a boil, you need to put a lid on the pot and simmer it for a couple minutes before everything gets melted.  I would maybe even strain the mixture if you have problems with it melting.
 
 There are a lot of forms of agar - the powder, the flakes and agar sticks.  I listed a standard agar powder in the recipe, but I actually used the flakes in the video.  They are the same, but the amounts you use change.  For example, 1 tablespoon of agar flakes is about 1 teaspoon of agar powder.
 
