@@ -83,7 +83,7 @@ For the pad thai:
 ### Directions
 
 1. Mix together all the ingredients for the pad thai sauce.  Then set aside.
-2. In a separate bowl, crumble up firm tofu with a fork.  Add in the tumeric, nutritional yeast and salt.  Toss to coat.  Set aside.
+2. In a separate bowl, crumble up firm tofu with a fork.  Add in the turmeric, nutritional yeast and salt.  Toss to coat.  Set aside.
 3. In a pan over medium heat, add in the oil and garlic.  Saute for 1-2 minutes until garlic is fragrant, but not burnt.
 4. Add in the tofu cubes and cook for 2-3 minutes until tofu picks up some color and garlic flavor.
 5. Add in the vegan chicken strips and then the tofu crumble.  Toss to combine.  If mixture is too dry, add 1-2 tablespoons of water.
