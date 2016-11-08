@@ -9,7 +9,7 @@ image:
   feature: 241-11.jpg
 ---
 
-I love pad thai, almost as much as I love [japchae](http://eastmeetskitchen.com/videos/recipes/japchae-korean-stirfry-noodles/), and that's saying a lot.  I love how the dish is both slightly savory and sweet.  I love the mixture of soft noodles, meat and crunchy beansprouts.
+I love pad thai almost as much as I love [japchae](http://eastmeetskitchen.com/videos/recipes/japchae-korean-stirfry-noodles/), and that's saying a lot.  I love how the dish is both slightly savory and sweet.  I love the mixture of soft noodles, meat and crunchy beans prouts.
 
 <figure>
     <img src="/images/241-5.jpg">
