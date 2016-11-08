@@ -4,53 +4,77 @@ categories: [videos, recipes]
 tags: [videos, riceandnoodles, vegan, pad thai]
 excerpt: 
 title: "Vegan Pad Thai"
-feature_video: https://www.youtube.com/embed/S2-k1LejnzM?rel=0
+feature_video: 
 image:
   feature: 241-11.jpg
 ---
 
-I'm somewhat embarrassed to say that I only discovered pandan a little earlier this year.  I think I had tried it as a cake flavor somewhere along the way, but I didn't really look into what the flavor actually was until a Thai friend of mine brought back a pandan extract from Thailand.  I would later try pandan jelly made from fresh pandan leaves and the flavor was transformational.
+I love pad thai, almost as much as I love [japchae](http://eastmeetskitchen.com/videos/recipes/japchae-korean-stirfry-noodles/), and that's saying a lot.  I love how the dish is both slightly savory and sweet.  I love the mixture of soft noodles, meat and crunchy beansprouts.
 
 <figure>
-    <img src="/images/239-4.jpg">
-</figure>
-
-I say transformational because as a cook or culinary person, you don't really get to taste a truly unique flavor all that often (unless I guess you travel a ton).  First off, pandan is leaves of a tropical plant.  It is often described as South East Asia's equivalent to vanilla, so pandan is often used as a base flavor in cakes, puddings and various other desserts just like vanilla is in the west. 
-
-If I were to describe pandan's flavor, I would say it is a sweet and milky flavor with undertones of a nutty, slightly smoky and herbally flavor.  I would say to try and get your hands on pandan extract and if possible, pandan leaves immediately because it will definitely add to your arsenal of ingredients, especially if you work with desserts.  Pandan leaves are desirable just because the flavor is more well-rounded.  You will taste all the flavors and notes I mentioned more clearly as compared to just the extract.  
-<figure>
-    <img src="/images/239-1.jpg">
-</figure>
-
-__Tips:__ If you've ever worked with agar, you know it can be difficult to melt.  Sometimes after you bring the mixture to a boil, you need to put a lid on the pot and simmer it for a couple minutes before everything gets melted.  I would maybe even strain the mixture if you have problems with it melting.
-
-There are a lot of forms of agar - the powder, the flakes and agar sticks.  I listed a standard agar powder in the recipe, but I actually used the flakes in the video.  They are the same, but the amounts you use change.  For example, 1 tablespoon of agar flakes is about 1 teaspoon of agar powder.
-
-I haven't had this problem happen, but if the pandan liquid starts to solidify before you pour it onto the coconut layer, just gently heat the mixture again and cool it a tad before pouring it onto the coconut layer.
-
-
-<figure>
-    <img src="/images/239-3.jpg">
-</figure>
-
-
-<figure>
-    <img src="/images/239-2.jpg">
+    <img src="/images/241-5.jpg">
 </figure> 
 
+However, one of the biggest issues after turning vegan is I've had to not only ask that the meat be substituted for tofu, which is actually not that big of a deal, but also that they take out the fish sauce.  To most people who love pad thai, fish sauce (along with probably tamarind juice) is what makes the flavor of pad thai so amazing.  So when I started leaving the fish sauce out, I knew the secret to good vegan pad thai was all how I would make my [vegan fish sauce](http://eastmeetskitchen.com/videos/recipes/the-ultimate-vegan-fish-sauce/).
+
+<figure>
+    <img src="/images/241-7.jpg">
+</figure> 
+
+This recipe is super easy and if you make the pad thai sauce ahead of time and keep it in the refrigerator, it's even more simple.  Depending on how much protein you like in your pad thai, you can add in tofu, vegan meats and a tofu scramble, which most non-vegans may not have heard of.  It's actually quite similar to scrambled eggs and you prepare it by crumbling up pieces of firm tofu, just like how you would crumble feta.
+
+For me, the pad thai sauce is pretty good, but I had to adjust it from other recipes as sometimes I found they were either too sweet or too sour.  Have a taste of the sauce before adding it to the noodles.  If you want to to be more salty, add more salt or soy sauce.  If you want it to be more sweet or sour, adjust with sugar and lime juice.  I think how you like your pad thai sauce is sort of a personal thing. 
+
+<figure class="half">
+<img src="/images/241-6.jpg">
+<img src="/images/241-8.jpg">
+</figure>
+
+<figure>
+    <img src="/images/241-10.jpg">
+</figure> 
+
+<figure>
+    <img src="/images/241-3.jpg">
+</figure> 
+
+<figure>
+    <img src="/images/241-1.jpg">
+</figure> 
 
 <figure class="ingredients" markdown="1">
 
-### Pandan Coconut Jelly
+### Vegan Pad Thai
 
-(Makes 8 squares)
+(Makes 4 servings)
 
-- 3 1/4 cups water
-- 5 teaspoons agar powder
-- 1/3 cup sugar, more to taste
-- 1 1/2 teaspoons pandan essence
-- 2 tablespoons coconut milk
-- 1-2 drops green food coloring, optional
+Vegan Pad Thai Recipe
+
+For sauce: 
+
+- 4 tablespoons vegan fish sauce
+- 1 teaspoon soy sauce 
+- 3 tablespoons tamarind paste 
+- 1 tablespoon lime juice 
+- 1 tablespoon rice vinegar 
+- 1 teaspoon Sriracha 
+- 3 1/2 tablespoons sugar
+
+For the pad thai:
+
+- 4 servings rice stick noodles, soaked in cold water
+-  2 tablespoons vegetable oil 
+- 4 garlic cloves, chopped
+-  1/2 cup extra firm tofu
+-  1/2 cup vegan chicken breast, shredded into strips
+- 1/2 cup firm tofu, crumbled
+-  1 teaspoon turmeric
+- 1 tablespoon nutritional yeast
+- 1/8 teaspoon salt, more to flavor
+- 3 - 4 stalks scallion, quartered into 2-inch long strips 
+- 1 cup bean sprouts 
+- 1/4 cup dry-roasted peanuts, chopped
+
 
 </figure>
 
@@ -58,14 +82,14 @@ I haven't had this problem happen, but if the pandan liquid starts to solidify b
 
 ### Directions
 
-1. Bring water, agar powder and sugar to a boil.  Lower to a simmer until all the agar powder dissolves.  Turn off heat and add in pandan essence.
-2. In a separate bowl, take out 1 cup of pandan liquid and mix in coconut milk.  Pour into a 14x10-inch rectangular glass dish.  Put into refrigerator for 15-30 minutes until the layer is set.
-3. Meanwhile, add 1-2 drops of green food coloring to the cooling pandan liquid.
-4. Once the coconut layer is set, gently pour the pandan liquid onto the coconut layer.  Place into refrigerator for 4-6 hours until both layers are set.
-5. Cut and serve.
+1. Mix together all the ingredients for the pad thai sauce.  Then set aside.
+2. In a separate bowl, crumble up firm tofu with a fork.  Add in the tumeric, nutritional yeast and salt.  Toss to coat.  Set aside.
+3. In a pan over medium heat, add in the oil and garlic.  Saute for 1-2 minutes until garlic is fragrant, but not burnt.
+4. Add in the tofu cubes and cook for 2-3 minutes until tofu picks up some color and garlic flavor.
+5. Add in the vegan chicken strips and then the tofu crumble.  Toss to combine.  If mixture is too dry, add 1-2 tablespoons of water.
+6. Turn heat up to medium-high.  Add in the soaked noodles and pad thai sauce.  Toss to combine.  Cook for about 2 minutes until the noodles soften.  If necessary, add a bit more water.
+7. Make a well in the center of the noodles.  Add in the scallions and beansprouts.  Toss and cook for another 1-2 minutes until the beansprouts soften.
+8. Adjust flavor with soy sauce and sugar.  Top with peanuts before serving.
 </figure>
 
-<figure class="half">
-<img src="/images/229-9.jpg">
-<img src="/images/229-10.jpg">
-</figure>
+
