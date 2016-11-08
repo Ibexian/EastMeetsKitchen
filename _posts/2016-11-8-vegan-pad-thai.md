@@ -9,9 +9,9 @@ image:
   feature: 241-11.jpg
 ---
 
-I love pad thai almost as much as I love [japchae](http://eastmeetskitchen.com/videos/recipes/japchae-korean-stirfry-noodles/), and that's saying a lot.  I love how the dish is both slightly savory and sweet.  I love the mixture of soft noodles, meat and crunchy bean sprouts.
+I love pad Thai almost as much as I love [japchae](http://eastmeetskitchen.com/videos/recipes/japchae-korean-stirfry-noodles/), and that's saying a lot.  I love how the dish is both slightly savory and sweet.  I love the mixture of soft noodles, meat and crunchy bean sprouts.
 
-However, one of the biggest issues after turning vegan is I've had to not only ask that the meat be substituted for tofu, which is actually not that big of a deal, but also that they take out the fish sauce.  To most people who love pad thai, fish sauce (along with probably tamarind juice) is what makes the flavor of pad thai so amazing.  So when I started leaving the fish sauce out, I knew the secret to good vegan pad thai was all how I would make my [vegan fish sauce](http://eastmeetskitchen.com/videos/recipes/the-ultimate-vegan-fish-sauce/).
+However, one of the biggest issues after turning vegan is I've had to not only ask that the meat be substituted for tofu, which is actually not that big of a deal, but also that they take out the fish sauce.  To most people who love pad Thai, fish sauce (along with probably tamarind juice) is what makes the flavor of pad Thai so amazing.  So when I started leaving the fish sauce out, I knew the secret to good vegan pad Thai was all how I would make my [vegan fish sauce](http://eastmeetskitchen.com/videos/recipes/the-ultimate-vegan-fish-sauce/).
 
 <figure>
     <img src="/images/241-5.jpg">
@@ -21,9 +21,9 @@ However, one of the biggest issues after turning vegan is I've had to not only a
     <img src="/images/241-7.jpg">
 </figure> 
 
-This recipe is super easy and if you make the pad thai sauce ahead of time and keep it in the refrigerator, it's even more simple.  Depending on how much protein you like in your pad thai, you can add in tofu, vegan meats and a tofu scramble, which most non-vegans may not have heard of.  It's actually quite similar to scrambled eggs and you prepare it by crumbling up pieces of firm tofu, just like how you would crumble feta.
+This recipe is super easy and if you make the pad Thai sauce ahead of time and keep it in the refrigerator, it's even more simple.  Depending on how much protein you like in your pad Thai, you can add in tofu, vegan meats and a tofu scramble, which most non-vegans may not have heard of.  It's actually quite similar to scrambled eggs and you prepare it by crumbling up pieces of firm tofu, just like how you would crumble feta.
 
-For me, the pad thai sauce is pretty good, but I had to adjust it from other recipes as sometimes I found they were either too sweet or too sour.  Have a taste of the sauce before adding it to the noodles.  If you want to be more salty, add more salt or soy sauce.  If you want it to be more sweet or sour, adjust with sugar and lime juice.  I think how you like your pad thai sauce is sort of a personal thing. 
+For me, the pad Thai sauce is pretty good, but I had to adjust it from other recipes as sometimes I found they were either too sweet or too sour.  Have a taste of the sauce before adding it to the noodles.  If you want to be more salty, add more salt or soy sauce.  If you want it to be more sweet or sour, adjust with sugar and lime juice.  I think how you like your pad Thai sauce is sort of a personal thing. 
 
 <figure class="half">
 <img src="/images/241-6.jpg">
