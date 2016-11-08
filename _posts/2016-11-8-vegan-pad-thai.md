@@ -4,7 +4,7 @@ categories: [videos, recipes]
 tags: [videos, riceandnoodles, vegan, pad thai]
 excerpt: 
 title: "Vegan Pad Thai"
-feature_video: 
+feature_video: https://www.youtube.com/embed/DZ0oOW3laJw?rel=0
 image:
   feature: 241-11.jpg
 ---
