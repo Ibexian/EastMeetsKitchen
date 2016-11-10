@@ -56,12 +56,14 @@ Mochi:
 
 
 Filling:
+
 - 2/3 cups peanuts, chopped
--  3 tablespoons sugar
--  4 teaspoons sesame seeds
+- 3 tablespoons sugar
+- 4 teaspoons sesame seeds
 - 3 tablespoons + 1 teaspoon desiccated coconut
 
 Coating:
+
 - 1/2 cup desiccated coconut
 
 </figure>
