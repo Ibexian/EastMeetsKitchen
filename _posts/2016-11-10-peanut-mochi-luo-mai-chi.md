@@ -9,9 +9,9 @@ image:
   feature: 242-1.jpg
 ---
 
-When I was young, "luo mai chi-s" or these soft peanut-filled mochi balls were one of my favorite items to get at the Chinese bakery.  The pillow-y soft, outside dough is actually made from rice flour.  The filling is a mix of crunchy peanuts, sesame seeds, coconut and a bit of sugar.
+When I was young, "luo mai chi-s" or these soft, peanut-filled mochi balls were one of my favorite items to get at the Chinese bakery.  The pillow-y, outside dough is actually made from rice flour.  The filling is a mix of crunchy peanuts, sesame seeds, coconut and a bit of sugar.
 
-Tip: I've wanted to make these mochi balls for a long time and had been researching some good recipes. The biggest tip I can give when making these guys is to get those plastic gloves you see the deli counter use.  It's nearly impossible to work with the sticky rice dough otherwise.
+Tip: I've wanted to make these mochi balls for a long time and had been researching some good recipes. The biggest tip I can give when making these guys is to get those plastic gloves you see the people at the deli counter use.  It's nearly impossible to work with the sticky rice dough otherwise.
 
 <figure>
     <img src="/images/242-6.jpg">
@@ -19,7 +19,9 @@ Tip: I've wanted to make these mochi balls for a long time and had been research
 
 The outer shell is only slightly sweetened, but how sweet you want to make the filling is really up to you. 
 
-In terms of technique, you will get the hang of it the more you make, but know that when filling the mochi, it's obviously easier to start with less filling first.  If you're a greedy eater like I am, you try to fill up the mochi the most you can (and I've had many exploding mochi dumpling moments).  Just know that the whole rice dough is super sticky and so as long as you pinch hard at the seams, the mochi will close.  Like I said in the video, if some of the filling tries to spill out, just keep grabbing more bits of the mochi and continue pinching to close that seam.  If it's still a mess, and it very well could be if this is your first time, know that you will be rolling the whole thing in coconut afterwards, so any minor accidents you may have had will be covered.
+In terms of technique, you will get the hang of it the more you make, but know that when filling the mochi, it's obviously easier to start with less filling first.  If you're a greedy eater like I am, you try to fill up the mochi the most you can (and I've had many exploding mochi dumpling moments).  
+
+Just know that the whole rice dough is super sticky and so as long as you pinch hard at the seams, the mochi will close.  Like I said in the video, if some of the filling tries to spill out, just keep grabbing more bits of the mochi and continue pinching to close that seam.  If it's still a mess, and it very well could be if this is your first time, know that you will be rolling the whole thing in coconut afterwards, so any minor accidents you may have had will be covered.
 
 <figure class="half">
 <img src="/images/242-3.jpg">
