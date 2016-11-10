@@ -62,7 +62,7 @@ Filling:
 - 3 tablespoons + 1 teaspoon desiccated coconut
 
 Coating:
-- 1/2 cup dessicated coconut
+- 1/2 cup desiccated coconut
 
 </figure>
 
@@ -74,10 +74,10 @@ Coating:
 2. In a separate bowl, combine glutinous rice flour, rice flour and custard powder.
 3. Pour hot milk mixture over the flour mixture and combine with a spatula until a smooth paste forms.
 4. Put paste onto an oiled plate and place into a steamer on medium high for 10 minutes.  Turn off heat and let mochi mixture cool.
-5. Meanwhile, prepare the filling by mixing the peanuts, sugar, sesame seeds and dessicated coconut.
+5. Meanwhile, prepare the filling by mixing the peanuts, sugar, sesame seeds and desiccated coconut.
 6. Put mochi between 2 sheets of plastic wrap and roll into circular disks about 3/8-inch thick.
 7. Put in about 1 tablespoon of filling and close the mochi by pinching at the seams.
-8. Drop into dessicated coconut to coat the outside.  Place into cupcake paper and serve.
+8. Drop into desiccated coconut to coat the outside.  Place into cupcake paper and serve.
 </figure>
 
 
