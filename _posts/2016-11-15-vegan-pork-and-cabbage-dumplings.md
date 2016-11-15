@@ -16,7 +16,7 @@ If you go to the store looking for vegan or vegetable dumplings, chances are you
 </figure> 
 
 
-I find that a lot of vegetarian dumplings at the stores arent' meaty enough for me.  Maybe as a former meat-eater, I miss that kind of stuff.  I get annoyed when the filling is just a gooey pile of mashed vegetables.  That's why I filled these "pork" and cabbage dumplings with textured vegetable protein and shitake mushrooms, which adds that meaty flavor and texture back in.
+I find that a lot of vegetarian dumplings at the stores aren't meaty enough for me.  Maybe as a former meat-eater, I miss that kind of stuff.  I get annoyed when the filling is just a gooey pile of mashed vegetables.  That's why I filled these "pork" and cabbage dumplings with textured vegetable protein and shitake mushrooms, which adds that meaty flavor and texture back in.
 
 A friend of mine, who is taking a science of cooking class said to me that there isn't really a molecule for the flavor of meat.  It's actually a combination of flavors that can be re-created, which is why I add flavors like mushrooms and miso to things I want to taste a bit more like meat.
 
@@ -24,7 +24,7 @@ A friend of mine, who is taking a science of cooking class said to me that there
     <img src="/images/243-5.jpg">
 </figure> 
 
-Anyways, don't think I skimpped on the veggies.  I made sure to fill it with scallions, cabbage and carrots.  I think it's still worth mentioning that although many of my recipes are recreations of food that might not contain a ton of vegetables, the reason to eat vegan or vegetarian is for me, a health choice and eating more vegetables should be the top of everyone's list.
+Anyways, don't think I skimped on the veggies.  I made sure to fill it with scallions, cabbage and carrots.  I think it's still worth mentioning that although many of my recipes are recreations of food that might not contain a ton of vegetables, the reason to eat vegan or vegetarian is for me, a health choice and eating more vegetables should be the top of everyone's list.
 
 Tip: Remember to chop up your herbs and cabbage finely.  It will be a pain to fill the dumplings if you have huge chunks of vegetables poking through.  
 
