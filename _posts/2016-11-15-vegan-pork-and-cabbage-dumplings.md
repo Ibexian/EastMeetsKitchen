@@ -3,7 +3,7 @@ layout: post
 categories: [videos, recipes]
 tags: [videos, healthy, nomeat, vegan, dumplings, pork, cabbage, gyoza, potsticker]
 excerpt: 
-title: "Vegan 'Pork' anc Cabbage Dumplings"
+title: "Vegan 'Pork' and Cabbage Dumplings"
 feature_video: https://www.youtube.com/embed/h7uHS6q8QkI?rel=0
 image:
   feature: 243-1.jpg
