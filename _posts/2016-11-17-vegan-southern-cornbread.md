@@ -66,8 +66,8 @@ There is a bit of sugar in this supposedly savory recipe, but it can be left out
 3. In a large bowl, combine the cornmeal, flour, baking powder, baking soda, salt and sugar.
 4. Combine apple sauce and oil in a small container.  
 5. If using frozen corn, add it to the flour mixture, making sure corn is coated.
-6. Add flax milk mixture, apple sauce mixture and Earth Balance to the flour and corn mixture.  Mix until combined.
-7. If using a skillet, heat over medium high heat and grease the sides.  Add in cornbread mixture and bake for 25-30 minutes, or until cornbread is golden brown and a toothpick comes out clean.
+6. Add the flax milk mixture, apple sauce mixture and Earth Balance to the flour and corn.  Mix until combined.
+7. If using a skillet, heat over medium high heat and grease the sides.  Add in cornbread batter and bake for 25-30 minutes, or until cornbread is golden brown and a toothpick comes out clean.
 </figure>
 
 
