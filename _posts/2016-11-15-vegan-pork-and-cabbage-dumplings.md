@@ -68,6 +68,7 @@ Also, it is hard to seal an over-filled dumpling, so don't get too greedy, or el
 - 2 teaspoons cornstarch
 - 1/2 head of cabbage, finely chopped
 - 1 bunch scallions or Chinese chives, chopped thin
+- 1 carrot, shredded
 - 1/4 cup dried shiitake mushrooms, rehydrated and finely diced
 - 1 1/2 package frozen round dumpling wrappers 
 
