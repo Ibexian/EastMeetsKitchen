@@ -3,7 +3,7 @@ layout: post
 categories: [videos, recipes]
 tags: [videos, sweet, vegan, pumpkin cake, thanksgiving]
 excerpt: 
-title: "egan Aquafaba Pumpkin Cake
+title: "Vegan Aquafaba Pumpkin Cake"
 feature_video: https://www.youtube.com/embed/Z_JJW6LI1cc?rel=0
 image:
   feature: 246-1.jpg
