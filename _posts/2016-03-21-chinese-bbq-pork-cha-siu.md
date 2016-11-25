@@ -61,11 +61,11 @@ Basting Mixture:
 ### Directions
 
 1. Mix together the marinade ingredients until smooth. 
-2. In a ziplock bag, place pork and marinade together.  Refrigerate for 4 hours or up a day.
+2. In a ziplock bag, place pork and marinade together.  Refrigerate for 4 hours or up to a day.
 3. Preheat oven to 350 degrees Fahrenheit.
 4. Place pork on a sheet pan lined with aluminum foil. Bake for 30 minutes.
 5. With a brush, baste pork on both sides.  Bake for an additional 20 minutes and baste again.
 6. Turn oven to broil.  Broil meat for an additional 6-7 minutes, until crust browns slightly.
-7. Cool and slice to serve.
+7. Cool and let rest for 15 minutes.  Slice to serve.
 
 </figure>
