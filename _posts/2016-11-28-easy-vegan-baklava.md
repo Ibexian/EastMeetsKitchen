@@ -9,62 +9,64 @@ image:
   feature: 247-1.jpg
 ---
 
-I was actually planning on a vegan pumpkin pie this year, but at the last minute, was drawn to the allure of pumpkin bread instead.  Then I went one step further and said, "what the heck?", I would bring back aquafaba and turn this whole thing into a cake.
+In terms of "western desserts," baklava is one that really tops my list.  I get crazy over the crunchy layers of phyllo and spiced nuts.  I love how the bottom layers get soaked with a mixture of sweet and buttery syrup, along with the spices used in the nuts.
+
+Looking at baklava, it seems like somewhat of an intimating dessert.  Actually though, it's just about layering the phyllo dough with butter and then sandwiching the nut mixture in between the layers.  It's one of the quickest desserts you can put together.  You don't have to worry about batters and flour.  The dessert is mostly assembly.
+
+Tip: Since the dessert is about assembly, the only tip I have is to make sure you have properly thawed out your phyllo and that you keep a moist towel over it while you put together the baklava.  If the phyllo is frozen or breaks off into pieces because it is dry, the dessert becomes a pain to make.
 
 <figure>
-    <img src="/images/246-3.jpg">
+    <img src="/images/79-2.jpg">
 </figure> 
 
-Aquafaba if you don't know about [aquafaba](http://eastmeetskitchen.com/videos/blog/what-is-aquafaba/), it's basically the leftover liquid you have after cooking beans.  It has similar properties to egg whites and can be whipped like it as well.  I have a [post](http://eastmeetskitchen.com/videos/blog/what-is-aquafaba/) and basic vanilla aquafaba cake [recipe](http://eastmeetskitchen.com/videos/recipes/aquafaba-vanilla-sponge-cake/) on it that explains a lot about this vegan phenom.
-
-Anyways, this recipe really works because the aquafaba is able to lighten what is more of a heavy pumpkin bread.  I chose to use pureed dates for sweetness in this recipe, but if you are looking for a lighter texture, just substitute for brown sugar or a sugar substitute.
-
 <figure>
-    <img src="/images/246-8.jpg">
-</figure> 
-
-It's great for holidays and parties because the flavors just scream autumn and Thanksgiving and Christmas.  If you put it in a decorative bundt pan you can decorate the center and turn it into an amazing centerpiece as well.
-
-<figure>
-    <img src="/images/246-2.jpg">
+    <img src="/images/79-3.jpg">
 </figure> 
 
 <figure class="half">
-<img src="/images/246-4.jpg">
-<img src="/images/246-5.jpg">
+<img src="/images/79-5.jpg">
+<img src="/images/79-6.jpg">
 </figure>
 
 <figure>
-    <img src="/images/246-6.jpg">
+    <img src="/images/79-7.jpg">
 </figure> 
 
 <figure class="half">
-<img src="/images/246-7.jpg">
-<img src="/images/246-9.jpg">
+<img src="/images/79-8.jpg">
+<img src="/images/79-9.jpg">
 </figure>
 
+
+
 <figure>
-    <img src="/images/246-10.jpg">
+    <img src="/images/79-11.jpg">
 </figure> 
 
+<figure>
+    <img src="/images/247-2.jpg">
+</figure> 
 
 <figure class="ingredients" markdown="1">
 
-### Vegan Aquafaba Pumpkin Cake
+### Easy Vegan Baklava
 
-- 2 cups all-purpose flour 
-- 1 1/2 teaspoons pumpkin spice
-- 3 teaspoons baking powder
-- 2 teaspoons baking soda
-- 1/4 teaspoon salt
-- 1 can pumpkin
-- 1 cup dates
-- 1/2 cup coconut milk
-- 1/2 cup coconut oil
-- 1 teaspoon vanilla
-- 2/3 cup reduced aquafaba
-- 2 teaspoons liquid stevia
-- 1/4 cup dessicated coconut
+(Makes a 13 x 9-inch pan)
+
+- 1 1/2 cups walnuts, chopped
+- 1/2 cup sliced almonds
+- 1 ½ tsp ground cinnamon
+- 1/4 tsp nutmeg
+- 1 cup Earth Balance butter, melted
+- 1 cup coconut oil, melted
+- 1 pound phyllo dough
+- 1 1/2 cups sugar
+- 1 ½ cups water
+- 2 tablespoons of honey (optional)
+- 1 strip of lemon peel
+- zest of 1 lemon
+- 2 tablespoons oolong tea leaves
+
 </figure>
 
 <figure class="directions" markdown="1">
@@ -72,10 +74,14 @@ It's great for holidays and parties because the flavors just scream autumn and T
 ### Directions
 
 1. Preheat oven to 350 degrees Fahrenheit.
-2. In a mixer on high, beat the aquafaba until medium peaks.
-3. Meanwhile, combine the flour, pumpkin spice, baking powder, baking soda and salt. Put aside.
-4.  Puree the dates and coconut milk until smooth.
-5.  Using a mixer, blend in the date mixture, coconut oil, vanilla and stevia into the dry mix. Add in dessicated coconut.
-6. Fold in the aquafaba.
-7. Pour batter into an oiled bundt pan.  Bake for 30-35 minutes, or until golden brown.
+2. Toast nuts for about 10 minutes, or until golden brown.  Let cool.
+3. Prepare the syrup by bring the water, oolong tea, sugar and lemon peel to a bowl.  Lower heat and simmer for 10 minutes.  Turn off heat, strain and let cool.
+4. Meanwhile, chop cooled nuts into small pieces.  In a bowl, mix the nuts with the nutmeg and cinnamon.  Set aside.
+5. Melt Earth Balance butter and coconut oil in the microwave for 30 seconds.
+6. To assemble, butter the 13x9-inch pan.  Cut defrosted phyllo dough in half lengthwise.  Then layer half the sheets into the pan, lightly brushing each layer with the butter mixture.
+7. After half of the sheets are layered, sprinkle on the nut mixture into 1 even layer.
+8. Continue layering the rest of the sheets, brushing each lightly with the butter mixture in between.
+9. Score the layers diagonally until you reach the nuts.
+10. Bake for about 45-50 minutes, or until the layers turn golden brown.
+11. Remove from oven and pour syrup evenly over the baklava.  Wait until cooled before cutting through bottom layer and then serving.
 
