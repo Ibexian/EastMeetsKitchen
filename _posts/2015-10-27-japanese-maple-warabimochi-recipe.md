@@ -1,4 +1,4 @@
----
+---redirect_from:   - videos/japanese-maple-warabimochi-recipe.html  - recipes/japanese-maple-warabimochi-recipe.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, mochi, sweets, Japan]

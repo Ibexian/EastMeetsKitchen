@@ -1,4 +1,4 @@
----
+---redirect_from:   - blog/momofuku-crack-pie.html
 layout: post
 categories: blog
 tags: [blog, sweets, pie, crack pie]

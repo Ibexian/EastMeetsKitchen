@@ -1,4 +1,4 @@
----
+---redirect_from:   - blog/dark-soy-vs-light-soy.html
 layout: post
 categories: blog
 tags: [blog, sauces, soy sauce]

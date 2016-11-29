@@ -1,4 +1,4 @@
----
+---redirect_from:   - /the-salty-pig.html
 layout: post
 categories: 
   - blog

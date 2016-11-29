@@ -1,4 +1,4 @@
----
+---redirect_from:   - blog/my-visit-to-tupelo.html
 layout: post
 categories: blog
 tags: [blog]

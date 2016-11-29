@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - videos/vegan-pad-thai.html
+  - recipes/vegan-pad-thai.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, riceandnoodles, vegan, pad thai]

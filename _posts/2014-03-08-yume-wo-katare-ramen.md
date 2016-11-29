@@ -1,4 +1,4 @@
----
+---redirect_from:   - blog/yume-wo-katare-ramen.html
 layout: post
 categories: blog
 tags: [blog, meats, riceandnoodles, ramen, noodles]

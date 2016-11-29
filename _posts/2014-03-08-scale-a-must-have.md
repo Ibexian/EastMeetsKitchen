@@ -1,4 +1,4 @@
----
+---redirect_from:   - tips/scale-a-must-have.html
 layout: post
 categories: tips
 tags: [tips, baking, sweets]

@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/momofuku-pork-belly.html
 layout: post
 categories: recipes
 tags: [recipes, meats, pork belly, momofuku]

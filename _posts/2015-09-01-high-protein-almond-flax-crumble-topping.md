@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/high-protein-almond-flax-crumble-topping.html
 layout: post
 categories: recipes
 tags: [recipes]

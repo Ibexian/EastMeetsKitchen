@@ -1,4 +1,4 @@
----
+---redirect_from:   - videos/vegan-avocado-pesto.html  - recipes/vegan-avocado-pesto.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, sauces, vegan, pesto, avocado pesto, basil]

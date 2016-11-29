@@ -1,4 +1,4 @@
----
+---redirect_from:   - blog/grass-jelly-tofu-pudding-and-boba-bubble-tea.html
 layout: post
 categories: blog
 tags: [blog, bubble tea, drinks, sweets]

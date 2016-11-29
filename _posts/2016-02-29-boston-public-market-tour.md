@@ -1,4 +1,4 @@
----
+---redirect_from:   - videos/boston-public-market-tour.html  - blog/boston-public-market-tour.html
 layout: post
 categories: [videos, blog]
 tags: [blog, boston public market, tour]

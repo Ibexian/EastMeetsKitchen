@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/mini-florentines.html
 layout: post
 categories: recipes
 tags: [recipes, sweets, florentines, cookies]

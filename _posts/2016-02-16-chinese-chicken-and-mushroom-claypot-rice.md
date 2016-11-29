@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/chinese-chicken-and-mushroom-claypot-rice.html  - videos/chinese-chicken-and-mushroom-claypot-rice.html
 layout: post
 categories: [recipes, videos]
 tags: [videos, meats, riceandnoodles, rice, claypot rice]

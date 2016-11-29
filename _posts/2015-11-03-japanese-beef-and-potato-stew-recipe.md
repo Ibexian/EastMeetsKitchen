@@ -1,4 +1,4 @@
----
+---redirect_from:   - videos/japanese-beef-and-potato-stew-recipe.html  - recipes/japanese-beef-and-potato-stew-recipe.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, meats, curry, stew, Japanese, beef and potato]

@@ -1,4 +1,4 @@
----
+---redirect_from:   - tips/the-dangers-of-under-mixing.html
 layout: post
 categories: tips
 tags: [tips, sweets, baking]

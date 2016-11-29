@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/do-it-yourself-mooncakes.html
 layout: post
 categories: recipes
 tags: [recipes, mooncakes, sweets, Chinese, mid-Autumn festival]

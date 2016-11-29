@@ -1,4 +1,4 @@
----
+---redirect_from:   - videos/easy-vegan-baklava.html  - recipes/easy-vegan-baklava.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, sweet, vegan, baklava, paklava]

@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/gluten-and-dairy-free-coconut-pie-crust.html
 layout: post
 categories: recipes
 tags: [recipes, sweets, healthy recipes, coconut, gluten-free, dairy-free, pie crust]

@@ -1,4 +1,4 @@
----
+---redirect_from:   - videos/peanut-mochi-luo-mai-chi.html  - recipes/peanut-mochi-luo-mai-chi.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, sweets, vegan, luo mai chi, mochi, peanut]

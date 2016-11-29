@@ -1,4 +1,4 @@
----
+---redirect_from:   - videos/stonyfield-oh-my-yog!-review.html
 layout: post
 categories: videos
 tags: [videos]

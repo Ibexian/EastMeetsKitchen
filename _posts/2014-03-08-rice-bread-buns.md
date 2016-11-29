@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/rice-bread-buns.html
 layout: post
 categories: recipes
 tags: [recipes, nomeats, healthyrecipes, riceandnoodles]

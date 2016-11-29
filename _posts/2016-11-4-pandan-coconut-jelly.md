@@ -1,4 +1,4 @@
----
+---redirect_from:   - videos/pandan-coconut-jelly.html  - recipes/pandan-coconut-jelly.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, sweets, vegan, pandan jelly, jelly, coconut]

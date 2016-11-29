@@ -1,4 +1,4 @@
----
+---redirect_from:   - videos/hong-kong-baked-pork-chop-with-rice-recipe.html  - recipes/hong-kong-baked-pork-chop-with-rice-recipe.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, meats, Hong Kong, pork chops]

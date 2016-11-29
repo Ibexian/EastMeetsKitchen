@@ -1,4 +1,4 @@
----
+---redirect_from:   - videos/raw-vegan-carrot-cake.html  - recipes/raw-vegan-carrot-cake.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, nomeats, sweets, raw, vegan, carrot cake]

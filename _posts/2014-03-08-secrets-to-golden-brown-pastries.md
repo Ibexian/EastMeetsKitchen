@@ -1,4 +1,4 @@
----
+---redirect_from:   - tips/secrets-to-golden-brown-pastries.html
 layout: post
 categories: tips
 tags: [tips, sweets, pastries]

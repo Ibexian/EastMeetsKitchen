@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/gourmet-shake-n-bake-chicken.html
 layout: post
 categories: recipes
 tags: [recipes, meats, chicken]

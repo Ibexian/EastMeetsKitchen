@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/bean-curd-egg-drop-dessert-soup.html
 layout: post
 categories: recipes
 tags: [recipes, sweets, soups]

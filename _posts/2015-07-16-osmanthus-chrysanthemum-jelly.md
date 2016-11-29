@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/osmanthus-chrysanthemum-jelly.html
 layout: post
 categories: recipes
 tags: [recipes, sweets, agar, jelly, Chrysanthemum, Osmanthus]

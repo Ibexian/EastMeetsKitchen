@@ -1,4 +1,4 @@
----
+---redirect_from:   - videos/japanese-sweet-potato-cake-recipe.html  - recipes/japanese-sweet-potato-cake-recipe.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, sweet potato cake, sweets]

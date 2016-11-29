@@ -1,4 +1,4 @@
----
+---redirect_from:   - videos/cooking-in-a-japanese-kitchen.html  - blog/cooking-in-a-japanese-kitchen.html
 layout: post
 categories: [videos, blog]
 tags: [videos, kyoto, Japanese kitchen, blog, vlog]

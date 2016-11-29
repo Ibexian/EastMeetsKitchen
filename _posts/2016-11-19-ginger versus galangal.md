@@ -1,4 +1,4 @@
----
+---redirect_from:   - videos/ginger versus galangal.html  - blog/ginger versus galangal.html
 layout: post
 categories: [videos, blog]
 tags: [blog]

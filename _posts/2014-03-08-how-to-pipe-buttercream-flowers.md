@@ -1,4 +1,4 @@
----
+---redirect_from:   - tips/how-to-pipe-buttercream-flowers.html
 layout: post
 categories: tips
 tags: [tips, sweets, buttercream]

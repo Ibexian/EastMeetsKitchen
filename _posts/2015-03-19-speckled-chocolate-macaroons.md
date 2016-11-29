@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/speckled-chocolate-macaroons.html
 layout: post
 categories: recipes
 tags: [recipes, sweets, macaroons, coconut]

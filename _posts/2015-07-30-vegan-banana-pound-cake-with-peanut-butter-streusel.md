@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/vegan-banana-pound-cake-with-peanut-butter-streusel.html
 layout: post
 categories: recipes
 tags: [recipes]

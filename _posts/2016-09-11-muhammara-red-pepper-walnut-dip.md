@@ -1,4 +1,4 @@
----
+---redirect_from:   - videos/muhammara-red-pepper-walnut-dip.html  - recipes/muhammara-red-pepper-walnut-dip.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, nomeats, aleppo, dip, muhammara, red pepper, walnuts]

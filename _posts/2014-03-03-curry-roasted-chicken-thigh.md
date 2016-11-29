@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/curry-roasted-chicken-thigh.html
 layout: post
 categories: recipes
 tags: [recipes, meats, curry, chicken]

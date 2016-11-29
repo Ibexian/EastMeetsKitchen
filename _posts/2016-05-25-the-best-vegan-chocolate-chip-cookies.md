@@ -1,4 +1,4 @@
----
+---redirect_from:   - videos/the-best-vegan-chocolate-chip-cookies.html  - recipes/the-best-vegan-chocolate-chip-cookies.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, healthy, sweets, vegan, chocolate chip cookies]

@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/dong-quai-soup.html
 layout: post
 categories: recipes
 tags: [recipes, soups, medicinal]

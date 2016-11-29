@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - recipes/brown-butter-chocolate-chip-cookies.html
 layout: post
 categories: recipes
 tags: [recipes, sweets, chocolate chip, cookies, brown butter]

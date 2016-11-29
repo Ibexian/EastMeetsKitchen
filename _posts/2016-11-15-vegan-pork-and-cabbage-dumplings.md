@@ -1,4 +1,4 @@
----
+---redirect_from:   - videos/vegan-pork-and-cabbage-dumplings.html  - recipes/vegan-pork-and-cabbage-dumplings.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, healthy, nomeat, vegan, dumplings, pork, cabbage, gyoza, potsticker]

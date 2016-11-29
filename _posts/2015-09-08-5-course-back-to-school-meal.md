@@ -1,4 +1,4 @@
----
+---redirect_from:   - blog/5-course-back-to-school-meal.html
 layout: post
 categories: blog
 tags: [blog]

@@ -1,4 +1,4 @@
----
+---redirect_from:   - videos/easy-soy-sauce-chicken-recipe.html  - recipes/easy-soy-sauce-chicken-recipe.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, meats, chicken, soy sauce]

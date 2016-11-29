@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/dan-dan-mian-(noodles).html
 layout: post
 categories: recipes
 tags: [recipes]

@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/flakey-taiwanese-scallion-pancakes.html
 layout: post
 categories: recipes
 tags: [recipes, snacks, nomeats, scallion pancakes, taiwan, taiwanese]

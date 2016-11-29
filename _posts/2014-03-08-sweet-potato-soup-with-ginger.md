@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/sweet-potato-soup-with-ginger.html
 layout: post
 categories: recipes
 tags: [recipes, soups, dessert, sweets, sweet potato, ginger]

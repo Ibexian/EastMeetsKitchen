@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/root-beer-pork-belly.html
 layout: post
 categories: recipes
 tags: [recipes, meats, root beer, pork belly]

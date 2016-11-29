@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/back-to-school-leftover-pizza-omelette.html
 layout: post
 categories: recipes
 tags: [recipes]

@@ -1,4 +1,4 @@
----
+---redirect_from:   - videos/charcoal-ice-cream.html  - recipes/charcoal-ice-cream.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, sweets, charcoal ice cream, vegan]

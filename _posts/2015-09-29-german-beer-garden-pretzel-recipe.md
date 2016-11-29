@@ -1,4 +1,4 @@
----
+---redirect_from:   - videos/german-beer-garden-pretzel-recipe.html  - recipes/german-beer-garden-pretzel-recipe.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, pretzels, nomeats, beer garden]

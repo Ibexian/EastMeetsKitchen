@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/blackberry-tomato-fruit-crumble.html
 layout: post
 categories: recipes
 tags: [recipes]

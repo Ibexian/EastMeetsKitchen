@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/spicy-cayenne-pecan-pie.html
 layout: post
 categories: recipes
 tags: [recipes, pecan pie, sweets]

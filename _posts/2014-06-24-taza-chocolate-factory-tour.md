@@ -1,4 +1,4 @@
----
+---redirect_from:   - blog/taza-chocolate-factory-tour.html
 layout: post
 categories: blog
 tags: [blog, chocolate, sweets, tour]

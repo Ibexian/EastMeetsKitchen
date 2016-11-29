@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/chinese-sweet-bun-dough.html
 layout: post
 categories: recipes
 tags: [recipes]

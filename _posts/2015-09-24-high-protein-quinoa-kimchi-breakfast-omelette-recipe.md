@@ -1,4 +1,4 @@
----
+---redirect_from:   - videos/high-protein-quinoa-kimchi-breakfast-omelette-recipe.html  - recipes/high-protein-quinoa-kimchi-breakfast-omelette-recipe.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, kimchi, quinoa, healthy, breakfast]

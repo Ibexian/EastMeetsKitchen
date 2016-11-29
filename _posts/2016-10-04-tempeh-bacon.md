@@ -1,4 +1,4 @@
----
+---redirect_from:   - videos/tempeh-bacon.html  - recipes/tempeh-bacon.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, nomeats, tempeh, healthy, bacon, vegan]

@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/coconut-bak-tong-gou-steamed-white-sugar-cake.html
 layout: post
 categories: recipes
 tags: [recipes, sweets, steamed cake, Chinese]

@@ -1,4 +1,4 @@
----
+---redirect_from:   - videos/sticky-rice-and-bean-curd-dessert-soup.html
 layout: post
 categories: videos
 tags: [videos, sweets, soups, riceandnoodles, rice, stickyrice]

@@ -1,4 +1,4 @@
----
+---redirect_from:   - blog/chinese-bbq-chuan-food-truck.html
 layout: post
 categories: blog
 tags: [blog, meats, bbq, food truck]

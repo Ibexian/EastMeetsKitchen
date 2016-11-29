@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/chinese-pork-with-sour-mustard-greens.html
 layout: post
 categories: recipes
 tags: [recipes, meats, pork, sour mustard greens]

@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/diy-azuki-bean-paste.html
 layout: post
 categories: recipes
 tags: [recipes]

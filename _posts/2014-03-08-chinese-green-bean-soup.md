@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/chinese-green-bean-soup.html
 layout: post
 categories: recipes
 tags: [recipes, sweets, soups, mung beans]

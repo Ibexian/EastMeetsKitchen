@@ -1,4 +1,4 @@
----
+---redirect_from:   - tips/working-with-agar.html
 layout: post
 categories: tips
 tags: [tips, nomeats, agar, gelatin]

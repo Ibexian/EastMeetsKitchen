@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/3-minute-peanut-butter-cookies.html
 layout: post
 categories: recipes
 tags: [recipes, sweets, peanut butter cookies, cookies]

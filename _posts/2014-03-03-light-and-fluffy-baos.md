@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/light-and-fluffy-baos.html
 layout: post
 categories: recipes
 tags: [recipes, nomeats, baos, bread]

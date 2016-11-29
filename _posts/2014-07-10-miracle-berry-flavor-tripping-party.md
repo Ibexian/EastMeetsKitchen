@@ -1,4 +1,4 @@
----
+---redirect_from:   - blog/miracle-berry-flavor-tripping-party.html
 layout: post
 categories: blog
 tags: [blog, miracle berry, sweets]

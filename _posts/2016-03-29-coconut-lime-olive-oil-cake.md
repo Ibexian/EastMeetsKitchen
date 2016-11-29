@@ -1,4 +1,4 @@
----
+---redirect_from:   - videos/coconut-lime-olive-oil-cake.html  - recipes/coconut-lime-olive-oil-cake.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, sweets, cake, coconut, lime, gluten-free]

@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/japanese-fluffy-egg-and-meat-with-rice.html
 layout: post
 categories: recipes
 tags: [recipes, meats, riceandnoodles]

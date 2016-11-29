@@ -1,4 +1,4 @@
----
+---redirect_from:   - blog/somerville-winters-farmers-market.html
 layout: post
 categories: blog
 tags: [blog, farmers' markets, nomeats]

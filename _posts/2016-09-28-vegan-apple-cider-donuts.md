@@ -1,4 +1,4 @@
----
+---redirect_from:   - videos/vegan-apple-cider-donuts.html  - recipes/vegan-apple-cider-donuts.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, nomeats, sweets, vegan, apple cider donuts, doughnuts]

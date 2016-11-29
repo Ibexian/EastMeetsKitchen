@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/shanghai-fried-pork-and-cabbage-noodles.html
 layout: post
 categories: recipes
 tags: [recipes, meats, riceandnoodles, pork and cabbage]

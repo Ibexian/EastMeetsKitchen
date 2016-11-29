@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/korean-style-scallion-pancakes.html
 layout: post
 categories: recipes
 tags: [recipes, nomeats, snacks, korean scallion pancakes]

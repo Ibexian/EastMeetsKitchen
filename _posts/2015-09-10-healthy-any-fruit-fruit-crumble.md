@@ -1,4 +1,4 @@
----
+---redirect_from:   - videos/healthy-any-fruit-fruit-crumble.html  - recipes/healthy-any-fruit-fruit-crumble.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, sweets, healthy, fruit crumble]

@@ -1,4 +1,4 @@
----
+---redirect_from:   - videos/sake-infused-jelly.html  - recipes/sake-infused-jelly.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, sweets, sake, jelly]

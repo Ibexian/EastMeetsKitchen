@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/savory-feta-biscuits.html
 layout: post
 categories: recipes
 tags: [recipes, nomeats, biscuits, feta]

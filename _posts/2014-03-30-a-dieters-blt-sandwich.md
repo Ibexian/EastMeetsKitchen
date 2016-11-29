@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/a-dieters-blt-sandwich.html
 layout: post
 categories: recipes
 tags: [recipes, healthy recipes, meats]

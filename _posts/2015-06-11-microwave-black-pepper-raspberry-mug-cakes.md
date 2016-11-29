@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/microwave-black-pepper-raspberry-mug-cakes.html
 layout: post
 categories: recipes
 tags: [recipes, sweets, mug cakes]

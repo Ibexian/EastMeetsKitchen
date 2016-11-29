@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/easy-kimchi-fried-rice.html
 layout: post
 categories: recipes
 tags: [recipes, nomeats, no meat, fried rice, kimchi, easy, riceandnoodles]

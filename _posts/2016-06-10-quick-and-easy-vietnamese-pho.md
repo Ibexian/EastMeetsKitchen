@@ -1,4 +1,4 @@
----
+---redirect_from:   - videos/quick-and-easy-vietnamese-pho.html  - recipes/quick-and-easy-vietnamese-pho.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, healthy, riceandnoodles, pho, vietnamese]

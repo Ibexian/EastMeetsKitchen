@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/dumpling,-potsticker,-gyoza-dough-recipe.html
 layout: post
 categories: recipes
 tags: [recipes, nomeats, dumplings, potsticker, dough]

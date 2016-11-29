@@ -1,4 +1,4 @@
----
+---redirect_from:   - blog/belgian-pearl-sugar.html
 layout: post
 categories: blog
 tags: [blog, sweets, sugar, pearl sugar, belgian sugar]

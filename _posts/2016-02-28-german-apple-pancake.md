@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/german-apple-pancake.html
 layout: post
 categories: recipes
 tags: [recipes, sweets, pancakes, apple, German]

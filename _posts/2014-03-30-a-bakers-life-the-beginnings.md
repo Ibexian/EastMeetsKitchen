@@ -1,4 +1,4 @@
----
+---redirect_from:   - blog/a-bakers-life-the-beginnings.html
 layout: post
 categories: blog
 tags: [blog, sweets, baker's life]

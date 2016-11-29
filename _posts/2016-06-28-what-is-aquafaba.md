@@ -1,4 +1,4 @@
----
+---redirect_from:   - videos/what-is-aquafaba.html  - blog/what-is-aquafaba.html
 layout: post
 categories: [videos, blog]
 tags: [blog]

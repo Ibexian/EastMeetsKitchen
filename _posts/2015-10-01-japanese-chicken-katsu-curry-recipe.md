@@ -1,4 +1,4 @@
----
+---redirect_from:   - videos/japanese-chicken-katsu-curry-recipe.html  - recipes/japanese-chicken-katsu-curry-recipe.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, katsu curry, curry, Japanese, meats]

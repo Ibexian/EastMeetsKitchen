@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/double-kimchi-pancakes.html
 layout: post
 categories: recipes
 tags: [recipes, nomeats, no-meat, kimchi, pancakes]

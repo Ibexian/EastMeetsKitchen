@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/perfect-brussels-sprouts.html
 layout: post
 categories: recipes
 tags: [recipes, nomeats, vegetables, brussels sprouts]

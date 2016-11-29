@@ -1,4 +1,4 @@
----
+---redirect_from:   - videos/japchae-korean-stirfry-noodles.html  - recipes/japchae-korean-stirfry-noodles.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, healthy, vegan, no-meats, japchae, stirfry, riceandnoodles, korean]

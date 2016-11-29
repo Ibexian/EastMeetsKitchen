@@ -1,4 +1,4 @@
----
+---redirect_from:   - blog/the-issues-of-low-no-sugar-baking.html
 layout: post
 categories: blog
 tags: [blog]

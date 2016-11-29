@@ -1,4 +1,4 @@
----
+---redirect_from:   - blog/jean-talon-market.html
 layout: post
 categories: blog
 tags: [blog]

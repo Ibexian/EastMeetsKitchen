@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/dulce-de-leche-coconut-tres-leches.html
 layout: post
 categories: recipes
 tags: [recipes, sweets, coconut, dulce de leche, tres leches]

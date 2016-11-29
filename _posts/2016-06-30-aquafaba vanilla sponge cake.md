@@ -1,4 +1,4 @@
----
+---redirect_from:   - videos/aquafaba vanilla sponge cake.html  - recipes/aquafaba vanilla sponge cake.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, sweets, experimental]

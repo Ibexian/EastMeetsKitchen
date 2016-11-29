@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/cinnabon-cinnamon-buns.html
 layout: post
 categories: recipes
 tags: [recipes, sweets, cinnamon buns]

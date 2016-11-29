@@ -1,4 +1,4 @@
----
+---redirect_from:   - blog/momogoose-food-truck.html
 layout: post
 categories: blog
 tags: [blog, food trucks, sowa market, meats, riceandnoodles]

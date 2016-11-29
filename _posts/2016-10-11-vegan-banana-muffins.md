@@ -1,4 +1,4 @@
----
+---redirect_from:   - videos/vegan-banana-muffins.html  - recipes/vegan-banana-muffins.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, nomeats, banana muffins, muffins, vegan]

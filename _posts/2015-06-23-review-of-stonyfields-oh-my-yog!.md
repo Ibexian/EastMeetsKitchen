@@ -1,4 +1,4 @@
----
+---redirect_from:   - blog/review-of-stonyfields-oh-my-yog!.html
 layout: post
 categories: blog
 tags: [blog]

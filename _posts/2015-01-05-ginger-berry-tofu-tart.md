@@ -1,4 +1,4 @@
----
+---redirect_from:   - videos/ginger-berry-tofu-tart.html
 layout: post
 categories: videos
 tags: [videos, sweets, tart, tofu]

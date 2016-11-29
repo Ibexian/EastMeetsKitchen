@@ -1,4 +1,4 @@
----
+---redirect_from:   - videos/behind-the-scenes-cooking-shoot.html  - blog/behind-the-scenes-cooking-shoot.html
 layout: post
 categories: [videos, blog]
 tags: [videos, behind the scenes]

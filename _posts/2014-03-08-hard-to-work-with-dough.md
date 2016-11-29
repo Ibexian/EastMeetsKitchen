@@ -1,4 +1,4 @@
----
+---redirect_from:   - tips/hard-to-work-with-dough.html
 layout: post
 categories: tips
 tags: [tips, nomeats, no meat]

@@ -1,4 +1,4 @@
----
+---redirect_from:   - blog/clover-lavender-lemonade.html
 layout: post
 categories: blog
 tags: [blog, sweets, drinks, lavender lemonade]

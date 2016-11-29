@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/jai-vegetarian-bean-curd-spring-rolls.html
 layout: post
 categories: recipes
 tags: [recipes, nomeats, vegetarian, no meats, spring rolls, jai]

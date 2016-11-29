@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/peruvian-charcoal-chicken.html
 layout: post
 categories: recipes
 tags: [recipes, meats, Peru, Pervian, charcoal, chicken]

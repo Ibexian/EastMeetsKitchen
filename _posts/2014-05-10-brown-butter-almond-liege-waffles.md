@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/brown-butter-almond-liege-waffles.html
 layout: post
 categories: recipes
 tags: [recipes, sweets, waffles, liege waffles]

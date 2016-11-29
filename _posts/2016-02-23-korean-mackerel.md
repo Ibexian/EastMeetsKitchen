@@ -1,4 +1,4 @@
----
+---redirect_from:   - videos/korean-mackerel.html  - recipes/korean-mackerel.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, mackerel, korean, meats, fish, broiled, pan-seared]

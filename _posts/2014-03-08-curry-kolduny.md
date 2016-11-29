@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/curry-kolduny.html
 layout: post
 categories: recipes
 tags: [recipes, meats, kolduny, curry]

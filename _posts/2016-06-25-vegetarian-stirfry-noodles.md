@@ -1,4 +1,4 @@
----
+---redirect_from:   - videos/vegetarian-stirfry-noodles.html  - recipes/vegetarian-stirfry-noodles.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, riceandnoodles, healthy, vegan, stirfry]

@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/hearty-miso-soup.html
 layout: post
 categories: recipes
 tags: [recipes, soups, nomeats, miso soup, no meat]

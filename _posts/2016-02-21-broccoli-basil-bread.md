@@ -1,4 +1,4 @@
----
+---redirect_from:   - videos/broccoli-basil-bread.html  - recipes/broccoli-basil-bread.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, healthy, nomeats, broccoli, bread]

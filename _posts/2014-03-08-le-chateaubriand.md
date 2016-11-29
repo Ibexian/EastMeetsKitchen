@@ -1,4 +1,4 @@
----
+---redirect_from:   - blog/le-chateaubriand.html
 layout: post
 categories: blog
 tags: [blog, le chateaubriand, french cuisine]

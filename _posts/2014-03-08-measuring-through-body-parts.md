@@ -1,4 +1,4 @@
----
+---redirect_from:   - tips/measuring-through-body-parts.html
 layout: post
 categories: tips
 tags: [tips, measuring]

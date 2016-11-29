@@ -1,4 +1,4 @@
----
+---redirect_from:   - tips/how-to-make-a-piping-bag.html
 layout: post
 categories: tips
 tags: [tips, sweets, piping bag]

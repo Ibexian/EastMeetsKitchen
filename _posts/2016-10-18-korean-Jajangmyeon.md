@@ -1,4 +1,4 @@
----
+---redirect_from:   - videos/korean-Jajangmyeon.html  - recipes/korean-Jajangmyeon.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, nomeats, Jajangmyeon, noodles, riceandnoodles]

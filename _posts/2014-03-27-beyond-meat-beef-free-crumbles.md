@@ -1,4 +1,4 @@
----
+---redirect_from:   - blog/beyond-meat-beef-free-crumbles.html
 layout: post
 categories: blog
 tags: [blog, vegetarian, nomeats, beyond meat, vegan]

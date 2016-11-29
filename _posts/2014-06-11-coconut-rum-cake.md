@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/coconut-rum-cake.html
 layout: post
 categories: recipes
 tags: [recipes, sweets, coconut, rum cake]

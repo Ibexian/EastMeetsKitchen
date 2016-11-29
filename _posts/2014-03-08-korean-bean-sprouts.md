@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/korean-bean-sprouts.html
 layout: post
 categories: recipes
 tags: [recipes, nomeats, no meat, bean sprouts]

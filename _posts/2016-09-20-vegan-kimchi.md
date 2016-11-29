@@ -1,4 +1,4 @@
----
+---redirect_from:   - videos/vegan-kimchi.html  - recipes/vegan-kimchi.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, nomeats, vegan, kimchi, cabbage, korean, fermented]

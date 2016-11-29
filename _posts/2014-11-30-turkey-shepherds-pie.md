@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/turkey-shepherds-pie.html
 layout: post
 categories: recipes
 tags: [recipes, meats, Thanksgiving, leftover, shepherds pie]

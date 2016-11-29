@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/easy-peasy-pea-shoots.html
 layout: post
 categories: recipes
 tags: [recipes, nomeats, pea shoots, vegetables]

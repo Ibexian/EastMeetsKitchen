@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/pumpkin-cider-whoopie-pie.html
 layout: post
 categories: recipes
 tags: [recipes, whoopie pie, sweets]

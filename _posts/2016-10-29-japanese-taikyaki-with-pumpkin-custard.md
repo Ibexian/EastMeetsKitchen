@@ -1,4 +1,4 @@
----
+---redirect_from:   - videos/japanese-taikyaki-with-pumpkin-custard.html  - recipes/japanese-taikyaki-with-pumpkin-custard.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, sweets, vegan, taiyaki, custard, pumpkin, japanese, pancake]

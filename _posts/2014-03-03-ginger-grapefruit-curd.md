@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/ginger-grapefruit-curd.html
 layout: post
 categories: recipes
 tags: [recipes, sweets, grapefruit, ginger, curd]

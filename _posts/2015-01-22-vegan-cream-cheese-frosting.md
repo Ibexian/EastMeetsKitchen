@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/vegan-cream-cheese-frosting.html
 layout: post
 categories: recipes
 tags: [recipes, sweets, vegan, cream cheese, frosting]

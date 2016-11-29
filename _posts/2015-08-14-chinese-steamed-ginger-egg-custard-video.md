@@ -1,4 +1,4 @@
----
+---redirect_from:   - videos/chinese-steamed-ginger-egg-custard-video.html
 layout: post
 categories: videos
 tags: [videos, sweets, egg custard, ginger]

@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/pickled-curry-cauliflower.html
 layout: post
 categories: recipes
 tags: [recipes, nomeats, vegetables, pickled, cauliflower]

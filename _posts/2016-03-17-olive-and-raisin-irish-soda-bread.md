@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/olive-and-raisin-irish-soda-bread.html
 layout: post
 categories: recipes
 tags: [recipes, sweets, soda bread, olive, raisin]

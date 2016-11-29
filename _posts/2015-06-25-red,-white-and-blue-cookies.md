@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/red,-white-and-blue-cookies.html
 layout: post
 categories: recipes
 tags: [recipes, cookies, july fourth, sweets, shortbread]

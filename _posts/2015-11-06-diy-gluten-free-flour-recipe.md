@@ -1,4 +1,4 @@
----
+---redirect_from:   - tips/diy-gluten-free-flour-recipe.html
 layout: post
 categories: tips
 tags: [tips, gluten free, flour, DIY]

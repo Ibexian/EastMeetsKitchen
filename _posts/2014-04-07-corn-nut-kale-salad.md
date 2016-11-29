@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/corn-nut-kale-salad.html
 layout: post
 categories: recipes
 tags: [recipes, nomeats, salad, kale, corn nuts, vegetarian, healthy recipes]

@@ -1,4 +1,4 @@
----
+---redirect_from:   - videos/vegan-palak-paneer.html  - recipes/vegan-palak-paneer.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, sweets, vegan, taiyaki, custard, pumpkin, japanese, pancake]

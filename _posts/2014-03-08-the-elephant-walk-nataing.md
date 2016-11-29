@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/the-elephant-walk-nataing.html
 layout: post
 categories: recipes
 tags: [recipes, meats, nataing]

@@ -1,4 +1,4 @@
----
+---redirect_from:   - tips/divide-up-your-cake-mix.html
 layout: post
 categories: tips
 tags: [tips, sweets, cake mix]

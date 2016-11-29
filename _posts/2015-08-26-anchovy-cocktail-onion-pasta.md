@@ -1,4 +1,4 @@
----
+---redirect_from:   - videos/anchovy-cocktail-onion-pasta.html  - recipes/anchovy-cocktail-onion-pasta.html
 layout: post
 categories: [videos, recipes]
 tags: [videos]

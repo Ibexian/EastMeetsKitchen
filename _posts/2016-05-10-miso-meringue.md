@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/miso-meringue.html
 layout: post
 categories: recipes
 tags: [recipes, sweets, miso, meringue]

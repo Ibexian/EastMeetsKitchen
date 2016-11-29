@@ -1,4 +1,4 @@
----
+---redirect_from:   - tips/how-to-get-yolks-out-of-your-whites.html
 layout: post
 categories: tips
 tags: [tips, sweets]

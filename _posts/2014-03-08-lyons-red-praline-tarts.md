@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/lyons-red-praline-tarts.html
 layout: post
 categories: recipes
 tags: [recipes, sweets, nomeats, tarts]

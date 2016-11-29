@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/easy-yellow-rice.html
 layout: post
 categories: recipes
 tags: [recipes, no meats, rice, riceandnoodles]

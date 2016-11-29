@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/lemon-sorrel-syrup.html
 layout: post
 categories: recipes
 tags: [recipes, sauces, sweets, sorrel, lemon, syrup]

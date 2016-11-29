@@ -1,4 +1,4 @@
----
+---redirect_from:   - tips/eggs-to-warm-or-not-to-warm.html
 layout: post
 categories: tips
 tags: [tips]

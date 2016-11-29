@@ -1,4 +1,6 @@
 ---
+redirect_from: 
+  - recipes/quick-and-flakey-onion-empanada-pancakes.html
 layout: post
 categories: recipes
 tags: [recipes]

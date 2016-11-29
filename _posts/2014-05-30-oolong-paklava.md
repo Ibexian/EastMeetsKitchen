@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/oolong-paklava.html
 layout: post
 categories: recipes
 tags: [recipes, sweets, international, worldly, baklava, paklava]

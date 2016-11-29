@@ -1,4 +1,4 @@
----
+---redirect_from:   - recipes/valentines-day-chocolate-chip-shortbread-cookies.html
 layout: post
 categories: recipes
 tags: [recipes, sweets, chocolate chip cookies, cookies, shortbread]

@@ -1,4 +1,4 @@
----
+---redirect_from:   - videos/chinese-ginger-scallion-sauce.html  - recipes/chinese-ginger-scallion-sauce.html
 layout: post
 categories: [videos, recipes]
 tags: [recipes, sauces, ginger, scallion]

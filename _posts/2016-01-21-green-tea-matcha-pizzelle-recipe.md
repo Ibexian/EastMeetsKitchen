@@ -1,4 +1,4 @@
----
+---redirect_from:   - videos/green-tea-matcha-pizzelle-recipe.html  - recipes/green-tea-matcha-pizzelle-recipe.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, green tea, matcha, pizzelle, sweets]
