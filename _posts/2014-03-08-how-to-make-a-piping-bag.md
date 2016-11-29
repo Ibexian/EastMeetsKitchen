@@ -1,4 +1,4 @@
----redirect_from:   - tips/how-to-make-a-piping-bag.html
+---
 layout: post
 categories: tips
 tags: [tips, sweets, piping bag]
@@ -6,6 +6,8 @@ excerpt:
 title: "How to Make a Piping Bag"
 image:
   feature: 56-1.jpg
+redirect_from: 
+  - tips/how-to-make-a-piping-bag.html
 ---
 
 This maybe one of the most useful things I've learned while working at the bakery.  Making a proper piping bag is indispensable because you can do some much with it.  Many times though, people do it wrong and you can end up with a mess once you fill the bag.

@@ -1,4 +1,4 @@
----redirect_from:   - recipes/hearty-miso-soup.html
+---
 layout: post
 categories: recipes
 tags: [recipes, soups, nomeats, miso soup, no meat]
@@ -6,6 +6,8 @@ excerpt:
 title: "Hearty Miso Soup"
 image:
   feature: 13-1.jpg
+redirect_from: 
+  - recipes/hearty-miso-soup.html
 ---
 
 I'm not a big fan of going entirely vegetarian, but there are some foods that can be entirely satisfying even without the meat.  For me, miso soup is one of those foods.  It's one of those soups that leaves you fulfilled without feeling utterly full, which is the best kind of full in my opinion.  And I guess if you don't believe me that it does satisfy hunger quite well - well, then follow this recipe because I actually made a heartier version of the traditional - with bigger chunks of tofu and seaweed.

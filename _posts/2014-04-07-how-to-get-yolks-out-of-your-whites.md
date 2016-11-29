@@ -1,4 +1,4 @@
----redirect_from:   - tips/how-to-get-yolks-out-of-your-whites.html
+---
 layout: post
 categories: tips
 tags: [tips, sweets]
@@ -6,6 +6,8 @@ excerpt:
 title: "How to Get Yolks Out of Your Whites"
 image:
   feature: 37-1.jpg
+redirect_from: 
+  - tips/how-to-get-yolks-out-of-your-whites.html
 ---
 
 Ok, so for the longest time, I've been taught by the chefs and cooks on cooking shows that it is absolutely imperative that when you are separating the egg yolks from the whites that you get no yolk in the whites.  The fat from the yolks will prevent - should you wish to whip up your whites for a meringue or something - from whipping up.  It's like - well if you get any yolks in your whites you might as well start over.

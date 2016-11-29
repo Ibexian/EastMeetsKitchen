@@ -1,4 +1,4 @@
----redirect_from:   - blog/dark-soy-vs-light-soy.html
+---
 layout: post
 categories: blog
 tags: [blog, sauces, soy sauce]
@@ -6,6 +6,8 @@ excerpt: "I'm not sure if most people are confused about this or whether they ar
 title: "Dark Soy vs. Light Soy"
 image:
   feature: 18-1.jpg
+redirect_from: 
+  - blog/dark-soy-vs-light-soy.html
 ---
 
 I'm not sure if most people are confused about this or whether they are aware that in Chinese cooking, there is a "light" and a "dark" soy sauce, but I wanted to demystify this a bit.  I think a lot of the mystery comes from the translation of light soy sauce and dark soy sauce.  See, in the Chinese name, 老抽 (lao chou) or dark soy sauce actually translates to "old" soy sauce and 生抽 (sheng chou) actually translates to "raw or fresh" soy sauce.  The English translations imply color, and yes, the dark soy does carry a bit more weight in terms of color (from the additional caramel coloring that the light soy does not have) and viscosity, but "light" and "dark" should sort of be understood more in the context of flavor and age.

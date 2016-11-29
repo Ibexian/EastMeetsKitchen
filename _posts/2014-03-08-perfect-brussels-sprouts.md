@@ -1,4 +1,4 @@
----redirect_from:   - recipes/perfect-brussels-sprouts.html
+---
 layout: post
 categories: recipes
 tags: [recipes, nomeats, vegetables, brussels sprouts]
@@ -6,6 +6,8 @@ excerpt:
 title: "Perfect Brussels Sprouts"
 image:
   feature: 58-1.jpg
+redirect_from: 
+  - recipes/perfect-brussels-sprouts.html
 ---
 
 Every couple of years, I develop a new craving for some random food.  When I was 13, it was button mushrooms...never liked mushrooms before.  Then several years later, it was New York cheesecake - bad thing to start liking.  This year though, it was brussels sprouts.  I know...weird!  I didn't grow up with brussels sprouts, so it's not like I ever really experienced the "grossness" that is brussels sprouts as a kid.  I think what really happened was I had some brussels sprouts for a side at some restaurant I was eating at and was like, "Whoa!  These are good!"  

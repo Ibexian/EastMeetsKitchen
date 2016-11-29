@@ -1,4 +1,4 @@
----redirect_from:   - tips/working-with-agar.html
+---
 layout: post
 categories: tips
 tags: [tips, nomeats, agar, gelatin]
@@ -6,6 +6,8 @@ excerpt:
 title: "Working with Agar"
 image:
   feature: 59-1.jpg
+redirect_from: 
+  - tips/working-with-agar.html
 ---
 
 Agar is the choice for gelatinization in Asian desserts. Although this ingredient has plenty of attractive factors including a quicker firming up time, there are still some things to look out for when you are working with it.

@@ -1,4 +1,4 @@
----redirect_from:   - recipes/apple-cranberry-galette.html
+---
 layout: post
 categories: recipes
 tags: [recipes, sweets, galette]
@@ -6,6 +6,8 @@ excerpt:
 title: "Apple Cranberry Galette"
 image:
   feature: 29-1.jpg
+redirect_from: 
+  - recipes/apple-cranberry-galette.html
 ---
 
 Well, it's that time of the year again where people are going apple picking and then wondering afterwards what to do with all those apples!  I have a ton of apple recipes but one of my favorite things to make is an apple cranberry galette.  I first tried it in a bakery near my town and found the tartness of the cranberries to be utterly refreshing.  If you don't know this about me, I really don't like overly sweet desserts - well, maybe some, but usually if the dessert is so sweet that it masks the actual flavor of what the dessert should be, then I don't like it.  Sugar, like salt, is really meant to bring out or enhance the flavors of the ingredients you are working with.  It should never be overpowering.  A cake should never just taste sweet.  There should be hints of butter or vanilla or whatever the sugar was meant to highlight.

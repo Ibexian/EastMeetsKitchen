@@ -1,4 +1,4 @@
----redirect_from:   - recipes/tong-choy-with-fermented-tofu.html
+---
 layout: post
 categories: recipes
 tags: [recipes, nomeats, vegetables, tofu, fermented]
@@ -6,6 +6,8 @@ excerpt:
 title: "Tong Choy with Fermented Tofu"
 image:
   feature: 43-1.JPG
+redirect_from: 
+  - recipes/tong-choy-with-fermented-tofu.html
 ---
 
 Hey All,

@@ -1,4 +1,4 @@
----redirect_from:   - tips/hard-to-work-with-dough.html
+---
 layout: post
 categories: tips
 tags: [tips, nomeats, no meat]
@@ -6,6 +6,8 @@ excerpt:
 title: "Hard to Work With Dough"
 image:
   feature: 46-1.jpg
+redirect_from: 
+  - tips/hard-to-work-with-dough.html
 ---
 
 If you've ever worked with really glutinous dough, you know what a pain it is to prevent the dough from shrinking once you get it in the pan.  Well, at the bakery, I work with a quiche dough that is just that.  It's made with flour, water, and butter.  Any time the dough is rolled, stretched, or basically manipulated in a way that doesn't let it sit peacefully on it's own, the dough acts up.  How?  By trying to shrink back to it's original self.  This makes it an absolute nightmare when you try to put the dough in pan shells and once you cut the dough from the edges, it starts to shrink away and then down.  If the dough doesn't stick to the edges, it will continue to shrink down as it bakes, which become more horrible since there will be filling in the quiche shells.

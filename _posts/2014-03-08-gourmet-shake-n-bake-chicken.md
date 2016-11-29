@@ -1,4 +1,4 @@
----redirect_from:   - recipes/gourmet-shake-n-bake-chicken.html
+---
 layout: post
 categories: recipes
 tags: [recipes, meats, chicken]
@@ -6,6 +6,8 @@ excerpt:
 title: "Gourmet Shake n' Bake Chicken"
 image:
   feature: 32-1.jpg
+redirect_from: 
+  - recipes/gourmet-shake-n-bake-chicken.html
 ---
 
 Chicken nuggets are something I love to eat whether it be from some chain store or just from an easy packet I pick up at the supermarket.  I think they're super versatile because you can have them as a snack, or on the night or nights you don't feel like cooking, you just pair these with a bowl of spaghetti and some sauce and you have yourself a pretty good tasting meal.

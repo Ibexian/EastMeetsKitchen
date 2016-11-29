@@ -1,4 +1,4 @@
----redirect_from:   - recipes/peruvian-charcoal-chicken.html
+---
 layout: post
 categories: recipes
 tags: [recipes, meats, Peru, Pervian, charcoal, chicken]
@@ -6,6 +6,8 @@ excerpt:
 title: "Peruvian Charcoal Chicken"
 image:
   feature: 64-1.jpg
+redirect_from: 
+  - recipes/peruvian-charcoal-chicken.html
 ---
 
 So last weekend when I went to get my usual Sunday treat from [Union Square Donuts](http://unionsquaredonuts.com/menu/), I happened to stumble upon this hole-in-the-wall called [Machu Chicken](http://machuchicken.com/machuchicken/).  I think "stumble upon" is the wrong word.  The moment I left the donut shop, I caught this smell of amazing charcoal goodness.  I didn't know what it was.  It could have been any meat, but man did it smell good.  When I finally tracked it down toe Machu Picchu Charcoal Chicken and Grill, I was surprised to find another party of three saying the exact same thing I did - that they had to find out where this amazing smell came from.

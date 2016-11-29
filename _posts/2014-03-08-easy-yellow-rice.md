@@ -1,4 +1,4 @@
----redirect_from:   - recipes/easy-yellow-rice.html
+---
 layout: post
 categories: recipes
 tags: [recipes, no meats, rice, riceandnoodles]
@@ -6,6 +6,8 @@ excerpt:
 title: "Easy Yellow Rice"
 image:
   feature: 34-1.jpg
+redirect_from: 
+  - recipes/easy-yellow-rice.html
 ---
 
 Yellow rice with a little bit of green herbs is the easiest way to dress up a not so interesting meal.  On days when all I feel like doing is getting a rotisserie chicken from the grocery store, pairing it up with white rice and broccoli just seems too blah.  

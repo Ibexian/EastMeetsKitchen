@@ -1,4 +1,4 @@
----redirect_from:   - blog/beyond-meat-beef-free-crumbles.html
+---
 layout: post
 categories: blog
 tags: [blog, vegetarian, nomeats, beyond meat, vegan]
@@ -6,6 +6,8 @@ excerpt: "I'm sure a lot of you saw Beyond Meat on NBC's Today's Show last Frida
 title: "Beyond Meat: Beef-Free Crumbles"
 image:
   feature: 70-1.jpg
+redirect_from: 
+  - blog/beyond-meat-beef-free-crumbles.html
 ---
 
 I'm sure a lot of you saw [Beyond Meat](http://beyondmeat.com/) on NBC's Today's Show last Friday - Here's the link to it if you haven't: [‘Meatless’ meat: Is it the future?](http://www.today.com/video/today/55034326#55034326). Beyond Meat is a California-based company whose mission is "to create mass-market solutions that perfectly replace animal protein with plant protein." With meat prices going up and the sustainability of certain meats in question, Beyond Meat has received backing from people like Bill Gates and the founders of Twitter and was named by [Fast Company](http://www.fastcompany.com/), a magazine on business and innovation, as the World’s Most Innovative Company in Food for 2014.

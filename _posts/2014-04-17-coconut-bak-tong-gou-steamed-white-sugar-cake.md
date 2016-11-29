@@ -1,4 +1,4 @@
----redirect_from:   - recipes/coconut-bak-tong-gou-steamed-white-sugar-cake.html
+---
 layout: post
 categories: recipes
 tags: [recipes, sweets, steamed cake, Chinese]
@@ -6,6 +6,8 @@ excerpt:
 title: "Cantonese Steamed White Sugar Cake"
 image:
   feature: 65-1.jpg
+redirect_from: 
+  - recipes/coconut-bak-tong-gou-steamed-white-sugar-cake.html
 ---
 
 Steamed "white sugar" cake or "bak tong gou" is a pretty well-known item in Chinese bakeries.  It's what I would always request as a kid when my parents would go to Chinatown for groceries on Saturday mornings.  We would always stop by the Chinese bakery to pick up bak tong gou and a host of other breads and pastries before heading home.  Texturally, it's sort of this "jello meets sponge cake" cake that is slightly sweet and also slightly tangy. It's not overly sugary and has this nice, delicate balance of flavors that is really quite enjoyable.

@@ -1,4 +1,4 @@
----redirect_from:   - recipes/taco-fresca.html
+---
 layout: post
 categories: recipes
 tags: [recipes, meats, tacos]
@@ -6,6 +6,8 @@ excerpt:
 title: "Taco Fresca"
 image:
   feature: 10-1.jpg
+redirect_from: 
+  - recipes/taco-fresca.html
 ---
 
 So I was at the farmer's market this past Wednesday and came upon the best looking fruits and vegetables.  I think farmer's markets are one of my most favorite things that happen during the summer.  Sure sometimes the prices maybe a bit higher that your local grocery store, but everything is just so much fresher!  And I don't know if people like this, but I love that not everything is the same size.  What I mean is that the strawberries are not all gargantuan.  They're usually a lot smaller, with some big ones in between.  And the eggs - different sizes and different colors.  Everything is just gorgeous.

@@ -1,4 +1,4 @@
----redirect_from:   - tips/measuring-through-body-parts.html
+---
 layout: post
 categories: tips
 tags: [tips, measuring]
@@ -6,6 +6,8 @@ excerpt:
 title: "Measuring Through Body Parts"
 image:
   feature: 55-1.jpg
+redirect_from: 
+  - tips/measuring-through-body-parts.html
 ---
 
 I heard this tip from a baker friend of mine who said this was an activity she was made to do in culinary school.  I think especially for bakers and pastry cooks, measurements are particularly important.  You need to know how thick to roll your cookies or how long to roll your dough.  The problem is you might not always have a ruler handy or some pastry chefs actually prefer that their cooks not use rulers as that can waste time.

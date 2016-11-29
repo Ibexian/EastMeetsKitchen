@@ -1,4 +1,4 @@
----redirect_from:   - recipes/a-dieters-blt-sandwich.html
+---
 layout: post
 categories: recipes
 tags: [recipes, healthy recipes, meats]
@@ -6,6 +6,8 @@ excerpt:
 title: "A 'Dieter's' BLT Sandwich"
 image:
   feature: 33-1.jpg
+redirect_from: 
+  - recipes/a-dieters-blt-sandwich.html
 ---
 
 A quick blog about this - I hate being on diets...well I hate gaining an extra 10 pounds and not being able to fit into my pants either, so anyways...

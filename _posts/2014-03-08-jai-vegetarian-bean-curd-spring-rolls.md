@@ -1,4 +1,4 @@
----redirect_from:   - recipes/jai-vegetarian-bean-curd-spring-rolls.html
+---
 layout: post
 categories: recipes
 tags: [recipes, nomeats, vegetarian, no meats, spring rolls, jai]
@@ -6,6 +6,8 @@ excerpt:
 title: "Jai - Vegetarian Bean Curd Spring Rolls"
 image:
   feature: 50-1.jpg
+redirect_from: 
+  - recipes/jai-vegetarian-bean-curd-spring-rolls.html
 ---
 
 "Jai" is the Chinese word for vegetarian food.  Jai is eaten on special holidays and you'll usually find the best jai dishes at Buddhist temples, which usually have accompanying cafeterias. This particular recipe is unique because it's not like the typical crispy skin spring rolls. The wrap is made with layered bean curd sheets and then the rolls are fried creating a nice layered texture.  The crunchy outside pairs well with the tender vegetables and mushrooms on the inside.

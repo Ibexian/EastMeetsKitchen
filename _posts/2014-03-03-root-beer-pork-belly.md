@@ -1,4 +1,4 @@
----redirect_from:   - recipes/root-beer-pork-belly.html
+---
 layout: post
 categories: recipes
 tags: [recipes, meats, root beer, pork belly]
@@ -6,6 +6,8 @@ excerpt:
 title: "Root Beer Pork Belly"
 image:
   feature: 9-1.jpg
+redirect_from: 
+  - recipes/root-beer-pork-belly.html
 ---
 
 I came back home late on a Sunday evening after walking around the whole day in about 90 degree heat.  Needless to say, I didn't want to cook. Luckily I had some pork belly that I had marinaded 2 days back to save the day.

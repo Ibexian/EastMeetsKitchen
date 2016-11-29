@@ -1,4 +1,4 @@
----redirect_from:   - recipes/pickled-curry-cauliflower.html
+---
 layout: post
 categories: recipes
 tags: [recipes, nomeats, vegetables, pickled, cauliflower]
@@ -6,6 +6,8 @@ excerpt:
 title: "Pickled Curry Cauliflower"
 image:
   feature: 20-1.jpg
+redirect_from: 
+  - recipes/pickled-curry-cauliflower.html
 ---
 
 I first discovered curry pickled cauliflower at this southern kitchen/restaurant in Somerville, Massachusetts called M3. The restaurant is known for its chicken and waffles (I may do a review on them later), but I think they should be known even more so for their creative sides.  

@@ -1,4 +1,4 @@
----redirect_from:   - recipes/shanghai-fried-pork-and-cabbage-noodles.html
+---
 layout: post
 categories: recipes
 tags: [recipes, meats, riceandnoodles, pork and cabbage]
@@ -6,6 +6,8 @@ excerpt:
 title: "Shanghai Fried Pork and Cabbage Noodles"
 image:
   feature: 73-1.jpg
+redirect_from: 
+  - recipes/shanghai-fried-pork-and-cabbage-noodles.html
 ---
 
 Shanghai Fried Noodles is a favorite of mine to order at Chinese restaurants.  When dim sum is not filling enough, my family actually orders a dish of this on the side as a "filler" - sort of speak.  My mother will regularly bring this dish to parties and it's always been a big hit.  I think the reasoning is because the dish has all of the  components people like - chewy noodles that are flavored with a sweetened soy sauce base and delicious pork and crunchy cabbage to add to the mix.  The whole dish from start to finish takes about a half hour - and that's including marinating the meat!  Like a lot of savory Chinese recipes, the amount of each ingredient for flavoring is really by preference.  I guess, just remember that you can't take off, but can always put more on.  But also, if you don't flavor your dish enough, it will taste bland and won't taste as it was intended.  I'm sure y'all will be fine.

@@ -1,4 +1,4 @@
----redirect_from:   - blog/yume-wo-katare-ramen.html
+---
 layout: post
 categories: blog
 tags: [blog, meats, riceandnoodles, ramen, noodles]
@@ -6,6 +6,8 @@ excerpt: "I don't know why I haven't written about this place before, especially
 title: "Yume Wo Katare Ramen"
 image:
   feature: 21-1.jpg
+redirect_from: 
+  - blog/yume-wo-katare-ramen.html
 ---
 
 Buta Ramen

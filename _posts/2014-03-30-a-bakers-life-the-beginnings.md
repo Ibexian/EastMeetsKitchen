@@ -1,4 +1,4 @@
----redirect_from:   - blog/a-bakers-life-the-beginnings.html
+---
 layout: post
 categories: blog
 tags: [blog, sweets, baker's life]
@@ -6,6 +6,8 @@ excerpt: "Sorry I've been missing for a couple days.  I've been wanting to write
 title: "A Baker's Life: The Beginnings"
 image:
   feature: 36-1.jpg
+redirect_from: 
+  - blog/a-bakers-life-the-beginnings.html
 ---
 
 Sorry I've been missing for a couple days.  I've been wanting to write this posting for several weeks now but have been too exhausted.  From doing what you ask?  Well, for those of you who don't know me, I've been toying with the idea of going into culinary arts - professionally, for quite some time. Writing and doing video cooking segments are still my love, but I think it was definitely time to graduate from more of the home cook connoisseur to the professionals.  

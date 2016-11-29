@@ -1,4 +1,4 @@
----redirect_from:   - recipes/corn-nut-kale-salad.html
+---
 layout: post
 categories: recipes
 tags: [recipes, nomeats, salad, kale, corn nuts, vegetarian, healthy recipes]
@@ -6,6 +6,8 @@ excerpt:
 title: "Corn Nut Kale Salad"
 image:
   feature: 63-1.jpg
+redirect_from: 
+  - recipes/corn-nut-kale-salad.html
 ---
 
 Well, it's April and the weather finally seems to be getting warmer.  I thought it would be the perfect time for a springtime salad recipe.  And I think the salad that's been really "in" recently is the kale salad, which is strange because 1) I would have never thought to eat kale raw being as tough as it is and 2) kale is sort of a very strong flavor to be in something as light as a salad.  Still, some of my friends who work as chefs say it is one of the most popular items on their restaurant menu, so I decided to give it a try.

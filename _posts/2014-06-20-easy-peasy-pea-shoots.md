@@ -1,4 +1,4 @@
----redirect_from:   - recipes/easy-peasy-pea-shoots.html
+---
 layout: post
 categories: recipes
 tags: [recipes, nomeats, pea shoots, vegetables]
@@ -6,6 +6,8 @@ excerpt:
 title: "Easy Peasy Pea Shoots"
 image:
   feature: 76-1.jpg
+redirect_from: 
+  - recipes/easy-peasy-pea-shoots.html
 ---
 
 One of the best things about summer are the open farmer's markets that spring up.  You get the freshest and most local produce.  And even though the fruits and vegetables are slightly more expensive than they are at the supermarket, it's definitely worth it to buy it there.  The fruits are sweeter and vegetables are crunchier...it's just better, I promise.

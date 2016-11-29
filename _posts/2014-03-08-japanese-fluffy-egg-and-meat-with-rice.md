@@ -1,4 +1,4 @@
----redirect_from:   - recipes/japanese-fluffy-egg-and-meat-with-rice.html
+---
 layout: post
 categories: recipes
 tags: [recipes, meats, riceandnoodles]
@@ -6,6 +6,8 @@ excerpt:
 title: "Japanese Fluffy Egg and Meat with Rice"
 image:
   feature: 51-1.jpg
+redirect_from: 
+  - recipes/japanese-fluffy-egg-and-meat-with-rice.html
 ---
 
 A chef friend of mine recently gave me the book "Japanese Women Don't Get Old and Fat: Secrets of My Mother's Tokyo Kitchen" to read.  She knew that when I'm cooking at home, I like eating "clean" dishes - not too oily, not too seasoned - just good food that feels good going down.  I also happened to tell her I wanted to find more "home-cooked" Japanese recipes and so she dropped this book off for me.  I didn't care too much about the "Japanese women don't get fat or old" - part.  That's true up to a point, but I read the book more for the personal accounts the author had growing up in Japan and the dishes her mother would make for her. There are several good recipes in the book that is definitely home-y and simple, and also super delicious.

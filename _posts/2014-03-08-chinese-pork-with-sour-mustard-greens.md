@@ -1,4 +1,4 @@
----redirect_from:   - recipes/chinese-pork-with-sour-mustard-greens.html
+---
 layout: post
 categories: recipes
 tags: [recipes, meats, pork, sour mustard greens]
@@ -6,6 +6,8 @@ excerpt:
 title: "Chinese Pork with Sour Mustard Greens"
 image:
   feature: 45-1.jpg
+redirect_from: 
+  - recipes/chinese-pork-with-sour-mustard-greens.html
 ---
 
 I had a craving for Chinese sour mustard greens the other day and decided to make a traditional dish pairing the greens with pork. For those who aren't familiar, the Chinese make something called "suan cai," which are fermented mustard greens.  It's sold in packages at the grocery store, so you don't have to make it yourself. For me, the mustard greens are almost as much sour as it is salty, so if you're expecting kimchi type sourness, it's not.  And because it's fermented mustard greens instead of cabbage, you get a whole different texture that's more leafy.  These mustard greens can be chopped up and used as a condiment on top or rice or noodles.  

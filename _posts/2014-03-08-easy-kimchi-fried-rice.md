@@ -1,4 +1,4 @@
----redirect_from:   - recipes/easy-kimchi-fried-rice.html
+---
 layout: post
 categories: recipes
 tags: [recipes, nomeats, no meat, fried rice, kimchi, easy, riceandnoodles]
@@ -6,6 +6,8 @@ excerpt:
 title: "Easy Kimchi Fried Rice"
 image:
   feature: 22-1.jpg
+redirect_from: 
+  - recipes/easy-kimchi-fried-rice.html
 ---
 
 Well, I'm clearly deep into my kimchi-loving phase because I'm craving pieces of that sour and spicy cabbage almost everyday.  I guess it also doesn't help that over the weekend, I went and bought an 8 pound tub of the fermented cabbage at my local Korean supermarket.  So I guess what I'm trying to say is that you guys might be seeing a lot more recipes with kimchi in it...at least for the next couple of weeks.

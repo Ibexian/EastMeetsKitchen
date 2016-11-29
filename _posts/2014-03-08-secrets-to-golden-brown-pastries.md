@@ -1,4 +1,4 @@
----redirect_from:   - tips/secrets-to-golden-brown-pastries.html
+---
 layout: post
 categories: tips
 tags: [tips, sweets, pastries]
@@ -6,6 +6,8 @@ excerpt:
 title: "Secrets to Golden Brown Pastries"
 image:
   feature: 40-1.jpg
+redirect_from: 
+  - tips/secrets-to-golden-brown-pastries.html
 ---
 
 We've all heard the joke that a cook's favorite color is "golden brown."  This is very true, but golden brown may not be the easiest to achieve when it comes to pastries. There have been numerous times when I'm baking at home and I've clearly baked whatever item it may be long enough.  The only problem is the croissant, or pie, or biscuit still looks super pale and pale translates to sickly and sickly translates to "not good."  It sort of makes the bakery item look "unhealthy," and nobody wants that.  But if you bake it longer, the item either gets too dry inside or on occasion, there are parts of the item that may get super brown, when the rest of it does not.   

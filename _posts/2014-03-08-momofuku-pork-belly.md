@@ -1,4 +1,4 @@
----redirect_from:   - recipes/momofuku-pork-belly.html
+---
 layout: post
 categories: recipes
 tags: [recipes, meats, pork belly, momofuku]
@@ -6,6 +6,8 @@ excerpt:
 title: "Momofuku Pork Belly"
 image:
   feature: 28-1.jpg
+redirect_from: 
+  - recipes/momofuku-pork-belly.html
 ---
 
 This pork belly may be one of the easiest recipes I've encountered, but its flavor and versatility is abound.  It's Momofuku's Pork Belly recipe from David Chang's book, Momofuku. For those of you who are not familiar, the chain of Momofuku restaurants (I recently visited the noodle bar in New York)was started by a Korean American chef called David Chang.  I'd say one of the most famous things known to the restaurants is their ramen.  There's been countless articles and recipes published talking about Momofuku's broth and how ridiculously delicious it is -  (pain to make though)and of course, their pork belly which can be paired with ramen or baos.  If you're like me, I put it on anything - rice, sandwiches, porridge - you name it.

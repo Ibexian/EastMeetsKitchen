@@ -1,4 +1,4 @@
----redirect_from:   - tips/the-dangers-of-under-mixing.html
+---
 layout: post
 categories: tips
 tags: [tips, sweets, baking]
@@ -6,6 +6,8 @@ excerpt:
 title: "The Dangers of Under-Mixing"
 image:
   feature: 53-1.jpg
+redirect_from: 
+  - tips/the-dangers-of-under-mixing.html
 ---
 
 So I probably don't talk about my life as a baker enough.  Gosh knows that in the past half year, I've made my fair share of mistakes (well not that much), but I definitely learn from them. I think part of honing in on your craft is really doing the exact same things - making cookies, making biscuits, making muffins - over and over again every single day. You get really good at doing it, but still sometimes, mistakes happen. Either you stirred it differently, or maybe under-measured the flour or...well, it's something like that.  And I guess that is what I also find tricky about baking.  You can make as many mistakes as there are components to the baking - it could be an issue with ingredients or in procedure and technique or even oven temperature.  I mean, you think about making muffins or biscuits, and it's like "duh, that's pretty easy stuff"...but sometimes it's NOT!  

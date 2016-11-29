@@ -1,4 +1,4 @@
----redirect_from:   - recipes/korean-bean-sprouts.html
+---
 layout: post
 categories: recipes
 tags: [recipes, nomeats, no meat, bean sprouts]
@@ -6,6 +6,8 @@ excerpt:
 title: "Korean Bean Sprouts"
 image:
   feature: 11-1.jpg
+redirect_from: 
+  - recipes/korean-bean-sprouts.html
 ---
 
 After eating kimchi for several days in a row, I needed a change in side dish.  I wanted to find something super easy to make while at the same time, sort of have that slight bite and crunch that kimchi does.  My answer - bean sprouts.

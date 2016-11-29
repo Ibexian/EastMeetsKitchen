@@ -1,4 +1,4 @@
----redirect_from:   - recipes/3-minute-peanut-butter-cookies.html
+---
 layout: post
 categories: recipes
 tags: [recipes, sweets, peanut butter cookies, cookies]
@@ -6,6 +6,8 @@ excerpt:
 title: "3 Minute Peanut Butter Cookies"
 image:
   feature: 31-1.jpg
+redirect_from: 
+  - recipes/3-minute-peanut-butter-cookies.html
 ---
 
 These are the cookies you want to be making if it's 8pm on a Sunday night and you get the sudden cravings for peanut butter cookies.

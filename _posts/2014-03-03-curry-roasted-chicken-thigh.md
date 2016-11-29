@@ -1,4 +1,4 @@
----redirect_from:   - recipes/curry-roasted-chicken-thigh.html
+---
 layout: post
 categories: recipes
 tags: [recipes, meats, curry, chicken]
@@ -6,6 +6,8 @@ excerpt:
 title: "Curry Roasted Chicken Thigh"
 image:
   feature: 6-1.jpg
+redirect_from: 
+  - recipes/curry-roasted-chicken-thigh.html
 ---
 
 I love chicken thighs, but hated them growing up. I think I thought they were too fatty and slimy, and I guess I fell victim to the food shows and magazines telling me how great and healthy chicken breast was.  Well, after about 20 years of white meat, I've fallen to the dark side.  

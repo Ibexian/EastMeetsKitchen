@@ -1,4 +1,4 @@
----redirect_from:   - /the-salty-pig.html
+---
 layout: post
 categories: 
   - blog
@@ -7,6 +7,8 @@ excerpt: "This was actually my second time at the Salty Pig located in the Backb
 title: "The Salty Pig"
 image:
   feature: 14-1.jpg
+redirect_from: 
+  - /the-salty-pig.html
 ---
 
 Charcuterie Board

@@ -1,4 +1,4 @@
----redirect_from:   - blog/chinese-bbq-chuan-food-truck.html
+---
 layout: post
 categories: blog
 tags: [blog, meats, bbq, food truck]
@@ -6,6 +6,8 @@ title: "Chinese BBQ Chuan Food Truck"
 excerpt: "Ok for those of you who miss the street food scene of Beijing, the Wow BBQ food truck has the cure.  Chuan Chuan Chuan"
 image:
   feature: 15-1.jpg
+redirect_from: 
+  - blog/chinese-bbq-chuan-food-truck.html
 ---
 
 __Translation – authentic lamb meat__

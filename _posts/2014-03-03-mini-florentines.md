@@ -1,4 +1,4 @@
----redirect_from:   - recipes/mini-florentines.html
+---
 layout: post
 categories: recipes
 tags: [recipes, sweets, florentines, cookies]
@@ -6,6 +6,8 @@ excerpt:
 title: "Mini Florentines"
 image:
   feature: 2-1.jpg
+redirect_from: 
+  - recipes/mini-florentines.html
 ---
 
 These are the Italian lace cookies that everyone loves. It’s a great cookie because it's crispy, thin, flavorful, and way easy to eat. The only problem – it’s sort of big and breaks easily.

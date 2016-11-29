@@ -1,4 +1,4 @@
----redirect_from:   - recipes/oolong-paklava.html
+---
 layout: post
 categories: recipes
 tags: [recipes, sweets, international, worldly, baklava, paklava]
@@ -6,6 +6,8 @@ excerpt:
 title: "Oolong Paklava"
 image:
   feature: 79-1.jpg
+redirect_from: 
+  - recipes/oolong-paklava.html
 ---
 
 No, no.  I didn't spell it wrong.  Paklava, spelled with a "p," is Armenian baklava.  The two are very similar, but there a couple differences between them.  For one, paklava has a sugar-based syrup flavored usually with lemons while baklava's syrup is made with a significant amount of honey, which I happen to enjoy.  Also, I've been told that paklava is not soaked in as much syrup as baklava, so it's not as heavy in that aspect.  Finally though, I found that in terms of procedure, making paklava maybe slightly easier than making baklava.  What I mean is usually, when you make baklava, you have to sort of spread your filling after every couple layers of phyllo.  With paklava, it's 20 sheets on the bottom, put in your filling, and 20 sheets on top.  The impatient person in me wants to get eating right away, so if I recipe seems easier while creating the same results, I'm all for it.

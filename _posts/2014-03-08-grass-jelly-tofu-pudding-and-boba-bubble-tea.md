@@ -1,4 +1,4 @@
----redirect_from:   - blog/grass-jelly-tofu-pudding-and-boba-bubble-tea.html
+---
 layout: post
 categories: blog
 tags: [blog, bubble tea, drinks, sweets]
@@ -6,6 +6,8 @@ excerpt: "When you order a bubble tea in Taiwan, you're asked several questions.
 title: "Grass Jelly, Tofu Pudding, and Boba Bubble Tea "
 image:
   feature: 27-1.jpg
+redirect_from: 
+  - blog/grass-jelly-tofu-pudding-and-boba-bubble-tea.html
 ---
 
 When you order a bubble tea in Taiwan, you're asked several questions.  What temperature do you want the tea? - really hot, warm, cold, with ice, without ice...Then you're asked how much sugar you want - normal amount, half, a third, and a nice little secret I found out after living there for almost a year is that you can substitute honey (free of charge) to it instead.

@@ -1,4 +1,4 @@
----redirect_from:   - recipes/valentines-day-chocolate-chip-shortbread-cookies.html
+---
 layout: post
 categories: recipes
 tags: [recipes, sweets, chocolate chip cookies, cookies, shortbread]
@@ -6,6 +6,8 @@ excerpt:
 title: "Valentine's Day Chocolate Chip Shortbread Cookies"
 image:
   feature: 54-3.jpg
+redirect_from: 
+  - recipes/valentines-day-chocolate-chip-shortbread-cookies.html
 ---
 
 The Mark's and Spencer's chocolate chunk shortbread cookie was the reason for my "Junior 15" back in my study abroad days in London.  I didn't have much money when I was there, but the one thing I had to stop for (nearly daily) was the Mark's and Spencer chocolate chunk cookie.  It wasn't a conscious decision.  I would be walking the London streets everyday after class or early in the morning during weekends.  Then as I pass the M&S doors, they would of course automatically slide open and out would come the biggest gust of buttery shortbread aroma.   Once that happened, I could never stand a chance.    

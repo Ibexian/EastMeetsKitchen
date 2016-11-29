@@ -1,4 +1,4 @@
----redirect_from:   - tips/how-to-pipe-buttercream-flowers.html
+---
 layout: post
 categories: tips
 tags: [tips, sweets, buttercream]
@@ -6,6 +6,8 @@ title: "How To - Pipe Buttercream Flowers"
 excerpt: 
 image:
   feature: 42-1.jpg
+redirect_from: 
+  - tips/how-to-pipe-buttercream-flowers.html
 ---
 
 So we started making buttercream flowers at the bakery and I didn't really have much experience with it.  On that same note, for those of you who maybe interested (professional or home chef), craft stores like Michaels or AC Moore offer Wilton cake decorating classes for very cheap...$20 for 4 classes.  It starts off working with buttercream and escalates into fondant and a bunch of other cool cake decorating techniques.

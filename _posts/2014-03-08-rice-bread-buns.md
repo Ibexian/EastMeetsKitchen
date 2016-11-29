@@ -1,4 +1,4 @@
----redirect_from:   - recipes/rice-bread-buns.html
+---
 layout: post
 categories: recipes
 tags: [recipes, nomeats, healthyrecipes, riceandnoodles]
@@ -6,6 +6,8 @@ excerpt:
 title: "Rice 'Bread' Buns"
 image:
   feature: 23-1.jpg
+redirect_from: 
+  - recipes/rice-bread-buns.html
 ---
 
 For true food enthusiasts, it is always difficult finding "healthy" recipes that fit our standards for flavor, texture, and just utter yumminess. I'm always looking for healthier ways to have the same foods I love, but not compromise the flavor.  Every once in a while, I come across something that is not only healthy, but really changes a recipe for the better.

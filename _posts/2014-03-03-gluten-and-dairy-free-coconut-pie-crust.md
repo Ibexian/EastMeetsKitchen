@@ -1,4 +1,4 @@
----redirect_from:   - recipes/gluten-and-dairy-free-coconut-pie-crust.html
+---
 layout: post
 categories: recipes
 tags: [recipes, sweets, healthy recipes, coconut, gluten-free, dairy-free, pie crust]
@@ -6,6 +6,8 @@ excerpt:
 title: "Gluten & Dairy-Free Coconut Pie Crust"
 image:
   feature: 4-1.jpg
+redirect_from: 
+  - recipes/gluten-and-dairy-free-coconut-pie-crust.html
 ---
 
 This was a somewhat daring and optimistic attempt at making a pie crust, that in theory, would not taste good at all - a gluten free and dairy free pie crust.

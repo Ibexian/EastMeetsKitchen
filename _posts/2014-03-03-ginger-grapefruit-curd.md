@@ -1,4 +1,4 @@
----redirect_from:   - recipes/ginger-grapefruit-curd.html
+---
 layout: post
 categories: recipes
 tags: [recipes, sweets, grapefruit, ginger, curd]
@@ -6,6 +6,8 @@ excerpt:
 title: "Ginger Grapefruit Curd"
 image:
   feature: 5-1.jpg
+redirect_from: 
+  - recipes/ginger-grapefruit-curd.html
 ---
 
 I love grapefruit and one of my favorite things to do with it is to make grapefruit curd.  I put the curd on top of cookies, muffins, scones, and even fill them in little pie tins to make tarts.  I think grapefruit definitely offers a nice twist to your typical lemon curd because grapefruit has that bitterness that really adds a depth of flavor to the curd.  By the time you add your sugar - even though the bitterness is still there, it just matures the curd making it a bit more sophisticated tasting.

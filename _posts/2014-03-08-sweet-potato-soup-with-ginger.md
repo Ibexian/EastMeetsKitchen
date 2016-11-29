@@ -1,4 +1,4 @@
----redirect_from:   - recipes/sweet-potato-soup-with-ginger.html
+---
 layout: post
 categories: recipes
 tags: [recipes, soups, dessert, sweets, sweet potato, ginger]
@@ -6,6 +6,8 @@ excerpt:
 title: "Sweet Potato Soup with Ginger"
 image:
   feature: 57-1.jpg
+redirect_from: 
+  - recipes/sweet-potato-soup-with-ginger.html
 ---
 
 My mother called me the other day specifically to talk about sweet potatoes and how I should be eating more of them.  Apparently, it's one of the foods highest in vitamin A and so that got me thinking about sweet potato recipes I have in the repertoire.  

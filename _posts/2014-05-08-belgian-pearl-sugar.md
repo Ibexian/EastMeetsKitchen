@@ -1,4 +1,4 @@
----redirect_from:   - blog/belgian-pearl-sugar.html
+---
 layout: post
 categories: blog
 tags: [blog, sweets, sugar, pearl sugar, belgian sugar]
@@ -6,6 +6,8 @@ excerpt: "Just when I thought I knew all there was to know about sugar, I got hi
 title: "Belgian Pearl Sugar"
 image:
   feature: 71-1.jpg
+redirect_from: 
+  - blog/belgian-pearl-sugar.html
 ---
 
 Just when I thought I knew all there was to know about sugar, I got hit with a recipe that called for "Belgian Pearl sugar."  I'm sure a lot of you have guesses as to what I'll be making (I'll link the recipe to this post when I put it up).  Apparently, pearl sugar adds crunch to baked goods like no other because first, it's bigger - and coarser if I can say.  You'll see when you eat it because even though each chunk of sugar is big, when you bite into it, the chunks do crumble into sugar bits that are coarser than normal granulated sugar.  I'd say the [Lar's Belgian Pearl Sugar](http://www.larsown.com/) I got at a fancy international corner store is a little bigger than rock salt.

@@ -1,4 +1,4 @@
----redirect_from:   - tips/can-you-really-over-cream-butter.html
+---
 layout: post
 categories: tips
 tags: [tips, butter, sweets]
@@ -6,6 +6,8 @@ excerpt:
 title: "Can You Really Over Cream Butter?"
 image:
   feature: 78-1.jpg
+redirect_from: 
+  - tips/can-you-really-over-cream-butter.html
 ---
 
 Ok, so I ask myself this at the bakery all the time.  Can you really over cream butter?  I mean, yes, I guess if you leave the mixer on for an additional 10-15 minutes, clearly (probably), there will be some detrimental effect to the recipe.  But let's say you're a multi-tasker - I know all we do is multi-task at the bakery - and let's say you leave the butter creaming for an additional two, three, maybe even four minutes. I personally haven't seen too much evidence of either the butter changing in form or seeing it noticeably affect the finished product...granted I haven't really whipped it for that much longer than it is suppose to be whipped.

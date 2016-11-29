@@ -1,4 +1,4 @@
----redirect_from:   - recipes/curry-kolduny.html
+---
 layout: post
 categories: recipes
 tags: [recipes, meats, kolduny, curry]
@@ -6,6 +6,8 @@ excerpt:
 title: "Curry Kolduny"
 image:
   feature: 16-1.jpg
+redirect_from: 
+  - recipes/curry-kolduny.html
 ---
 
 I had really been wanting to make kuldony ever since I saw it on Diners, Drive-ins, and Dives.  It is more or less a fried potato pancake with meat in the middle...which seems awesome!  So I looked up the recipe for them and found one on the Foodnetwork, which said the recipe made 3 pancakes.  (I know!  No way that's enough.) I doubled the recipe and was able to get about 8 as I made mine a bit smaller.

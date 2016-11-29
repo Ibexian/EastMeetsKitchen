@@ -1,4 +1,4 @@
----redirect_from:   - recipes/coconut-rum-cake.html
+---
 layout: post
 categories: recipes
 tags: [recipes, sweets, coconut, rum cake]
@@ -6,6 +6,8 @@ excerpt:
 title: "Coconut Rum Cake"
 image:
   feature: 80-1.jpg
+redirect_from: 
+  - recipes/coconut-rum-cake.html
 ---
 
 I’m not a big fan of frosted cakes. I usually find them unnecessarily sweet, and I don’t like how the flavors of the frosting cover up the flavors of the cake.  I do, however, enjoy cakes when they are coming right out of the oven.  They're warm and moist and flavorful.  Two  cakes that I have been obsessed with lately are the coconut cake, which is this dense yellow cake with flecks of coconut baked right in, and the rum cake.  I decided to combine them both and make this absolutely rich rum butter soaked coconut cake.  It’s good served warm and right out of the oven, but it’s even better the second day when the rum has had time to properly soak through the cake.  It's the perfect "grown-up" cake that puts just the right amount of kick into the last course.

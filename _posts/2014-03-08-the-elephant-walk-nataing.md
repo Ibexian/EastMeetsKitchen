@@ -1,4 +1,4 @@
----redirect_from:   - recipes/the-elephant-walk-nataing.html
+---
 layout: post
 categories: recipes
 tags: [recipes, meats, nataing]
@@ -6,6 +6,8 @@ excerpt:
 title: "The Elephant Walk- Nataing"
 image:
   feature: 44-1.jpg
+redirect_from: 
+  - recipes/the-elephant-walk-nataing.html
 ---
 
 I recently went to the Elephant Walk over in Cambridge, Massachusetts for what the internet deems as pretty authentic Cambodian food.  I was actually in Cambodia several years back, and although that hardly makes me an expert, I was eager to go and see whether the Elephant Walk would offer me some nostalgia.

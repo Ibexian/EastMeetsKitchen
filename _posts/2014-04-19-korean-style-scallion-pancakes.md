@@ -1,4 +1,4 @@
----redirect_from:   - recipes/korean-style-scallion-pancakes.html
+---
 layout: post
 categories: recipes
 tags: [recipes, nomeats, snacks, korean scallion pancakes]
@@ -6,6 +6,8 @@ title: "Korean Style Scallion Pancakes"
 excerpt: 
 image:
   feature: 67-1.jpg
+redirect_from: 
+  - recipes/korean-style-scallion-pancakes.html
 ---
 
 Scallion pancakes used to be a favorite treat of mine when I was living in Taiwan.  My mother had taught me to make it early on, but it always took a ton of time, and it was one of those recipes you had to put away a Sunday morning for because you would make them in batches.  Well, I was over in HMart last weekend, and they posted up a really bizarrely simple recipe for scallion pancakes - the Korean version.  (I have to say, I was more drawn to the picture because they left the scallion stalks whole in the pancake - which seems to make it difficult to eat, but wonderful to photograph.)  It was equal parts flour and water, a bit of salt, and scallions.  The pancake is made in batter format, so I wouldn't have to deal with kneading any dough like in the Chinese or Taiwanese versions.  I thought - great! But the flavor nut in me thought I couldn't possibly just make a pancake with flour and water, could I?  I guess maybe...but I opted to add more.  I checked out [Maangchi's Blog](http://www.maangchi.com/), which always has a ton of great Korean recipes on it and adapted her version along with the HMart version.  You'll see that I opted to add a dashi miso to the batter (as opposed to the soybean paste in Maangchi's blog) because it adds a nice rich savory flavor while providing a hint of sweetness to the pancake.  Anyways, the result was a pretty delicious and quick pancake to satisfy my scallion pancake cravings.

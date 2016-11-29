@@ -1,4 +1,4 @@
----redirect_from:   - recipes/brown-butter-almond-liege-waffles.html
+---
 layout: post
 categories: recipes
 tags: [recipes, sweets, waffles, liege waffles]
@@ -6,6 +6,8 @@ excerpt:
 title: "Brown Butter Liege Waffles"
 image:
   feature: 72-1.jpg
+redirect_from: 
+  - recipes/brown-butter-almond-liege-waffles.html
 ---
 
 So for those of you who follow me on Twitter or Instagram, you know my recent obsession with Liege waffles.  They're a dough-based waffle that have this perfect caramelized, crunchy crust when you bite into it.  Because the waffle is made from a yeasted dough, the flavors and texture are a bit more complex than your typical Sunday morning waffle.  And with Mother's Day coming up, I thought it would be the perfect breakfast to make for mom.

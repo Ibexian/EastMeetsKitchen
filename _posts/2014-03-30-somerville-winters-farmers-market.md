@@ -1,4 +1,4 @@
----redirect_from:   - blog/somerville-winters-farmers-market.html
+---
 layout: post
 categories: blog
 tags: [blog, farmers' markets, nomeats]
@@ -6,6 +6,8 @@ excerpt: "Farmer's markets aren't just a summer thing anymore.  Last week, I wen
 title: "Somerville Winter's Farmer's Market"
 image:
   feature: 48-1.jpg
+redirect_from: 
+  - blog/somerville-winters-farmers-market.html
 ---
 
 Farmer's markets aren't just a summer thing anymore.  Last week, I went to the Somerville Winter's Farmer Market on Highland Avenue and found hidden treasures that I would have otherwise not known to exist - especially during winter time.  What's neat is that the market located in an old armory and there's a cafe for market goers just outside of the hall.  The market runs from early December through mid-April, and although most of the farm stand items are root vegetables this time of the year, the market actually hosts a bunch of other food items like meats, cheeses, pastas, bakery items, and even kombucha and coffee.  

@@ -1,4 +1,4 @@
----redirect_from:   - recipes/chinese-green-bean-soup.html
+---
 layout: post
 categories: recipes
 tags: [recipes, sweets, soups, mung beans]
@@ -8,6 +8,8 @@ feature_video: https://www.youtube.com/embed/PFdtbyMdlZ0?rel=0
 image:
 image:
   feature: 30-1a.jpg
+redirect_from: 
+  - recipes/chinese-green-bean-soup.html
 ---
 
 This is my favorite Chinese dessert soup of all time.  Any time I'm at home, I ask my mother to make it.  And honestly, she makes this dessert better than any restaurant I've been to - hands down. Now the idea of a "dessert soup" may seem strange to a lot of people, but this is mainly the way that Chinese people have dessert.  I mean we have "cake" in the form of bakery items for breakfast, but when it comes to after dinner desserts, it is mainly these soups.

@@ -1,4 +1,4 @@
----redirect_from:   - recipes/dulce-de-leche-coconut-tres-leches.html
+---
 layout: post
 categories: recipes
 tags: [recipes, sweets, coconut, dulce de leche, tres leches]
@@ -6,6 +6,8 @@ excerpt:
 title: "Dulce de Leche Coconut Tres Leches"
 image:
   feature: 68-1.jpg
+redirect_from: 
+  - recipes/dulce-de-leche-coconut-tres-leches.html
 ---
 
 With Easter approaching, I wanted to do a dessert with coconut, but not your run-of-the-mill Easter cake.  I wanted something luxurious and decadent, and well - internet worthy.  Now, this is no "cookie shot glass" (then again what is?), but it is a pretty delcious cake with all the creamy trimmings and um, coconut!  I call it dulce de leche coconut tres leches.  

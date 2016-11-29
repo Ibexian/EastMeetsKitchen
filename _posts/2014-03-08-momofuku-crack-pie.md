@@ -1,4 +1,4 @@
----redirect_from:   - blog/momofuku-crack-pie.html
+---
 layout: post
 categories: blog
 tags: [blog, sweets, pie, crack pie]
@@ -6,6 +6,8 @@ excerpt: "I thought I would blog about my most recent holiday pie purchase - Mom
 title: "Momofuku - Crack Pie"
 image:
   feature: 41-1.jpg
+redirect_from: 
+  - blog/momofuku-crack-pie.html
 ---
 
 I thought I would blog about my most recent holiday pie purchase - Momofuku Milk Bar's Crack Pie.  They do next day UPS air shipping, so the pie gets to you pretty quickly.  The box comes with a cool ice pack, so it stays nice and cool while shipping. I actually ordered mine from Goldbely.com because it was offering free overnight shipping, but usually the pie, which is $44, will cost an addition 30 bucks with overnight shipping. It's a pretty hefty price, but it does feed 8-10 people. 

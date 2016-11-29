@@ -1,4 +1,4 @@
----redirect_from:   - blog/le-chateaubriand.html
+---
 layout: post
 categories: blog
 tags: [blog, le chateaubriand, french cuisine]
@@ -6,6 +6,8 @@ excerpt: "I happened to be lucky enough to visit the famed Michelin starred rest
 title: "Le Chateaubriand"
 image:
   feature: 17-1.JPG
+redirect_from: 
+  - blog/le-chateaubriand.html
 ---
 
 129 Avenue Parmentier, 75011 Paris, France (Right outside of Goncourt Metro stop)

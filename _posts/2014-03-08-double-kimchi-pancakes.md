@@ -1,4 +1,4 @@
----redirect_from:   - recipes/double-kimchi-pancakes.html
+---
 layout: post
 categories: recipes
 tags: [recipes, nomeats, no-meat, kimchi, pancakes]
@@ -6,6 +6,8 @@ excerpt:
 title: "Double Kimchi Pancakes"
 image:
   feature: 12-1.jpg
+redirect_from: 
+  - recipes/double-kimchi-pancakes.html
 ---
 
 I absolutely LOVE LOVE LOVE kimchi pancakes.  It's one of those things that's fairly easy to make (I guess if you have the ingredients), but can be quite pricey when you get them at a restaurant.  So I adapted the following recipe from one I watched on PBS' Kimchi Chronicles. I don't know if many people know about it, but I was at my local H-Mart (Korean supermarket)one day and saw Hugh Jackman cooking Korean food.  I was like, "What?!"  So anyways, I ended up looking for the show online and it's really a great series - takes you through the different parts of Korea and the foods they prepare in each region.  And if any of you have been to Asia, you know the culture is all centered around food, so there was definitely plenty of material for the show.

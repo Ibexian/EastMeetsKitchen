@@ -1,4 +1,4 @@
----redirect_from:   - recipes/cinnabon-cinnamon-buns.html
+---
 layout: post
 categories: recipes
 tags: [recipes, sweets, cinnamon buns]
@@ -6,6 +6,8 @@ excerpt:
 title: "'Cinnabon' Cinnamon Buns"
 image:
   feature: 59-1a.jpg
+redirect_from: 
+  - recipes/cinnabon-cinnamon-buns.html
 ---
 
 I had the biggest craving for Cinnabons last Sunday, but with the nearest Cinnabon shop 45 minutes away, I opted to find a recipe and make it instead.  Now this is just an inkling, but I think I don't actually like the Cinnabon cinnamon buns themselves, although they are very good.  I mean, I've tried many recipes before, and all cinnamon rolls - at it core "dough and cinnamon" foundation - tastes about the same.  I think what I actually like is the Cinnabon frosting, which is sort of the traditional butter, cream cheese, and confectioners sugar frosting. But I feel that tiny bit of tang from the cream cheese really cuts the sweetness, making for an absolutely addictive cinnamon roll.

@@ -1,4 +1,4 @@
----redirect_from:   - recipes/light-and-fluffy-baos.html
+---
 layout: post
 categories: recipes
 tags: [recipes, nomeats, baos, bread]
@@ -6,6 +6,8 @@ excerpt:
 title: "Light and Fluffy Baos"
 image:
   feature: 7-1.jpg
+redirect_from: 
+  - recipes/light-and-fluffy-baos.html
 ---
 
 A lot of places are now serving Chinese style pork buns where pork - usually roasted pork belly is served in this flat bread style Chinese bao.  Although I'm always impressed at how moist, juicy, and flavorful the restaurants can make the pork belly, I'm actually even more impressed at how light and fluffy they can make the baos.  (I've tried making baos at home before, and trust me, if you do it wrong they do turn out dense and ultimately, inedible).  Anyways, I found the following recipe via Epicurious that looks pretty good.  I haven't tried it out yet, but will definitely do a review when I do.

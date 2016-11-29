@@ -1,4 +1,4 @@
----redirect_from:   - recipes/bean-curd-egg-drop-dessert-soup.html
+---
 layout: post
 categories: recipes
 tags: [recipes, sweets, soups]
@@ -6,6 +6,8 @@ excerpt:
 title: "Bean Curd Egg-Drop Dessert Soup"
 image:
   feature: 49-1.jpg
+redirect_from: 
+  - recipes/bean-curd-egg-drop-dessert-soup.html
 ---
 
 I definitely have a sweet tooth when it comes to eating.  I've already shared with y'all my favorite Chinese dessert, Chinese Green Bean Soup, but this dried bean curd soup comes at a VERY close second.  It's a Cantonese style dessert, and I've had it throughout my childhood.  It's made with silky, thin sheets of soy along with thin strings of egg all flavored with a sugar syrup "soup." I want to say that I've hardly ever seen it at restaurants - usually they do the red bean or green bean soups, so I definitely think this is a recipe my mom brought over.  It's super easy.  You can put it together from start to finish in about 20 minutes.  
