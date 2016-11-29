@@ -1,4 +1,7 @@
----redirect_from:   - videos/bacon-bits-blt.html  - recipes/bacon-bits-blt.html
+---
+redirect_from: 
+  - videos/bacon-bits-blt.html
+  - recipes/bacon-bits-blt.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, lunch, meats, quick, blt]

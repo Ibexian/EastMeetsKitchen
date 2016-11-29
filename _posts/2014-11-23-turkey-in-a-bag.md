@@ -1,4 +1,6 @@
----redirect_from:   - blog/turkey-in-a-bag.html
+---
+redirect_from: 
+  - blog/turkey-in-a-bag.html
 layout: post
 categories: blog
 tags: [blog]

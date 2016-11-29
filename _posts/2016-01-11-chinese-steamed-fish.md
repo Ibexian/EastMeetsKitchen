@@ -1,4 +1,7 @@
----redirect_from:   - videos/chinese-steamed-fish.html  - recipes/chinese-steamed-fish.html
+---
+redirect_from: 
+  - videos/chinese-steamed-fish.html
+  - recipes/chinese-steamed-fish.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, steamed fish, meats]

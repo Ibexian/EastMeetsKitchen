@@ -1,4 +1,6 @@
----redirect_from:   - recipes/low-fat-pumpkin-coconut-cheesecake.html
+---
+redirect_from: 
+  - recipes/low-fat-pumpkin-coconut-cheesecake.html
 layout: post
 categories: recipes
 tags: [recipes, cheesecake, sweets, pumpkin, coconut]

@@ -1,4 +1,7 @@
----redirect_from:   - videos/vegan-toffee-panna-cotta.html  - recipes/vegan-toffee-panna-cotta.html
+---
+redirect_from: 
+  - videos/vegan-toffee-panna-cotta.html
+  - recipes/vegan-toffee-panna-cotta.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, sweets, panna cotta]

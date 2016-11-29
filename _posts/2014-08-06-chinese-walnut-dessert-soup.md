@@ -1,4 +1,7 @@
----redirect_from:   - videos/chinese-walnut-dessert-soup.html  - recipes/chinese-walnut-dessert-soup.html
+---
+redirect_from: 
+  - videos/chinese-walnut-dessert-soup.html
+  - recipes/chinese-walnut-dessert-soup.html
 layout: post
 categories: [videos, recipes]
 tags: [recipes, sweets, dessert, walnut soup]

@@ -1,4 +1,6 @@
----redirect_from:   - recipes/coffee-spiked-chocolate-blondies.html
+---
+redirect_from: 
+  - recipes/coffee-spiked-chocolate-blondies.html
 layout: post
 categories: recipes
 tags: [recipes, sweets, blondies, chocolate]

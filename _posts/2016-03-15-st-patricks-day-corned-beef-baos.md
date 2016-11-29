@@ -1,4 +1,7 @@
----redirect_from:   - videos/st-patricks-day-corned-beef-baos.html  - recipes/st-patricks-day-corned-beef-baos.html
+---
+redirect_from: 
+  - videos/st-patricks-day-corned-beef-baos.html
+  - recipes/st-patricks-day-corned-beef-baos.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, meats, bao]

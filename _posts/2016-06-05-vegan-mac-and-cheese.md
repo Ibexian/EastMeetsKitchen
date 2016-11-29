@@ -1,4 +1,7 @@
----redirect_from:   - videos/vegan-mac-and-cheese.html  - recipes/vegan-mac-and-cheese.html
+---
+redirect_from: 
+  - videos/vegan-mac-and-cheese.html
+  - recipes/vegan-mac-and-cheese.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, healthy, vegan, no-meats, macaroni and cheese, mac and cheese]

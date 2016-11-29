@@ -1,4 +1,6 @@
----redirect_from:   - recipes/crispy-and-fluffy-pajeon-korean-pancakes.html
+---
+redirect_from: 
+  - recipes/crispy-and-fluffy-pajeon-korean-pancakes.html
 layout: post
 categories: recipes
 tags: [recipes, nomeats, pancakes, korean, panjeon, scallion]

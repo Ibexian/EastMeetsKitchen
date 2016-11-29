@@ -1,4 +1,6 @@
----redirect_from:   - videos/momofuku-ando-instant-ramen-museum-cupnoodles-factory.html
+---
+redirect_from: 
+  - videos/momofuku-ando-instant-ramen-museum-cupnoodles-factory.html
 layout: post
 categories: videos
 tags: [videos, ramen, Japan]

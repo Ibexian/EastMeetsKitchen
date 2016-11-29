@@ -1,4 +1,7 @@
----redirect_from:   - videos/basic-vegan-yellow-cake.html  - recipes/basic-vegan-yellow-cake.html
+---
+redirect_from: 
+  - videos/basic-vegan-yellow-cake.html
+  - recipes/basic-vegan-yellow-cake.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, sweets, healthy, vegan, yellow cake]

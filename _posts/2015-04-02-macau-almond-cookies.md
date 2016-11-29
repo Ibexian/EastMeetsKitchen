@@ -1,4 +1,6 @@
----redirect_from:   - recipes/macau-almond-cookies.html
+---
+redirect_from: 
+  - recipes/macau-almond-cookies.html
 layout: post
 categories: recipes
 tags: [recipes, sweets, almond cookies]

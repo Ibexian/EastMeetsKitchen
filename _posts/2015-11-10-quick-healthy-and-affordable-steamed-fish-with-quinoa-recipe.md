@@ -1,4 +1,7 @@
----redirect_from:   - videos/quick-healthy-and-affordable-steamed-fish-with-quinoa-recipe.html  - recipes/quick-healthy-and-affordable-steamed-fish-with-quinoa-recipe.html
+---
+redirect_from: 
+  - videos/quick-healthy-and-affordable-steamed-fish-with-quinoa-recipe.html
+  - recipes/quick-healthy-and-affordable-steamed-fish-with-quinoa-recipe.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, quinoa, healthy, steamed fish]

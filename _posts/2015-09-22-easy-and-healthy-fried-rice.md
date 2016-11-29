@@ -1,4 +1,7 @@
----redirect_from:   - videos/easy-and-healthy-fried-rice.html  - recipes/easy-and-healthy-fried-rice.html
+---
+redirect_from: 
+  - videos/easy-and-healthy-fried-rice.html
+  - recipes/easy-and-healthy-fried-rice.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, healthy, fried rice, riceandnoodles]

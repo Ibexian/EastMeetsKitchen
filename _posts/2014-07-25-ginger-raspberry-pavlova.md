@@ -1,4 +1,6 @@
----redirect_from:   - recipes/ginger-raspberry-pavlova.html
+---
+redirect_from: 
+  - recipes/ginger-raspberry-pavlova.html
 layout: post
 categories: recipes
 tags: [recipes]

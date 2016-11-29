@@ -1,4 +1,6 @@
----redirect_from:   - recipes/fried-dough-pizza.html
+---
+redirect_from: 
+  - recipes/fried-dough-pizza.html
 layout: post
 categories: recipes
 tags: [recipes, nomeats, pizza, dough, fried dough]

@@ -1,4 +1,6 @@
----redirect_from:   - recipes/fig-and-prosciutto-sablee-cookies.html
+---
+redirect_from: 
+  - recipes/fig-and-prosciutto-sablee-cookies.html
 layout: post
 categories: recipes
 tags: [recipes]

@@ -1,4 +1,6 @@
----redirect_from:   - recipes/world-cup-2014-8-course-meal.html
+---
+redirect_from: 
+  - recipes/world-cup-2014-8-course-meal.html
 layout: post
 categories: recipes
 tags: [recipes, worldly, meats, world cup]

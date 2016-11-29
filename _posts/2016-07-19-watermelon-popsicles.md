@@ -1,4 +1,7 @@
----redirect_from:   - videos/watermelon-popsicles.html  - recipes/watermelon-popsicles.html
+---
+redirect_from: 
+  - videos/watermelon-popsicles.html
+  - recipes/watermelon-popsicles.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, sweets, popsicles, watermelon]

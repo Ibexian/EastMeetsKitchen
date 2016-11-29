@@ -1,4 +1,7 @@
----redirect_from:   - videos/1-minute-chocolate-nutella-cupcake.html  - recipes/1-minute-chocolate-nutella-cupcake.html
+---
+redirect_from: 
+  - videos/1-minute-chocolate-nutella-cupcake.html
+  - recipes/1-minute-chocolate-nutella-cupcake.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, sweets, chocolate, nutella]

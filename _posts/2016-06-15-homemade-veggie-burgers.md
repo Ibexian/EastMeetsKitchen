@@ -1,4 +1,6 @@
----redirect_from:   - recipes/homemade-veggie-burgers.html
+---
+redirect_from: 
+  - recipes/homemade-veggie-burgers.html
 layout: post
 categories: recipes
 tags: [recipes, nomeats, veggie burgers, burger, vegetarian]

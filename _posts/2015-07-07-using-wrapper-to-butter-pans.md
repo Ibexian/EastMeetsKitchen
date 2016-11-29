@@ -1,4 +1,6 @@
----redirect_from:   - tips/using-wrapper-to-butter-pans.html
+---
+redirect_from: 
+  - tips/using-wrapper-to-butter-pans.html
 layout: post
 categories: tips
 tags: [tips]

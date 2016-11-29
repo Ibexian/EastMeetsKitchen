@@ -1,4 +1,7 @@
----redirect_from:   - videos/chinese-cheung-fun-with-peanut-butter-and-hoisin-sauce.html  - recipes/chinese-cheung-fun-with-peanut-butter-and-hoisin-sauce.html
+---
+redirect_from: 
+  - videos/chinese-cheung-fun-with-peanut-butter-and-hoisin-sauce.html
+  - recipes/chinese-cheung-fun-with-peanut-butter-and-hoisin-sauce.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, nomeats, cheung fun, noodle roll, riceandnoodles]

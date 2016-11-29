@@ -1,4 +1,7 @@
----redirect_from:   - videos/vegan-aquafaba-pumpkin-cake.html  - recipes/vegan-aquafaba-pumpkin-cake.html
+---
+redirect_from: 
+  - videos/vegan-aquafaba-pumpkin-cake.html
+  - recipes/vegan-aquafaba-pumpkin-cake.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, sweet, vegan, pumpkin cake, thanksgiving]

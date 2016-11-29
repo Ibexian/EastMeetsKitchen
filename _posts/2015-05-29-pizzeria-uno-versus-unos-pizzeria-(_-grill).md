@@ -1,4 +1,6 @@
----redirect_from:   - blog/pizzeria-uno-versus-unos-pizzeria-(_-grill).html
+---
+redirect_from: 
+  - blog/pizzeria-uno-versus-unos-pizzeria-(_-grill).html
 layout: post
 categories: blog
 tags: [blog]

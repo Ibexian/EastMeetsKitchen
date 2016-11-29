@@ -1,4 +1,6 @@
----redirect_from:   - recipes/coconut-green-bean-nian-gao---new-year-cake.html
+---
+redirect_from: 
+  - recipes/coconut-green-bean-nian-gao---new-year-cake.html
 layout: post
 categories: recipes
 tags: [recipes, sweets, nian gao, mung beans]

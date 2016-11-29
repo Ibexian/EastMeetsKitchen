@@ -1,4 +1,6 @@
----redirect_from:   - recipes/chinese-steamed-ginger-egg-custard.html
+---
+redirect_from: 
+  - recipes/chinese-steamed-ginger-egg-custard.html
 layout: post
 categories: recipes
 tags: [recipes, sweets, egg custard, ginger]

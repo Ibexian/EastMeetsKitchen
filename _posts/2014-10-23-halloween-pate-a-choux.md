@@ -1,4 +1,6 @@
----redirect_from:   - recipes/halloween-pate-a-choux.html
+---
+redirect_from: 
+  - recipes/halloween-pate-a-choux.html
 layout: post
 categories: recipes
 tags: [recipes, pate a choux, sweets]

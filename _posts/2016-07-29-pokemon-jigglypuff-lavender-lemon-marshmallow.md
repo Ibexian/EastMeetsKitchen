@@ -1,4 +1,7 @@
----redirect_from:   - videos/pokemon-jigglypuff-lavender-lemon-marshmallow.html  - recipes/pokemon-jigglypuff-lavender-lemon-marshmallow.html
+---
+redirect_from: 
+  - videos/pokemon-jigglypuff-lavender-lemon-marshmallow.html
+  - recipes/pokemon-jigglypuff-lavender-lemon-marshmallow.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, sweets, pokemon, jigglypuff, marshmallows]

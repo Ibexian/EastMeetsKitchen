@@ -1,4 +1,7 @@
----redirect_from:   - videos/taiwanese-liang-mian-cold-noodles-with-peanut-sauce.html  - recipes/taiwanese-liang-mian-cold-noodles-with-peanut-sauce.html
+---
+redirect_from: 
+  - videos/taiwanese-liang-mian-cold-noodles-with-peanut-sauce.html
+  - recipes/taiwanese-liang-mian-cold-noodles-with-peanut-sauce.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, riceandnoodles, noodles]

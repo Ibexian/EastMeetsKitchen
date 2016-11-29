@@ -1,4 +1,6 @@
----redirect_from:   - recipes/less-sugar-blueberry-avocado-pound-cake.html
+---
+redirect_from: 
+  - recipes/less-sugar-blueberry-avocado-pound-cake.html
 layout: post
 categories: recipes
 tags: [recipes]

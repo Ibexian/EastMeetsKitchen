@@ -1,4 +1,7 @@
----redirect_from:   - videos/vegan-apple-toffee-crumble.html  - recipes/vegan-apple-toffee-crumble.html
+---
+redirect_from: 
+  - videos/vegan-apple-toffee-crumble.html
+  - recipes/vegan-apple-toffee-crumble.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, sweets, apple crumble, apple pie, stevia]

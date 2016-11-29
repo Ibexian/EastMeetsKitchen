@@ -1,4 +1,7 @@
----redirect_from:   - videos/chinese-bbq-pork-cha-siu.html  - recipes/chinese-bbq-pork-cha-siu.html
+---
+redirect_from: 
+  - videos/chinese-bbq-pork-cha-siu.html
+  - recipes/chinese-bbq-pork-cha-siu.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, cha siu, meats, pork, chinese bbq, bbq]

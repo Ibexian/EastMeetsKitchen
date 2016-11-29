@@ -1,4 +1,7 @@
----redirect_from:   - videos/tuna-pesto-pasta.html  - recipes/tuna-pesto-pasta.html
+---
+redirect_from: 
+  - videos/tuna-pesto-pasta.html
+  - recipes/tuna-pesto-pasta.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, meats, lunch, quick, pasta, riceandnoodles]

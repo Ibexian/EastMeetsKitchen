@@ -1,4 +1,6 @@
----redirect_from:   - recipes/japanese-green-tea-cheesecake.html
+---
+redirect_from: 
+  - recipes/japanese-green-tea-cheesecake.html
 layout: post
 categories: recipes
 tags: [recipes]

@@ -1,4 +1,6 @@
----redirect_from:   - recipes/shitake-citrus-haddock.html
+---
+redirect_from: 
+  - recipes/shitake-citrus-haddock.html
 layout: post
 categories: recipes
 tags: [recipes, meats, haddock, fish, shitake, citrus]

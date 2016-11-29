@@ -1,4 +1,6 @@
----redirect_from:   - recipes/coconut-put-zai-go-pudding-cake.html
+---
+redirect_from: 
+  - recipes/coconut-put-zai-go-pudding-cake.html
 layout: post
 categories: recipes
 tags: [recipes, sweets, coconut]

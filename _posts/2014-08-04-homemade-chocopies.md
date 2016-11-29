@@ -1,4 +1,6 @@
----redirect_from:   - recipes/homemade-chocopies.html
+---
+redirect_from: 
+  - recipes/homemade-chocopies.html
 layout: post
 categories: recipes
 tags: [recipes]

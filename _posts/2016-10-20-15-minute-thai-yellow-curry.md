@@ -1,4 +1,7 @@
----redirect_from:   - videos/15-minute-thai-yellow-curry.html  - recipes/15-minute-thai-yellow-curry.html
+---
+redirect_from: 
+  - videos/15-minute-thai-yellow-curry.html
+  - recipes/15-minute-thai-yellow-curry.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, nomeats, yellow curry, thai, curry, riceandnoodles]

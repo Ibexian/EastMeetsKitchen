@@ -1,4 +1,7 @@
----redirect_from:   - videos/green-tea-tofu-mousse-cake.html  - recipes/green-tea-tofu-mousse-cake.html
+---
+redirect_from: 
+  - videos/green-tea-tofu-mousse-cake.html
+  - recipes/green-tea-tofu-mousse-cake.html
 layout: post
 categories: [videos, recipes]
 tags: [recipes, sweets, green tea, matcha, mousse, cake]

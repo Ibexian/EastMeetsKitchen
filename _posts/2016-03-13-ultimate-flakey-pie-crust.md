@@ -1,4 +1,7 @@
----redirect_from:   - videos/ultimate-flakey-pie-crust.html  - recipes/ultimate-flakey-pie-crust.html
+---
+redirect_from: 
+  - videos/ultimate-flakey-pie-crust.html
+  - recipes/ultimate-flakey-pie-crust.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, sweets, pie, crust]

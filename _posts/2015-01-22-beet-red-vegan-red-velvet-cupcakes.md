@@ -1,4 +1,6 @@
----redirect_from:   - recipes/beet-red-vegan-red-velvet-cupcakes.html
+---
+redirect_from: 
+  - recipes/beet-red-vegan-red-velvet-cupcakes.html
 layout: post
 categories: recipes
 tags: [recipes, sweets, vegan, beets, cupcakes]

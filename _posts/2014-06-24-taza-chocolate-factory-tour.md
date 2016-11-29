@@ -1,4 +1,4 @@
----redirect_from:   - blog/taza-chocolate-factory-tour.html
+---
 layout: post
 categories: blog
 tags: [blog, chocolate, sweets, tour]
@@ -6,6 +6,8 @@ excerpt: "I don't know how many of you have heard of Taza Chocolate, but up in C
 title: "Taza Chocolate Factory Tour"
 image:
   feature: 81-1.jpg
+redirect_from: 
+  - blog/taza-chocolate-factory-tour.html
 ---
 
 I don't know how many of you have heard of Taza Chocolate, but up in Somerville and Cambridge, they've become a pretty big deal among the hip chocolate crowd.  I've  seen Taza Chocolates at airports and according to my tour guide, Taza is actually sold in all 50 states.  In addition, the brand is sold internationally in countries including Switzerland, and even more humbling, Mexico.

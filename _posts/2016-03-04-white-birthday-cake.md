@@ -1,4 +1,7 @@
----redirect_from:   - videos/white-birthday-cake.html  - recipes/white-birthday-cake.html
+---
+redirect_from: 
+  - videos/white-birthday-cake.html
+  - recipes/white-birthday-cake.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, sweets, cake, birthday cake]

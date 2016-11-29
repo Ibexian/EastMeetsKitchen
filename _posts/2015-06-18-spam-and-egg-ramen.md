@@ -1,4 +1,6 @@
----redirect_from:   - recipes/spam-and-egg-ramen.html
+---
+redirect_from: 
+  - recipes/spam-and-egg-ramen.html
 layout: post
 categories: recipes
 tags: [recipes, riceandnoodles, meats, ramen, spam, eggs]

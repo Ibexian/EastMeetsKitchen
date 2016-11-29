@@ -1,4 +1,7 @@
----redirect_from:   - videos/fluffy-scallion-pancakes-'shou-zhua-bing'.html  - recipes/fluffy-scallion-pancakes-'shou-zhua-bing'.html
+---
+redirect_from: 
+  - videos/fluffy-scallion-pancakes-'shou-zhua-bing'.html
+  - recipes/fluffy-scallion-pancakes-'shou-zhua-bing'.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, nomeats, scallion pancake]

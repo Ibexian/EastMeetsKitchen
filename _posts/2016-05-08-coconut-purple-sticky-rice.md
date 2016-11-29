@@ -1,4 +1,7 @@
----redirect_from:   - videos/coconut-purple-sticky-rice.html  - recipes/coconut-purple-sticky-rice.html
+---
+redirect_from: 
+  - videos/coconut-purple-sticky-rice.html
+  - recipes/coconut-purple-sticky-rice.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, sweets, coconut, purple rice, sticky rice]

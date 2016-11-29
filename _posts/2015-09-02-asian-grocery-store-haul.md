@@ -1,4 +1,6 @@
----redirect_from:   - videos/asian-grocery-store-haul.html
+---
+redirect_from: 
+  - videos/asian-grocery-store-haul.html
 layout: post
 categories: videos
 tags: [videos]

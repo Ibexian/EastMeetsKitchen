@@ -1,4 +1,7 @@
----redirect_from:   - videos/back-to-school-leftover-pizza-omelette-video.html  - recipes/back-to-school-leftover-pizza-omelette-video.html
+---
+redirect_from: 
+  - videos/back-to-school-leftover-pizza-omelette-video.html
+  - recipes/back-to-school-leftover-pizza-omelette-video.html
 layout: post
 categories: [videos, recipes]
 tags: [videos]

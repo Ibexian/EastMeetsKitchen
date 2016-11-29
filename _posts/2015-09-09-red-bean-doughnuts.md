@@ -1,4 +1,7 @@
----redirect_from:   - videos/red-bean-doughnuts.html  - recipes/red-bean-doughnuts.html
+---
+redirect_from: 
+  - videos/red-bean-doughnuts.html
+  - recipes/red-bean-doughnuts.html
 layout: post
 categories: [videos, recipes]
 tags: [recipes, sweets, red bean, donuts, doughnuts]

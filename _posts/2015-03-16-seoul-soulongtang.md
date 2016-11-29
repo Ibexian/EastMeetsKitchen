@@ -1,4 +1,6 @@
----redirect_from:   - blog/seoul-soulongtang.html
+---
+redirect_from: 
+  - blog/seoul-soulongtang.html
 layout: post
 categories: blog
 tags: [blog]

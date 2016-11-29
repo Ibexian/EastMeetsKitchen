@@ -1,4 +1,6 @@
----redirect_from:   - recipes/green-tea-baumkuchen.html
+---
+redirect_from: 
+  - recipes/green-tea-baumkuchen.html
 layout: post
 categories: recipes
 tags: [recipes, sweets, green tea, baumkuchen, German]

@@ -1,4 +1,7 @@
----redirect_from:   - videos/chorizo-seitan-burger.html  - recipes/chorizo-seitan-burger.html
+---
+redirect_from: 
+  - videos/chorizo-seitan-burger.html
+  - recipes/chorizo-seitan-burger.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, nomeats, chorizo, seitan, vegan]

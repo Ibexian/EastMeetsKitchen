@@ -1,4 +1,6 @@
----redirect_from:   - blog/my-visit-to-brass-union.html
+---
+redirect_from: 
+  - blog/my-visit-to-brass-union.html
 layout: post
 categories: blog
 tags: [blog]

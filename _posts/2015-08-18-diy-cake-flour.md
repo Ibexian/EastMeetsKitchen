@@ -1,4 +1,6 @@
----redirect_from:   - tips/diy-cake-flour.html
+---
+redirect_from: 
+  - tips/diy-cake-flour.html
 layout: post
 categories: tips
 tags: [tips]

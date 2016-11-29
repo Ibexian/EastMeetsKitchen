@@ -1,4 +1,6 @@
----redirect_from:   - videos/chinese-paper-wrapped-cakes.html
+---
+redirect_from: 
+  - videos/chinese-paper-wrapped-cakes.html
 layout: post
 categories: videos
 tags: [videos, sweets, sponge cake]

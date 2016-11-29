@@ -1,4 +1,7 @@
----redirect_from:   - videos/chinese-turkey-and-tofu.html  - recipes/chinese-turkey-and-tofu.html
+---
+redirect_from: 
+  - videos/chinese-turkey-and-tofu.html
+  - recipes/chinese-turkey-and-tofu.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, turkey, tofu]

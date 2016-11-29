@@ -1,4 +1,7 @@
----redirect_from:   - videos/chinese-chive-dumpling-pockets-recipe.html  - recipes/chinese-chive-dumpling-pockets-recipe.html
+---
+redirect_from: 
+  - videos/chinese-chive-dumpling-pockets-recipe.html
+  - recipes/chinese-chive-dumpling-pockets-recipe.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, meats, dumplings, chives]

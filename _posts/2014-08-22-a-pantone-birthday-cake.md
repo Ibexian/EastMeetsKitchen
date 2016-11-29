@@ -1,4 +1,6 @@
----redirect_from:   - blog/a-pantone-birthday-cake.html
+---
+redirect_from: 
+  - blog/a-pantone-birthday-cake.html
 layout: post
 categories: blog
 tags: [blog]

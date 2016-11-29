@@ -1,4 +1,7 @@
----redirect_from:   - videos/vegan-southern-cornbread.html  - recipes/vegan-southern-cornbread.html
+---
+redirect_from: 
+  - videos/vegan-southern-cornbread.html
+  - recipes/vegan-southern-cornbread.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, sweet, nomeat, vegan, cornbread, corn, southern]

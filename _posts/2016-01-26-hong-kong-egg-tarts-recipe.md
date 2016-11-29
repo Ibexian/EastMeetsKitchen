@@ -1,4 +1,7 @@
----redirect_from:   - recipes/hong-kong-egg-tarts-recipe.html  - videos/hong-kong-egg-tarts-recipe.html
+---
+redirect_from: 
+  - recipes/hong-kong-egg-tarts-recipe.html
+  - videos/hong-kong-egg-tarts-recipe.html
 layout: post
 categories: [recipes, videos]
 tags: [videos, egg tarts, sweets, pastries]

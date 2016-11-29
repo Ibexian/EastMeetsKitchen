@@ -1,4 +1,7 @@
----redirect_from:   - videos/vegan-southern-buttermilk-biscuits.html  - recipes/vegan-southern-buttermilk-biscuits.html
+---
+redirect_from: 
+  - videos/vegan-southern-buttermilk-biscuits.html
+  - recipes/vegan-southern-buttermilk-biscuits.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, sweets, apple crumble, apple pie, stevia]

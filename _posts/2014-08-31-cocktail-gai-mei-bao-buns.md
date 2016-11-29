@@ -1,4 +1,6 @@
----redirect_from:   - recipes/cocktail-gai-mei-bao-buns.html
+---
+redirect_from: 
+  - recipes/cocktail-gai-mei-bao-buns.html
 layout: post
 categories: recipes
 tags: [recipes]

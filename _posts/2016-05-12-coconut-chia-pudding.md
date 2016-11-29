@@ -1,4 +1,7 @@
----redirect_from:   - videos/coconut-chia-pudding.html  - recipes/coconut-chia-pudding.html
+---
+redirect_from: 
+  - videos/coconut-chia-pudding.html
+  - recipes/coconut-chia-pudding.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, sweets, healthy, coconut, chia seed, vegan]

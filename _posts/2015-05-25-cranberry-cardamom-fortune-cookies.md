@@ -1,4 +1,6 @@
----redirect_from:   - recipes/cranberry-cardamom-fortune-cookies.html
+---
+redirect_from: 
+  - recipes/cranberry-cardamom-fortune-cookies.html
 layout: post
 categories: recipes
 tags: [recipes, sweets, fortune cookies, cardamom, cranberry]

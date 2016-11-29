@@ -1,4 +1,7 @@
----redirect_from:   - videos/chinese-egg-tart-shells.html  - recipes/chinese-egg-tart-shells.html
+---
+redirect_from: 
+  - videos/chinese-egg-tart-shells.html
+  - recipes/chinese-egg-tart-shells.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, sweets, egg tarts, shells]

@@ -1,4 +1,6 @@
----redirect_from:   - recipes/stir-fry-curry-ramen.html
+---
+redirect_from: 
+  - recipes/stir-fry-curry-ramen.html
 layout: post
 categories: recipes
 tags: [recipes, riceandnoodles, ramen, curry, stir-fry]

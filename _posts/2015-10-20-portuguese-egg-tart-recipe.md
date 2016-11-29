@@ -1,4 +1,7 @@
----redirect_from:   - videos/portuguese-egg-tart-recipe.html  - recipes/portuguese-egg-tart-recipe.html
+---
+redirect_from: 
+  - videos/portuguese-egg-tart-recipe.html
+  - recipes/portuguese-egg-tart-recipe.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, sweets, Portuguese, egg tarts]

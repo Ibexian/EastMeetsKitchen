@@ -1,4 +1,6 @@
----redirect_from:   - recipes/ma-lai-go---chinese-steamed-sponge-cake.html
+---
+redirect_from: 
+  - recipes/ma-lai-go---chinese-steamed-sponge-cake.html
 layout: post
 categories: recipes
 tags: [recipes, sweets, steamed cake, cake]

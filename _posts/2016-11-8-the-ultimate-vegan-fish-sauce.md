@@ -1,4 +1,7 @@
----redirect_from:   - videos/the-ultimate-vegan-fish-sauce.html  - recipes/the-ultimate-vegan-fish-sauce.html
+---
+redirect_from: 
+  - videos/the-ultimate-vegan-fish-sauce.html
+  - recipes/the-ultimate-vegan-fish-sauce.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, vegan, fish sauce, sauces]

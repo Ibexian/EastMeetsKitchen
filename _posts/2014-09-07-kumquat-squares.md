@@ -1,4 +1,6 @@
----redirect_from:   - recipes/kumquat-squares.html
+---
+redirect_from: 
+  - recipes/kumquat-squares.html
 layout: post
 categories: recipes
 tags: [recipes, sweets, lemon squares, lemon bars, kumquat]

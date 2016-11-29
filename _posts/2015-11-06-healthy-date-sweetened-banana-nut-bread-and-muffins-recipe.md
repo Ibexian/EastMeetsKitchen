@@ -1,4 +1,7 @@
----redirect_from:   - videos/healthy-date-sweetened-banana-nut-bread-and-muffins-recipe.html  - recipes/healthy-date-sweetened-banana-nut-bread-and-muffins-recipe.html
+---
+redirect_from: 
+  - videos/healthy-date-sweetened-banana-nut-bread-and-muffins-recipe.html
+  - recipes/healthy-date-sweetened-banana-nut-bread-and-muffins-recipe.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, sweets,banana nut bread, muffins]

@@ -1,4 +1,7 @@
----redirect_from:   - videos/green-pea-hummus.html  - recipes/green-pea-hummus.html
+---
+redirect_from: 
+  - videos/green-pea-hummus.html
+  - recipes/green-pea-hummus.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, healthy, vegan, green pea, hummus]

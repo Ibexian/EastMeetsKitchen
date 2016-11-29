@@ -1,4 +1,7 @@
----redirect_from:   - videos/trader-joes-japanese-fried-rice.html  - recipes/trader-joes-japanese-fried-rice.html
+---
+redirect_from: 
+  - videos/trader-joes-japanese-fried-rice.html
+  - recipes/trader-joes-japanese-fried-rice.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, healthy, nomeats, Japanese, fried rice]

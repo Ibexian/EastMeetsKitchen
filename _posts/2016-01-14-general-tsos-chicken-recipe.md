@@ -1,4 +1,7 @@
----redirect_from:   - videos/general-tsos-chicken-recipe.html  - recipes/general-tsos-chicken-recipe.html
+---
+redirect_from: 
+  - videos/general-tsos-chicken-recipe.html
+  - recipes/general-tsos-chicken-recipe.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, meats, General Tso's, chicken]

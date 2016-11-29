@@ -1,4 +1,6 @@
----redirect_from:   - tips/grating-your-butter.html
+---
+redirect_from: 
+  - tips/grating-your-butter.html
 layout: post
 categories: tips
 tags: [tips]

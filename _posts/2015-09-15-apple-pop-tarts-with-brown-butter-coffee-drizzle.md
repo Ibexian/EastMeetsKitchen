@@ -1,4 +1,6 @@
----redirect_from:   - recipes/apple-pop-tarts-with-brown-butter-coffee-drizzle.html
+---
+redirect_from: 
+  - recipes/apple-pop-tarts-with-brown-butter-coffee-drizzle.html
 layout: post
 categories: recipes
 tags: [recipes, sweets, apples, pop tarts, brown butter]

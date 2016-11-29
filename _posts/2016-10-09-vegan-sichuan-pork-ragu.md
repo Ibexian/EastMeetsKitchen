@@ -1,4 +1,7 @@
----redirect_from:   - videos/vegan-sichuan-pork-ragu.html  - recipes/vegan-sichuan-pork-ragu.html
+---
+redirect_from: 
+  - videos/vegan-sichuan-pork-ragu.html
+  - recipes/vegan-sichuan-pork-ragu.html
 layout: post
 categories: [videos, recipes]
 tags: [videos, nomeats, pork ragu, sichuan, lucky peach, vegan]

@@ -1,4 +1,6 @@
----redirect_from:   - videos/apple-pop-tarts-with-brown-butter-coffee-drizzle-video.html
+---
+redirect_from: 
+  - videos/apple-pop-tarts-with-brown-butter-coffee-drizzle-video.html
 layout: post
 categories: videos
 tags: [videos, sweets, apples, pop tarts, brown butter]

@@ -1,4 +1,6 @@
----redirect_from:   - blog/the-new-union-square-donuts-opens.html
+---
+redirect_from: 
+  - blog/the-new-union-square-donuts-opens.html
 layout: post
 categories: blog
 tags: [blog]
