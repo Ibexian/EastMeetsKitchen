@@ -7,7 +7,7 @@ categories: [videos, recipes]
 tags: [videos, vegan, fish sauce, sauces]
 excerpt: 
 title: "The Ultimate Vegan Fish Sauce"
-feature_video: 
+feature_video: https://www.youtube.com/embed/yp40NIuWq80?rel=0
 image:
   feature: 240-1.jpg
 ---
