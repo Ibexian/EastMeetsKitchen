@@ -59,7 +59,7 @@ Tip: A word of caution is be careful of your hands when pressing the popcorn bal
 ### Directions
 
 1. Heat vegetable oil in a pan and pop popcorn according to package instructions.
-2. In a pot, heat Earth Balance, brown sugar, corn syrup over medium high heat until a candy thermometer reads 240 degrees Fahrenheit.  Turn heat off and mix in the salt, vanilla, instant coffee and baking soda. 
+2. In a pot, heat Earth Balance, brown sugar, corn syrup over medium high heat until a candy thermometer reads 240 degrees Fahrenheit, which will be about 3 minutes.  Turn heat off and mix in the salt, vanilla, instant coffee and baking soda. 
 3. Pour caramel mixture into the warm popcorn and stir until all the popcorn is coated.
 4. Wearing disposable plastic gloves, carefully press the popcorn into 4-inch diameter balls.  Let cool on a sheet pan with parchment paper.
 5. Sprinkle with sea salt.
