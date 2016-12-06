@@ -17,15 +17,21 @@ Tip: A word of caution is be careful of your hands when pressing the popcorn bal
 
 <figure class="half">
     <img src="/images/249-2.jpg">
-    <img src="/images/249-2.jpg">
+    <img src="/images/249-3.jpg">
 </figure> 
 
 <figure>
-    <img src="/images/249-3.jpg">
-</figure> <figure>
     <img src="/images/249-4.jpg">
 </figure> 
 
+<figure class="half">
+    <img src="/images/249-5.jpg">
+    <img src="/images/249-6.jpg">
+</figure> 
+
+<figure>
+    <img src="/images/249-1.jpg">
+</figure> 
 
 <figure class="ingredients" markdown="1">
 
