@@ -13,6 +13,10 @@ When I think Christmas I think caramel popcorn. And when I think fun DIY gifts r
 
 In this DIY gift, I wrap the popcorn balls in parchment paper and tie the ends with ribbon.  You could just put it in a tin can and call it a day and it would still be a great.  I kept mine to a pretty basic recipe (though I did add some coffee granules to elevate the burnt butter/toffee flavor), but you could add nuts, dried fruit or even drizzle the popcorn balls with chocolate in the end.
 
+<figure>
+    <img src="/images/249-5.jpg">
+</figure> 
+
 Tip: A word of caution is be careful of your hands when pressing the popcorn balls into a circle.  Because you have to do it when they are fairly warm, make sure to have plastic gloves (the ones you see the man or woman at the deli or bakery counter wear).  The gloves will somewhat shield you from the heat, but also keep the balls from sticking to your hands.
 
 <figure class="half">
@@ -24,8 +28,7 @@ Tip: A word of caution is be careful of your hands when pressing the popcorn bal
     <img src="/images/249-4.jpg">
 </figure> 
 
-<figure class="half">
-    <img src="/images/249-5.jpg">
+<figure>
     <img src="/images/249-6.jpg">
 </figure> 
 
