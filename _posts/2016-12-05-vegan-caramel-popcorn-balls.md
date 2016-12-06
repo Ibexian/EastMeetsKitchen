@@ -11,7 +11,7 @@ image:
 
 When I think Christmas I think caramel popcorn. And when I think fun DIY gifts related to such memories, I think giant caramel popcorn balls.  I think they are not the easiest to eat, but they are one of the funnest.
 
-In this DIY gift, I wrap the popcorn balls in parchment paper and tie the ends with ribbon.  You could just put it in a tin can and call it a day and it would still be a great.  I kept mine to a pretty basic recipe (though I did add some coffee granules to elevate the burnt butter/toffee flavor), but you could add nuts, dried fruit or even drizzle the popcorn balls with chocolate in the end.
+In this DIY gift, I wrap the popcorn balls in parchment paper and tie the ends with ribbon.  You could just put it in a tin can and call it a day and it would still be great.  I kept mine to a pretty basic recipe (though I did add some coffee granules to elevate the burnt butter/toffee flavor), but you could add nuts, dried fruit or even drizzle the popcorn balls with chocolate in the end.
 
 <figure>
     <img src="/images/249-5.jpg">
