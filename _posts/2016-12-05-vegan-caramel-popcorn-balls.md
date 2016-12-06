@@ -38,9 +38,7 @@ Tip: A word of caution is be careful of your hands when pressing the popcorn bal
 
 <figure class="ingredients" markdown="1">
 
-### DIY Vegan Chocolate Cake Mix
-
-Vegan Caramel Popcorn Balls
+### Vegan Caramel Popcorn Balls
 
 (Makes 5 Medium-Sized Popcorn Balls)
 
