@@ -17,7 +17,7 @@ In this DIY gift, I wrap the popcorn balls in parchment paper and tie the ends w
     <img src="/images/249-5.jpg">
 </figure> 
 
-Tip: A word of caution is be careful of your hands when pressing the popcorn balls into a circle.  Because you have to do it when they are fairly warm, make sure to have plastic gloves (the ones you see the man or woman at the deli or bakery counter wear).  The gloves will somewhat shield you from the heat, but also keep the balls from sticking to your hands.
+Tip: A word of caution is be careful of your hands when pressing the popcorn balls into a circle.  Because you have to do it when they are fairly warm, make sure to have plastic gloves (the ones you see the man or woman at the deli or bakery counters wear).  The gloves will somewhat shield you from the heat, but also keep the balls from sticking to your hands.
 
 <figure class="half">
     <img src="/images/249-2.jpg">
