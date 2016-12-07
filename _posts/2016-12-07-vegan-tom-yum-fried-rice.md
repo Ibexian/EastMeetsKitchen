@@ -4,7 +4,7 @@ categories: [videos, recipes]
 tags: [videos, riceandnoodles, vegan, tom yum, tom yom, fried rice]
 excerpt: 
 title: "Vegan Tom Yum Fried Rice"
-feature_video: https://www.youtube.com/embed/T8QMSBOhuvA?rel=0
+feature_video: https://www.youtube.com/embed/aNuRQFdw7ZM?rel=0
 image:
   feature: 250-1.jpg
 ---
