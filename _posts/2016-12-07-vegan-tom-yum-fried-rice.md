@@ -17,7 +17,7 @@ Fast forward to a couple weeks back when I was over at a Thai friend's place for
     <img src="/images/250-6.jpg">
 </figure> 
 
-I did have it in its more traditional form - with pieces of salted fish.  So you can imagine these flavor bursts I was getting biting into crunchy pieces of lemongrass (which by the way I thought was always more for just the flavor and the stalk was discarded afterwards, but never for eating), julienned strips of kafir lime leaves and crunchy and salty pieces of fish in addition to the fluffy grains of rices I was eating invigorated with tom yum soup flavor.  Magic!
+I did have it in its more traditional form - with pieces of salted fish.  So you can imagine these flavor bursts I was getting biting into crunchy pieces of lemongrass (which by the way I thought was always more for just the flavor and the stalk was discarded afterwards, but never for eating), julienned strips of kaffir lime leaves and crunchy and salty pieces of fish in addition to the fluffy grains of rice I was eating invigorated with tom yum soup flavor.  Magic!
 
 <figure>
     <img src="/images/250-5.jpg">
