@@ -4,7 +4,7 @@ categories: [videos, recipes]
 tags: [videos, sweets, vegan, spiced nuts]
 excerpt: 
 title: "Aquafaba Spiced Nuts"
-feature_video: https://www.youtube.com/embed/aNuRQFdw7ZM?rel=0
+feature_video: https://www.youtube.com/embed/dLyc4woYBNk?rel=0
 image:
   feature: 253-1.jpg
 ---
