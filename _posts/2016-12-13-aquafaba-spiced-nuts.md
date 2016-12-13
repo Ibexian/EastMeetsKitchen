@@ -16,7 +16,7 @@ So the neat thing about a spiced nut recipe is that it actually uses whipped egg
 I decided to use [aquafaba](http://eastmeetskitchen.com/videos/blog/what-is-aquafaba/) as the egg white substitute and it was able to produce the same results.  The only thing is you probably need to whip more aquafaba than necessary since the amount you need is so small.  Don't flood the nuts with the aquafaba.  Just use enough to lightly coat the nuts and discard the rest.  Otherwise, when the aquafaba combines with the sugar in the spice mixture, there is more of a tendency to burn in the oven.
 
 <figure>
-    <img src="/images/253-2.jpg">
+    <img src="/images/253-3.jpg">
 </figure> 
 
 <figure>
