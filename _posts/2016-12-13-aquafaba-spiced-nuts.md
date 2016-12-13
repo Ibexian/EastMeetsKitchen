@@ -31,15 +31,15 @@ I decided to use [aquafaba](http://eastmeetskitchen.com/videos/blog/what-is-aqua
 
 (makes 2 cups)
 
-1 cup walnuts
-1/2 cup almonds
-1/2 cup cashews
-1/4 cup sugar
-1 1/2 teaspoons salt
-1 teaspoon paprika
-1/4 teaspoon cayenne
-1 teaspoon cinnamon
-1/4 cup reduced aquafaba
+- 1 cup walnuts
+- 1/2 cup almonds
+- 1/2 cup cashews
+- 1/4 cup sugar
+- 1 1/2 teaspoons salt
+- 1 teaspoon paprika
+- 1/4 teaspoon cayenne
+- 1 teaspoon cinnamon
+- 1/4 cup reduced aquafaba
 
 </figure>
 
