@@ -20,7 +20,7 @@ I decided to use [aquafaba](http://eastmeetskitchen.com/videos/blog/what-is-aqua
 </figure> 
 
 <figure>
-    <img src="/images/253-4.jpg">
+    <img src="/images/253-1.jpg">
 </figure> 
 
 
