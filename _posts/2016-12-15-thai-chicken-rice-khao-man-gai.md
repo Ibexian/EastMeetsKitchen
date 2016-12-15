@@ -4,7 +4,7 @@ categories: [videos, recipes]
 tags: [videos, vegan, thai, chicken rice, khao man gai]
 excerpt: 
 title: "Vegan Thai Chicken Rice - Khao Man Gai"
-feature_video: https://www.youtube.com/embed/dLyc4woYBNk?rel=0
+feature_video: https://www.youtube.com/embed/qnD8Zgt309w?rel=0
 image:
   feature: 254-1.jpg
 ---
