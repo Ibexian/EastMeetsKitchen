@@ -72,6 +72,7 @@ Chicken + Broth:
 - 8 ounce package vegan chicken less strips, rinsed
 
 Rice:
+
 - 2 cups rice, uncooked
 - 4-5 slices of ginger
 - 3-4 garlic cloves, peeled and sliced
@@ -79,6 +80,7 @@ Rice:
 - oil for cooking
 
 Sauce:
+
 - 1 tablespoon Thai soy bean paste 
 - 1 teaspoon soy sauce 
 - 1 tablespoon lime juice 
@@ -88,6 +90,7 @@ Sauce:
 - 2-3 tablespoons vegan chicken broth (used for rice) 
 
 Assembly:
+
 - 1/2 cucumber, sliced
 - cilantro for garnish
 
