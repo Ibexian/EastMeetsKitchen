@@ -17,7 +17,7 @@ I started creating with this recipe because I love chestnuts.  I snack on them l
 
 But after looking at a couple recipes for castagnaccio, I was convinced that the cake would be quite dense as it was made from mashed chestnuts and olive oil.  I researched a couple more cakes and found a Viennese chestnut cake and basically combined the two.  The result is one of my most favorite cakes I've made.
 
-This cake is softer and denser towards the middle, but cakey and crumbly towards the outside.  The almond flour that was put in keeps the chestnuts from having too dense an effect on the cake.  It's not too sweet.  I added enough sugar to bring out the chestnuts.  The little pinch of cardamom at the end did the same trick.  It's an awesome recipe.
+This cake is softer and denser towards the middle, but cakey and crumbly towards the outside.  The almond flour that was put in keeps the chestnuts from having too dense an effect on the cake.  We do work with [aquafaba](http://eastmeetskitchen.com/videos/blog/what-is-aquafaba/) again, which I had reduced by about one-third before I started beating it.  This also keeps the cake light. It's also not too sweet.  I added enough sugar to bring out the flavor of the chestnuts.  The little pinch of cardamom at the end helped elevate the somewhat earthy flavor that can be chestnuts.  The result is once again amazing flavor and an amazing cake.
 
 
 <figure class="half">
@@ -50,7 +50,7 @@ This cake is softer and denser towards the middle, but cakey and crumbly towards
 
 - 10 ounces or 2 cups roasted chestnuts, roasted and peeled
 - 2/3 cup almond milk 
-- 8 tablespoons aquafaba, pre-reduced
+- 8 tablespoons aquafaba, reduced
 - 1/4 cup + 3 tablespoons brown sugar
 - 4 tablespoons coconut milk
 - 1/3 cup Earth Balance Butter or coconut oil
