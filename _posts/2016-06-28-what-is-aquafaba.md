@@ -40,7 +40,12 @@ The components of aquafaba give it emulsifying, foaming, gelatinizing, binding a
 
 3 tablespoons of aquafaba equals one egg and 2 tablespoons of it is equivalent to an egg white.  While you might not get the exact color you get from using eggs (I'd say using aquafaba yields slightly lighter results), you get the same fluffy texture, which is probably the harder quality to mimic.
 
+**Tips/Tricks - Reducing Aquafaba** 
+
+The biggest tip I read from the many blog sites covering aquafaba is to reduce it by about one-third before working with it.  This step is integral.  Having a thicker aquafaba from the get-go ensures you can beat the mixture to stiff peaks.  A thicker liquid can better trap air bubbles and is more stable.  In my upcoming recipes, I reduced the liquid about 33% and then cooled it before whipping it up.  The results were great compared to if you were just whipping thin aquafaba straight from the can.
+
 **Additional Commentary** 
+
 
 I’ve had a lot of friends tell me how weird it is to be making or consuming things made out of leftover chickpea liquid.  But I guess my thing is, it’s probably more weird to be consuming the albumen secretions from a chicken.  I’m not against it.  Heck I was a baker for crying out loud, but if chickpea liquid does the trick, it’s a heck of a lot cleaner and less weird than eggs.  That being said, what I was able to whip using aquafaba was still less stable than whipping eggs, but it came pretty close, and I think substitutions can definitely be made.
 
@@ -51,9 +56,7 @@ I’ve had a lot of friends tell me how weird it is to be making or consuming th
 
 And I guess the idea of whipping a goopy liquid into something fluffy isn’t so strange when you think of marshmallows, for example.  In that case, you whip gelatin and water, which is thick enough to hold in bubbles and you get fluffy marshmallows.  Also if any of you are into latte art, baristas always tell me that with non-dairy versions, they always recommend soy milk because it foams up better and you can actually do art with that (although it is not as pretty).  It must be that with soy milk, a portion of that is the bean liquid with the bean gums, which help stabilize the foam.  
 
-The last thing before I show you an actually recipe is a tip I read from the many blog sites covering aquafaba.  It’s that if you do want to beat aquafaba into a stiff foam or even if you want to have an easier time beating air into the liquid, reduce it first.  In my upcoming recipes, I reduced the liquid about 33% and then cooled it before whipping it up.  The results were great compared to if you were just whipping thin aquafaba straight from the can.
-
-Here's a little bit of what's to come!
+[Here](http://eastmeetskitchen.com/videos/recipes/aquafaba-vanilla-sponge-cake/) is a little bit of what's to come!
 
 <figure>
     <img src="/images/212-7.jpg">
