@@ -5,6 +5,7 @@ tags: [videos, vegan, baked, jackfruit, crab rangoon, chinese takeout, chinese f
 excerpt: 
 title: "Vegan Baked Crab Rangoon"
 feature_video: https://www.youtube.com/embed/5PswgaGPzV8?rel=0
+image:
   feature: 256-1.jpg
 ---
 
