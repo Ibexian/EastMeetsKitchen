@@ -60,7 +60,7 @@ I used the teriyaki-flavored jackfruit product from the [Jackfruit Company](http
 
 ### Directions
 
-    1. Preheat oven to 350 degrees.
-    2. Mix filling all together.
-    3. Fill wonton wrappers.  Mix cornstarch with 2-3 tablespoons of water.  Brush edges with cornstarch mixture and seal.
-    4. Brush crab rangoon with a light layer of vegetable oil.  Bake for about 18 minutes, flipping halfway.
+1. Preheat oven to 350 degrees.
+2. Mix filling all together.
+3. Fill wonton wrappers.  Mix cornstarch with 2-3 tablespoons of water.  Brush edges with cornstarch mixture and seal.
+4. Brush crab rangoon with a light layer of vegetable oil.  Bake for about 18 minutes, flipping halfway.
