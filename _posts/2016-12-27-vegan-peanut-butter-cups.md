@@ -5,7 +5,8 @@ tags: [videos, vegan, peanut butter cups, reeses, peanut butter, sweets]
 excerpt: 
 title: "Vegan Peanut Butter Cups - Date-Sweetened"
 feature_video: https://www.youtube.com/embed/UI4_AIANg8w?rel=0
-  feature: 257-1.jpg
+image:
+    feature: 257-1.jpg
 ---
 
 I love the all-natural peanut butter cups you find in stores, but they can get quite pricey - usually averaging $1 per peanut butter cup.  I found that it was actually quite easy making them at home and you can create some pretty "store-quality" results.  
