@@ -18,7 +18,7 @@ The best thing about making them at home though is you can control what goes in,
     <img src="/images/257-2.jpg">
 </figure> 
 
-__Tips:__ This recipe is fairly simple, but there are some key tips to keep in mind while you put them together.  First, in order to create that "Reese's Peanut Butter Cup" look with the fluted edges, you want to be making the chocolates in cupcake liners.
+__Tips:__ This recipe is fairly simple, but there are some key tips to keep in mind while you put the peanut butter cups together.  First, in order to create that "Reese's Peanut Butter Cup" look with the fluted edges, you want to be making the chocolates in cupcake liners.
 
 The next tip is to make the peanut butter filling disks nearly the same or as close as possible to the diameter of your cupcake moulds. This keeps you from having to use too much chocolate and for the sides of the peanut butter cups to have too thick a chocolate edge, which I never like.
 
