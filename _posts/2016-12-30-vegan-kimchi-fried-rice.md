@@ -6,7 +6,7 @@ excerpt:
 title: "Vegan Kimchi Fried Rice"
 feature_video: https://www.youtube.com/embed/SJDZ8ERqpJY?rel=0
 image:
-    feature: 258-1.jpg
+    feature: 258-5.jpg
 ---
 
 
