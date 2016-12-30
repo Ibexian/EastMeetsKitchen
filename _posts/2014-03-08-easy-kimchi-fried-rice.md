@@ -35,7 +35,7 @@ So why kimchi fried rice?  Well, for one, it's super easy to make.  I made my fr
 - 3 cups white rice
 - 1 teaspoon salt
 - 1 teaspoon black pepper
-- (Additional ingredients like chicken or pork may be added)</p>
+- (Additional ingredients like chicken or pork may be added)
 
 </figure>
 
