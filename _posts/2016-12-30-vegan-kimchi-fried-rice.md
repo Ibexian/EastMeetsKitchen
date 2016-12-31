@@ -9,6 +9,31 @@ image:
     feature: 258-5.jpg
 ---
 
+Fried rice is a classic dish around the world.  It's usually a mix of leftover food and in different parts of the world, those can be different things. I love the idea of using kimchi because not only does in provide crunch and a ton of flavor, but the red from the chilis in its juice colors the rice beautifully.  It's a great vegan dish because you're not short of flavor and any additions you add be it mushrooms, tofu or more veggies will only contribut more flavor texture to the dish.
+
+<figure class="half">
+    <img src="/images/258-6.jpg">
+    <img src="/images/258-7.jpg">
+    <figcaption> Kimjang Kimchi Festival </figcaption>
+</figure> 
+
+I recently went to this annual kimjang kimchi festival event in southern Massachusetts.  Basically during the kimchi festival, families in Korea come together and make a ton of kimchi for the year.  It is an event that UNESCO has recognized as a world heritage
+
+<figure>
+    <img src="/images/258-2.jpg">
+</figure> 
+
+<figure>
+    <img src="/images/257-8.jpg">
+</figure> 
+
+<figure>
+    <img src="/images/257-8.jpg">
+</figure> 
+
+<figure>
+    <img src="/images/257-8.jpg">
+</figure> 
 
 <figure class="ingredients" markdown="1">
 
