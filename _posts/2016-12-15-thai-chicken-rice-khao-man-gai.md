@@ -81,17 +81,17 @@ Rice:
 
 Sauce:
 
-- 1 tablespoon Thai soy bean paste 
-- 1 teaspoon soy sauce 
-- 1 tablespoon lime juice 
-- 1 teaspoon brown sugar
-- 1/4 teaspoon ginger, grated
+- 2 tablespoon Thai soy bean paste 
+- 2 teaspoon soy sauce 
+- 2 tablespoon lime juice 
+- 2 teaspoon brown sugar
+- 1/2 teaspoon ginger, grated
 - chopped chillies, to taste
-- 2-3 tablespoons vegan chicken broth (used for rice) 
+- 6 tablespoons vegan chicken broth (used for rice) 
 
 Assembly:
 
-- 1/2 cucumber, sliced
+- 1 cucumber, sliced
 - cilantro for garnish
 
 
