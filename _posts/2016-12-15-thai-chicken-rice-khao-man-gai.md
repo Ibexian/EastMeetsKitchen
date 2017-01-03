@@ -57,7 +57,7 @@ The bad part is that it does have a tendency to cover up the more mellow cilantr
 
 ### Vegan Thai Chicken Rice - Khao Man Gai
 
-(Serve 2-3 people)
+(Serve 4 people)
 
 Chicken + Broth:
 
@@ -69,7 +69,7 @@ Chicken + Broth:
 - 1/2 teaspoon sesame oil
 - 1 teaspoon soy sauce
 - 1/4 teaspoons [vegan fish sauce](http://eastmeetskitchen.com/videos/recipes/the-ultimate-vegan-fish-sauce/)
-- 8 ounce package vegan chicken less strips, rinsed
+- 12-16 ounces vegan chicken less strips, rinsed
 
 Rice:
 
