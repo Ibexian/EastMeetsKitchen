@@ -23,6 +23,22 @@ I recently went to this annual kimjang kimchi festival event in southern Massach
     <img src="/images/258-2.jpg">
 </figure> 
 
+<figure>
+    <img src="/images/258-3.jpg">
+</figure> 
+
+
+<figure>
+    <img src="/images/258-4.jpg">
+</figure> 
+
+
+<figure>
+    <img src="/images/258-5.jpg">
+</figure> 
+
+
+
 <figure class="ingredients" markdown="1">
 
 ### Vegan Kimchi Fried Rice
