@@ -33,7 +33,7 @@ image:
 
 
 <figure>
-    <img src="/images/258-1.jpg">
+    <img src="/images/259-1.jpg">
 </figure> 
 
 
