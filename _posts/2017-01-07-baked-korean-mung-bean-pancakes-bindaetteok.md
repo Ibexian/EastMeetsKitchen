@@ -60,7 +60,7 @@ Probably the most unique thing about these pancakes (other than the fact that th
 1. Preheat oven to 375 degrees Fahrenheit.
 2. Blend together mung beans, brown rice, garlic cloves and 1/4 cup of water until smooth. 
 3. Add in soy sauce, vegan fish sauce, kimchi, kimchi juice and beansprouts.  Add additional salt to taste.
-4. On a sheetpan with a greased silicon pad, scoop about a quarter cup of batter for each pancake.  Use the back of a spoon to spread the batter until about 3-4 inches in diameter.
+4. On a sheetpan with a greased silicon pad, scoop about a quarter cup of batter for each pancake.  Use the back of a spoon to spread the batter until pancake is 3-4 inches in diameter.
 5. Bake for 30 minutes, flipping the pancakes in between, until both sides are golden brown and crunchy.
 6. Serve with soy sauce.
 
