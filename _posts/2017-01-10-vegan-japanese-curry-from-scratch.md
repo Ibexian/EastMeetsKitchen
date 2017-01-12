@@ -84,10 +84,10 @@ For roux
 ### Directions
 
 1. In a skillet over medium heat, cook onions with 2 tablespoons of olive oil for 30 minutes, until it is soft and caramelized, almost forming a paste.  While cooking, cover with lid and stir often to keep from burning. If necessary, add in 1/4 cup of water towards the last 10 minutes of cooking to soften the onions some more.
-2. Meanwhile, prepare the vegetables by cutting the potatoes and carrots into bite-sized chunks.  Set aside.
+2. Meanwhile, prepare the vegetables by cutting the potatoes and carrots into bite-sized chunks.  Set aside.  
 3. For the rue, in a pot, melt Earth Balance Butter over medium high heat.  Add in the curry powder and cook for 1 minute until fragrant.  Add in the flour and cook for an additional minute until the mixture forms a paste.  Turn off heat and set aside.
 4. In a pot over medium to medium high heat, cook minced garlic and ginger with 1 tablespoon of oil for about 30 seconds.  Add in the apple sauce, tonkatsu sauce, tomato paste, cocoa powder, salt, garam masala and vegetable stock.  Stir until combined.  
-5. Add in the softened onions and the carrots.  Bring mixture back to a boil and simmer for about 10 minutes until the carrots soften.
+5. Add in the softened onions and the carrots.  Bring mixture back to a boil and lower to simmer for about 10 minutes until the carrots soften.
 6. Add in the potatoes and 2 bay leaves.  Cook for an additional 10 minutes or until potatoes are cooked.
 7. Add in the frozen peas and the roux.  Turn heat back to high and bring to a boil.  When the mixture thickens, turn the heat off.  Adjust seasonings to taste.
 8. Serve warm with rice.
