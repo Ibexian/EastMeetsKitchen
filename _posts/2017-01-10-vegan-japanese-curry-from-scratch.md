@@ -45,7 +45,7 @@ A lot of people are going to get scared by this recipe because it's made from sc
 </figure> 
 
 <figure>
-    <img src="/images/260-11.jpg">
+    <img src="/images/261-11.jpg">
 </figure> 
 
 
