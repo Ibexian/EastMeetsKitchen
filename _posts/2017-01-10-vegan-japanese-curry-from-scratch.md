@@ -23,6 +23,7 @@ A lot of people are going to get scared by this recipe because it's made from sc
 1. Caramelizing the onions.
 2. Chopping the vegetables.
 3. Making the roux (which is just mixing flour, vegan butter and curry powder together.  That's it!)
+4. Then you put everything together.
 
 <figure class = "half">
     <img src="/images/261-4.jpg">
@@ -82,7 +83,7 @@ For roux
 
 ### Directions
 
-1. In a skillet over medium heat with 2 tablespoons of olive oil, start caramelizing the onions with the lid on, stiring often so the onions do not burn.  Cook for about 30 minutes until the onions brown and soften, almost forming a paste.  If necessary, add in 1/4 cup of water towards the last 10 minutes of cooking to soften the onions some more.
+1. In a skillet over medium heat, cook onions with 2 tablespoons of olive oil for 30 minutes, until it is soft and caramelized, almost forming a paste.  While cooking, cover with lid and stir often to keep from burning. If necessary, add in 1/4 cup of water towards the last 10 minutes of cooking to soften the onions some more.
 2. Meanwhile, prepare the vegetables by cutting the potatoes and carrots into bite-sized chunks.  Set aside.
 3. For the rue, in a pot, melt Earth Balance Butter over medium high heat.  Add in the curry powder and cook for 1 minute until fragrant.  Add in the flour and cook for an additional minute until the mixture forms a paste.  Turn off heat and set aside.
 4. In a pot over medium to medium high heat, cook minced garlic and ginger with 1 tablespoon of oil for about 30 seconds.  Add in the apple sauce, tonkatsu sauce, tomato paste, cocoa powder, salt, garam masala and vegetable stock.  Stir until combined.  
