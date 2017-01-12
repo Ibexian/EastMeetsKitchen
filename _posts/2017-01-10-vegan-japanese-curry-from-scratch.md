@@ -4,7 +4,7 @@ categories: [videos, recipes]
 tags: [videos, vegan, japanese curry, curry]
 excerpt: 
 title: "Vegan Japanese Curry - From Scratch"
-feature_video: https://www.youtube.com/embed/LSWeMmSCGnA
+feature_video: https://www.youtube.com/embed/tVTsOZyZ9LE
 image:
     feature: 261-1.jpg
 ---
