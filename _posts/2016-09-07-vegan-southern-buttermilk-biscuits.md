@@ -29,7 +29,7 @@ I write about Loveless Cafe because I have plenty of pictures from them, but the
 
 Another technique I saw at the Loveless Cafe was that the biscuit maker actually folded up her dough like puffed pastry to create layers in the biscuit.  This will help with the rise and the flakiness of the biscuit.  This is a technique I used in the bakery often and is really the secret to any dough you want to be extra flakey.  Basically you roll out the dough and fold it into three.  Rotate, roll out again and repeat.  I did this about four times to the biscuits.
 
-Because this was a vegan recipes (but oh my gosh, it tastes pretty darn close to the real thing and is just amazing) I made a couple substitutions.  I substituted butter for coconut oil, which still provided amazing richness.  I mixed a soy creamer with lemon juice for the buttermilk.  I also brushed the tops of the biscuits with Earth Balance to get the butter color and flavor.
+Because this was a vegan recipes (but oh my gosh, it tastes pretty darn close to the real thing and is just amazing) I made a couple substitutions.  I substituted butter for coconut oil, which still provided amazing richness.  The thing you have to remember is to chill the coconut oil in the freezer before you work with it.  That way, when you cut it up it functions very much like chilled pieces of butter, which will create the flakiness you want. I mixed a soy creamer with lemon juice for the buttermilk.  I also brushed the tops of the biscuits with Earth Balance to get the butter color and flavor.
 
 These are amazing biscuits and I hesitate to call them vegan because I would put them up against some of the best biscuits I've had.  Give them a try!
 
