@@ -73,7 +73,7 @@ These are amazing biscuits and I hesitate to call them vegan because I would put
 - 2 cups White Lily Self-Rising Flour
 - 3/4 tsp salt
 - 1/4 teaspoon turmeric, for color
-- 1/2 cup coconut oil, chilled
+- 1/2 cup coconut oil, frozen until solid
 - 3/4 cup soy creamer 
 - 1 tablespoon lemon juice
 - 2 tablespoons Earth Balance butter, melted
