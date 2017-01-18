@@ -42,12 +42,6 @@ In terms of how fine you want to shred your daikon radish, it's really up to you
     <img src="/images/262-12.jpg">
 </figure> 
 
-
-<figure class = "half">
-    <img src="/images/261-4.jpg">
-    <img src="/images/261-7.jpg">
-</figure> 
-
 <figure>
     <img src="/images/262-15.jpg">
 </figure> 
