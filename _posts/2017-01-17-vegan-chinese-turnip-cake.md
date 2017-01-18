@@ -9,7 +9,7 @@ image:
     feature: 262-1.jpg
 ---
 
-It's almost Chinese New Year and during the 2-week break that most Chinese students and workers get in China, they will enjoy a plethora of foods all signalling good fortune.
+It's almost Chinese New Year and during the 2-week break that most Chinese students and workers get in China, they will enjoy a plethora of foods all signaling good fortune.
 
 <figure class = "half">
     <img src="/images/262-3.jpg">
