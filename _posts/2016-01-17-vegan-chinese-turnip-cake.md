@@ -6,7 +6,7 @@ excerpt:
 title: "Vegan Chinese Turnip Cakes"
 feature_video: https://www.youtube.com/embed/vjqZ2Ni3kig
 image:
-    feature: 261-2.jpg
+    feature: 262-1.jpg
 ---
 
 It's almost Chinese New Year and during the 2-week break that most Chinese students and workers get in China, they will enjoy a plethora of foods all signalling good fortune.
