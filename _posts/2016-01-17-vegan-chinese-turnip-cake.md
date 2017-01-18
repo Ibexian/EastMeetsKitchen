@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: [videos, recipes]
-tags: [videos, vegan, japanese curry, curry]
+tags: [videos, vegan, turnip cake, chinese new year, dim sum]
 excerpt: 
 title: "Vegan Chinese Turnip Cakes"
 feature_video: https://www.youtube.com/embed/vjqZ2Ni3kig
