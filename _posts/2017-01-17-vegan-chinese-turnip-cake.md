@@ -28,6 +28,10 @@ This "cake" is essentially bits of vegetables and filling mixed into a batter of
 In terms of how fine you want to shred your daikon radish, it's really up to you.  Some people love bigger chunks of radish in their cake, so you may not even need to shred.  I will say that if you make the shreds too fine, the radishes sort of mix into the rice flour and can make the cake taste too chunky, rather than have tender pockets of the rice batter and chunks of steamed radish throughout.
 
 <figure>
+    <img src="/images/262-5.jpg">
+</figure> 
+
+<figure>
     <img src="/images/262-7.jpg">
 </figure> 
 
