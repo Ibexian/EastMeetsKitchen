@@ -1,7 +1,9 @@
-    <h3>Follow Me On...</h3>
+  <div class="divider" style="margin-top: 2em;">
+    <span>Follow me</span>
+  </div>
     <ul class="social-grid">
     {% for link in site.data.social %}
-      <a href="{{ link.url }}" title="{{ link.title }}" target="_blank" style="background:url('{{ site.url }}/images/{{ link.img }}'); background-size: cover;"> 
+      <a href="{{ link.url }}" title="{{ link.title }}" target="_blank" style="background:url('{{ site.url }}/images/{{ link.img }}'); background-size: cover;">
         <li >
         <i class="icon-{{ link.title | downcase}}" style="color: #{{link.color}}"></i>
         </li>

@@ -1,5 +1,7 @@
 # Site navigation links and tiles on main page
 - title: Recipes by Category
+  altTitle: Recipes
+  noShow:
   url: /recipes/
   img: recipe.jpg
   subnav:
@@ -26,21 +28,36 @@
       url: /recipes/healthy/
 
 - title: Adventures + Blog
+  altTitle: Blog
+  noShow:
   url: /blog/
   img: adventure.jpg
   subnav:
 
 - title: Video
+  altTitle: Youtube
+  noShow:
   url: /videos/
   img: video.jpg
   subnav:
 
 - title: Tips
+  altTitle:
+  noShow:
   url: /tips/
   img: tips.jpg
   subnav:
 
 - title: About
+  altTitle:
+  noShow:
   url: /about/
   img: About Pic.JPG
+  subnav:
+
+- title: Instagram
+  altTitle:
+  noShow: true
+  url: https://instagram.com/eastmeetskitchn/
+  img: 268-1.jpg
   subnav:
