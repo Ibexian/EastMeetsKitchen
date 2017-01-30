@@ -3,22 +3,24 @@
 		<nav role="navigation" id="site-nav" class="nav">
 		    <ul>
 		        {% for link in site.data.navigation %}
-				    {% if link.url contains 'http' %}
-				        {% assign domain = '' %}
-				        {% else %}
-				        {% assign domain = site.url %}
-				    {% endif %}
-				    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}
-				    {% if link.subnav %}
-				    	 <span class="dropArrow">&#9660;</span></a>
-				    	<ul class="subnav">
-				    	{% for item in link.subnav %}
-				    		<li><a href='{{item.url}}'>{{item.title}}</a></li>
-				    	{% endfor %}
-				    	</ul>
-				    {% else %}
-				    	</a>
-				    {% endif %}
+            {% if link.noShow != true %}
+  				    {% if link.url contains 'http' %}
+  				        {% assign domain = '' %}
+  				        {% else %}
+  				        {% assign domain = site.url %}
+  				    {% endif %}
+  				    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}
+  				    {% if link.subnav %}
+  				    	 <span class="dropArrow">&#9660;</span></a>
+  				    	<ul class="subnav">
+  				    	{% for item in link.subnav %}
+  				    		<li><a href='{{item.url}}'>{{item.title}}</a></li>
+  				    	{% endfor %}
+  				    	</ul>
+  				    {% else %}
+  				    	</a>
+  				    {% endif %}
+            {% endif %}
 				{% endfor %}
 				<li><a href="{{site.url}}/search/" class="icon-search"></a></li>
 		    </ul>
