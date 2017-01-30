@@ -692,11 +692,12 @@ form {
 	padding: 0;
   a {
     width: 100%;
+    margin: 1em 0 0 0;
     @media #{$micro} {
       width: 253px;
+      margin: 0;
     }
     min-width: 0;
-    margin: 0;
 		height: 220px;
   	li {
       width: 100%;
