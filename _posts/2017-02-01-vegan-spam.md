@@ -6,9 +6,8 @@ excerpt:
 title: "Vegan Spam"
 feature_video: https://www.youtube.com/embed/rbv45eEePP8
 image:
-    feature: 269-1.jpg
+    feature: 269-2.jpg
 ---
-
 
 
 <figure class="ingredients" markdown="1">
