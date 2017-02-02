@@ -22,7 +22,7 @@ When it comes to Chinese vegetarian dishes, Buddha's delight is your pick.  It's
     <img src="/images/263-3.jpg">
 </figure> 
 
-It is a favorite on the first day of the Lunar New Year as many of the ingredients in the dish are chosen for its fortuitious meaning.
+It is a favorite on the first day of the Lunar New Year as many of the ingredients in the dish are chosen for its fortuitous meaning.  There can be a ton more added to Buddha's delight, but the dish is hearty enough with just a couple ingredients and some vegetables, so don't let the list of ingredients scare you.  Work with what you have and what you can find.  The basic foundation of soy sauce, garlic and mirin, which are all readily available, is what makes up the main flavors of this dish, so if you have that you're golden.
 
 <figure>
     <img src="/images/263-6.jpg">
