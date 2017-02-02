@@ -9,6 +9,32 @@ image:
     feature: 269-2.jpg
 ---
 
+If you haven't seen my review on vegan spam, check it out [here](https://www.youtube.com/watch?).  This vegan spam recipe is probably the one most commonly referred to on the internet.  It's a combination of soybean flour, peanut butter, tomato juice and several other flavorings.  I'll say it's definitely not a perfect substitute for Spam's soft and gelatinous texture, but the flavor is not bad.  Because of the myriad of Asian recipes which call for Spam, it's not a bad idea to have the recipe under you sleeves.
+
+
+
+<figure class = "half">
+    <img src="/images/269-5.jpg">
+    <img src="/images/269-6.jpg">
+</figure> 
+
+<figure>
+    <img src="/images/269-7.jpg">
+</figure> 
+
+<figure class = "half">
+    <img src="/images/269-8.jpg">
+    <img src="/images/269-9.jpg">
+</figure> 
+
+<figure>
+    <img src="/images/269-10.jpg">
+</figure> 
+
+<figure>
+    <img src="/images/269-12.jpg">
+</figure> 
+
 
 <figure class="ingredients" markdown="1">
 
