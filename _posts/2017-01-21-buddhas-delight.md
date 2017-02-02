@@ -1,13 +1,16 @@
 ---
 layout: post
 categories: [videos, recipes]
-tags: [videos, vegan, turnip cake, chinese new year, dim sum]
+tags: [videos, vegan, buddha's delight, chinese new year, jai, zai, vegetarian, nomeat]
 excerpt: 
 title: "Buddha's Delight - Chinese New Year"
 feature_video: https://www.youtube.com/embed/NT3L9j-8jTw
 image:
     feature: 263-1.jpg
 ---
+
+When it comes to Chinese vegetarian dishes, Buddha's delight is your pick.  It's the original, hearty, multi-ingredient wonder using mushrooms, soy products and wheat gluten - way before all of this stuff was popular - to compensate for the lack of meat.  Vegetables can be added to add vibrancy and crunch. 
+
 
 <figure>
     <img src="/images/263-5.jpg">
@@ -19,6 +22,8 @@ image:
     <img src="/images/263-3.jpg">
 </figure> 
 
+It is a favorite on the first day of the Lunar New Year as many of the ingredients in the dish are chosen for its fortuitious meaning.
+
 <figure>
     <img src="/images/263-6.jpg">
 </figure> 
@@ -27,10 +32,13 @@ image:
     <img src="/images/263-8.jpg">
 </figure> 
 
-<figure class = "half">
+<figure>
     <img src="/images/263-10.jpg">
+</figure> 
+<figure>
     <img src="/images/263-11.jpg">
-</figure>
+</figure> 
+
 
 <figure>
     <img src="/images/263-12.jpg">
