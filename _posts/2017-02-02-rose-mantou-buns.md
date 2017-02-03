@@ -18,7 +18,7 @@ image:
 - 2 1/3 cups all-purpose flour
 - 1 cup warm water
 - 1 teaspoon yeast
-- 2 tablespoons beet root powder (http://amzn.to/2k6MTyu) + 1 tablespoon sugar OR couple drops food coloring + 2 tablespoons sugar
+- 2 tablespoons [beet root powder](http://amzn.to/2k6MTyu) + 1 tablespoon sugar OR couple drops food coloring + 2 tablespoons sugar
 - pinch salt
 - 1 teaspoon coconut oil 
 
