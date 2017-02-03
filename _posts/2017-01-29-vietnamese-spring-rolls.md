@@ -15,12 +15,12 @@ image:
 
 (Makes 10 spring rolls)
 
-2 medium purple carrots
-1 large orange carrot, cut into matchsticks
-1 zucchini
-1/2 bunch cilantro
-1/2 package (8 oz) spinach
-10 sheets 6-inch round rice paper wraps (link: http://amzn.to/2kGz8rw)
+- 2 medium purple carrots
+- 1 large orange carrot, cut into matchsticks
+- 1 zucchini
+- 1/2 bunch cilantro
+- 1/2 package (8 oz) spinach
+- 10 sheets 6-inch round rice paper wraps (link: http://amzn.to/2kGz8rw)
 
 Peanut Sauce:
 
