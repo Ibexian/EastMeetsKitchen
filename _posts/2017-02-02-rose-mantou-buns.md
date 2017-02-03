@@ -9,6 +9,19 @@ image:
     feature: 270-1.jpg
 ---
 
+When I was researching Asian recipes to do for Valentine's Day, I didn't think there would be too many recipes that weren't just pretty and cute cookies and cakes.  To my surprise, I came across these rose mantou buns.  They remind me a lot of another "trendy" recipe this year, which were the apple rose tarts.  Anyhow, I knew this recipe and technique would be both fun to make and fun to eat.  
+
+I went with beet root powder to be my sweetener and color, but a drawback of using natural food coloring is the color does change after the buns get cooked.  What was once a brilliant purple, pink color turned more into a deep salmon orange.  I loved how both colors looked, but if you want a different colored rose or just one that looks the more similar before and after steaming, then maybe going with food coloring is the better choice.
+
+<figure>
+    <img src="/images/270-2.jpg">
+</figure> 
+
+<figure>
+    <img src="/images/270-3.jpg">
+</figure> 
+
+If any of you are interested, you can glam up this recipe by sprinkling scallions throughout the layers.  Or if you want something less savory, then a light layer of sesame paste or even some cinnamon in the layers might be nice.
 
 <figure class="ingredients" markdown="1">
 
