@@ -23,10 +23,6 @@ I went with beet root powder to be my sweetener and color, but a drawback of usi
 
 If any of you are interested, you can glam up this recipe by sprinkling scallions throughout the layers.  Or if you want something less savory, then a light layer of sesame paste or even some cinnamon in the layers might be nice.
 
-<figure>
-    <img src="/images/270-1.jpg">
-</figure> 
-
 
 <figure class="ingredients" markdown="1">
 
