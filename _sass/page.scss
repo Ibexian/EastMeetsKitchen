@@ -549,26 +549,32 @@ form {
 		text-decoration: underline;
 	}
 
-	.recipe {
-		.ingredients {
-			@include grid(12,4);
-		}
-		.directions {
-			@include grid(12,8);
-		}
-		ul {
-			text-align: left;
-			padding-left: 1em;
-
-		}
-		li {
-			margin-bottom: 4px;
-				p {
-					margin: 0 0 0
-				}
-		}
+.ingredients {
+		@include grid(12,4);
+    .productLink {
+        text-decoration: underline;
+        cursor: pointer;
+        color: #3F51B5;
+        &:hover {
+          color: #673AB7;
+        }
+      }
+	}
+	.directions {
+		@include grid(12,8);
+	}
+	ul {
+		text-align: left;
+		padding-left: 1em;
 
 	}
+	li {
+		margin-bottom: 4px;
+			p {
+				margin: 0 0 0
+			}
+	}
+
 }
 
 /* Table of contents */
