@@ -18,7 +18,7 @@ I went with beet root powder to be my sweetener and color, but a drawback of usi
 </figure> 
 
 <figure>
-    <img src="/images/275-6.jpg">
+    <img src="/images/270-6.jpg">
 </figure> 
 
 <figure>
