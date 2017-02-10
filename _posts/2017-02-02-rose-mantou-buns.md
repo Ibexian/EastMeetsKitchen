@@ -14,6 +14,23 @@ When I was researching Asian recipes to do for Valentine's Day, I didn't think t
 I went with beet root powder to be my sweetener and color, but a drawback of using natural food coloring is the color does change after the buns get cooked.  What was once a brilliant purple, pink color turned more into a deep salmon orange.  I loved how both colors looked, but if you want a different colored rose or just one that looks the more similar before and after steaming, then maybe going with food coloring is the better choice.
 
 <figure>
+    <img src="/images/270-5.jpg">
+</figure> 
+
+<figure>
+    <img src="/images/275-6.jpg">
+</figure> 
+
+<figure>
+    <img src="/images/270-7.jpg">
+</figure> 
+
+<figure>
+    <img src="/images/270-8.jpg">
+</figure> 
+
+
+<figure>
     <img src="/images/270-2.jpg">
 </figure> 
 
