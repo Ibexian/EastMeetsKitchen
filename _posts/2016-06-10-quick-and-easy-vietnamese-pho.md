@@ -66,12 +66,12 @@ Really though, pho is  one of those rare instances where neither the protein nor
 
 ### Directions
 
-1. In a pot over medium to medium high heat, toast the cinnamon stick, star anise, cloves and corriander seeds for about 3 minutes or until fragrant.
-2. Meanwhile, slice up one whole onion, reserving half for garnish along with the ginger.  Finally smash the garlic clove and set aside.
-3. Pour out the toasted spices onto a plate and let cool.  In the same pot, add in 2 tablespoons of oil along with the onions, ginger and garlic.  Cook for 3-4 minutes until it is slightly charred.
-4. Pour in the broth and bring to a bowl.  Lower heat and simmer for 30 minutes.
+1. In a pot over medium to medium high heat, toast the cinnamon stick, star anise, cloves and corriander seeds for about 3 minutes or until fragrant.  Pour out spices onto a plate and set aside.
+2. Meanwhile, slice up one whole onion, reserving half for garnish along with the ginger.  Then smash the garlic clove and set aside.
+3. In the same pot as the spices, add in 2 tablespoons of oil along with the onions, ginger and garlic.  Cook for 3-4 minutes until it is slightly charred.
+4. Put in the broth and the spices and bring to a boil.  Lower heat and simmer for 30 minutes.
 5. Add in soy sauce and fish sauce.  Add sugar and salt to taste.
-6. Add in soaked noodles for 30 seconds to 1 minute.  Strain out and set aside.
+6. Then add in soaked noodles for 30 seconds to 1 minute.  Strain out and set aside.
 7. Heat up the edamame and protein in the broth.  Cook for about 2 minutes.
 8. Prepare scallions, cilantro and lime wedges for garnish and assemble.
 
