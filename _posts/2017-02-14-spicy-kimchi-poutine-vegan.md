@@ -31,7 +31,13 @@ So, I doubt there are vegan cheese curds sold at the supermarket, and I was too 
     <img src="/images/275-4.jpg">
 </figure> 
 
+<figure>
+    <img src="/images/275-6.jpg">
+</figure> 
 
+<figure>
+    <img src="/images/275-7.jpg">
+</figure> 
 
 <figure class="ingredients" markdown="1">
 
