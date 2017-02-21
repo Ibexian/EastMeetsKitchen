@@ -33,7 +33,7 @@ There are 2 unique factors about how the Hokkaido milk bread is made.  First is 
     <img src="/images/274-8.jpg">
 </figure> 
 
-The addition of charcoal is really for spectacle.  I mentioned charcoal bread in my [charcoal ice cream video](http://eastmeetskitchen.com/videos/recipes/charcoal-ice-cream/).  There is no flavor and is safe to consume.  Because of the sweetness, the bread would be amazing for breakfast or in French Toast, but the slight sweetness also pairs well in a savory sandwich.
+The addition of charcoal is really for spectacle.  I mentioned charcoal bread in my [charcoal ice cream video](http://eastmeetskitchen.com/videos/recipes/charcoal-ice-cream/).  There is no flavor and is safe to consume.  Because of the sweetness, the bread would be amazing for breakfast or in French toast, but the slight sweetness also pairs well in a savory sandwich.
 
 <figure>
     <img src="/images/274-1.jpg">
