@@ -9,7 +9,9 @@ image:
     feature: 274-1.jpg
 ---
 
+Hokkaido milk bread is like the Japanese-version of a western brioche, only a bit sweeter and even softer.  The bread is traditionally enriched with milk and butter, which we will be substituting for rich coconut milk and Earth Balance.
 
+For many of you, who have visited Asian bakeries, milk bread should come as nothing new.  It's the basis for most of the pastries, from the famed pineapple bun to the notorious hot dog roll.
 
 <figure class="half">
 <img src="/images/274-2.jpg">
@@ -21,6 +23,8 @@ image:
 <img src="/images/274-5.jpg">
 </figure>
 
+There are 2 unique factors about how the Hokkaido milk bread is made.  First is that the dough starts with a roux called "taizhong."  Because part of the dough is precooked, it disrupts gluten structure thus resulting in a softer end product.  Second, a loaf of Hokkaido milk bread is made from the spirals of several pieces of dough.  I think the spirals add more layer-y goodness to the bread, but it also makes it fun to eat when you pull the bread apart.
+
 <figure>
     <img src="/images/274-7.jpg">
 </figure> 
@@ -28,6 +32,8 @@ image:
 <figure>
     <img src="/images/274-8.jpg">
 </figure> 
+
+The addition of charcoal is really for spectacle.  I mentioned charcoal bread in my [charcoal ice cream video](http://eastmeetskitchen.com/videos/recipes/charcoal-ice-cream/).  There is no flavor and is safe to consume.  Because of the sweetness, the bread would be amazing for breakfast or in French Toast, but the slight sweetness also pairs well in a savory sandwich.
 
 <figure>
     <img src="/images/274-1.jpg">
