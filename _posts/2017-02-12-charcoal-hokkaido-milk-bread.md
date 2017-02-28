@@ -26,7 +26,7 @@ For many of you, who have visited Asian bakeries, milk bread should come as noth
 There are 2 unique factors about how the Hokkaido milk bread is made.  First is that the dough starts with a roux called "taizhong."  Because part of the dough is precooked, it disrupts gluten structure thus resulting in a softer end product.  Second, a loaf of Hokkaido milk bread is made from the spirals of several pieces of dough.  I think the spirals add more layer-y goodness to the bread, but it also makes it fun to eat when you pull the bread apart.
 
 <figure>
-    <img src="/images/274-2a.JPG">
+    <img src="/images/274-2a.jpg">
 </figure> 
 
 
