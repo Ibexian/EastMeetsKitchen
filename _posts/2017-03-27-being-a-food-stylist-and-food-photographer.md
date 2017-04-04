@@ -44,3 +44,33 @@ __3. Brazilian Fish Stew__
 <figure>
     <img src="/images/284-6.jpg">
 </figure>
+
+__4. Chicken and White Bean Quinoa Casserole__
+
+<figure>
+    <img src="/images/284-7.jpg">
+</figure>
+
+<figure>
+    <img src="/images/284-8.jpg">
+</figure>
+
+__ 5. Portobello Fettucine with Onions and Goat Cheese__
+
+<figure>
+    <img src="/images/284-9.jpg">
+</figure>
+
+<figure>
+    <img src="/images/284-10.jpg">
+</figure>
+
+__ 6. Baked Portobello Mushroom with Chorizo and Quinoa__
+
+<figure>
+    <img src="/images/284-11.jpg">
+</figure>
+
+<figure>
+    <img src="/images/284-12.jpg">
+</figure>
