@@ -31,9 +31,10 @@ Anyways, I was especially taken by dessert, as I usually am.  My friends served 
 
 But anyways, I loved the balls were naturally colored, which is not only great from a health aspect, but it also is infused with the flavor of the food, which colored it.  For my birthday dinner, we made 3 flavors - pandan, pumpkin and taro.  The pandan was more of a juice.  The pumpkin and taro were mashed.
 
-<figure>
-    <img src="/images/289-5.jpg">
-</figure> 
+<figure class="half">
+<img src="/images/289-5.jpg">
+<img src="/images/289-4.jpg">
+</figure>
 
 The neat thing I noticed was the balls made from juice or anything liquid-y was more chewy.  The ones made with a mashed food were softer in texture.  Both were good and I think it's nice to include both options to provide varying textures.
 
@@ -52,10 +53,6 @@ The neat thing I noticed was the balls made from juice or anything liquid-y was 
 
 <figure>
     <img src="/images/289-9.jpg">
-</figure> 
-
-<figure>
-    <img src="/images/289-1.jpg">
 </figure> 
 
 <figure>
