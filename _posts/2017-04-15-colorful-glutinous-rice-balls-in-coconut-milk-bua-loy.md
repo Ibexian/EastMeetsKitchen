@@ -6,7 +6,7 @@ excerpt:
 title: "Bua Loy - Colorful Glutinous Rice Balls in Coconut Milk"
 feature_video: https://www.youtube.com/embed/rS2TX9kfd2I
 image:
-    feature: 289-12.jpg
+    feature: 289-18.jpg
 ---
 
 For my birthday this year, I had a couple of my really good friends devise a 3-course Thai dinner for me.  They are both from Thailand and really excellent cooks.  One of them I went to culinary school with, and she was really my partner in crime when it came to adding vibrant (probably Asian) flavors to a curriculum that was very geared towards classical French "harmonious" flavors.  Sorry, but I sort of prefer when flavors give you a nice "wake up" kick.
