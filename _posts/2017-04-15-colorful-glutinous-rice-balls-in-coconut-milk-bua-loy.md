@@ -63,6 +63,7 @@ The neat thing I noticed was the balls made from juice or anything liquid-y was 
 <figure class="ingredients" markdown="1">
 
 ### Bua Loy - Glutinous Rice Balls in Coconut Milk
+
 (Makes about 25 small pieces)
 
 __Flavored Rice Balls:__
