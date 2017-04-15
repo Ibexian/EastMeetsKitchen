@@ -87,6 +87,6 @@ __Coconut Milk:__
 1. Mix glutinous rice flour and pandan juice until a ball of dough forms.  Dough should resemble play-dough consistency and not be sticky to the hands.
 2. Roll dough into a log.  Cut into bite-sized pieces.  Form into small balls.  Place on sheet pan.  Glutinous rice balls can be frozen at this point.
 3. To cook the glutinous rice balls, bring a pot of water to a boil.  Add in the fresh or frozen balls.  Simmer until the balls float.  Strain and place into a bowl of water.
-4. To prepare the coconut milk, heat coconut milk, sugar and pandan leaves on medium heat until sugar dissolves.  Turn off heat and let pandan leaves steep for about 5 minutes before discarding.
+4. To prepare the coconut milk mixture, heat coconut milk, sugar and pandan leaves on medium heat until sugar dissolves.  Turn off heat and let pandan leaves steep for about 5 minutes before discarding.
 5. To serve, spoon glutinous rice balls into a bowl and add infused coconut milk.  
 </figure>
