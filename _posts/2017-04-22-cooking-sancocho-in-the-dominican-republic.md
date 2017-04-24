@@ -6,7 +6,7 @@ excerpt:
 title: "Cooking in the Dominican Republic"
 feature_video: https://www.youtube.com/embed/O9VLbGGtxK4
 image:
-    feature: 292-1.jpg
+    feature: 293-18.jpg
 ---
 
 I settled on Santo Domingo - not Punta Cana, not Puerta Plata or any of the beach resort cities - the capital city of the Dominican Republic because well, , all of the travel and leisure magazines were telling me to do so.  Santo Domingo was the "it" city to visit because while there weren't a ton of tourists flocking to it yet, it soon would.
