@@ -25,7 +25,7 @@ I have to say, I didn't know that much about Dominican food.  From what I had ea
  As a vegan who eats whatever when she travels, I found refuge in the many smoothie and juice shops the city had.  You could get everything from coconut water in freshly drilled coconuts to detox elixers with papaya, red peppers and celery.
 
 <figure>
-    <img src="/images/293-6.jpg">
+    <img src="/images/293-5.jpg">
 </figure>
 
 Anyways, when I found out there were food hosts in Santo Domingo (I find them through a site called [The Traveling Spoon](https://www.travelingspoon.com/)) willing to show me some dishes in the kitchen, I was more than ecstatic.  I always say that traveling feels so much better when someone invites you into their home to have a meal.  You learn so much about the culture and the food.
