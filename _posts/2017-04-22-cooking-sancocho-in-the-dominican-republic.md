@@ -36,7 +36,7 @@ Anyways, when I found out there were food hosts in Santo Domingo (I find them th
 
 So the dish we would be making with my host, Rossy, was a classic Dominican multi-meat stew called sancocho.  Some people call this the king of Dominican dishes because as you will see, there is literally everything in it.  In our sancocho, we used beef, chicken and ham, but you could put in a ton more.  
 
-In this stew was where I also learned about the many root vegetables the Dominicans ate.  It wasn't just plantains - both green and yellow, but also taro and batata and yuca and mapuey and name.  There's so much and they're all so good.  These tubers have more bite to them than a potato would.  The texture and mouth feel is just so much more rich.
+In making this stew, I also learned about the many root vegetables the Dominicans ate.  It wasn't just plantains - both green and yellow, but also taro and batata and yuca and mapuey and name.  There's so much and they're all so good.  These tubers have more bite to them than a potato would.  The texture and mouth feel is just so much more rich.
 
 <figure>
     <img src="/images/293-9.jpg">
