@@ -64,7 +64,7 @@ We paired the stew with rice and concon, which is the crunchy and slightly burnt
 </figure>
 
 
-Dessert was something Rossy made ahead of time.  At first, she was planning to do a pineapple upside down cake, but I'm so glad she made us a dulce de leche cortada instead.  It's basically curdled milk in this sweet, Christmas-y tasting sauce with cinnamon, brown sugar and prunes.  I had never seen such a dessert before and the curdled milk sort of tasted like cottage cheese.
+Dessert was something Rossy made ahead of time.  At first, she was planning to do a pineapple upside down cake, but I'm so glad she made us a dulce de leche cortada instead.  It's basically curdled milk in this sweet, Christmas-y-tasting sauce with cinnamon, brown sugar and prunes.  I had never seen such a dessert before and the curdled milk sort of tasted like cottage cheese.
 
 <figure>
     <img src="/images/293-14.jpg">
