@@ -22,7 +22,7 @@ I have to say, I didn't know that much about Dominican food.  From what I had ea
 <img src="/images/293-4.jpg">
 </figure>
 
- As a vegan who eats whatever when she travels, I found refuge in the many smoothie and juice shops the city had.  You could get everything from coconut water in freshly drilled coconuts to detox elixers with papaya, red peppers and celery.
+ As a vegan who eats whatever when she travels, I found refuge in the many smoothie and juice shops the city had.  You could get everything from coconut water in freshly drilled coconuts to detox elixirs with papaya, red peppers and celery.
 
 <figure>
     <img src="/images/293-5.jpg">
