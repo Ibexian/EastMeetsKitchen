@@ -45,14 +45,14 @@ In making this stew, I also learned about the many root vegetables the Dominican
     <img src="/images/293-10.jpg">
 </figure>
 
-I also learned about a new herb called culantro (above on the left).  The whole time, I thought Rossy was saying cilantro and I just thought it was another form of the herb.  I have to say it smelled exactly like cilantro, but perhaps the flavor is slightly gentler.  Still, if you didn't have culantro, then cilantro could easily be substituted.
+I also learned about a new herb called culantro (above on the left).  The whole time, I thought Rossy was saying cilantro, and I just thought it was another form of the herb.  I have to say it smelled exactly like cilantro, but perhaps the flavor is slightly gentler.  Still, if you didn't have culantro, then cilantro could easily be substituted.
 
 <figure class="half">
 <img src="/images/293-8.jpg">
 <img src="/images/293-11.jpg">
 </figure>
 
-We paired the stew with rice and concon, which is the crunchy and slightly burnt layer of rice at the bottom of the pan.  Oh my gosh did the crunchy rice provide a nice pop of texture and flavor to the stew.  Not only that, but a side of avocadoes were paired with the stew, which I never would have thought to put them together.  Rossy and her daughter told me sometimes it's just what they did for dinner.  Avocadoes were just eaten along, sort of like a side of bread or something.
+We paired the stew with rice and concon, which is the crunchy and slightly burnt layer of rice at the bottom of the pan.  Oh my gosh did the crunchy rice provide a nice pop of texture and flavor to the stew.  Not only that, but a side of avocadoes were paired with the stew, which I never would have thought to put them together.  Rossy and her daughter told me sometimes it's just what they did for dinner.  Avocadoes were just eaten along with dinner, sort of like a side of bread or something.
 
 
 <figure>
