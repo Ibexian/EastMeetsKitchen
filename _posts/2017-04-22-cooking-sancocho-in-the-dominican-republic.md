@@ -9,9 +9,9 @@ image:
     feature: 293-18.jpg
 ---
 
-I settled on Santo Domingo - not Punta Cana, not Puerta Plata or any of the beach resort cities - the capital city of the Dominican Republic because well, , all of the travel and leisure magazines were telling me to do so.  Santo Domingo was the "it" city to visit because while there weren't a ton of tourists flocking to it yet, it soon would.
+I decided on the capital city of Santo Domingo - not Punta Cana, not Puerta Plata or any of the beach resort cities - mainly because travel and leisure magazines were calling Santo Domingo the "it" city to visit. While there weren't a ton of tourists flocking to the destination just yet, it soon would. (And then of course, it wouldn't be as trendy to visit.)
 
-I have to say, I didn't know that much about Dominican food.  From what I had eaten on the streets, I could tell there was a lot of comfort in the foods - meat stews, beans and fried plantains. 
+I have to say, I didn't know that much about Dominican food.  From what I had eaten on the streets, I could tell many of the foods were quite comforting - braised meats, stews, beans and fried plantains. 
 
 <figure>
     <img src="/images/293-6.jpg">
