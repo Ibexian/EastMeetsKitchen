@@ -3,6 +3,11 @@
   image:
     feature: 289-18.jpg
 
+- title: "Silky Coconut Jelly"
+  url: http://eastmeetskitchen.com/videos/recipes/coconut-jelly/
+  image:
+    feature: 292-1.jpg 
+
 - title: "Charcoal Hokkaido Milk Bread - Vegan"
   url: http://eastmeetskitchen.com/videos/recipes/charcoal-hokkaido-milk-bread/
   image:
@@ -12,11 +17,6 @@
   url: http://eastmeetskitchen.com/videos/recipes/vegan-sichuan-pork-ragu/
   image:
     feature: 231-1.jpg
-    
-- title: "Vegan Thai Chicken Rice - Khao Man Gai"
-  url: http://eastmeetskitchen.com/videos/recipes/thai-chicken-rice-khao-man-gai/
-  image:
-    feature: 254-1.jpg 
 
 - title: "Cheung Fun Noodle Roll with Peanut Butter and Hoisin Sauce"
   url:  http://eastmeetskitchen.com/videos/recipes/chinese-cheung-fun-with-peanut-butter-and-hoisin-sauce/
