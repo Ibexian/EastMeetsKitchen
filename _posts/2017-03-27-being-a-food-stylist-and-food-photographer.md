@@ -6,7 +6,7 @@ excerpt:
 title: "Being a Food Stylist and Food Photographer"
 feature_video: 
 image:
-    feature: 284-3.jpg
+    feature: 284-1a.jpg
 ---
 
 So I started my position as a food stylist and food photographer for a local meal kit company and am having a blast.  I will say that I wasn't trained as a photographer, but over the years, have just read a lot, looked up a ton of tutorials, and just casually shot and edited hundreds of photos for my own site.  (Oh right, and then there's Instagram.) So it was super exciting when the company saw my site and asked me to do a test shoot with them.  Anyways, long story short, I am now getting to take food pictures, get paid for them and honestly, it's an absolutely fun job.   Here are some samples for you guys.
