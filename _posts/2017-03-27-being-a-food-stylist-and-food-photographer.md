@@ -9,6 +9,8 @@ image:
     feature: 284-1a.jpg
 ---
 
+Date: March 27, 2017
+
 So I recently started food styling and shooting for a local meal kit company in the Boston area.  This is your typical meal kit company, so the photos I do are here are somewhat different from foods I've styled in the past for a more artistic or even commercial setting.
 
  Before I start, I will say that I wasn't trained as a photographer, but over the years, have just read a ton on the subject, watched a ton of tutorials, and just casually shot and edited hundreds of photos for my own site. Oh right, and then there's Instagram.  I'll say that as the job has progressed, I've run into issues I've never had to deal with before, and from those issues, I'll research and look up how to solve the matter.  I think it's sort of on-the-job training, which may be an okay-substitute for someone who wasn't professionally-trained.  But I think nowadays, with so many amazing photographers, who were not professionally trained displaying their work on the internet, it is definitely possible for anyone to "learn as they go."
