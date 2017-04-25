@@ -70,3 +70,9 @@ Dessert was something Rossy made ahead of time.  At first, she was planning to d
     <img src="/images/293-14.jpg">
 </figure>
 
+Anyways, I had such a great time with Rossy and her daughter talking about Dominican culture, food and even politics.  This is a final shot of all of us together.  
+
+<figure>
+    <img src="/images/293-15.jpg">
+</figure>
+
