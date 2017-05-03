@@ -13,7 +13,7 @@ When I became vegan, I sort of became an "extra-firm" tofu snob. All of the hip 
 
 <figure class="half">
 <img src="/images/295-3.jpg">
-<img src="/images/292-7.jpg">
+<img src="/images/295-7.jpg">
 </figure>
 
 But your past has a way of catching up with you and several weekends ago, when I was over at my Uncle Georges for lunch, he made this amazing, comforting and warming silken tofu curry.  I was so relieved to not bite into chunks of rough soy, which of course is trying to mimic the texture of meat.  The texture of the silken tofu was soft as pudding and glided gently through your taste buds.  When you ate the tofu curry with rice, it was almost like the tofu melted into the curry to create this amazing, silky ragout.
