@@ -12,7 +12,7 @@ image:
 So I took the idea for matcha brownies right off of Instagram.  To me, matcha and brownies don't really go together just because I think the flavor of matcha is so delicate and the flavor of chocolate brownies are so overpowering.
 
 <figure>
-    <img src="/images/294-8.jpg">
+    <img src="/images/294-1.jpg">
 </figure> 
 
 
