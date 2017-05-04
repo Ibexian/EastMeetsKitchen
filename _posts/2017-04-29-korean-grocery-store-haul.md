@@ -1,11 +1,11 @@
 ---
 layout: post
 categories: [videos, blog]
-tags: [blog, korean, grocery store, haul]
+tags: [blog, chinese, grocery store, haul]
 excerpt: 
-title: "Korean Grocery Haul"
-feature_video: https://www.youtube.com/embed/Y8AfwTjLKnw
+title: "Chinese Grocery Store Haul 3"
+feature_video: https://www.youtube.com/embed/Z84nrxc0Tzg
 image:
-    feature: 296-1.jpg
+    feature: 297-1.jpg
 ---
 
