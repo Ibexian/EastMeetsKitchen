@@ -17,6 +17,11 @@ The recipe is quite fun to make, but you cannot tamper too long when wrapping th
     <img src="/images/279-1.jpg">
 </figure> 
 
+<figure class="half">
+<img src="/images/279-9.jpg">
+<img src="/images/279-10.jpg">
+</figure>
+
 <figure>
     <img src="/images/279-2.jpg">
 </figure> 
