@@ -32,7 +32,7 @@ Anyways, mixing pandan essence into cake is like adding vanilla extract into any
     <img src="/images/299-4.jpg">
 </figure> 
 
-Also, a star of this recipe is the batter itself.  It's such an easy, dump everything into one bowl recipe.  You can substitute different flavorings and it comes out nice and moist.
+Also, a star of this recipe is the batter itself.  It's such an easy, dump everything into one bowl recipe.  You can substitute different flavorings and it comes out nice and moist each and every time.
 
 <figure>
     <img src="/images/299-5.jpg">
