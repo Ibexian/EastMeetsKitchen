@@ -19,7 +19,7 @@ If I were to describe the flavor of pandan (and I may have said this in another 
 It's best if you can find fresh pandan leaves, mix it with some water and puree and strain the leaves to make an extract.  Most of us can't find fresh leaves, but if you check the freezer section of many Asian grocery stores, you may be surprised to find pandan leaves frozen.  If you still don't have luck with that, then getting pandan essence either at the Asian grocery store or online is an okay substitute.
 
 <figure>
-    <img src="/images/299-7.jpg">
+    <img src="/images/299-7.jpeg">
 </figure> 
 
 Anyways, mixing pandan essence into cake is like adding vanilla extract into any batter.  This base flavor just elevates the final product.
