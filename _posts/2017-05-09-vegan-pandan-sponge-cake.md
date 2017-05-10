@@ -47,7 +47,7 @@ Also, a star of this recipe is the batter itself.  It's such an easy, dump every
 (makes two 8-inch rounds)
 
 - 2 cups soy milk
-- 2 tsp cider vinegar
+- 2 teaspoons apple cider vinegar
 - 2 1/2 cups flour
 - 1/3 cup cornstarch
 - 2 tsp baking powder
