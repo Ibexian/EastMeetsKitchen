@@ -36,7 +36,7 @@ Many recipes actually put sugar in the dough.  The helps with the flavor and als
 </figure> 
 
 <figure>
-    <img src="/images/301-8jpg">
+    <img src="/images/301-8.jpg">
 </figure> 
 
 <figure>
