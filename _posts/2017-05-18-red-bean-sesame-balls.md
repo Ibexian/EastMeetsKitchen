@@ -16,7 +16,9 @@ These sesame balls are something I had growing up.  They would frequently be in 
 </figure> 
 
 
-For those who have never tried these sesame balls, it's definitely a unique texture.  The filling is a red bean paste, which is as you might expect sweetened mashed beansto be, but the outside dough is the unique bit.  The dough is made from glutinous rice flour, so the texture is actually chewy and a little gummy.  But because it's been dipped in sesame and then fried, there is also a cripsy element to it.  It's a dessert you can devour as it is not too sweet and has all the right textural components.
+For those who have never tried these sesame balls, it's definitely a unique texture.  The filling is a red bean paste, which is as you might expect sweetened mashed beans to be, but the outside dough is the unique bit.  
+
+The dough is made from glutinous rice flour, so the texture is actually chewy and a little gummy.  But because it's been dipped in sesame and then fried, there is also a crispy element to it.  It's a dessert you can devour as it is not too sweet and has all the right textural components.
 
 <figure class="half">
 <img src="/images/301-4.jpg">
