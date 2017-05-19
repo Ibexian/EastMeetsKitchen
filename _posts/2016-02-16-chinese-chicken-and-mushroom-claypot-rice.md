@@ -29,19 +29,38 @@ Claypot rice is a one-pot, Chinese favorite.  The idea is that as the rice is al
     <img src="/images/183-7.jpg">
 </figure>
 
-Chicken and Mushroom Claypot Rice Recipe
+
+<figure class="ingredients" markdown="1">
+
+### Chicken and Mushroom Claypot Rice Recipe
 
 (serves 2-3)
 
-Claypot Rice
-
 - 1 cup rice
 - 2 medium sized chicken thighs
-- 4-5 shitake mushrooms, rehydrated (reserve liquid - about 1/2 cup)
+- 4-5 shitake mushrooms, rehydrated (reserve liquid)
 - 1/4 teaspoon salt
 - 1 tablespoon cornstarch
 - 1 1/2 teaspoon oyster sauce
 - 1 teaspoon soy sauce
 - 1/2-3/4 teaspoon crushed garlic
 - 1 teaspoon rice wine
-- 1 teaspoon julienned ginger
+- 1 teaspoon ginger, julienned
+
+
+
+</figure>
+
+<figure class="directions" markdown="1">
+
+### Directions
+
+1. Start cooking rice according to packaged instructions.
+2. Cut chicken thighs into 1-inch cubes.  Put into a bowl along with the salt, cornstarch, oyster sauce, soy sauce, garlic, rice wine and ginger.  Mix until chicken is evenly coated.
+3. Cut shitake mushrooms into halves or quarters and put into a bowl.  Set aside.
+4. In a pan over medium high heat, add 2 teaspoons of oil.  Add in the chicken and cook until chicken is about 80 percent done.  Add in 3-4 tablespoons of water to build the sauce.
+5. When the rice is about 80 percent done, pour the chicken mixture over the rice.  
+6. Cook for another 5-6 minutes or until the chicken is cooked and the sauce has been absorbed into the rice.
+</figure>
+
+
