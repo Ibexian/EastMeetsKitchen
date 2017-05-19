@@ -14,6 +14,21 @@ image:
 
 Claypot rice is a one-pot, Chinese favorite.  The idea is that as the rice is almost cooked, you add on the toppings and everything finishes cooking at the same time.  The sauces from the toppings combine with the rice for a flavorful one-pot dish.
 
+<figure>
+    <img src="/images/183-3.jpg">
+</figure>
+
+<figure>
+    <img src="/images/183-5.jpg">
+</figure>
+
+<figure>
+    <img src="/images/183-6.jpg">
+</figure>
+<figure>
+    <img src="/images/183-7.jpg">
+</figure>
+
 Chicken and Mushroom Claypot Rice Recipe
 
 (serves 2-3)
