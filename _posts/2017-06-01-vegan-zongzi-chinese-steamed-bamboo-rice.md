@@ -12,7 +12,7 @@ image:
 If it's around the month of May or June and you happen to see dragon boat races happening in your local rivers, then it's probably the time for zongzi.  Zongzi-s are these bamboo-wrapped glutinous rice packets, traditional filled with pork, Chinese sausage, beans and peanuts and a salted duck egg.  They're fragrant, flavorful and comforting.
 
 <figure>
-    <img src="/images/308-10">
+    <img src="/images/308-10.png">
 </figure> 
 
 So legend has it that there was this Chinese patriot by the name of Qu Yuan.  He unsuccessfully warned his king of the Chu kingdom against the expansionism of the Qin kingdom.  Anyways, a Qin general ended seizing the king and the Chu capital.  Qu Yuan was so upset that he drowned himself in a river.  Countrymen tried to save his body, but was unsuccessful, so in trying to prevent the fish to eat up Qu Yuan's body, villagers threw packets of rice (zongzi) into the river.  And there you go!
