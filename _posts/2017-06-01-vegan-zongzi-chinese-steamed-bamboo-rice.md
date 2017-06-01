@@ -91,6 +91,11 @@ Rice Seasoning:
 ### Directions
 
 1. Wash bamboo leaves and put into a large pot with water.  Bring water to a boil and simmer leaves for 30 minutes.  Drain and soak bamboo leaves in cold water for at least 4 hours or best, overnight.
-2. Meanwhile, add enough water to cover the glutinous rice, mung beans, and shiitake
+2. Meanwhile, add enough water to cover the glutinous rice, mung beans, and shiitake mushrooms.  Leave for at least 4 hours or overnight to rehydrate.
+3. To marinate the faux meat, mix the faux meat, five spice powder, white pepper, salt, Shaoxing wine, sugar, soy sauce and vegan oyster sauce together.  Once the mushrooms are hydrated enough, add it to this mixture.  Leave for at least 4 hours or overnight.
+4. Drain the liquid from the rice, mung beans and mushrooms.  Add the salt, soy sauce and oil seasoning to the rice and mix around.
+5. Dry bamboo leaves and with the shiny side up, place 2 bamboo leaves on top of one another.  Follow the wrapping technique from the video for the rectangular or triangular zongzi.  Once wrapped, tie with string.
+6. Place in a large pot and cover with water.  Bring the water to a boil and lower heat.  Cook for 4 hours until rice is soft.
+7. Cut string, unwrap zongzi and serve with soy sauce.
 
 </figure>
