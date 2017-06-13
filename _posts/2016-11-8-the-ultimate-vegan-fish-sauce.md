@@ -50,6 +50,7 @@ And actually, there isn't too much work to the recipe.  It's more time because I
 - 1 cup soy sauce
 - 1/4 cup pineapple juice
 - 3 pineapple rings
+- 1 tablespoon miso
 - 2 tablespoons sea salt
 
 </figure>
