@@ -24,20 +24,20 @@ I would say the hardest part about this recipe is finding a loaf of uncut bread.
 </figure>
 
 figure>
-    <img src="/images/314-6.png">
+    <img src="/images/314-6.jpg">
 </figure> 
 
 figure>
-    <img src="/images/314-7.png">
+    <img src="/images/314-7.jpg">
 </figure> 
 
 
 figure>
-    <img src="/images/314-8.png">
+    <img src="/images/314-8.jpg">
 </figure> 
 
 figure>
-    <img src="/images/314-1.png">
+    <img src="/images/314-1.jpg">
 </figure> 
 
 <figure class="ingredients" markdown="1">
