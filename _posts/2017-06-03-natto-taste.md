@@ -1,12 +1,12 @@
 ---
 layout: post
 categories: [videos, blog]
-tags: [blog, vegan, indian, grocery haul, grocery store, haul]
+tags: [blog, vegan, natto]
 excerpt: 
-title: "Indian Grocery Store Haul"
-feature_video: https://www.youtube.com/embed/aD-qwAjezH8
+title: "Natto Taste Test"
+feature_video: https://www.youtube.com/embed/lIChHtSyM7s
 image:
-    feature: 316-1.jpg
+    feature: 315-1.jpg
 ---
 
  
