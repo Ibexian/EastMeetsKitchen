@@ -13,7 +13,7 @@ Here's a super simple dessert you should consider for summer time.  It's called 
 
 
 <figure>
-    <img src="/images/314-3.png">
+    <img src="/images/314-3.jpg">
 </figure> 
 
 I would say the hardest part about this recipe is finding a loaf of uncut bread.  If you have a bread machine and make your own bread, this would be perfect.  If you don't though, many supermarket bakeries carry unsliced loaves and Panera also is stocked full of different uncut loaves, although if you are vegan, I believe there are only about 2 choices - and yes, the white loaf does have eggs in it.
