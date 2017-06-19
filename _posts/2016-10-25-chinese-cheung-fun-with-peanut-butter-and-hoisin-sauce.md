@@ -50,15 +50,22 @@ A lot of the recipe is creating the sauces and preparing the toppings.  It is mo
 
 (makes 4 servings)
 
-
 - 1 pound package cheung fan
 - 1 stalk scallion, for garnish
 - 1-2 tablespoon sesame, toasted
 - 1-2 teaspoons mini dried shrimp, optional
+
+Peanut Sauce:
+
 - 1 heaping tablespoon peanut butter
 - 3-4  tablespoons  boiling water
 - 1/4 teaspoon sugar
-- 2 tablespoons soy sauce + 2  tablespoons water
+
+Soy Sauce:
+- 1 tablespoon + 1 teaspoon soy sauce 
+- 2  tablespoons water
+- 1 tablespoon sugar
+
 - 2 tablespoons hoisin sauce
 
 
