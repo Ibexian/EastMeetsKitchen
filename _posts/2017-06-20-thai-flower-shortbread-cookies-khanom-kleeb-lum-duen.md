@@ -15,6 +15,7 @@ If you're looking for a pretty, cute and fun to make cookie recipe, look no furt
 <figure class="half">
     <img src="/images/320-13.JPG">
     <img src="/images/320-14.jpg">
+    <figcaption> photo by: She Simmers and Serious Eats</figcaption>
 </figure>
 
 The recipe is a basic shortbread dough made by drizzling vegetable oil into flour.  The perfect texture of the dough should be crumbly and like wet sand.  When you bunch the dough into your hands it should hold together easily.
