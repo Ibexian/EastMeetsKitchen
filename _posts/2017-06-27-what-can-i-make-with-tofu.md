@@ -9,6 +9,7 @@ image:
     feature: 323-1.jpg
 ---
 
+If you're uninspired from boxed tofu like I am, here are a couple ideas to help you out!
 
 <figure>
     <img src="/images/323-2.jpg">
@@ -16,7 +17,7 @@ image:
 
 __1. Pan-Fried Tofu__
 
-I love pan-frying tofu as opposed to deep frying.  You get a lighter and less oily product that is still crunchy.  In this [recipe](http://www.pbs.org/food/fresh-tastes/pan-fried-tofu/), I pan-fry it with a bit of sesame oil, so the flavor is jam-packed.  Then a sweetened soy sauce is drizzled over the top, offering the perfect balance of sweet and salty.
+I love pan-frying tofu as opposed to deep frying.  You get a lighter and less oily product that is still crunchy.  [In this recipe](http://www.pbs.org/food/fresh-tastes/pan-fried-tofu/), I pan-fry it with a bit of sesame oil, so the flavor is jam-packed.  Then a sweetened soy sauce is drizzled over the top, offering the perfect balance of sweet and salty.
 
 
 <figure>
@@ -32,7 +33,7 @@ Baked tofu is easy and the clean up is a cinch.  I personally like to marinate i
 
 __3. Stuffed Tofu__
 
-So this recipe is a Chinese Hakka recipe my mom used to prepare.  She would take soft or silken tofu, hollow out the center and fill it with fish paste.  It was absolutely delicious and recipes can be seen like this [one](http://thewoksoflife.com/2013/10/stuffed-tofu-hakka-style/) from Woks of Life. For a vegetarian version, mashed beans with seasoning would easily do the job!
+So this recipe is a Chinese Hakka recipe my mom used to prepare.  She would take soft or silken tofu, hollow out the center and fill it with fish paste.  It was absolutely delicious and recipes can be seen [like this one](http://thewoksoflife.com/2013/10/stuffed-tofu-hakka-style/) from Woks of Life. For a vegetarian version, mashed beans with seasoning would easily do the job!
 <figure>
     <img src="/images/323-5.jpg">
 </figure>
@@ -40,7 +41,7 @@ So this recipe is a Chinese Hakka recipe my mom used to prepare.  She would take
 
 __4. Kimchi Tofu Soup__
 
-I'm a big fan of Korean soups.  I think they are warm, hearty and filling and could easily substitute a meal.  Here is a kimchi tofu soup [recipe]https://www.maangchi.com/recipe/sundubu-jjigae from Maangchi, one of my favorite Korean YouTubers.  She uses meat in her recipe, but a vegetarian broth can easily be substituted or made with water and some Korean bean paste.
+I'm a big fan of Korean soups.  I think they are warm, hearty and filling and could easily substitute a meal.  Here is a [kimchi tofu soup recipe](https://www.maangchi.com/recipe/sundubu-jjigae) from Maangchi, one of my favorite Korean YouTubers.  She uses meat in her recipe, but a vegetarian broth can easily be substituted or made with water and some Korean bean paste.
 
 <figure>
     <img src="/images/323-6.jpg">
