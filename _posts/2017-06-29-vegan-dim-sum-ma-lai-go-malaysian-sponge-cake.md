@@ -6,7 +6,7 @@ excerpt:
 title: "Vegan Dim Sum - Ma Lai Go - Malaysian Sponge Cakes"
 feature_video: https://www.youtube.com/embed/iV0eLiRTEuc
 image:
-    feature: 324-1.JPG
+    feature: 324-1.jpg
 ---
 
 Ma Lai Go are those spongy steamed cakes most of us know from dim sum.  History has it that during the time the Britain was in Malaysian, ovens were no where to be found and so cakes needed to be steamed.  The "Ma Lai" in ma lai go comes from the Chinese word for Malaysia.
