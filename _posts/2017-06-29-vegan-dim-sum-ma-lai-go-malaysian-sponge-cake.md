@@ -9,6 +9,8 @@ image:
     feature: 324-1.JPG
 ---
 
+Ma Lai Go are those spongy steamed cakes most of us know from dim sum.  History has it that during the time the Britain was in Malaysian, ovens were no where to be found and so cakes needed to be steamed.  The "Ma Lai" in ma lai go comes from the Chinese word for Malaysia.
+
 <figure class="half">
     <img src="/images/324-2.jpg">
     <img src="/images/324-3.jpg">
