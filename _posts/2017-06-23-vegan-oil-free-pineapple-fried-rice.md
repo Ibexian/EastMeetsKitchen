@@ -6,7 +6,7 @@ excerpt:
 title: "Vegan Oil-Free Pineapple Fried Rice"
 feature_video: https://www.youtube.com/embed/wt_BBoskyYQ
 image:
-    feature: 321-1.JPG
+    feature: 321-1.jpg
 ---
 
 Pineapple fried rice is an amazing show piece.  The hardest part of the recipe involves hollowing out the pineapple.  My version is vegan and oil-free, which means the rice is flavor-packed with Thai flavors like lime juice and a hint of curry powder, but doesn't leave you feeling overly oily and full.  
