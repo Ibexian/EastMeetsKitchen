@@ -51,11 +51,11 @@ A big part of fried rice is to make sure and have all the ingredients prepared b
 - 1/4 cup onions, sliced thin
 - 1 tablespoon garlic, minced
 - 1/2 cup mushrooms, sliced
-- 1/4 cup vegan chicken stock or vegetable stock (http://amzn.to/2s3Na5Q)
+- 1/4 cup vegan [chicken stock or vegetable stock](http://amzn.to/2s3Na5Q)
 - 2 cups rice, cooked
 - 1/2 cup tomatoes
-- 1 tablespoon Thai soy sauce (http://amzn.to/2t2O4nG)
-- 1 teaspoon vegan fish sauce (https://www.youtube.com/watch?v=yp40NIuWq80)
+- 1 tablespoon [Thai soy sauce](http://amzn.to/2t2O4nG)
+- 1 teaspoon [vegan fish sauce](https://www.youtube.com/watch?v=yp40NIuWq80)
 - 1 teaspoon curry powder
 - white pepper, to taste
 - salt, to taste
