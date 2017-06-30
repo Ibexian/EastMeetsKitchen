@@ -9,6 +9,48 @@ image:
     feature: 322-1.JPG
 ---
 
+This is a really easy way to make a dim sum favorite - BBQ Pork Noodle Rolls.  I took long rice noodle rolls, unwrapped them into a sheet and then filled them with my jackfruit "pork" filling.  Using this method, you can fill the noodle rolls with anything you want.
+
+<figure class="half">
+    <img src="/images/322-2.JPG">
+    <img src="/images/322-3.jpg">
+</figure>
+
+<figure>
+    <img src="/images/322-9.jpg">
+</figure> 
+
+
+Probably the most difficult part of this recipe is to unroll the rice sheets.  In a dim sum restaurant, the noodle sheets would be made fresh with a thin rice batter and steamed so that it firms up.  We are going to steam the noodle rolls to soften them just a bit.  Don't do it longer than 5 minutes because if they get too soft, they will be difficult to handle.
+
+<figure>
+    <img src="/images/322-5.jpg">
+</figure> 
+
+<figure class="half">
+    <img src="/images/322-6.JPG">
+    <img src="/images/322-7.jpg">
+</figure>
+
+The trick is to unwrap the noodles in a bowl of water.  Because the noodles already have some oil painted in between, it should unravel easily, albeit you should do it slowly to avoid tears.  It will also be very helpful to paint a bit of water on the board where you are rolling the noodle roll to keep it from sticking.  Don't overfill the noodles and using a bench scraper is definitely a must to help roll the noodles back up.
+
+<figure>
+    <img src="/images/322-4.jpg">
+</figure> 
+
+<figure>
+    <img src="/images/322-8.jpg">
+</figure> 
+
+
+<figure class="half">
+    <img src="/images/322-10.JPG">
+    <img src="/images/322-11.jpg">
+</figure>
+
+<figure>
+    <img src="/images/322-12.jpg">
+</figure> 
 
 
 <figure class="ingredients" markdown="1">
