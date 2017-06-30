@@ -40,10 +40,6 @@ A big part of fried rice is to make sure and have all the ingredients prepared b
     <img src="/images/321-8.jpg">
 </figure> 
 
-<figure>
-    <img src="/images/321-9.jpg">
-</figure> 
-
 
 <figure class="ingredients" markdown="1">
 
