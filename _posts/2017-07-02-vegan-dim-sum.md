@@ -20,7 +20,7 @@ Do I want to be known as the girl "veganizing" dim sum? Darn straight!  Vegan di
     <img src="/images/328-1.jpg">
 </figure>
 
-Dim sum is not always the easiest recipes to veganize.  Sure there are the baos and dessert type items that are fun to play around with, but a lot of the savory dim sum like your har gao (shrimp dumplings), shu mai (pork and shrimp dumplings), and your lion's head meatballs are basically all meat.  So for me, it was important I do this right.  I either needed to find really good meat and seafood substitutes on the market, or I needed to nail down at least a damn good ground pork and beef recipe.
+Dim sum is not always the easiest recipes to veganize.  Sure there are the baos and dessert type items that are fun to play around with, but a lot of the savory dim sum like your har gao (shrimp dumplings), [shu mai](http://eastmeetskitchen.com/videos/recipes/vegan-pork-and-shrimp-shu-mai-dumplings-vegan-dim-sum/) (pork and shrimp dumplings), and your lion's head meatballs are basically all meat.  So for me, it was important I do this right.  I either needed to find really good meat and seafood substitutes on the market, or I needed to nail down at least a damn good ground pork and beef recipe.
 
 <figure>
     <img src="/images/322-4.jpg">
