@@ -32,7 +32,7 @@ The most difficult part of this recipe is having to stand over the stove and sti
 </figure> 
 
 <figure>
-<img src="/images/329-14 copy.jpg">
+<img src="/images/329-14.jpg">
 </figure> 
 
 A very important note to remember if you wish to unmold this cake is first, you need to freeze it.  The cake has a very soft set and if you want a neater presentation, freezing is a must.  Also, it is best to use a spring-form pan.  or to line your pan with parchment and transparent wrapping tape, otherwise the cake is not coming out.
