@@ -72,7 +72,7 @@ A very important note to remember if you wish to unmold this cake is first, you 
 1. In a food processor, blend the purple potatoes and taro.  While blending, slowly pour in the non-dairy milk and puree until smooth.
 2. In a pot over medium high heat, melt Earth Balance butter.  Add in coconut milk and purple yam mixture.
 3. Turn heat down to medium heat and cook until yam mixture is reduced by about half, about 30 minutes, stirring constantly.  
-4. Pour mixture into a lined 8-9 - inch spring-form pan.  Cool before placing into a freezer and freezing for about 4 hours or until cake is firm.
+4. Pour mixture into a lined 8 1/2-inch spring-form pan.  Cool before placing into a freezer and freezing for about 4 hours or until cake is firm.
 5. Unmold cake onto a serving platter and sprinkle with toasted coconut. Cut into slices.  Thaw about an hour or until cake is soft.
 
 </figure>
