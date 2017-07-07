@@ -55,13 +55,13 @@ A very important note to remember if you wish to unmold this cake is first, you 
 
 (Makes 8 1/2-inch cake)
 
-3/4 pound purple yams, cooked
-1/4 pound taro, cooked
-2 cups non-dairy milk
-1 cup coconut milk
-1/2 cup sugar (can substitute)
-2 tablespoons Earth Balance
-1/2 cup toasted coconut
+- 3/4 pound purple yams, cooked
+- 1/4 pound taro, cooked
+- 2 cups non-dairy milk
+- 1 cup coconut milk
+- 1/2 cup sugar (can substitute)
+- 2 tablespoons Earth Balance
+- 1/2 cup toasted coconut
 
 </figure>
 
