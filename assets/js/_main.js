@@ -44,7 +44,7 @@ $(function() {
   });
 });
 
-$(function() {
+$(document).ready(function() {
   jQuery.getJSON('/products.json', function(data){
     data.products.map(function(product){
         var li = $('.ingredients li:contains(' + product.name + ')');
