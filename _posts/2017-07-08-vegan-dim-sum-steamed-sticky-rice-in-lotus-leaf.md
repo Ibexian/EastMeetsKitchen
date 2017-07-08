@@ -9,44 +9,61 @@ image:
     feature: 330-1.jpg
 ---
 
-If I had a favorite dim sum item I ordered as a kid, it would be "luo mai gai"-stick rice filled with chicken, mushrooms and Chinese sausage all wrapped and perfumed in a lotus leaf.  I loved luo mai gai-s because they were substantial, kept me full and had all of these wonderful treasures inside.  I could always tell when the carts were bringing them by because it smelled of fragrant lotus leaves.
+If I had a favorite dim sum item I ordered as a kid, it would be "luo mai gai"
+- stick rice filled with chicken, mushrooms and Chinese sausage all wrapped and perfumed in a lotus leaf.  I loved luo mai gai-s because they were substantial, kept me full and had all of these wonderful treasures inside.  I could always tell when the carts were bringing them by because it smelled of fragrant lotus leaves.
+
 <figure>
-<img src="/images/329-3.jpg">
+<img src="/images/330-14.jpg">
 </figure> 
 
 <figure>
-<img src="/images/329-4.jpg">
+<img src="/images/330-2.jpg">
+</figure> 
+
+It is important to actually use three parts sticky rice to one part long grain rice in this recipe because sticky rice gets overly soft especially because it is cooked twice.  Having the long grain gives the rice texture, which is more appetizing.
+
+<figure>
+<img src="/images/330-5.jpg">
+</figure> 
+
+<figure>
+<img src="/images/330-6.jpg">
 </figure> 
 
 
-The most difficult part of this recipe is having to stand over the stove and stir the mixture for about 30 minutes until it reduces down.  But the result is an amazingly creamy, coconut-infused mixture that is delicious on anything.
+In terms of meat substitutes, I ended up using Gardein's Chicken Strips, which are one of my favorite because it really holds its shape throughout the cooking process.  Instead of Chinese lap cheong, I opted for beets, which mimic the red color and slight sweetness of lap cheong, but it does bleed through, so that can easily be substituted for a vegan sausage.
+
+<figure>
+<img src="/images/330-3.jpg">
+</figure> 
+
+
+Below are the steps for how to wrap the lotus leaf packages.  It is important to use two layers because there can be small holes in the lotus leaves and you don't want the sauces from the rice to leak out.
+
+<figure>
+<img src="/images/330-4.jpg">
+</figure> 
+
+<figure>
+<img src="/images/330-11.jpg">
+</figure> 
 
 <figure class="half">
-    <img src="/images/329-7.jpg">
-    <img src="/images/329-9.jpg">
+    <img src="/images/330-12.jpg">
+    <img src="/images/330-13.jpg">
+</figure>
+
+<figure class="half">
+    <img src="/images/330-12.jpg">
+    <img src="/images/330-13.jpg">
 </figure>
 
 <figure>
-<img src="/images/329-10.jpg">
-</figure> 
+<img src="/images/330-15.jpg">
+</figure>
 
-<figure>
-<img src="/images/329-14.jpg">
-</figure> 
 
-A very important note to remember if you wish to unmold this cake is first, you need to freeze it.  The cake has a very soft set and if you want a neater presentation, freezing is a must.  Also, it is best to use a spring-form pan.  or to line your pan with parchment and transparent wrapping tape, otherwise the cake is not coming out.
 
-<figure>
-<img src="/images/329-1.jpg">
-</figure> 
-
-<figure>
-<img src="/images/329-12.jpg">
-</figure> 
-
-<figure>
-<img src="/images/329-13.jpg">
-</figure> 
 
 <figure class="ingredients" markdown="1">
 
@@ -87,10 +104,14 @@ Rice Marinade:
 
 ### Directions
 
-1. In a food processor, blend the purple potatoes and taro.  While blending, slowly pour in the non-dairy milk and puree until smooth.
-2. In a pot over medium high heat, melt Earth Balance butter.  Add in coconut milk and purple yam mixture.
-3. Turn heat down to medium heat and cook until yam mixture is reduced by about half, about 30 minutes, stirring constantly.  
-4. Pour mixture into a lined 8 1/2-inch spring-form pan.  Cool before placing into a freezer and freezing for about 4 hours or until cake is firm.
-5. Unmold cake onto a serving platter and sprinkle with toasted coconut. Cut into slices.  Thaw about an hour or until cake is soft.
+1. Cut middle tips off of lotus leaves.  Soak in water for 1 hour.
+2. In a bowl, mix the chicken marinade together.  Add in the faux chicken strips and mushrooms, toss and marinade for at least one hour. 
+3. In another bowl, mix together the rice marinade.  Put in the cooked rice and toss until combined.
+4. Use one half of the lotus leaf and put it on the bottom.  Take one quarter of another leaf and put it in the middle of the lotus leaf half.  Take one handful of marinaded rice and push the rice down to flatten.  
+5. Add in one mushroom, 2 chicken strips and a strip of beet.  Top off with another thin layer of rice to cover the filling.
+6. Roll the lotus leaf like a burrito to enclose the rice.
+7. Roll the second lotus leaf like a burrito into a rectangular package.
+8. Put lotus packages into a steamer and steam on medium high heat for 20 minutes.
+9. Unwrap and serve immediately.
 
 </figure>
