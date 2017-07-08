@@ -4,7 +4,7 @@ categories: [videos, recipes]
 tags: [videos, vegan, vegan dim sum, vegetarian dim sum, yum cha, luo mai gai, steamed sticky rice, lotus leaf, steamed sticky rice in lotus leaf, dim sum, 糯米雞]
 excerpt: 
 title: "Vegan 'Luo Mai Gai' - Steamed Sticky Rice in Lotus Leaf Dim Sum"
-feature_video: https://www.youtube.com/embed/54n1dsRffDg
+feature_video: https://www.youtube.com/embed/VsaEcOk9RSc
 image:
     feature: 330-1.jpg
 ---
