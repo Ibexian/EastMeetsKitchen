@@ -10,7 +10,7 @@ image:
 ---
 
 If I had a favorite dim sum item I ordered as a kid, it would be "luo mai gai"
-- stick rice filled with chicken, mushrooms and Chinese sausage all wrapped and perfumed in a lotus leaf.  I loved luo mai gai-s because they were substantial, kept me full and had all of these wonderful treasures inside.  I could always tell when the carts were bringing them by because it smelled of fragrant lotus leaves.
+- sticky rice filled with chicken, mushrooms and Chinese sausage all wrapped and perfumed in a lotus leaf.  I loved luo mai gai-s because they were substantial, kept me full and had all of these wonderful treasures inside.  I could always tell when the carts were bringing them by because it smelled of fragrant lotus leaves.
 
 <figure>
 <img src="/images/330-14.jpg">
