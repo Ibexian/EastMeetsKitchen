@@ -40,6 +40,7 @@ But because frangipane is somewhat of a soft filling, it's nice to pair it with 
 <figure>
 <img src="/images/331-4.jpg">
 </figure> 
+
 <figure>
 <img src="/images/331-5.jpg">
 </figure> 
