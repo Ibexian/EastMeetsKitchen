@@ -1,9 +1,9 @@
 ---
 layout: post
 categories: [videos, recipes]
-tags: [videos, vegan, sweets, cherry tart, tart, frangipane, frangipane tart, cherry frangipane tart, pistachio, cherry pistachio frangipane tart, vegan frangipane tart, cherries, cherry season, almonds, almond extract]
+tags: [videos, vegan, sweets, cherry tart, tart, frangipane, frangipane tart, cherry frangipane tart, pistachio, cherry pistachio frangipane tart, vegan frangipane tart, cherries, cherry season, almonds, almond extract, gluten-free]
 excerpt: 
-title: "Vegan Cherry Pistachio Frangipane Tart"
+title: "Vegan Gluten-Free Cherry Pistachio Frangipane Tart"
 feature_video: 
 image:
     feature: 331-1.jpg
@@ -54,7 +54,7 @@ But because frangipane is somewhat of a soft filling, it's nice to pair it with 
 
 <figure class="ingredients" markdown="1">
 
-### Vegan Cherry Pistachio Frangipane Tart
+### Vegan Gluten-Free Cherry Pistachio Frangipane Tart
 
 ### Crust
 
