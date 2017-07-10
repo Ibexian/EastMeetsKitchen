@@ -90,6 +90,6 @@ But because frangipane is somewhat of a soft filling, it's nice to pair it with 
 2. In a bowl, mix all the ingredients of the crust together.  Press it into the tart pan.  Bake for 10 minutes and let cool.
 3. Meanwhile in a mixing bowl, mix the almond flour, cornstarch, and granulated sugar until combined.  Using a spatula, fold in the Earth Balance, egg substitute and almond extract until the filling is creamy and combined.
 4. Pour filling into the tart pan. Smooth top with an offset spatula. Top with pitted cherries and chopped pistachios.
-5. Bake for 30-35 minutes until the filling gets lightly golden brown.  Let cool before cutting.te
+5. Bake for 30-35 minutes until the filling gets lightly golden brown.  Let cool before cutting.
 
 </figure>
