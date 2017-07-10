@@ -56,7 +56,7 @@ But because frangipane is somewhat of a soft filling, it's nice to pair it with 
 
 ### Vegan Cherry Pistachio Frangipane Tart
 
-###Crust
+### Crust
 
 - 3/4 cup almond flour
 - 1/3 cup unsweetened coconut,
@@ -65,7 +65,7 @@ But because frangipane is somewhat of a soft filling, it's nice to pair it with 
 - 1/4 cup brown rice syrup (can substitute another syrup)
 - 1/4 cup Earth Balance or coconut oil
 
-###Filling
+### Filling
 
 - 1/2 cup almond flour
 - 1 1/2 teaspoons cornstarch
@@ -74,7 +74,7 @@ But because frangipane is somewhat of a soft filling, it's nice to pair it with 
 - 1 egg substitute (2 tablespoons VeganEggs with 1/2 cup water)
 - 1 teaspoon almond extract
 
-###Topping
+### Topping
 
 - 14 cherries, pitted
 - 1/4 cup pistachios, coarsely chopped 
