@@ -21,7 +21,7 @@ The brilliant thing about frangipane tarts, if it weren't brilliant already, is 
 <img src="/images/331-8.jpg">
 </figure> 
 
-In the Northeast, cherries are fairly expensive all times of the year, right until about July when they are harvested.  That's when supermarkets offer big deals at $1.57 per pound versus the usual $5, $6 and $7 per pound cherries, whcih frankly, I don't know who can afford.  In addition to being one of my favorite fruits, cherries are excellent in frangipane tarts because they don't break apart when baking.  It only softens and sweetens just enough to complement the thick and textured filling that is the frangipane tart.
+In the Northeast, cherries are fairly expensive all times of the year, right until about July when they are harvested.  That's when supermarkets offer big deals at $1.57 per pound versus the usual $5, $6 and $7 per pound cherries, which frankly, I don't know who can afford.  In addition to being one of my favorite fruits, cherries are excellent in frangipane tarts because they don't break apart when baking.  It only softens and sweetens just enough to complement the thick and textured filling that is the frangipane tart.
 
 <figure>
 <img src="/images/331-9.jpg">
@@ -35,7 +35,7 @@ For the recipe, I pitted the cherries (using a wine bottle and chopstick) in a w
     <img src="/images/331-3.jpg">
 </figure>
 
-But because frangipane is somewhat of a soft filling, it's nice to pair it with somewhat of a crunchy cookie or pie crust.  For this recipe, I am using a verion of my vegan ["Almond Flax Crumble Topping"](http://eastmeetskitchen.com/recipes/high-protein-almond-flax-crumble-topping/) for my crust.  This is an amazing recipe because the crumble has a ton of flavor and texture from the coconuts and flaxseed and is not overly sweet as it is sweetened with just a bit of brown rice syrup, although you could substitute maple or any other syrup sold in the market.
+But because frangipane is somewhat of a soft filling, it's nice to pair it with somewhat of a crunchy cookie or pie crust.  For this recipe, I am using a version of my vegan ["Almond Flax Crumble Topping"](http://eastmeetskitchen.com/recipes/high-protein-almond-flax-crumble-topping/) for my crust.  This is an amazing recipe because the crumble has a ton of flavor and texture from the coconuts and flaxseed and is not overly sweet as it is sweetened with just a bit of brown rice syrup, although you could substitute maple or any other syrup sold in the market.
 
 <figure>
 <img src="/images/331-4.jpg">
