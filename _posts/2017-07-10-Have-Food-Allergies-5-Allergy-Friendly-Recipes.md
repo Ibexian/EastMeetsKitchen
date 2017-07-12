@@ -92,7 +92,7 @@ I love this recipe just because it contains a ton of vegetables and tastes amazi
 
 I love making vegan pestos because they taste just as good as ones with cheese.  The secret is lemon juice (and sometimes, a bit of nutritional yeast).  I made a [vegan avocado pesto](http://eastmeetskitchen.com/videos/recipes/vegan-avocado-pesto/) in the past and that recipe can certainly be used as I substituted pumpkin seeds instead of the usual pine nuts.  
 
-However, those wishing to incorporate more greens into their pesto can follow the recipe below.  It makes 8-10 servings, but the great thing about pesto is it can be frozen.  I usually put mine into little ice cube trays and that way if I wanted to make an individual portion of pesto past, I can just take one cube out.  
+However, those wishing to incorporate more greens into their pesto can follow the recipe below.  It makes 8-10 servings, but the great thing about pesto is it can be frozen.  I usually put mine into little ice cube trays and that way if I wanted to make an individual portion of pesto pasta, I can just take one cube out.  
 
 A special note is if you think you may have a wheat allergy, to go with the many wheat-free pastas available at grocery stores today.  There is a great many varieties made from brown rice, corn and quinoa, which are all delicious.
 
