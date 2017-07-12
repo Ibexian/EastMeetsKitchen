@@ -3,7 +3,7 @@ layout: post
 categories: [videos, blog]
 tags: [blog, allergies, allergy, food allergy, big 8, recipes, allergy friendly, allergy friendly recipes, allergy friendly foods]
 excerpt: 
-title: "Have Food Allergies?? 6 Allergy-Friendly Recipes"
+title: "Have Food Allergies? - 5 Allergy-Friendly Recipes"
 feature_video: https://www.youtube.com/embed/B6WZua-NpXU
 image:
     feature: 332-1.jpg
