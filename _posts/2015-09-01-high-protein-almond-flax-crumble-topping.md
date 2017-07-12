@@ -45,4 +45,4 @@ __3. Pour the butter mixture into the flour mixture and combine until the flour 
 
 <p>(Makes topping for a 12-inch pie)</p>
 
-<ul><li>1 1/2 cups almond flour</li><li>1/3 cup desiccated coconut</li><li>1/3 cup flax, ground</li><li>2/3 cup oats</li><li>1/2 teaspoon cinnamon</li><li>1/2 cup brown rice syrup</li><li>1/2 cup + 2 tablespoons Earth Balance Butter</li></ul></section>
+<ul><li>1 1/2 cups almond flour (can sub with garbanzo bean flour)</li><li>1/3 cup desiccated coconut</li><li>1/3 cup flax, ground</li><li>2/3 cup oats</li><li>1/2 teaspoon cinnamon</li><li>1/2 cup brown rice syrup</li><li>1/2 cup + 2 tablespoons Earth Balance Butter</li></ul></section>
