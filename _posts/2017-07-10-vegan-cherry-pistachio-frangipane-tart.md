@@ -73,6 +73,7 @@ But because frangipane is somewhat of a soft filling, it's nice to pair it with 
 - 1/4 cup Earth Balance
 - 1 egg substitute (2 tablespoons VeganEggs with 1/2 cup water)
 - 1 teaspoon almond extract
+- pinch of salt
 
 ### Topping
 
