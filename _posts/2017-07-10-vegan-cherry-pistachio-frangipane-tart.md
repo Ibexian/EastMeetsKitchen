@@ -6,7 +6,7 @@ excerpt:
 title: "Vegan Gluten-Free Cherry Pistachio Frangipane Tart"
 feature_video: https://www.youtube.com/embed/hYkQcNCNYuk
 image:
-    feature: 331-1.jpg
+    feature: 331-10.jpg
 ---
 
 I love almond extract in desserts.  Chances are if you put it in something sweet that you're making, I'm going to like it.  I think that's why frangipane tarts are one of my favorite western desserts to eat.  The filling itself is thick and custardy, usually made from almond flour and almond extract, so there is some texture as well as the aromatic smell of almond involved.
