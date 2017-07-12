@@ -23,7 +23,7 @@ I recently went through a very scary episode of contact allergy where I needed t
 That's when I decided to take matters into my own hands and create somewhat of a "cleaner" menu to eat at least during the first few weeks while I was battling this ailment.  The following five recipes were what I alternated eating.  They do not contain the common eight allergens (peanuts, tree nuts, crustacean, seafood, dairy, eggs, wheat and soy) that typically affect people.  
 That being said, feel free to customize the recipes as you see fit.  Some people are allergic to more that the common allergens and some people are allergic to just specific things.  I find that sugar is a common inflammatory agent and should be avoided the best you can.  And at least initially, it's better to work with less ingredients and stick to the cleaner, maybe slightly blander foods because the less you have in your system, the less your body needs to react to.  If you are living with a chronic allergy, then it's best to take time and familiarize yourself with what gives you issues.  It will be better and more comfortable for you in the long run. 
 
-### 1. Vegetable Pho__
+### 1. Vegetable Pho
 
 <figure>
     <img src="/images/332-2.jpg">
@@ -42,7 +42,7 @@ This was my go-to recipe when I was having allergic reactions.  I love how clean
 
 
 
-### 2. Mushroom Brown Rice Soup__
+### 2. Mushroom Brown Rice Soup
 
 <figure>
     <img src="/images/332-3.jpg">
@@ -62,13 +62,13 @@ This is a take off of a classic mushroom barley soup, but because barley does co
 - olive oil
 - salt to taste
 
-### 3. Vegetable Casserole__
+### 3. Vegetable Casserole
 
 <figure>
     <img src="/images/332-4.jpg">
 </figure>
 
-I love this recipe just because it contains a ton of vegetables and tastes amazing.  It happens to be allergy-friendly, but for those with a night-shade allergy, feel free to substitute for other vegetables.  In the case of tomatoes, I find that plums and a little lemon juice are excellent substitutes.
+I love this recipe just because it contains a ton of vegetables and tastes amazing.  It happens to be allergy-friendly, but for those with a night-shade allergy, feel free to substitute for other vegetables.  In the case of tomatoes, I find that plums and a little lemon juice are excellent substitutes.  Just put everything together and bake for about 35 minutes on 375 degrees Fahrenheit.
 
 ### Recipe
 
@@ -84,7 +84,7 @@ I love this recipe just because it contains a ton of vegetables and tastes amazi
 - salt and pepper to taste
 
 
-### 4. Kale Pesto with Corn and Quinoa Pasta__
+### 4. Kale Pesto with Corn and Quinoa Pasta
 
 <figure>
     <img src="/images/226-7.jpg">
@@ -110,7 +110,7 @@ A special note is if you think you may have a wheat allergy, to go with the many
 
 
 
-### 5. Any Fruit Fruit Crumble__
+### 5. Any Fruit Fruit Crumble
 
 <figure>
     <img src="/images/152-8.jpg">
