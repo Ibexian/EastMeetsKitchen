@@ -20,7 +20,7 @@ I recently went through a very scary episode of contact allergy where I needed t
 </figure>
 
 
-That's when I decided to take matters into my own hands and create somewhat of a "cleaner" menu to eat at least during the first few weeks while I was battling this ailment.  The following five recipes were what I alternated eating.  They do not contain the common eight allergens (peanuts, treenuts, crustacean, seafood, dairy, eggs, wheat and soy) that typically affect people.  
+That's when I decided to take matters into my own hands and create somewhat of a "cleaner" menu to eat at least during the first few weeks while I was battling this ailment.  The following five recipes were what I alternated eating.  They do not contain the common eight allergens (peanuts, tree nuts, crustacean, seafood, dairy, eggs, wheat and soy) that typically affect people.  
 That being said, feel free to customize the recipes as you see fit.  Some people are allergic to more that the common allergens and some people are allergic to just specific things.  I find that sugar is a common inflammatory agent and should be avoided the best you can.  And at least initially, it's better to work with less ingredients and stick to the cleaner, maybe slightly blander foods because the less you have in your system, the less your body needs to react to.  If you are living with a chronic allergy, then it's best to take time and familiarize yourself with what gives you issues.  It will be better and more comfortable for you in the long run. 
 
 __1. Vegetable Pho__
@@ -90,7 +90,7 @@ __4. Kale Pesto with Corn and Quinoa Pasta__
     <img src="/images/226-7.jpg">
 </figure>
 
-I love making vegan pestos because they taste just as good as ones with cheese.  The secret is lemon juice (and sometimes, a bit of nutritional yeast).  I made a [vegan avocado pesto](http://eastmeetskitchen.com/videos/recipes/vegan-avocado-pesto/) in the past and that recipe can certainly be used as I substituted pumpkin seeds instead of the usual pinenuts.  
+I love making vegan pestos because they taste just as good as ones with cheese.  The secret is lemon juice (and sometimes, a bit of nutritional yeast).  I made a [vegan avocado pesto](http://eastmeetskitchen.com/videos/recipes/vegan-avocado-pesto/) in the past and that recipe can certainly be used as I substituted pumpkin seeds instead of the usual pine nuts.  
 
 However, those wishing to incorporate more greens into their pesto can follow the recipe below.  It makes 8-10 servings, but the great thing about pesto is it can be frozen.  I usually put mine into little ice cube trays and that way if I wanted to make an individual portion of pesto past, I can just take one cube out.  
 
