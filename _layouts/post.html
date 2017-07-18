@@ -40,8 +40,9 @@
     {% endif %}
     <div class="article-wrap">
       {{ content }}
+      {{% include _article-ad.html %}}
       <footer role="contentinfo">
-        
+
         <p class="byline">
         <strong>{{ page.title }}</strong> was published on <time datetime="{{ page.date}}">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.modified %} and last modified on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %}.</p>
       </footer>
@@ -67,7 +68,15 @@
   </footer>
 </div><!-- /.footer-wrap -->
 
-{% include _scripts.html %}	        
+{% include _scripts.html %}
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-9987908532527592",
+    enable_page_level_ads: true
+  });
+</script>
 
 </body>
 </html>
