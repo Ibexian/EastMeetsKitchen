@@ -45,6 +45,13 @@ $(function() {
 });
 
 $(document).ready(function() {
+  $('.ingredients').prev().append('<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid"
+         data-ad-layout="in-article"
+         data-ad-client="ca-pub-9987908532527592"
+         data-ad-slot="9935477469"></ins>
+    <script>
+         (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>');
   jQuery.getJSON('/products.json', function(data){
     data.products.map(function(product){
         var li = $('.ingredients li:contains(' + product.name + ')');
