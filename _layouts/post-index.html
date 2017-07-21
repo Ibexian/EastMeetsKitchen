@@ -5,6 +5,7 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 {% include _head.html %}
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 </head>
 
 <body class="post-index">
@@ -29,8 +30,27 @@
 <div id="main" role="main">
   <div id="index">
     <h1>{{ page.title }}</h1>
-    {% for post in site.posts %}  
+    {% assign postIndex = 0 %}
+    {% assign adCount = 0 %}
+    {% for post in site.posts %}
       {% if post.categories contains page.category %}
+        {% assign postIndex = postIndex | plus:1 %}
+        {% assign modIndex = postIndex | modulo:9 %}
+        {% if modIndex == 0 and adCount < 4 %}
+          {% assign adCount = adCount | plus:1 %}
+          <article>
+            <ins class="adsbygoogle"
+                 style="display:block"
+                 data-ad-format="fluid"
+                 data-ad-layout="image-top"
+                 data-ad-layout-key="-95+2s-ir+eo+up"
+                 data-ad-client="ca-pub-9987908532527592"
+                 data-ad-slot="9831085153"></ins>
+           <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+           </script>
+          </article>
+        {% endif %}
       <article>
         {% if post.link %}
           <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a></h2>
@@ -39,7 +59,6 @@
           <h2>{{ post.title | truncate: 30}}<hr><span>{{post.date | date: '%m.%d.%Y'}}</span></h2>
           <h4>READ MORE</h4>
           </a>
-          <!--<p>{{ post.excerpt | strip_html | truncate: 160 }}</p> -->
         {% endif %}
       </article>
       {% endif %}
@@ -52,8 +71,7 @@
     {% include _footer.html %}
   </footer>
 </div><!-- /.footer-wrap -->
-
 {% include _scripts.html %}
-  
+
 </body>
 </html>
