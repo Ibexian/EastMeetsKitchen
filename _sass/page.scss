@@ -703,6 +703,7 @@ form {
   a {
     width: 100%;
     margin: 1em 0 0 0;
+    flex-grow: 1;
     @media #{$micro} {
       width: 282px;
       margin: 0;
