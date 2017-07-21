@@ -44,8 +44,8 @@ For our version of vegan mapo tofu, I'm using my favorite brand of beef crumbles
 
 - 2 teaspoons minced garlic
 - 1 teaspoon ginger
-- 1-2 tablespoons Dobanjang (Chilli Bean Paste) (http://amzn.to/2uf8Yk2)
-- 1/2 cup vegan beef crumbles (https://gardein.com/products/gluten-free-beefless-ground/)
+- 1-2 tablespoons Dobanjang (Chilli Bean Paste) 
+- 1/2 cup vegan beef crumbles 
 - 1 box silken tofu, cubed
 
 ### Sauce Mixture:
@@ -53,7 +53,7 @@ For our version of vegan mapo tofu, I'm using my favorite brand of beef crumbles
 - 1 tablespoon cornstarch 
 - 1 teaspoon soy sauce
 - 2 teaspoons of sugar 
-- 1/2 cup water or vegan chicken broth (http://amzn.to/2tjCBML)
+- 1/2 cup water or [vegan chicken broth]((http://amzn.to/2tjCBML)) 
 
 ### Final Seasonings:
 
