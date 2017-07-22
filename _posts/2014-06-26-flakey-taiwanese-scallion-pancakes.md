@@ -5,27 +5,11 @@ layout: post
 categories: recipes
 tags: [recipes, snacks, nomeats, scallion pancakes, taiwan, taiwanese]
 excerpt: 
-title: "Flakey Taiwanese Scallion Pancakes"
+title: "Flakey Chinese Scallion Pancakes"
 image:
   feature: 82-1.JPG
 ---
 
-Nobody does scallion pancakes like the Taiwanese do scallion pancakes. You can try the Chinese version or the [Korean version](http://eastmeetskitchen.com/recipes/korean-style-scallion-pancakes.html), but none of them are even remotely close to how flakey and layer-y and delicious the Taiwanese ones are.  
-
-I tried my first legitimate Taiwanese scallion pancake near the Shilin MRT station in Taipei, Taiwan when I was 22.  This experience changed how I viewed what a scallion pancake could be and should be forever.  I remembered that as the scallion pancake was frying, someone would sort of hit the pancake, or rather, "fluff it up" with the metal spatula so that the layers in the pancake would start separating and puffing up.  I had my scallion pancake with an egg that day - a very popular thing to do in Taiwan. Let me tell you, the actual scallion pancake was nearly as fluffy as the egg and you could taste each of the many light yet crispy layers that had formed, and it just make for a most wonderful experience.
-
-I spent a lot of time after I got home to the states searching for recipes on how to make this layer-y scallion pancake that was so dear to my memory.  I found recipes that encouraged the use of oil in between each layer to create that flakey texture.  I also found the traditional technique of how the Taiwanese would roll the dough to create the flakey layers.
-
-#### Traditionally, Taiwanese scallion pancakes would be formed by rolling up the dough into a log.  Then the log would be rolled inward to form something similar to a cinnamon roll.  It would then be easy to roll out the dough balls into circular disks while creating layers. 
-<figure> <img src='/images/82-15.JPG'> </figure> 
-
-<figure> <img src='/images/82-16.JPG'> </figure>
-
-The problem was, none - not one of these recipes tasted like the one I had in Taiwan.  I started doubting what I remembered was even correct.  Until one day, I started thinking about croissants and puff pastry and how similar that was to the scallion pancake I had.  Oil wasn't enough to make these flakey layers flakey, but butter certainly was...and then bam!  I knew the answer was lard, which is a very popular ingredient in Taiwanese baos and bread products.  Suddenly, I started searching for all these recipes for scallion pancakes with lard in it, and the result - although wasn't spot on, got so close.  By using lard, the texture of the whole pancake changed.  It got so much lighter and gave me that perfect crunch to my pancakes.
-
-In my recipe, I opted to be a tad more health conscious and used vegetable shortening, but if you're looking for full flavor in the original Taiwanese-style, then I'd say do this recipe with lard.  I opted to not form the dough balls like they traditionally do in Taiwan, but instead, opted for more of a croissant/puff pastry approach, but you could very well do both.  I found that the shortening and folding of the dough was able to really create those reminiscent layers that I tasted years ago.
-
-Some tips on making this - well, you'll notice that because of the boiling water, the dough is much softer and easier for rolling out.  Some recipes call for using all boiling water, but I thought that made the dough too gummy.  Anyhow, even though it's easier to roll out, once you do it several times to form the layers, the gluten in the dough does start kicking in, so I find that if you let the dough rest for 5-10 minutes, rolling it out get's much easier again.  And because the layer of shortening is so minimal, rolling the dough over and over can kind of disrupt the layers and mush all the shortening into the dough.  So roll out the dough, but be mindful that you are not destroying the layers you are building in the process.  It also helps that in between rolling and folding, that you put the dough back into the refrigerator so that the shortening doesn't get as soft and just melts into the dough itself.
 
 ### Directions
 
