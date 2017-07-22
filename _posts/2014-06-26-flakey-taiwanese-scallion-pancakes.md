@@ -43,27 +43,44 @@ Some tips on making this - well, you'll notice that because of the boiling water
 <figure> <img src='/images/82-7.JPG'> </figure>
 #### 7. Sprinkle on chopped scallions.
 <figure> <img src='/images/82-8.JPG'> </figure>
-#### 8. Fold dough section by section to start creating layers.
-<figure> <img src='/images/82-9.JPG'> </figure>
-#### 9. Fold sides over to create block of dough.
-<figure> <img src='/images/82-10.JPG'> </figure>
-#### 10. Roll out dough again.  If necessary, let dough rest for 5-10 minutes before rolling again. 
-<figure> <img src='/images/82-11.JPG'> </figure>
-#### 11. Fold in sections again.  Repeat steps 9 and 10 two more times.
-<figure> <img src='/images/82-12.JPG'> </figure>
-#### 12. Divide into 8 balls.
-<figure> <img src='/images/82-13.JPG'> </figure>
-#### 13. Roll out dough into disks about 8 inches in diameter.
+#### 8. Roll dough into a cigarette.
+<figure> <img src='/images/82-15.JPG'> </figure>
+#### 9. Form a spiral by rolling the cigarette and tuck ends under.
+<figure> <img src='/images/82-16.JPG'> </figure>
+#### 10. Let dough rest for several minutes before flattening into a disk with a rolling pin. 
+
 <figure> <img src='/images/82-14.JPG'> </figure>
+
 #### 14. Dough can be stacked between parchment and frozen during this time.
 <figure> <img src='/images/82-17.JPG'> </figure>
+
 #### 15. Heat up several tablespoons of oil and pan-fry the pancake over medium to medium-high heat for 3-4 minutes a side.
+
 <figure> <img src='/images/82-18.JPG'> </figure>
-#### 16. Drain oil by putting pancakes on a paper towel.  Serve pancakes with soy sauce.  
+#### 16. Drain oil by putting pancakes on a paper towel.  Serve pancakes with seasoned soy sauce (recipe below).  
 <figure> <img src='/images/82-19.JPG'> </figure>
 
 
-<section class='recipe'>
-<p><strong>INGREDIENTS:</strong></p>
+<figure class="ingredients" markdown="1">
 
-<ul><li>3 cups of all-purpose flour</li><li>2 teaspoon salt</li><li>1 cup hot water</li><li>½ cup of cold water</li><li>1 tablespoon olive oil</li><li>3 tablespoons of lard or vegetable shortening</li><li>half a bunch of scallions</li></ul></section>
+### Chinese Scallion Pancakes
+(Serves 4)
+
+- 3 cups of all-purpose flour
+- 2 teaspoon salt
+- 1 cup hot water
+- ½ cup of cold water (more if dough is dry)
+- 1 tablespoon olive oil (for dough)
+- 3 tablespoons of lard or vegetable shortening OR 1/2 cup olive oil
+- half a bunch of scallions
+
+### Seasoned Soy Sauce:
+
+- 1 teaspoon soy sauce
+- 2 teaspoons water
+- 1/4 teaspoon garlic powder
+- 1/2 teaspoon vinegar
+- small pinch of salt
+- small pinch sugar 
+
+</figure>
