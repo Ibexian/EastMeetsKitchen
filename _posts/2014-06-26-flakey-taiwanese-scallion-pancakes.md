@@ -7,9 +7,8 @@ tags: [recipes, snacks, nomeats, scallion pancakes, taiwan, taiwanese]
 excerpt: 
 title: "Flakey Chinese Scallion Pancakes"
 image:
-  feature: 82-1.JPG
+  feature: 82-1.jpg
 ---
-
 
 ### Directions
 
