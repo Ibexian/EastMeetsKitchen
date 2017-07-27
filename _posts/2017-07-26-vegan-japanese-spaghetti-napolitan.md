@@ -25,9 +25,6 @@ __Vegan Japanese Spaghetti Napolitan__
 
 (Makes 2 servings)
 
-VEGAN JAPANESE SPAGHETTI NAPOLITAN
-(Serves 2)
-
 - 2 servings gluten-free pasta, cooked
 - 1/2 onion, sliced
 - 1 teaspoon garlic, minced
