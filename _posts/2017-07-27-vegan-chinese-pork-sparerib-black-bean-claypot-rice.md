@@ -9,9 +9,13 @@ image:
     feature: 336-1.jpg
 ---
 
+Pork sparerib black bean rice was such a favorite of mine growing up.  I had it during dim sum, but it was also a really quick and easy meal my mom made for us just by throwing some marinated rice on top of the rice already cooking in the rice cooker.  The key is cooking all of the ingredients together with the rice.  All the black bean garlic sauce infuses into the rice at the end and it's just the perfect marriage of savory goodness.
+
 <figure>
     <img src="/images/336-2.jpg">
 </figure>
+
+The star of the show are the Chinese fermented black beans, which contain a mix of sweet spices, ginger and even orange peel.  It's really what gives this dish its unique flavor.  For those looking to take a quicker route, there is always a pre-prepared [black bean garlic sauce](http://amzn.to/2tNRLPa), which most people see at the grocery stores.
 
 <figure class="half">
     <img src="/images/336-3.jpg">
