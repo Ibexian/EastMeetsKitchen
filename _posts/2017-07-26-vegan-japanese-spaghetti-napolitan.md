@@ -11,7 +11,7 @@ image:
 
 For those not familiar with Japanese-style spaghetti, this recipe may seem a bit strange.  Instead of using traditional tomato sauce, the Japanese opt for ketchup as sauce for the noodles.  The reasoning is because the dish was formed post World War 2, a time when tomatoes were not readily available in Japan and a time when ketchup was readily available as it was part of U.S. military rationing.  
 
-Even though spaghetti Napolitan is somewhat of an "army-noodle" dish, it is surprisingly good.  The sweetness and tartness from the ketchup really give the dish a fresh pop of flavor.  In conjuction with the salty vegan hot dogs and lightly cooked vegetables, this dish is quite well-rounded and for sure to please.
+Even though spaghetti Napolitan is somewhat of an "army-style" noodle dish, it is surprisingly good.  The sweetness and tartness from the ketchup really give the dish a fresh pop of flavor.  In conjuction with the salty vegan hot dogs and lightly cooked vegetables, this dish is quite well-rounded and for sure to please.
 
 <figure class="half">
     <img src="/images/334-3.jpg">
