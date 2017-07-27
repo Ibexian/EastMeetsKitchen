@@ -45,11 +45,11 @@ __Vegan Pork Sparerib Black Bean Rice__
 - 1/2 cup vegan pork/beef cubes (can substitute tofu or jackfruit)
 - 2 tablespoons [fermented black beans](http://amzn.to/2vNujiy)
 - 1 tablespoon garlic, minced
-- 1 tablespoon [vegan oyster sauce](http://amzn.to/2h6Gjsl)
+- 1 tablespoon vegan oyster sauce
 - 1 teaspoon sugar
 - 1/2 teaspoon cornstarch
-- 1 tablespoon [rice wine](http://amzn.to/2lautum)
-- 1 teaspoon [sesame oil](http://amzn.to/2jMXAaY)
+- 1 tablespoon rice wine
+- 1 teaspoon sesame oil
 - chili peppers (optional)
 - scallions (garnish)
 
