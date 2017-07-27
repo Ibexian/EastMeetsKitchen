@@ -42,7 +42,7 @@ __Chinese Peanut Cookies Recipe__
 
 (Makes 10-12  cookies)
 
-- 1 cup peanuts
+- 1 cup peanuts, reserve 12
 - 1/4 cup powdered sugar 
 - 1/2 cup all-purpose flour
 - 1 tablespoon shortening
