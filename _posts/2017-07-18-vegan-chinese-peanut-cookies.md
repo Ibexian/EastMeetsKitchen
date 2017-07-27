@@ -26,10 +26,9 @@ These Chinese peanut (not peanut butter) cookies are a really fun treat during C
     <img src="/images/335-7.jpg">
 </figure> 
 
-<figure class="third">
+<figure class="half">
     <img src="/images/335-10.jpg">
     <img src="/images/335-5.jpg">
-    <img src="/images/335-11.jpg">
 </figure> 
 
 <figure>
@@ -43,7 +42,7 @@ __Chinese Peanut Cookies Recipe__
 (Makes 10-12  cookies)
 
 - 1 cup peanuts, reserve 12
-- 1/4 cup powdered sugar 
+- 1/4 cup powdered sugar t
 - 1/2 cup all-purpose flour
 - 1 tablespoon shortening
 - 1/4 cup oil
