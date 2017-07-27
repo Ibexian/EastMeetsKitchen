@@ -1,42 +1,66 @@
 ---
 layout: post
 categories: [videos, recipes]
-tags: [videos, spaghetti, spaghetti napolitan, japanese spaghetti, japanese pasta, pasta, nomeat]
+tags: [videos, vegan, shu mai, vegan dim sum, dim sum, yum cha, dumplings, pork and shrimp dumplings]
 excerpt: 
-title: "Vegan Japanese Spaghetti Napolitan"
-feature_video: https://www.youtube.com/embed/Nqtj4_B_Eks
+title: "Vegan Pork and Shrimp Shu Mai Dumplings"
+feature_video: https://www.youtube.com/embed/so2qJYC92x8
 image:
-    feature: 334-1.jpg
+    feature: 326-1.jpg
 ---
 
+Shu mai is probably one of the most known dim sum dumplings, so I decided to tackle that one first.  It was a tough one to do for a vegan recipe because shu mai is made entirely with ground up pork and shrimp (plus a couple flavorings).  But with the help of a vegan pork powder I found along with some [vegan shrimp]((http://vegetarian-plus.com/product/vegan-shrimp/)), I think I have the flavors just right.
 
 <figure class="half">
-    <img src="/images/334-3.jpg">
-    <img src="/images/334-4.jpg">
-</figure> 
+    <img src="/images/326-4.jpg">
+    <img src="/images/326-5.jpg">
+</figure>
+
+Obviously, the other thing to tackle is the shu mai texture.  Because all of the meat is ground up, shu mai is quite tender and easy to bite into.  I knew I wanted to play around with wheat gluten and the vegan pork powder.  So I took my lessons from bread making and baking into the seitan world.  
 
 <figure>
-    <img src="/images/334-1.jpg">
+    <img src="/images/326-6.jpg">
 </figure>
+
+I knew that combining a starch with the protein of wheat gluten would result in a softer product, much like how some flours are cut with cornstarch to make cake flour.  I also added fat to the wheat gluten dough as fats disrupt the network of gluten bonds.  In conjunction, both of these methods, along with very minimal mixing resulted in amazingly tender pieces of vegan shu mai.
+
+
+<figure>
+    <img src="/images/326-7.jpg">
+</figure>
+
+<figure>
+    <img src="/images/326-8.jpg">
+</figure>
+
+<figure>
+    <img src="/images/326-1.jpg">
+</figure>
+
+<figure>
+    <img src="/images/326-3.jpg">
+</figure>
+
 
 <figure class="ingredients" markdown="1">
 
-__Vegan Japanese Spaghetti Napolitan__
+__Vegan Shu Mai - Vegan Dim Sum__
 
-(Makes 2 servings)
+(Makes about 9 shu mai)
 
-VEGAN JAPANESE SPAGHETTI NAPOLITAN
-(Serves 2)
+- 7 pieces [vegan shrimp](http://vegetarian-plus.com/product/vegan-shrimp/), ground finely 
+-1/4 cup potato starch
+- 1/4 teaspoon garlic powder
+- 1/4 teaspoon sugar
+- 1/8 teaspoon white pepper
+- 1/2 teaspoon [vegan pork powder](http://shop.lannaasianmarket.com/Shanggie-Pork-Flavor-Broth-Mix-063977EL.htm) or bouillon 
+- 1/4 cup oil
+- 1/4 cup water
+- 1 teaspoon sesame oil
+- 9-10 wonton wrappers
+- 1/2 carrot, finely cut into small cubes
 
-- 2 servings gluten-free pasta, cooked
-- 1/2 onion, sliced
-- 1 teaspoon garlic, minced
-- 1/2 bell pepper, sliced
-- 4 mushrooms, quartered
-- 2 vegan hot dogs, sliced on the diagonal
-- 2 tablespoons tomato paste
-- 1 tablespoon ketchup
-- salt and pepper to taste
+
 
 </figure>
 
@@ -44,9 +68,11 @@ VEGAN JAPANESE SPAGHETTI NAPOLITAN
 
 ### Directions
 
-1. Add 2 tablespoons of oil to a pan over medium high heat.  Fry vegan hot dog slices about 2 minutes each side until sides are crispy.
-2. Add in the onions, garlic, bell pepper and mushrooms.  Turn the heat down to medium and cook 3-4 minutes until the vegetables have softened.
-3. Mix together the tomato paste and 1/4 cup of water.  Add it to the vegetables along with the pasta and ketchup.
-4. Mix until the sauce coats the pasta.  Season with salt and pepper.  Turn off heat, plate and serve.
+1. In a large bowl, mix together the wheat gluten, potato starch, garlic powder, sugar, white pepper and vegan pork powder.
+2. In a separate bowl, mix together the oil, water and sesame oil.
+3. Add ground up vegan shrimp to the wheat gluten mixture and toss until all the pieces of vegan shrimp are coated and evenly distributed.
+4. Add the wet oil mixture to the shrimp mixture.  Using a rubber spatula, gently fold the mixture about 10 times, just until the mixture is just combined.  Do not over work.  Set aside for 30 minutes to an hour to rest.
+5. Using a 2 tablespoon ice cream scoop, scoop the filling into a wonton wrapper, scrunching the sides, while patting the filling down with a butter knife.  Lightly shape the dumpling and place onto a bamboo steamer with parchment.
+6. Steam on medium high heat for 15 minutes.
 
 </figure>
