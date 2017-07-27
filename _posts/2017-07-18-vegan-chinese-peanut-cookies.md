@@ -9,7 +9,7 @@ image:
     feature: 335-1.jpg
 ---
 
-These Chinese peanut (not peanut butter) cookies are a really fun treat during Chinese New Years.  It's made from ground up roasted peanuts, so the texture is sandy and more like a peanut shortbread cookie rather than a peanut butter cookies.  It's going to be an amazing treat for anyone who likes peanuts in their dessert.
+These Chinese peanut (not peanut butter) cookies are a really fun treat during Chinese New Years.  It's made from ground up roasted peanuts, so the texture is sandy and more like a peanut shortbread cookie rather than a peanut butter cookie.  It's going to be an amazing treat for anyone who likes peanuts in their dessert.
 
 <figure>
     <img src="/images/335-3.jpg">
