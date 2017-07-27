@@ -61,7 +61,7 @@ __Vegan Pork Sparerib Black Bean Rice__
 
 1. Start by cooking rice in a claypot or pan.
 2. While rice is cooking, combine the vegan pork cubes, black beans, garlic, vegan oyster sauce, sugar, cornstarch, rice wine and sesame oil.
-3. Once rice is about 80% cooked, add in the vegan pork mixture.  Cook for an additional 5-6 minutes, until the rice is finished cooking.
+3. Once the rice has absorbed nearly all the liquid, add in the vegan pork mixture.  Cook for an additional 5-6 minutes, until the rice is finished cooking.
 4. Garnish with chilies and scallions.
 
 </figure>
