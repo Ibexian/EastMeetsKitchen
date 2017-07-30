@@ -547,6 +547,16 @@ form {
 
 /* Post content wrapper */
 .article-wrap {
+  padding-top: 1em;
+  line-height: 24px;
+  font-family: 'PT-Sans', Sans-Serif;
+  font-size: 16px;
+  p {
+    padding: 0 1em;
+  }
+  figure {
+    padding: 1em 0;
+  }
 	// Dotted line underlines for links
 	p > a,
 	li > a {
@@ -555,6 +565,8 @@ form {
 
 .ingredients {
 		@include grid(12,4);
+    padding: 1em;
+    box-sizing: border-box;
     .productLink {
         text-decoration: underline;
         cursor: pointer;

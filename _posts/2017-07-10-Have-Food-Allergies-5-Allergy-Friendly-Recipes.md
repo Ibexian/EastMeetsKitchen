@@ -2,7 +2,7 @@
 layout: post
 categories: [videos, blog]
 tags: [blog, allergies, allergy, food allergy, big 8, recipes, allergy friendly, allergy friendly recipes, allergy friendly foods]
-excerpt: 
+excerpt:
 title: "Have Food Allergies? - 5 Allergy-Friendly Recipes"
 feature_video: https://www.youtube.com/embed/B6WZua-NpXU
 image:
@@ -20,8 +20,9 @@ I recently went through a very scary episode of contact allergy where I needed t
 </figure>
 
 
-That's when I decided to take matters into my own hands and create somewhat of a "cleaner" menu to eat at least during the first few weeks while I was battling this ailment.  The following five recipes were what I alternated eating.  They do not contain the common eight allergens (peanuts, tree nuts, crustacean, seafood, dairy, eggs, wheat and soy) that typically affect people.  
-That being said, feel free to customize the recipes as you see fit.  Some people are allergic to more that the common allergens and some people are allergic to just specific things.  I find that sugar is a common inflammatory agent and should be avoided the best you can.  And at least initially, it's better to work with less ingredients and stick to the cleaner, maybe slightly blander foods because the less you have in your system, the less your body needs to react to.  If you are living with a chronic allergy, then it's best to take time and familiarize yourself with what gives you issues.  It will be better and more comfortable for you in the long run. 
+That's when I decided to take matters into my own hands and create somewhat of a "cleaner" menu to eat at least during the first few weeks while I was battling this ailment.  The following five recipes were what I alternated eating.  They do not contain the common eight allergens (peanuts, tree nuts, crustacean, seafood, dairy, eggs, wheat and soy) that typically affect people.
+
+That being said, feel free to customize the recipes as you see fit.  Some people are allergic to more that the common allergens and some people are allergic to just specific things.  I find that sugar is a common inflammatory agent and should be avoided the best you can.  And at least initially, it's better to work with less ingredients and stick to the cleaner, maybe slightly blander foods because the less you have in your system, the less your body needs to react to.  If you are living with a chronic allergy, then it's best to take time and familiarize yourself with what gives you issues.  It will be better and more comfortable for you in the long run.
 
 ### 1. Vegetable Pho
 
@@ -132,4 +133,3 @@ Ingredients
 - 1 teaspoon lemon juice
 - 1 tablespoon cornstarch
 - butter or oil to grease pan
-
