@@ -9,7 +9,7 @@ image:
     feature: 308-1.jpg
 ---
 
-If it's around the month of May or June and you happen to see dragon boat races happening in your local rivers, then it's probably the time for zongzi.  Zongzi-s are these bamboo-wrapped glutinous rice packets, traditional filled with pork, Chinese sausage, beans and peanuts and a salted duck egg.  They're fragrant, flavorful and comforting.
+If it's around the month of May or June and you happen to see dragon boats racing along your local rivers, then it's probably the time for zongzi.  Zongzi-s are these bamboo-wrapped glutinous rice packets, traditional filled with pork, Chinese sausage, beans and peanuts and a salted duck egg.  They're fragrant, flavorful and comforting.
 
 <figure>
     <img src="/images/308-10.png">
