@@ -9,38 +9,45 @@ image:
     feature: 336-1.jpg
 ---
 
-Pork sparerib black bean rice was such a favorite of mine growing up.  I had it during dim sum, but it was also a really quick and easy meal my mom made for us just by throwing some marinated rice on top of the rice already cooking in the rice cooker.  The key is cooking all of the ingredients together with the rice.  All the black bean garlic sauce infuses into the rice at the end and it's just the perfect marriage of savory goodness.
+Chiu Chow fun gor is one of my favorite dim sum dumplings.  The wrapper is made from a mix of wheat, tapioca and cornstarch, which is what gives the wrappers its clear appearance and soft chewy texture.  The filling for these dumplings is also unique because it's not tightly-packed like regular dumplings.  Inside is a loose mix of ground up meat, crunchy vegetables like carrots and water chestnuts and also coarsely chopped peanuts and cilantro.
 
 <figure>
-    <img src="/images/336-2.jpg">
+    <img src="/images/337-5.jpg">
 </figure>
 
-The star of the show are the Chinese fermented black beans, which contain a mix of sweet spices, ginger and even orange peel.  It's really what gives this dish its unique flavor.  For those looking to take a quicker route, there is always a pre-prepared [black bean garlic sauce](http://amzn.to/2tNRLPa), which most people see at the grocery stores.
+<figure class="half">
+    <img src="/images/337-2.jpg">
+    <img src="/images/337-4.jpg">
+</figure> 
+
+As usual I opted to use Gardein's beef crumbles as my choice of a ground meat substitute.  I like it for its neutral flavor, but you could very well use some rehydrated TVP as a vegan option.
+
+<figure>
+    <img src="/images/337-3.jpg">
+</figure>
+
+Because of the starch composition in the dough, it is quite fragile and somewhat difficult to work with if you are looking to shape the dumplings.  Instead, just opt for folding the dumplings in half into a half moon shape and pinch the edges.
 
 <figure class="half">
-    <img src="/images/336-3.jpg">
-    <img src="/images/336-4.jpg">
+    <img src="/images/337-6.jpg">
+    <img src="/images/337-8.jpg">
 </figure> 
 
 <figure>
-    <img src="/images/336-1.jpg">
+    <img src="/images/337-9.jpg">
 </figure>
 
 <figure>
-    <img src="/images/336-6.jpg">
+    <img src="/images/337-1.jpg">
 </figure>
-
-<figure>
-    <img src="/images/336-5.jpg">
-</figure>
-
 
 <figure class="ingredients" markdown="1">
 
-__Fun Gor Recipe (Adapted from Wantanmien)
+__Vegan Chiu Chow Fun Gor Recipe__
+
 (Makes about 32 dumplings)
 
-Wrapper: (Makes 16 wrappers)
+__Wrapper: (Makes 16 wrappers)__
 
 - 1/2 cup + 2 tablespoon wheat starch (more for rolling)
 - 1 tsp glutinous rice flour 
@@ -51,7 +58,7 @@ Wrapper: (Makes 16 wrappers)
 - 1/2 teaspoon sugar
 - 2 teaspoons sesame oil 
 
-"Meat" Part of Filling:
+__"Meat" Part of Filling:__
 
 - 1/2 cup vegan meat crumbles
 - 1/3 teaspoon Shaoxing wine 
@@ -60,7 +67,7 @@ Wrapper: (Makes 16 wrappers)
 - 1/3 teaspoon cornstarch
 - 1/2 teaspoon sesame oil 
 
-Vegetable Part of Filling: 
+__Vegetable Part of Filling:__ 
 
 - 4 [vegan prawns](http://vegetarian-plus.com/product/vegan-shrimp/), finely diced
 - 3 dried radishes, finely diced 
