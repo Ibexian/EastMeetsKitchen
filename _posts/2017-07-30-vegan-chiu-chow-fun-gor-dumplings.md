@@ -6,7 +6,7 @@ excerpt:
 title: "Vegan Chiu Chow Fun Gor Dumplings"
 feature_video: https://www.youtube.com/embed/CLVcgVUCRxg
 image:
-    feature: 336-1.jpg
+    feature: 337-1.jpg
 ---
 
 Chiu Chow fun gor is one of my favorite dim sum dumplings.  The wrapper is made from a mix of wheat, tapioca and cornstarch, which is what gives the wrappers its clear appearance and soft chewy texture.  The filling for these dumplings is also unique because it's not tightly-packed like regular dumplings.  Inside is a loose mix of ground up meat, crunchy vegetables like carrots and water chestnuts and also coarsely chopped peanuts and cilantro.
