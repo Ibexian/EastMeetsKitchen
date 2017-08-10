@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: [videos, recipes]
-tags: [videos, sparerib, vegan dim sum, vegetarian dim sum, pork sparerib rice, black bean rice, chinese pork sparerib, rice]
+tags: [videos, vegan dim sum, vegetarian dim sum, fun guo]
 excerpt: 
 title: "Vegan Chiu Chow Fun Gor Dumplings"
 feature_video: https://www.youtube.com/embed/8872GJFcXBA
