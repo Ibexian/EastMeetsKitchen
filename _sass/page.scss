@@ -563,6 +563,10 @@ form {
 		text-decoration: underline;
 	}
 
+  .adsbygoogle {
+    padding-top: 2em;
+  }
+
 .ingredients {
 		@include grid(12,4);
     padding: 1em;
