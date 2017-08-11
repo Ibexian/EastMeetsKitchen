@@ -32,7 +32,7 @@ Ramen has surely come a long way for me, but as good as it gets, it’s still la
 I tested out several recipes and was quite surprised at how easy it was to get very flavorful, ramen-tasting broth, with very little ingredients.  With just garlic and onion powder, you’re nearly halfway there.  I added shiitake mushrooms and crushed wakame seaweed for that umami flavor without having to add MSG.  For my base, I opted for powdered miso, which provided a nice, savory and meaty backdrop without having to add too much salt or include meat.  I also tested with bases like bouillon cubes and artificial “meat flavorings” and all of them were delish!  I opted for miso powder because it provided amazing flavor with plenty of health benefits, but if you don’t have powdered miso, you could easily opt for other seasoning blends.  The only thing you may have to adjust with the miso is if you prefer your ramen to be on the saltier side, which I do, you may want to add a bit more salt as compared to bouillon cubes, which already contain plenty of salt. 
 
 <figure>
-    <img src="/images/341-5.jpg">
+    <img src="/images/341-4.jpg">
 </figure>
 
 <figure class="ingredients" markdown="1">
