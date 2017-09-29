@@ -49,7 +49,8 @@ __Vegan Shu Mai - Vegan Dim Sum__
 (Makes about 9 shu mai)
 
 - 7 pieces [vegan shrimp](http://vegetarian-plus.com/product/vegan-shrimp/), ground finely 
--1/4 cup potato starch
+- 1/2 cup wheat gluten
+- 1/4 cup potato starch
 - 1/4 teaspoon garlic powder
 - 1/4 teaspoon sugar
 - 1/8 teaspoon white pepper
