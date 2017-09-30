@@ -39,7 +39,7 @@ Makes 6 Meatballs
 - 1/2 cup wheat gluten 
 - 2 tablespoon chickpea flour 
 - 1/4 cup potato starch 
-- 1 teaspoon orange peel powder, or fresh zest 
+- 1 teaspoon dried tangerine peel powder, or fresh zest 
 - 1/2 teaspoon beet root powder or sugar 
 - pinch salt 
 - 1/4 teaspoon garlic powder
