@@ -49,8 +49,8 @@ __VVegan Egg Custard Bun Filling__
 
 (Makes 3 Buns)
 
-- 1 tablespoon Lion's Custard Powder (http://amzn.to/2wXMJx2)
-- 1 teaspoon garbanzo bean flour
+- 1 tablespoon Lion's Custard Powder 
+- - 1 teaspoon garbanzo bean flour
 - 1/8 teaspoon salt 
 - 2 tablespoons powdered sugar
 - 1/4 cup coconut milk
