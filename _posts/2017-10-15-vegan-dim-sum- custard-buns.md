@@ -40,9 +40,7 @@ __Tips:__
 1. If the filling starts to separate after the addition of oil or Earth Balance, use an electric mixer or blender to get it back to being homogenized.
 2. Make sure to knead the dough enough.  You want to roll out the circles in a way where the centers are thicker so that you get more "bread" around the custard filling when you bite into it.  For the bottoms, folding them like dumplings will provide a thicker layer of dough and thus bread on the bottom.
 3. Not that if you are not using bleached flour, once the baos are steamed, the colors will turn more of a creamy, off-white color.
-<figure>
-    <img src="/images/357-4.jpg">
-</figure>
+
 
 
 <figure class="ingredients" markdown="1">
