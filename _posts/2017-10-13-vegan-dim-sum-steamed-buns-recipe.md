@@ -6,7 +6,7 @@ excerpt:
 title: "Vegan Dim Sum - Steamed Buns Recipe"
 feature_video: "https://www.youtube.com/embed/oIP84ms5qf4" 
 image:
-    feature: 362-1.jpg
+    feature: 362-1.png
 ---
 
 
