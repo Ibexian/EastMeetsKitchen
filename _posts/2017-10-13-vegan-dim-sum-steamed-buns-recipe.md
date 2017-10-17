@@ -9,26 +9,6 @@ image:
     feature: 362-1.jpg
 ---
 
-Tips - When folding or sealing the dumplings, try not to be too fancy.  If you end up folding the bottom like an accordian-style, a lot of the times, that bottom layer gets too thick and you get a greater proportion of the dough than you want.  Other than that, the texture and moisture of the dough needs to be just right and I've discussed that in my [vegan har gao recipe]()
- 
-<figure>
-    <img src="/images/357-4.jpg">
-</figure>
-
-The keep with these vegan lion's head meatballs is to handle them gently and avoid overworking the wheat gluten.  The combination of starch, flour and oil all work together to minimize gluten formation resulting in more tender meatballs.
-
-<figure>
-    <img src="/images/357-6.jpg">
-</figure>
-
-<figure>
-    <img src="/images/357-3.jpg">
-</figure>
-
-<figure>
-    <img src="/images/357-2.jpg">
-</figure>
-
 
 <figure class="ingredients" markdown="1">
 
