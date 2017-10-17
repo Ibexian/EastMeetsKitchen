@@ -9,6 +9,42 @@ image:
     feature: 362-1.png
 ---
 
+Bao buns are very much like bread.  Depending on the ingredients, there are small nuances to each type and I will say that this particular bao bun recipe results in uber soft and fluffy buns.
+
+<figure>
+    <img src="/images/362-3.jpg">
+</figure>
+
+<figure>
+    <img src="/images/362-4.jpg">
+</figure>
+
+A lot of this "fluff" has to do with the baking powder and soda that is added to the mix.  Your basic bao bun recipe may not have that and so they also don't rise and puff up as big once you steam it.
+
+<figure>
+    <img src="/images/362-5.jpg">
+</figure>
+
+<figure>
+    <img src="/images/362-6.jpg">
+</figure>
+
+<figure>
+    <img src="/images/362-7.jpg">
+</figure>
+
+<figure>
+    <img src="/images/362-8.jpg">
+</figure>
+
+<figure>
+    <img src="/images/362-9.jpg">
+</figure>
+
+<figure>
+    <img src="/images/362-10.jpg">
+</figure>
+
 
 <figure class="ingredients" markdown="1">
 
