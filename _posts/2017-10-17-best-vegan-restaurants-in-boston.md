@@ -13,13 +13,18 @@ So I've lived nearly my whole life around Boston and only the last one and half 
 
 Anyways, here are my picks:
 
-1. [Taco Party](http://www.tacopartytruck.com/) - Somerville
-2. [VO2 Cafe](http://o2yoga.com/o2-vegan-cafe/cafe-menu/) - Cambridge and Somerville
-3. [Veggie Galaxy](https://www.veggiegalaxy.com/) - Cambridge
-4. [My Thai Vegan Cafe](http://mythaivegancafe.com/) - Boston (Chinatown)
-5. [By Chloe](https://eatbychloe.com/) - Fenway, Seaport
-6. [Belmont Vegetarian](http://www.belmontvegetarian.com/) - Worcester (1 hr away)
-7. [Kaju Tofu House](http://kajutofuhouseharvard.com/) - Allston
-8. [Nirvana](http://nirvanacambridge.com/) - Cambridge
-9. [Clover](https://www.cloverfoodlab.com/) - Cambridge, Burlington 
-10. [Fomu](http://www.fomuicecream.com/) - Allston
+1. __[Taco Party](http://www.tacopartytruck.com/)__ - Somerville
+2. __[VO2 Cafe](http://o2yoga.com/o2-vegan-cafe/cafe-menu/)__ - Cambridge and Somerville
+3. __[Veggie Galaxy](https://www.veggiegalaxy.com/)__ - Cambridge
+4. __[My Thai Vegan Cafe](http://mythaivegancafe.com/)__ - Boston (Chinatown)
+5. __[By Chloe](https://eatbychloe.com/)__ - Fenway, Seaport
+6. __[Belmont Vegetarian](http://www.belmontvegetarian.com/)__ - Worcester (1 hr away)
+
+<figure>
+    <img src="/images/367-7-6.jpg">
+</figure>
+
+7. __[Kaju Tofu House](http://kajutofuhouseharvard.com/)__ - Allston
+8. __[Nirvana](http://nirvanacambridge.com/)__ - Cambridge
+9. __[Clover](https://www.cloverfoodlab.com/)__ - Cambridge, Burlington 
+10. __[Fomu](http://www.fomuicecream.com/)__ - Allston
