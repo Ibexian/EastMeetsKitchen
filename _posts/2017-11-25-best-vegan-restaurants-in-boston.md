@@ -14,8 +14,17 @@ So I've lived nearly my whole life around Boston and only the last one and half 
 Anyways, here are my picks:
 
 1. __[Taco Party](http://www.tacopartytruck.com/)__ - Somerville
+<figure>
+    <img src="/images/367-2.jpg">
+</figure>
+
 2. __[VO2 Cafe](http://o2yoga.com/o2-vegan-cafe/cafe-menu/)__ - Cambridge and Somerville
 3. __[Veggie Galaxy](https://www.veggiegalaxy.com/)__ - Cambridge
+
+<figure>
+    <img src="/images/367-4.jpg">
+</figure>
+
 4. __[My Thai Vegan Cafe](http://mythaivegancafe.com/)__ - Boston (Chinatown)
 5. __[By Chloe](https://eatbychloe.com/)__ - Fenway, Seaport
 6. __[Belmont Vegetarian](http://www.belmontvegetarian.com/)__ - Worcester (1 hr away)
@@ -27,4 +36,13 @@ Anyways, here are my picks:
 7. __[Kaju Tofu House](http://kajutofuhouseharvard.com/)__ - Allston
 8. __[Nirvana](http://nirvanacambridge.com/)__ - Cambridge
 9. __[Clover](https://www.cloverfoodlab.com/)__ - Cambridge, Burlington 
+
+<figure>
+    <img src="/images/367-10.jpg">
+</figure>
+
 10. __[Fomu](http://www.fomuicecream.com/)__ - Allston
+
+<figure>
+    <img src="/images/367-11.jpg">
+</figure>
