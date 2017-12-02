@@ -9,17 +9,6 @@ image:
     feature: 367-1.jpg
 ---
 
----
-layout: post
-categories: [videos, blog]
-tags: [blog, vegan restaurants, Boston, Boston vegan restaurants, Best Boston vegan restaurants, best vegan restaurants in Boston, Best boston restaurants]
-excerpt: 
-title: "Best Vegan Restaurants in Boston"
-feature_video: "https://www.youtube.com/embed/uVvQVHvvVf8"
-image:
-    feature: 367-1.jpg
----
-
 So I've lived nearly my whole life around Boston and only the last one and half years as a vegan.  As up-to-date as this list is, I think most people can agree that the vegan food scene in and around Boston is still limited.  You'll see that many of the restaurants revolve around the Somerville and Cambridge area, which is not only the area where I live, but also the area where I think most of the vegan scene is congregated.  I have to say these are my personal opinions, but to my credit, I did used to write "best of" guides for all types of restaurants in the Boston area.
 
 Anyways, here are my picks:
@@ -32,7 +21,7 @@ Anyways, here are my picks:
 6. __[Belmont Vegetarian](http://www.belmontvegetarian.com/)__ - Worcester (1 hr away)
 
 <figure>
-    <img src="/images/367-7-6.jpg">
+    <img src="/images/367-7.jpg">
 </figure>
 
 7. __[Kaju Tofu House](http://kajutofuhouseharvard.com/)__ - Allston
