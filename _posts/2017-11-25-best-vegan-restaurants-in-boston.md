@@ -44,5 +44,5 @@ Anyways, here are my picks:
 10. __[Fomu](http://www.fomuicecream.com/)__ - Allston
 
 <figure>
-    <img src="/images/367-11.jpg">
+    <img src="/images/367-11t.jpg">
 </figure>
