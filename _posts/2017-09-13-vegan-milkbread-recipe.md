@@ -6,7 +6,7 @@ excerpt:
 title: "Vegan Milkbread Recipe"
 feature_video: "https://www.youtube.com/embed/5RdlYbhvJA4" 
 image:
-    feature: 369-1.png
+    feature: 369-1.jpg
 ---
 
 This is a super universal, all-around recipe if you like Chinese bakery products.  For so many who have turned vegan, the choice to do so meant they had to give up Chinese bakery items.  Well not anymore.  With this recipe, you can make delicious [vegan pineapple buns](https://www.youtube.com/watch?v=2fL8owA3wH8&t=7s) or fluffy and coconut-rich, [vegan cocktail buns](https://www.youtube.com/watch?v=HY173Qk_7aQ&t=15s).
