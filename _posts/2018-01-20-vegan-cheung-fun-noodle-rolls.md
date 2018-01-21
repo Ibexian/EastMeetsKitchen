@@ -12,13 +12,13 @@ image:
 Making your own rice noodle rolls can be a fun and unique experience, but it may be something you only do once and then settle for buying the noodles after.  It's not that the actual recipe is difficult, it's just that the process takes a fair amount of time and work.
 
 <figure class="half">
-<img src="/images/277-2.jpg">
-<img src="/images/277-3.jpg">
+<img src="/images/377-2.jpg">
+<img src="/images/377-3.jpg">
 </figure>
 
 <figure class="half">
-<img src="/images/277-4.jpg">
-<img src="/images/277-5.jpg">
+<img src="/images/377-4.jpg">
+<img src="/images/377-5.jpg">
 </figure>
 
 <figure>
