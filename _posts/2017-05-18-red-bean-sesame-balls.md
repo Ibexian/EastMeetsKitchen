@@ -27,6 +27,8 @@ The dough is made from glutinous rice flour, so the texture is actually chewy an
 
 Many recipes actually put sugar in the dough.  The helps with the flavor and also for it to brown to a deeper color when frying.  I find that the red bean paste is sweet enough for the entire dessert, and usually I can get it to a pretty good golden brown color even without the sugar, so I just don't add it.
 
+__Tip(s):__
+When frying, these sesame balls initally sink to the bottom, so it can burn.  Use a wire skimmer to  lower the balls down, so that it does not touch the bottom of the pan.  Once the outer coating begins to cook, remove the skimmer, but move the sesame balls around often so it does not burn.
 <figure>
     <img src="/images/301-6.jpg">
 </figure> 
@@ -69,8 +71,8 @@ Many recipes actually put sugar in the dough.  The helps with the flavor and als
 2. Meanwhile, mix the glutinous rice flour with the rice flour.  Add in the boiling water and mix until a dough forms.  Set aside for 15 minutes.
 3. Divide the dough into 6 balls.  Flatten with hand into 4-inch diameter circles.  Place red bean filling into the center of the circle and wrap dough around the red bean paste.  Roll ball in palm of hands until seams are sealed and have disappeared.  
 4. Dip balls into a plate of sesame.  Press dough into the sesame so that it sticks.
-5. Fill a pot with about 4-inches of oil.  Heat to about 350 degrees Fahrenheit.
-6. Drop sesame balls in a few at a time.  Fry until balls turn golden brown, about 3 minutes.
+5. Fill a pot with about 4-inches of oil, making sure the oil will cover the entire sesame ball.  Heat oil to  320 degrees Fahrenheit.
+6. Drop sesame balls in a few at a time.  Fry until balls turn a light, golden brown, about 3-4 minutes.  Once the balls float, turn heat up to 350 degrees Fahrenheit and continue frying until dark, golden brown, about another 1-2 minutes.
 7. Place sesame balls on a paper towel to let the oil drain.
 8. Rest for 15 minutes before serving.  Sesame balls can hold for up to 2 days.
 </figure>
