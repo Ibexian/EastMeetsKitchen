@@ -28,7 +28,7 @@ The dough is made from glutinous rice flour, so the texture is actually chewy an
 Many recipes actually put sugar in the dough.  The helps with the flavor and also for it to brown to a deeper color when frying.  I find that the red bean paste is sweet enough for the entire dessert, and usually I can get it to a pretty good golden brown color even without the sugar, so I just don't add it.
 
 __Tip(s):__
-When frying, these sesame balls initally sink to the bottom, so it can burn.  Use a wire skimmer to  lower the balls down, so that it does not touch the bottom of the pan.  Once the outer coating begins to cook, remove the skimmer, but move the sesame balls around often so it does not burn.
+When frying, these sesame balls initially sink to the bottom, so it can burn.  Use a wire skimmer to  lower the balls down, so that it does not touch the bottom of the pan.  Once the outer coating begins to cook, remove the skimmer, but move the sesame balls around often to keep it from sinking to the bottom.
 <figure>
     <img src="/images/301-6.jpg">
 </figure> 
