@@ -10,23 +10,23 @@ image:
 ---
 
 <figure>
-    <img src="/images/375-2.jpg">
+    <img src="/images/365-2.jpg">
 </figure>
 
 <figure>
-    <img src="/images/375-3.jpg">
+    <img src="/images/365-3.jpg">
 </figure>
 
 <figure>
-    <img src="/images/375-4.jpg">
+    <img src="/images/365-4.jpg">
 </figure>
 
 <figure>
-    <img src="/images/375-5.jpg">
+    <img src="/images/365-5.jpg">
 </figure>
 
 <figure>
-    <img src="/images/375-6.jpg">
+    <img src="/images/365-6.jpg">
 </figure>
 
 
