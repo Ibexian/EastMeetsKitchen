@@ -19,30 +19,30 @@ image:
 
 Dough:
 
-- 1/3 cup wheat starch (http://amzn.to/2ypTSHf)
+- 1/3 cup wheat starch 
 - 1/4 cup sugar
 - 1/4 cup of boiling water
-- 1 1/3 cup glutinous rice flour (http://amzn.to/2hqCMGd)
+- 1 1/3 cup glutinous rice flour 
 - 1/4 cup vegetable shortening
 - 1/2 cup water, (more may be needed)
 
 Filling:
 
-- 1 cup vegan beef crumbles (tvp: http://amzn.to/2junP4d)
-- 1 tablespoon Chinese rice wine (http://amzn.to/2lautum)
+- 1 cup vegan beef crumbles 
+- 1 tablespoon Chinese rice wine 
 - 1/2 teaspoon garlic powder
 - 1/2 teaspoon white pepper
 - 1/2 teaspoon salt
-- 1 teaspoon sesame oil (http://amzn.to/2jMXAaY)
+- 1 teaspoon sesame oil 
 - 1 small carrot, diced
-- 3 shiitake mushrooms, rehydrated and diced (http://amzn.to/2jC1nn8)
+- 3 shiitake mushrooms, rehydrated and diced 
 - 3 vegan shrimp, diced (can be subbed with 2 tablespoons fried shallots, usually dried shrimp is used)
-- 3 water chestnuts or 2 tablespoons bamboo shoots (http://amzn.to/2vT8oXm)
-- 1/2 teaspoon five spice powder (http://amzn.to/2rTISzJ)
+- 3 water chestnuts or 2 tablespoons bamboo shoots 
+- 1/2 teaspoon five spice powder 
 - 1 teaspoon sugar
 - 2 teaspoon cornstarch
 - 1/4 cup water
-- 1 tablespoon vegan oyster sauce (http://amzn.to/2hjV73R)
+- 1 tablespoon vegan oyster sauce 
 - 2 scallions, chopped
 - oil for frying
 - 
