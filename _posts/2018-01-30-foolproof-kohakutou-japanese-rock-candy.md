@@ -4,7 +4,7 @@ categories: [videos, recipes]
 tags: [videos, vegan, kohakutou, rock candy, japan]
 excerpt: 
 title: "Foolproof Kohakutou - Japanese Rock Candy"
-feature_video: ""https://www.youtube.com/embed/31iaIy3opP8" "  
+feature_video: "https://www.youtube.com/embed/31iaIy3opP8"  
 image:
     feature: 385-1.jpg
 ---
