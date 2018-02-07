@@ -6,7 +6,7 @@ excerpt:
 title: "Vegan Dim Sum - Vegetarian Chive and Spinach Bao"
 feature_video: "https://www.youtube.com/embed/6_K9HHMaNzw"  
 image:
-    feature: .jpg
+    feature: 318-1.jpg
 ---
 
 
