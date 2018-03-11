@@ -3,13 +3,27 @@ layout: post
 categories: [videos, recipes]
 tags: [videos, vegan, dim sum, baked pork buns, pork buns, char siu bao buns, crack char siu bao, how to get your char siu bao to crack open, char siu bao ]
 excerpt: 
-title: "Vegan Dim Sum - The Ultimate Char Siu Bao - Cracked Open"
+title: "Vegan Dim Sum - The Ultimate Char Siu Bao - How to Get Char Siu Bao to Cracked Open?"
 feature_video: "https://www.youtube.com/embed/qt4SmZ-4cDo" 
 image:
     feature: 386-1.jpg
 ---
 
+Steamed char siu baos are one of the mainstays of Chinese dim sum.  To be a true char siu bao, the bread needs to be fluffy and slightly sweet.  It also needs to crack open exposing the red char siu center, which we have conveniently substituted marinated jackfruit in place of pork.
 
+There are two main questions that are always asked when making true, authentic char siu bao, so let's address them first.
+
+__1. Why are my baos yellow instead of white?__
+
+So any char siu bao you get either from a dim sum restaurant or a Chinese grocery store will look fluffy and white as snow.  If you make char siu baos at home from scratch, usually you won't realize the dough becomes yellow until after you steam it.  The simple answer of why homemade char siu baos usually aren't white is that you are using unbleached flour.  Most Chinese restaurants will use bleached cake flour for char siu baos, which will make them white and fluffy.  While bleaching flour can make the product lighter and hold in more air bubbles, it does affect the nutrient levels and structure of the flour.  Therefore, if you're ok with your buns being a bit yellow, there is no issue with just using unbleached flour.
+
+__2. How do I get by char siu bao to crack open?__
+
+So not many recipes show how to get this classic restaurant result of having the char siu bao crack open during steaming and exposing all the red, delicious filling on the inside.
+
+The secret from restaurant recipes is that there are a lot of chemicals at play to make this effect happen. First is ammonium bicarbonate.  Chinese bakers use this in place of baking soda as it does not leave a basic, alkaline flavor.  Ammonium bicarbonate also helps baked good be lighter, crispier and can make things like the topping on pineapple buns crack.  For some people who may be apprehensive using ammonium bicarbonate, baking soda can be substituted, however the cracks on the baos will not be as pronounced.
+
+There is also baking powder which naturally helps the bao rise in addition to lye water and a bit of vinegar at play.  The lye and vinegar are opposing forces in the dough, making it very activated and ready to rise and crack when it is heated and steamed.
 
 <figure class="ingredients" markdown="1">
 
