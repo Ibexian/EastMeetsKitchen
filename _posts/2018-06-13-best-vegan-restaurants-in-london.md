@@ -9,3 +9,18 @@ image:
     feature: 389-1.png
 ---
 
+__Restaurants Mentionned:__
+
+- What the Pitta
+- Cook Daily
+- Black Cat Cafe
+- Itadaki Zen
+- Spread Eagle
+- Stable
+- Wulf and Lamb
+- Mildreds
+- Eat Chay
+- Mao Chow
+- V.Sichuan
+- Temple of Seitan
+- Young Vegans
