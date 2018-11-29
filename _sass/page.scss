@@ -594,6 +594,13 @@ form {
 				margin: 0 0 0
 			}
 	}
+	a {
+		color: #D7635A;
+
+		&:hover {
+			color: #B33B32;
+		}
+	}
 
 }
 
