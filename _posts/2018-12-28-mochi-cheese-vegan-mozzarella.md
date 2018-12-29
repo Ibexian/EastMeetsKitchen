@@ -18,13 +18,13 @@ Vegan cheeses don't taste good.  As of 2017 that was my opinion.  Most consumer 
 <figure>
     <img src="/images/390-4.jpg">
 </figure> 
-I began to look around for mochi cheese recipes, but there wasn't much.  Peaceful cuisine did one that resembled more of a hard cheese and when I tried it, it wasn't really the texture or taste that I was looking for.  It took a couple trials, but I finally settled on simple nutritional yeast and lemon juice to get my cheese-y fix.  For sure, people can amp it up as much as they want, but lately, I've been wanting most of my recipes to be accessible and these work for me.
+I began to look around for mochi cheese recipes, but there wasn't much.  Peaceful cuisine did one that resembled more of a hard cheese and when I tried it, it wasn't really the texture or taste that I was looking for.  It took a couple trials, but I finally settled on simple nutritional yeast and lemon juice to get my cheese-y fix.  For sure, people can amp it up as much as they want, but lately, I've been wanting most of my recipes to be accessible and these work for me. I think it's one of the best stretching cheeses I've tasted, so I'm very excited to share the recipe.
 
 <figure>
     <img src="/images/390-3.jpg">
 </figure> 
 
-I think it's one of the best stretching cheeses I've tasted, so I'm very excited to share the recipe.
+
 
 <figure class="ingredients" markdown="1">
 
