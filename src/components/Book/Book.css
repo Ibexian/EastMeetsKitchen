@@ -1,0 +1,110 @@
+.bookPromo .text h3 {
+  font-family: "PT Sans Narrow", sans-serif;
+  font-weight: 700;
+  font-size: 400%;
+  padding: 5px;
+}
+
+.bookPromo h4 {
+  font-family: "PT Sans", sans-serif;
+  font-size: 300%;
+}
+
+.bookPromo .text .order {
+  font-size: 200%;
+  padding: 0.5em;
+  background: #C9830A;
+  color: black;
+  font-family: "PT Sans Narrow", sans-serif;
+  font-weight: 700;
+  width: 70%;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.bookPromo .text {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  height: 100%;
+  margin: 5px;
+}
+
+.bookPromo {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 2em 0;
+    align-items: center;
+    margin: -2em 0 2em 0;
+    border: dashed;
+    border-radius: 3px;
+}
+
+@media only screen and (max-width: 740px) {
+    .bookPromo {
+        flex-direction: column-reverse;
+    }
+}
+
+.bookPromo-vert {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 2em 0;
+    align-items: center;
+}
+.books {
+    -moz-perspective: 100px;
+    -moz-transform-style: preserve-3d;
+    -webkit-transform-style: preserve-3d;
+}
+
+.book {
+  display: inline-block;
+  box-shadow: 5px 5px 20px #333;
+  margin: 10px;
+}
+
+.book {
+  position: relative;
+  -moz-perspective: 100px;
+  -moz-transform: rotateY(-3deg);
+  -webkit-transform: perspective(100) rotateY(-3deg);
+  outline: 1px solid transparent; /* Helps smooth jagged edges in Firefox */
+  box-shadow: none;
+  margin: 0;
+}
+
+.book img {
+  position: relative;
+  max-width: 100%;
+}
+
+.book:before,
+.book:after {
+  position: absolute;
+  top: 2%;
+  height: 95%;
+  content: ' ';
+  z-index: -1;
+}
+
+.book:before {
+  width: 100%;
+  left: 5.5%;
+  background-color: #5a2d18;
+  box-shadow: 5px 5px 20px #333;
+}
+
+.book:after {
+  width: 5%;
+  left: 99%;
+  background-color: #EFEFEF;
+  box-shadow: inset 0px 0px 5px #aaa;
+  -moz-transform: rotateY(10deg);
+  -webkit-transform: perspective(100) rotateY(20deg);
+}
