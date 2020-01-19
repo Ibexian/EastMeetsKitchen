@@ -57,13 +57,16 @@ class Index extends React.Component {
         <div className="index-container">
           <Helmet title={config.siteTitle} />
           <SEO />
-          <a className="bookPromo" href="/vegan-dim-sum">
+          <a className="bookPromo" href={config.bookLink}>
             <div className="text">
-              <h3>
-                Dim Sum,
-                <br />
-                Done Vegan!
-              </h3>
+              <p>
+                <h3>
+                  Dim Sum,
+                  <br />
+                  Done VEGAN!
+                </h3>
+                <h4>Over 50 classic dim sum recipes.</h4>
+              </p>
               <div className="order">Order Now!</div>
             </div>
             <div className="books">

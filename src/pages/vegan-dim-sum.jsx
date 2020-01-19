@@ -1,18 +1,15 @@
 import React, { Component } from "react";
 import Helmet from "react-helmet";
-import Layout from "../layout";
-import Book from "../components/Book/Book";
 import config from "../../data/SiteConfig";
+import window from "global";
 
 class BookPage extends Component {
   render() {
+    window.location = config.bookLink;
     return (
-      <Layout>
-        <div className="about-container">
-          <Helmet title={`Vegan Dim Sum | ${config.siteTitle}`} />
-          <Book image={config.bookImage} link={config.bookLink} />
-        </div>
-      </Layout>
+      <Helmet>
+        <meta httpEquiv="refresh" content={`s;URL=${config.bookLink}`} />
+      </Helmet>
     );
   }
 }

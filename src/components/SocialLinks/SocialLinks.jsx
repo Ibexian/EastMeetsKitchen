@@ -8,6 +8,7 @@ import {
 import urljoin from "url-join";
 import config from "../../../data/SiteConfig";
 import "./SocialLinks.css";
+import "../Book/Book.css";
 
 class SocialLinks extends Component {
   render() {
@@ -15,14 +16,21 @@ class SocialLinks extends Component {
     const post = postNode.frontmatter;
     const url = urljoin(config.siteUrl, config.pathPrefix, postPath);
     const iconSize = mobile ? 36 : 48;
-    const instagram = config.userLinks.filter(link => link.label === "Instagram")[0];
+    const instagram = config.userLinks.filter(
+      link => link.label === "Instagram"
+    )[0];
 
     return (
       <div className="social-links">
         <TwitterShareButton url={url} title={post.title}>
           <TwitterIcon round size={iconSize} />
         </TwitterShareButton>
-        <a className="instagram-link" target="_blank" rel="noopener noreferrer" href={instagram.url} title={instagram.title}>
+        <a
+          className="instagram-link"
+          target="_blank"
+          rel="noopener noreferrer"
+          href={instagram.url}
+          title={instagram.title}>
           <i className={instagram.iconClassName} />
         </a>
         <FacebookShareButton url={url} quote={postNode.excerpt}>

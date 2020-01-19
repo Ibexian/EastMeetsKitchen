@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import config from "../../../data/SiteConfig";
 import "./Social.css";
+import "../Book/Book.css";
 
 class SocialLinks extends Component {
   render() {
