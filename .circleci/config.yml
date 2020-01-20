@@ -13,16 +13,16 @@ jobs:
       - checkout
       - restore_cache:
           keys:
-          - dependencies-
-          # fallback to using the latest cache if no exact match is found
-          - dependencies-
+            - dependencies-
+            # fallback to using the latest cache if no exact match is found
+            - dependencies-
       - run:
-        name: Install
-        command: npm install
+          name: Install
+          command: npm install
       - save_cache:
-        paths:
-          - node_modules
-        key: dependencies-
+          key: dependencies-
+          paths:
+              - node_modules
       - run:
           name: Gatsby build site
           command: npm run build

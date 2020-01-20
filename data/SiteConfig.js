@@ -5,7 +5,7 @@ const config = {
   siteLogo: "/logos/logo-192.png", // Logo used for SEO and manifest.
   siteUrl: "https://eastmeetskitchen.com", // Domain of your website without pathPrefix.
   bookImage: "/bookcover.png",
-  bookLink: "https://www.blurb.co.uk/b/9914216-vegan-dim-sum",
+  bookLink: "https://www.blurb.co.uk/b/9914523-vegan-dim-sum",
   pathPrefix: "/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
   siteDescription:
     "East Meets Kitchen's goal is to veganize the things from my travels and make the most authentic and yummy vegan food.", // Website description used for RSS feeds/meta description tag.
