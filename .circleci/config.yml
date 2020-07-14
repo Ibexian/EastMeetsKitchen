@@ -28,7 +28,7 @@ jobs:
           command: npm run build
       - run:
           name: Prepare shell commands
-          command: cp .scripts/gatsby-deploy.sh ../ && chmod +x ../gatsby-deploy.sh
+          command: cp ./scripts/gatsby-deploy.sh ../ && chmod +x ../gatsby-deploy.sh
       - run:
           name: Run deploy scripts
           command: ../gatsby-deploy.sh
