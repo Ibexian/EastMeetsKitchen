@@ -7,7 +7,7 @@ import config from "../../data/SiteConfig";
 
 export const query = graphql`
   query {
-    file(relativePath: { eq: "biomain.png" }) {
+    file(relativePath: { eq: "biomain.jpg" }) {
       childImageSharp {
         fluid {
           ...GatsbyImageSharpFluid
@@ -29,7 +29,5 @@ class AboutPage extends Component {
     );
   }
 }
-
-
 
 export default AboutPage;
