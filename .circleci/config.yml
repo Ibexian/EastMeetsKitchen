@@ -1,11 +1,8 @@
 version: 2
 jobs:
-  build:
+  build-deploy:
     docker:
       - image: circleci/node:latest
-    filters:
-      branches:
-        only: master
     steps:
       - add_ssh_keys:
           fingerprints:
@@ -24,11 +21,17 @@ jobs:
           paths:
               - node_modules
       - run:
-          name: Gatsby build site
-          command: npm run build
-      - run:
           name: Prepare shell commands
           command: cp ./scripts/gatsby-deploy.sh ../ && chmod +x ../gatsby-deploy.sh
       - run:
           name: Run deploy scripts
           command: ../gatsby-deploy.sh
+workflows:
+  version: 2
+  build-deploy:
+    jobs:
+      - build:
+          filters:
+            branches:
+              ignore:
+                gh-pages
