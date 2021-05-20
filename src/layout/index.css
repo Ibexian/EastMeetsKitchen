@@ -37,6 +37,7 @@
 
 html {
   height: 100%;
+  line-height: 1.6;
 }
 
 body {
@@ -117,6 +118,8 @@ body {
 
 #main {
     counter-reset: captions;
+    min-height: calc(97vh - 250px);
+    max-width: 1400px;
     margin: 0 auto;
     width: 95%;
     *zoom: 1;
@@ -151,7 +154,9 @@ body {
     margin: 0 auto;
     width: 100%;
     width: 97%;
-    margin-bottom: 2em
+    margin-bottom: 2em;
+    color: #444444;
+    max-width: 1000px;
 }
 
 @media only screen and (min-width: 62em) {
@@ -162,56 +167,13 @@ body {
     }
 }
 
-h1, h2, h3, h4, h5, h6 {
-    font-family: "PT Sans Narrow",sans-serif;
-}
-
-h1 {
-    font-size: 32px;
-    font-size: 2rem;
-    line-height: .8125;
-    margin-bottom: 26px;
-    margin-bottom: 1.625rem
-}
-
-h2 {
-    font-size: 28px;
-    font-size: 1.75rem;
-    line-height: .9286;
-    margin-bottom: 26px;
-    margin-bottom: 1.625rem
-}
-
-h3 {
-    font-size: 24px;
-    font-size: 1.5rem;
-    line-height: 1.0833;
-    margin-bottom: 26px;
-    margin-bottom: 1.625rem
-}
-
-h4 {
-    font-size: 18px;
-    font-size: 1.125rem;
-    line-height: 1.4444;
-    margin-bottom: 26px;
-    margin-bottom: 1.625rem
-}
-
+h1,
+h2,
+h3,
+h4,
 h5 {
-    font-size: 16px;
-    font-size: 1rem;
-    line-height: 1.625;
-    margin-bottom: 26px;
-    margin-bottom: 1.625rem
-}
-
-h6 {
-    font-size: 14px;
-    font-size: .875rem;
-    line-height: 1.8571;
-    margin-bottom: 26px;
-    margin-bottom: 1.625rem
+  line-height: 1.2;
+  font-family: "PT Sans Narrow",sans-serif;
 }
 
 .slider:hover .controlButton {
@@ -240,6 +202,7 @@ h6 {
     height: 500px;
 }
 
-.featureBox .h2 {
+.featureBox h2 {
     float: right;
+    font-size: 1.8rem;
 }

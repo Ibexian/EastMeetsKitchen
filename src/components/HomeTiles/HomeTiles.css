@@ -1,0 +1,81 @@
+.homeTiles {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-column-gap: 80px;
+  grid-row-gap: 75px;
+  grid-auto-rows: min-content;
+}
+
+.tile, .tileText, .tileImage, .tileOverlay {
+  padding-bottom: 133.333%;
+}
+
+.tile {
+  position: relative;
+  height: 0;
+}
+
+.tileOverlay {
+  opacity: 0.1;
+  background-color: #000;
+  width: 100%;
+  height: 100%;
+  transition: opacity ease 200ms;
+  z-index: 99;
+}
+
+.tileText {
+  overflow: auto;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 7%;
+  text-align: center;
+  z-index: 100;
+  transition: opacity ease 200ms;
+  opacity: 1;
+}
+
+.tileTitle {
+  font-family: "PT Sans Narrow", sans-serif;
+  font-size: 2.5rem;
+  color: #fff;
+  font-weight: 700;
+  text-transform: none;
+  font-style: normal;
+  letter-spacing: 0em;
+  line-height: 1.4em;
+}
+
+.tile .tileImage {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+
+.tileText, .tileOverlay, .tileWrap {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.tile .tileImage img {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  object-position: 50% 50%;
+  object-fit: cover;
+}
+
+.tile:hover .tileOverlay, .tile:hover .tileText {
+  opacity: 0;
+}
+
+@media only screen and (max-width: 750px) {
+  .homeTiles {
+    grid-template-columns: repeat(1, minmax(0px, 1fr));
+  }
+}

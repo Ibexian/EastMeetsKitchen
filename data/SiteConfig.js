@@ -55,7 +55,7 @@ const config = {
       img: "rss.jpg"
     }
   ],
-  copyright: "Copyright © 2020 - Christina Ng", // Copyright string for the footer of the website and RSS feed.
+  copyright: "Copyright © 2021 - Christina Ng", // Copyright string for the footer of the website and RSS feed.
   themeColor: "#455350", // Used for setting manifest and progress theme colors.
   backgroundColor: "#e0e0e0", // Used for setting manifest background color.
   recipeTags: [
@@ -86,33 +86,24 @@ const config = {
   ],
   displayCategories: [
     {
-      name: "Recipes",
-      category: "recipes",
-      subLinks: true
+      name: "Photos",
+      url: "/gallery",
+      img: "photosTile.JPG"
     },
     {
-      name: "Adventures + Blog",
-      category: "blog"
+      name: "Recipes",
+      url: "/featured",
+      img: "recipesTile.JPG"
     },
     {
       name: "Video",
-      category: "",
-      url: "https://www.youtube.com/user/Gurshee"
+      url: "https://www.youtube.com/user/Gurshee",
+      img: "videoTile.JPG"
     },
     {
-      name: "Tips",
-      category: "tips"
-    },
-    {
-      name: "About",
-      category: "",
-      url: "/about"
-    },
-    {
-      name: "",
-      category: "",
-      url: "/search",
-      className: "icon-search"
+      name: "Book",
+      url: "https://www.blurb.com/b/10435266-vegan-dim-sum",
+      img: "bookTile.JPG"
     }
   ]
 };

@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import "./Footer.css";
+import Social from "../Social/Social";
 
 class Footer extends Component {
   render() {
@@ -12,6 +13,7 @@ class Footer extends Component {
       <footer className="footer">
         <div className="notice-container">
           <h4>{copyright}</h4>
+          <Social />
         </div>
       </footer>
     );

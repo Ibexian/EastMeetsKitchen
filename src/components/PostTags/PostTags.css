@@ -6,9 +6,10 @@
 
 .post-tag-container a {
     padding: 0.25em;
-    margin-top: 1em;
+    margin: 1em 0 0 2px;
     background: #f5f2f0;
     border: 1px solid #ebe5e1;
+    border-radius: 2px;
 }
 
 .post-tag-container a:hover {

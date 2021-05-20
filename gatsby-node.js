@@ -61,6 +61,7 @@ exports.createPages = async ({ graphql, actions }) => {
   const postPage = path.resolve("src/templates/post.jsx");
   const tagPage = path.resolve("src/templates/tag.jsx");
   const categoryPage = path.resolve("src/templates/category.jsx");
+  const featuredPage = path.resolve("src/templates/featured.jsx");
 
   // Get a full list of markdown posts
   const markdownQueryResult = await graphql(`
@@ -99,6 +100,7 @@ exports.createPages = async ({ graphql, actions }) => {
   }
 
   const tagSet = new Set();
+  const featureSet = new Set([true]);
   const categorySet = new Set();
 
   const postsEdges = markdownQueryResult.data.allMarkdownRemark.edges;
@@ -173,4 +175,14 @@ exports.createPages = async ({ graphql, actions }) => {
       context: { category }
     });
   });
+
+  featureSet.forEach(feature => {
+      createPage({
+      path: `/featured/`,
+      component: featuredPage,
+      context: { feature }
+    });
+  })
+
+
 };

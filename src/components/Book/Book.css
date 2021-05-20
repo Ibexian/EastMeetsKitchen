@@ -1,8 +1,8 @@
 .bookPromo .text h3 {
   font-family: "PT Sans Narrow", sans-serif;
-  color: black !important;
+  color: #444444 !important;
   font-weight: 700;
-  font-size: 400%;
+  font-size: 300%;
   padding: 5px;
   margin-top: 0;
   margin-bottom: 0;
@@ -10,18 +10,17 @@
 
 .bookPromo h4 {
   font-family: "PT Sans", sans-serif;
-  font-size: 300%;
+  font-size: 200%;
 }
 
 .text h4 {
   font-size: 200%;
   font-family: 'Times New Roman', Times, serif !important;
   margin-top: 0;
-  margin-bottom: 2em;
 }
 
 .bookPromo .text .order {
-  font-size: 200%;
+  font-size: 150%;
   padding: 0.5em;
   background: #C9830A;
   color: black;
@@ -43,12 +42,13 @@
 
 .bookPromo {
     width: 100%;
+    max-width: 800px;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
     padding: 2em 0;
     align-items: center;
-    margin: -2em 0 2em 0;
+    margin: 2em auto;
     border: dashed;
     border-radius: 3px;
 }
@@ -106,7 +106,7 @@
 .book img {
   position: relative;
   max-width: 100%;
-  height: 350px;
+  height: 200px;
 }
 
 .book:before,

@@ -11,24 +11,16 @@ class SocialLinks extends Component {
       <div className="socials">
         {userLinks &&
           userLinks.map(social => {
-            const style = {
-              background: `url('${config.pathPrefix}/${social.img}')`,
-              "background-size": "cover"
-            };
-            const linkStyle = {
-              color: `#${social.color}`
-            };
             return (
               <a
                 href={social.url}
                 title={social.label}
                 target="_blank"
                 rel="noopener noreferrer"
-                style={style}>
+              >
                 <li>
                   <i
                     className={`icon-${social.label.toLowerCase()}`}
-                    style={linkStyle}
                   />
                 </li>
               </a>
