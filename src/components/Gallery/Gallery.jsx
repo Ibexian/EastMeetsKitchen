@@ -3,7 +3,7 @@ import "./Gallery.css";
 
 class Gallery extends Component {
   render() {
-    const images = [...Array(42).keys()].slice(1)
+    const images = [...Array(45).keys()].slice(1)
     return (
       <div className="gallery">
         <ul>
