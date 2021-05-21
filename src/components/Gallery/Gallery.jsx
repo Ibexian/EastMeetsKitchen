@@ -3,13 +3,13 @@ import "./Gallery.css";
 
 class Gallery extends Component {
   render() {
-    const {images} = this.props;
+    const images = [...Array(42).keys()].slice(1)
     return (
       <div className="gallery">
         <ul>
           {images.map( image => (
             <li>
-              <img src={image.node.sizes.src} alt="" />
+              <img src={`/gallery/${image}.jpg`} alt="" />
             </li>
           ))}
         </ul>

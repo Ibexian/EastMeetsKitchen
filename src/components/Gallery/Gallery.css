@@ -20,3 +20,12 @@
   object-fit: cover;
   vertical-align: bottom;
 }
+
+.gallery li:nth-last-child(-n+2){
+  max-height: none;
+  flex-grow: 0;
+}
+
+.gallery li:nth-last-child(-n+2) img {
+  min-height: 100%;
+}

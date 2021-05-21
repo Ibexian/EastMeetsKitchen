@@ -26,9 +26,15 @@
   font-weight: 500; */
   /* font-size: 1.6rem; */
   color: #000;
+  text-align: center;
 }
 
 .bio {
   max-width: 750px;
   width: 80%;
+  text-align: center;
+}
+
+.contact p {
+  font-weight: bold;
 }
