@@ -1,0 +1,5 @@
+:global [data-rmiz-wrap='visible'], :global [data-rmiz-wrap='hidden'] {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
