@@ -5,44 +5,43 @@ import Layout from "../layout";
 import Search from "../components/Search/Search";
 import config from "../../data/SiteConfig";
 
-class SearchPage extends Component {
-  render() {
-    return (
-      <StaticQuery
-        query={graphql`
-        query SearchIndexQuery {
-            siteSearchIndex {
-                index
-            }
-            allImageSharp(filter: {
-                fixed: {
-                  originalName: {
-                    regex: "/.*-\\d*(\\w)?\\./"
+export const searches = graphql`
+          query {
+              siteSearchIndex {
+                  index
+              }
+              allFile(filter: {absolutePath: {
+                      regex: "/.*-\\d*(\\w)?\\./"
                   }
-                }
-              }) {
-              edges {
-                node {
-                  fluid {
-                    originalName
-                    src
+                }) {
+                edges {
+                  node {
+                    childImageSharp{
+                      fluid {
+                        originalName
+                        src
+                      }
+                    }
                   }
                 }
               }
-            }
-        }
-        `}
+          }
+        `;
 
-        render={data => (
+class SearchPage extends Component {
+  render() {
+    return (
           <Layout>
             <div className="search-container">
               <Helmet title={`Search | ${config.siteTitle}`} />
               <Search 
-                searchIndex={data.siteSearchIndex.index} 
+                searchIndex={this.props.data.siteSearchIndex.index} 
                 imageIndex={
-                  data.allImageSharp.edges.reduce((obj, item) => {
-                    // eslint-disable-next-line
-                    obj[item.node.fluid.originalName] = {src: item.node.fluid.src}
+                  this.props.data.allFile.edges.reduce((obj, item) => {
+                    if (item.node.childImageSharp) {
+                      // eslint-disable-next-line
+                      obj[item.node.childImageSharp.fluid.originalName] = {src: item.node.childImageSharp.fluid.src}
+                    }
                     return obj
                   }, {})
                 }
@@ -50,9 +49,7 @@ class SearchPage extends Component {
             </div>
           </Layout>
         )}
-      />
-    );
-  }
+
 }
 
 

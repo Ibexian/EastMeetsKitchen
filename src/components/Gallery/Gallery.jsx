@@ -5,7 +5,6 @@ import "./Gallery.css";
 
 class Gallery extends Component {
   render() {
-    console.log(this.props.images)
     const images = this.props.images;
     return (
       <div className="gallery">
