@@ -34,7 +34,7 @@
     "lodash": "^4.17.21",
     "moment": "^2.24.0",
     "nuka-carousel": "^4.4.4",
-    "prismjs": "^1.25.0",
+    "prismjs": "^1.27.0",
     "react": "^16.10.1",
     "react-disqus-comments": "^1.4.0",
     "react-dom": "^16.10.1",
