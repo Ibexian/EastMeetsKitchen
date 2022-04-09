@@ -32,7 +32,7 @@
     "gatsby-transformer-sharp": "^2.2.19",
     "jquery": "^3.6.0",
     "lodash": "^4.17.21",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "nuka-carousel": "^4.4.4",
     "prismjs": "^1.25.0",
     "react": "^16.10.1",
