@@ -42,7 +42,7 @@
     "react-medium-image-zoom": "^4.3.5",
     "react-share": "^3.0.1",
     "react-twitter-widgets": "^1.7.1",
-    "sharp": "^0.23.4",
+    "sharp": "^0.30.5",
     "url-join": "^4.0.0"
   },
   "devDependencies": {
